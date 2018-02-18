@@ -55,7 +55,7 @@ http://playlist.onlybest.tv/en/channel/2874e3a9397ce975e8463c76533bcb1e/78/index
 #EXTINF:-1,Eurosport
 http://playlist.onlybest.tv/en/channel/2874e3a9397ce975e8463c76533bcb1e/160/index.m3u8
 #EXTINF:-1,Eurosport 1 HD
-http://163.172.202.69:4022/eurosport1hd
+http://petopa150.caraponi.me/live/eurosport/index.m3u8
 #EXTINF:-1,Italian Fishing Pesca
 http://playlist.onlybest.tv/en/channel/2874e3a9397ce975e8463c76533bcb1e/587/index.m3u8
 #EXTINF:-1,Football 1 HD ua
@@ -120,6 +120,8 @@ http://185.231.160.49/653/1/index.m3u8
 http://185.231.160.49/599/1/index.m3u8
 #EXTINF:-1,laligatv
 http://185.231.160.49/614/1/index.m3u8
+#EXTINF:-1,Canal Toros
+http://xxedge447.livesports.pw/live/vertorotvd2330b2b9138e537/index.m3u8
 
 *********** ETRETENIMIENTO y noticias *********
 #EXTINF:-1 tvg-id="LA1.es" tvg-name="LA 1" audio-track="es" tvg-logo="https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE.jpg" group-title="Nacional",La 1
