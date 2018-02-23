@@ -8,11 +8,12 @@
 http://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@583042/master.m3u8
 #EXTINF:-1 tvg-logo="http://tvonlinegratis.com/wp-content/uploads/2014/08/TVE1-La1-Logo-300x300.jpg" group-title="ESPAÑA",LA 1 Opc. 2
 http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl7/la1_lv3_aosv4_gl7/la1_lv3_aosv4_gl7.isml/la1_lv3_aosv4_gl7-audio=128000-video=400000.m3u8
-#EXTINF:-1 tvg-logo="https://i2.wp.com/iptvsmartv.files.wordpress.com/2017/04/tve_la1_logo_since_2008.png?ssl=1&w=450" group-title="España", La 1
-#EXTVLCOPT:http-user-agent=VLPLAYER/8.5 LIBVLC/3.0.0 LibVLC/3.0.0-git
-http://37.187.128.169:8000/live/Ffggjkiyee/Rghfeed455ggsey/10.ts
-#EXTINF:-1,TVE 24h
-http://hlsackdn_gl8-lh.akamaihd.net/i/hlsdvrlive_1@81183/index_0400_av-p.m3u8?sd=10&rebase;=on
+#EXTINF:-1,LA 2
+http://89.38.98.85:8080/live/Reda/Reda/9696.m3u8
+#EXTINF:-1,24 HORAS
+http://89.38.98.85:8080/live/Reda/Reda/9731.m3u8
+#EXTINF:-1,CLAN TVE
+http://89.38.98.85:8080/live/Reda/Reda/9716.m3u8
 #EXTINF:-1,ANTENA 3
 http://a3live-lh.akamaihd.net/i/antena3_1@35248/index_1_av-p.m3u8
 #EXTINF:-1,Antena 3 [HD]
@@ -29,6 +30,8 @@ http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/index_2_av-b.m3u8?JoCaRoI
 https://livehlsdai-i.akamaihd.net/hls/live/571643/cuatro/bitrate_1.m3u8
 #EXTINF:-1 tvg-logo="" group-title="ESPAÑA" , Telecinco
 https://livehlsdai-i.akamaihd.net/hls/live/571640/telecinco/bitrate_1.m3u8
+#EXTINF:-1,TELECINCO Opc. 2
+http://89.38.98.85:8080/live/Reda/Reda/9667.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/744781350620663808/m2Z_7c3L_400x400.jpg",Energy
 https://mdslivehls-i.akamaihd.net/hls/live/571649/energy/bitrate_1.m3u8
 #EXTINF:-1 tvg-logo="",Cuatro
@@ -43,8 +46,11 @@ https://mdslivehls-i.akamaihd.net/hls/live/571650/fdf/bitrate_1.m3u8
 https://mdslivehls-i.akamaihd.net/hls/live/571646/bemad/bitrate_1.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/744781228683857920/2hIDK_eo_400x400.jpg",Divinity
 https://mdslivehls-i.akamaihd.net/hls/live/571648/divinity/bitrate_1.m3u8
+#EXTINF:-1,PARAMOUNT
+http://89.38.98.85:8080/live/Reda/Reda/9672.m3u8
 #EXTINF:-1 tvg-logo="http://tecnotv.info/logoss/dmax.png" group-title="España", DMAX España
 http://37.187.128.169:8000/live/Ffggjkiyee/Rghfeed455ggsey/28.ts
+
 #EXTINF:-1 tvg-logo="http://www.boing.es/sites/boinges/themes/boing_theme/logo-es.png" group-title="Infantiles",BOING
 https://mdslivehls-i.akamaihd.net/hls/live/571647/boing/bitrate_1.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/Sexta.jpg",LA SEXTA
@@ -55,6 +61,8 @@ EXTINF:-1 tvg-logo="http://www.canalextremadura.es/sites/all/themes/canalex_2016
 http://hlstv.canalextremadura.es/livetv/smil:multistream.smil/chunklist_b1596000_DVR.m3u8
 #EXTINF:-1 tvg-logo="",13 TV
 http://streaming.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/mobile/playlist.m3u8
+#EXTINF:-1,DISNEY CHANNEL HD
+http://89.38.98.85:8080/live/Reda/Reda/9710.m3u8
 
 #EXTINF:-1,***Movistar+***
 
@@ -62,6 +70,8 @@ http://streaming.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/mobile/playlist
 http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/611/index.m3u8
 #EXTINF:-1 group-title="España",#0 Opc. 2
 http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/611/index.m3u8
+#EXTINF:-1,M.ESTRENOS
+http://89.38.98.85:8080/live/Reda/Reda/9687.m3u8
 #EXTINF:-1,MOVISTAR ACCION
 http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/605/index.m3u8
 #EXTINF:-1 tvg-logo="http://vertelevisor.com/imagenes/movistar-accion.png", M+ Accion HD
@@ -72,12 +82,20 @@ http://185.231.160.49/600/1/index.m3u8
 http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/606/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Movistar_DCine.svg/1200px-Movistar_DCine.svg.png", M+ DCine
 http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/607/index.m3u8
+#EXTINF:-1,SUNDANCE
+http://89.38.98.85:8080/live/Reda/Reda/9670.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Movistar_Xtra.svg/1200px-Movistar_Xtra.svg.png", M+ Series Xtra
 http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/568/index.m3u8
+#EXTINF:-1,M.SERIESXTRA Opc. 2
+http://89.38.98.85:8080/live/Reda/Reda/9681.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Movistar_Series.svg/1200px-Movistar_Series.svg.png",M+ Series Xtra HD
 http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/568/index.m3u8
-#EXTINF:-1 tvg-logo="https://i1.wp.com/iptvsmartv.files.wordpress.com/2017/04/calle131.jpg?ssl=1&w=450" group-title="España", Calle 13
-http://37.187.128.169:8000/live/Ffggjkiyee/Rghfeed455ggsey/9.ts
+#EXTINF:-1,M.SERIES Opc. 2
+http://89.38.98.85:8080/live/Reda/Reda/9682.m3u8
+#EXTINF:-1,AMC
+http://89.38.98.85:8080/live/Reda/Reda/9729.m3u8
+#EXTINF:-1,TCM
+http://89.38.98.85:8080/live/Reda/Reda/9668.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Cosmo_TV_logo.svg/1200px-Cosmo_TV_logo.svg.png",Cosmo
 http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/570/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Cosmo_TV_logo.svg/1200px-Cosmo_TV_logo.svg.png",Cosmo Opc. 2
@@ -88,22 +106,46 @@ http://185.231.160.49/604/1/index.m3u8
 http://185.231.160.49/612/1/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/AXN_White_logo_%282015%29.svg/1200px-AXN_White_logo_%282015%29.svg.png",AXN White
 http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/609/index.m3u8
+#EXTINF:-1,amc
+http://185.231.160.49/653/1/index.m3u8
 #EXTINF:-1 tvg-logo="http://dshm.tmsimg.com/h5/NowShowing/75423/s75423_h5_aa.png",FOX
 http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/608/index.m3u8
 #EXTINF:-1,FOX LIFE
 http://185.231.160.49/599/1/index.m3u8
 #EXTINF:-1 tvg-logo="https://ulango.tv/uploads/channels/11151/logo_canal%20hollywood3.png",Hollywood HD
 http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/577/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/J-aU-N4X-Ks/hqdefault.jpg" group-title="España", TNT España
-http://37.187.128.169:8000/live/Ffggjkiyee/Rghfeed455ggsey/39.ts
-#EXTINF:-1 tvg-logo="https://i1.wp.com/iptvsmartv.files.wordpress.com/2017/04/syfy-logo.png?ssl=1&w=450" group-title="España", SyFy
-http://37.187.128.169:8000/live/Ffggjkiyee/Rghfeed455ggsey/8.ts
-#EXTINF:-1 tvg-logo="http://tecnotv.info/logoss/ngeo.gif" group-title="España", National Geographic España
-http://37.187.128.169:8000/live/Ffggjkiyee/Rghfeed455ggsey/26.ts
-#EXTINF:-1 tvg-logo="http://tecnotv.info/logoss/ngeow.png" group-title="España", NatGeo Wild
-http://37.187.128.169:8000/live/Ffggjkiyee/Rghfeed455ggsey/27.ts
-#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-wjCsk9ABEnU/VBQSesarpGI/AAAAAAAAIX4/XnQcO3YXX9w/s1600/canal%2Bde%2Bhistoria.png" group-title="España",Canal Historia
-http://37.187.128.169:8000/live/Ffggjkiyee/Rghfeed455ggsey/29.ts
+#EXTINF:-1,TNT
+http://89.38.98.85:8080/live/Reda/Reda/9665.m3u8
+#EXTINF:-1,SYFY
+http://89.38.98.85:8080/live/Reda/Reda/9669.m3u8
+#EXTINF:-1,CANAL COCINA
+http://89.38.98.85:8080/live/Reda/Reda/9720.m3u8
+#EXTINF:-1,CANAL DECASA
+http://89.38.98.85:8080/live/Reda/Reda/9719.m3u8
+#EXTINF:-1,MTV
+http://89.38.98.85:8080/live/Reda/Reda/9679.m3u8
+#EXTINF:-1,DISNEY XD
+http://89.38.98.85:8080/live/Reda/Reda/9708.m3u8
+#EXTINF:-1,DISCOVERY CHANNEL
+http://89.38.98.85:8080/live/Reda/Reda/9711.m3u8
+#EXTINF:-1,NAT GEO WILD
+http://89.38.98.85:8080/live/Reda/Reda/9678.m3u8
+#EXTINF:-1,NATIONAL GEOGRAPHIC
+http://89.38.98.85:8080/live/Reda/Reda/9677.m3u8
+#EXTINF:-1,HISTORIA
+http://89.38.98.85:8080/live/Reda/Reda/9700.m3u8
+#EXTINF:-1,Crimen & Investigation
+http://89.38.98.85:8080/live/Reda/Reda/9713.m3u8
+#EXTINF:-1,A&E
+http://89.38.98.85:8080/live/Reda/Reda/9730.m3u8
+#EXTINF:-1,CANAL ODISEA
+http://89.38.98.85:8080/live/Reda/Reda/9718.m3u8
+#EXTINF:-1,NONSTOPEOPLE
+http://89.38.98.85:8080/live/Reda/Reda/9674.m3u8
+#EXTINF:-1,CAZA Y PESCA
+http://89.38.98.85:8080/live/Reda/Reda/9717.m3u8
+#EXTINF:-1,TOROS TV
+http://89.38.98.85:8080/live/Reda/Reda/9664.m3u8
 #EXTINF:-1 tvg-logo="https://i1.wp.com/directostv.teleame.com/wp-content/uploads/2017/09/Canal-Sur-Cocina.png?resize=324%2C235",CanalSur Cocina
 http://cast.streamingconnect.com:1935/cscocina/cscocina/playlist.m3u8
 #EXTINF:0 tvg-logo="http://1.bp.blogspot.com/-P3c2yfE1Uww/U-OUmhP67hI/AAAAAAAAAjI/15wK6GsidUY/s185-c/ondaluzendirectoenvivo.png" group-title="España",ONDA AZUL MALAGA
@@ -131,16 +173,24 @@ http://185.231.160.49/614/1/index.m3u8
 http://185.231.160.49/652/1/index.m3u8
 #EXTINF:-1 tvg-logo="http://cinealplay.com/assets/images/espana/movistar-motogp.png", M+ MotoGP HD
 http://playlist.onlybest.tv/ru/channel/45d923b700bdbb53af22c8219ae034ac/613/index.m3u8
+#EXTINF:-1,M.MOTOGP Opc. 3
+http://89.38.98.85:8080/live/Reda/Reda/9683.m3u8
 #EXTINF:-1,Formula 1
 http://185.231.160.49/651/1/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.andorratelecom.ad/documents/33347/112493/movistar+formula+1-01.png/9492b402-dda4-b2b5-469f-bd831294680f?t=1487255283758", M+ Formula 1 HD
 http://playlist.onlybest.tv/ru/channel/45d923b700bdbb53af22c8219ae034ac/612/index.m3u8
-
+#EXTINF:-1,M.FORMULA 1 Opc. 3
+http://89.38.98.85:8080/live/Reda/Reda/9686.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Movistar_F%C3%BAtbol.svg/1200px-Movistar_F%C3%BAtbol.svg.png", M+ Futbol HD
 http://playlist.onlybest.tv/ru/channel/45d923b700bdbb53af22c8219ae034ac/575/index.m3u8
-
+#EXTINF:-1,M.DEP 1
+http://89.38.98.85:8080/live/Reda/Reda/9689.m3u8
+#EXTINF:-1,M.DEP 2
+http://89.38.98.85:8080/live/Reda/Reda/9688.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/880877523776811009/fw8WJRzE_400x400.jpg",TeleDeporte
 http://rtve-live.hds.adaptive.level3.net/hls-live/rtvegl0-irtve24lv3aomgl0/_definst_/live.m3u8
+#EXTINF:-1,GOL TV
+http://89.38.98.85:8080/live/Reda/Reda/9701.m3u8
 #EXTINF:-1 tvg-logo="https://imagenes.cablevisionfibertel.com.ar:7007/servlet/cv/223.png", Fox Sports
 http://3-120heat.pulsedmedia.com/public-llave1/list/public/f0xsports.php/Stream(04)/index.m3u8
 #EXTINF:-1 tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/8/8e/Fox_Sports_2.png/revision/20160413221614" group-title="Deportes",F0XSPORTS2 op1
@@ -149,8 +199,10 @@ http://3-120heat.pulsedmedia.com/public-llave1/list/public/f0xsports2-q3.php/ind
 http://3-120heat.pulsedmedia.com/public-llave1/list/public/f0xsports3.php/Stream(04)/index.m3u8
 #EXTINF:-1 tvg-logo="https://imagenes.cablevisionfibertel.com.ar:7007/servlet/cv/1132.png", ESPN +
 http://3-120heat.pulsedmedia.com/public-llave1/list/public/espn_plus.php/Stream(04)/index.m3u8
-#EXTINF:-1,Eurosport 1 HD
-http://163.172.202.69:4022/eurosport1hd
+#EXTINF:-1,EUROSPORT 1
+http://89.38.98.85:8080/live/Reda/Reda/9705.m3u8
+#EXTINF:-1,EUROSPORT 2
+http://89.38.98.85:8080/live/Reda/Reda/9704.m3u8
 #EXTINF:-1,Eurosport (ENG)
 http://playlist.onlybest.tv/en/channel/2874e3a9397ce975e8463c76533bcb1e/160/index.m3u8
 #EXTINF:-1,Eurosport2 (ENG)
