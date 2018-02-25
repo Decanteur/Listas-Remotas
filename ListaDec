@@ -144,8 +144,10 @@ http://89.38.98.85:8080/live/Reda/Reda/9718.m3u8
 http://89.38.98.85:8080/live/Reda/Reda/9674.m3u8
 #EXTINF:-1,CAZA Y PESCA
 http://89.38.98.85:8080/live/Reda/Reda/9717.m3u8
-#EXTINF:-1,TOROS TV
-http://89.38.98.85:8080/live/Reda/Reda/9664.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/KXZE1Qb.png" group-title="PORTUGAL",TOROS TV (Copyright © 2018 by TeamBlue)
+http://51.15.144.38:3222/play/a01m/index.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/KXZE1Qb.png" group-title="PORTUGAL",TOROS TV HD (Copyright © 2018 by TeamBlue)
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/2636.m3u8
 #EXTINF:-1 tvg-logo="https://i1.wp.com/directostv.teleame.com/wp-content/uploads/2017/09/Canal-Sur-Cocina.png?resize=324%2C235",CanalSur Cocina
 http://cast.streamingconnect.com:1935/cscocina/cscocina/playlist.m3u8
 #EXTINF:0 tvg-logo="http://1.bp.blogspot.com/-P3c2yfE1Uww/U-OUmhP67hI/AAAAAAAAAjI/15wK6GsidUY/s185-c/ondaluzendirectoenvivo.png" group-title="España",ONDA AZUL MALAGA
