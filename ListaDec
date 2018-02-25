@@ -116,34 +116,36 @@ http://185.231.160.49/599/1/index.m3u8
 http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/577/index.m3u8
 #EXTINF:-1,TNT
 http://89.38.98.85:8080/live/Reda/Reda/9665.m3u8
-#EXTINF:-1,SYFY
-http://89.38.98.85:8080/live/Reda/Reda/9669.m3u8
-#EXTINF:-1,CANAL COCINA
-http://89.38.98.85:8080/live/Reda/Reda/9720.m3u8
-#EXTINF:-1,CANAL DECASA
-http://89.38.98.85:8080/live/Reda/Reda/9719.m3u8
+#EXTINF:-1 tvg-logo="https://ewedit.files.wordpress.com/2017/05/syfy.jpg?w=1020&h=1077" group-title="ESPANHA",SYFY (Copyright © 2018 by TeamBlue)
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/7339.m3u8
+#EXTINF:-1 tvg-logo="https://lh4.googleusercontent.com/r18zZHUG3-PrbUlEN1zoIkmvn3tYezub4PKNRLoDSxC5L_jfVINYEM8uRZj_UZJO1L1H1KiduDjs8jZXbsx_nrXj65ty2xKljhjIqdlqw8oYygIv9hGqth3-dPTG6ZUu2qnYbJh9Tp0" group-title="ESPANHA",CANAL COCINA (Copyright © 2018 by TeamBlue)
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/7319.m3u8
+#EXTINF:-1 tvg-logo="https://www.andorratelecom.ad/documents/33347/112493/600x600-de-casa-01.png/ec984b84-f707-1998-c782-27134a165329?t=1487250373351" group-title="ESPANHA",DECASA (Copyright © 2018 by TeamBlue)
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/7379.m3u8
 #EXTINF:-1,MTV
 http://89.38.98.85:8080/live/Reda/Reda/9679.m3u8
 #EXTINF:-1,DISNEY XD
 http://89.38.98.85:8080/live/Reda/Reda/9708.m3u8
-#EXTINF:-1,DISCOVERY CHANNEL
-http://89.38.98.85:8080/live/Reda/Reda/9711.m3u8
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/b/bd/Discovery_Channel_logo.png/revision/latest?cb=20141027100430" group-title="ESPANHA",DISCOVERY (Copyright © 2018 by TeamBlue)
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/7366.m3u8
 #EXTINF:-1,NAT GEO WILD
 http://89.38.98.85:8080/live/Reda/Reda/9678.m3u8
 #EXTINF:-1,NATIONAL GEOGRAPHIC
 http://89.38.98.85:8080/live/Reda/Reda/9677.m3u8
-#EXTINF:-1,HISTORIA
-http://89.38.98.85:8080/live/Reda/Reda/9700.m3u8
-#EXTINF:-1,Crimen & Investigation
-http://89.38.98.85:8080/live/Reda/Reda/9713.m3u8
-#EXTINF:-1,A&E
-http://89.38.98.85:8080/live/Reda/Reda/9730.m3u8
-#EXTINF:-1,CANAL ODISEA
-http://89.38.98.85:8080/live/Reda/Reda/9718.m3u8
-#EXTINF:-1,NONSTOPEOPLE
-http://89.38.98.85:8080/live/Reda/Reda/9674.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/g5uYzpc.png" group-title="ESPANHA",HISTORIA (Copyright © 2018 by TeamBlue)
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/7356.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/37/C%26I_logo.svg/1280px-C%26I_logo.svg.png" group-title="ESPANHA",CRIMEN & INVESTIGATION (Copyright © 2018 by TeamBlue)
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/7317.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/1200px-A%26E_Network_logo.svg.png" group-title="ESPANHA",A&E (Copyright © 2018 by TeamBlue)
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/7390.m3u8
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/8d/Odisea.png/revision/latest?cb=20160430224323" group-title="ESPANHA",ODISEA (Copyright © 2018 by TeamBlue)
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/7375.m3u8
+#EXTINF:-1 tvg-logo="http://www.atm-es.com/r03000340/images/public/sections/nstp.png" group-title="ESPANHA",NON STOP PEOPLE (Copyright © 2018 by TeamBlue)
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/7298.m3u8
 #EXTINF:-1,CAZA Y PESCA
 http://89.38.98.85:8080/live/Reda/Reda/9717.m3u8
+#EXTINF:-1 tvg-logo="http://www.mundoplus.tv/img/17731be322986efacc33a5ada475fb2a" group-title="ESPANHA",IBERALIA (Copyright © 2018 by TeamBlue)
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/603/index.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/KXZE1Qb.png" group-title="PORTUGAL",TOROS TV (Copyright © 2018 by TeamBlue)
 http://51.15.144.38:3222/play/a01m/index.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/KXZE1Qb.png" group-title="PORTUGAL",TOROS TV HD (Copyright © 2018 by TeamBlue)
@@ -185,12 +187,12 @@ http://playlist.onlybest.tv/ru/channel/45d923b700bdbb53af22c8219ae034ac/612/inde
 http://89.38.98.85:8080/live/Reda/Reda/9686.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Movistar_F%C3%BAtbol.svg/1200px-Movistar_F%C3%BAtbol.svg.png", M+ Futbol HD
 http://playlist.onlybest.tv/ru/channel/45d923b700bdbb53af22c8219ae034ac/575/index.m3u8
-#EXTINF:-1,M.DEP 1
-http://89.38.98.85:8080/live/Reda/Reda/9689.m3u8
+#EXTINF:-1 tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/c/c3/MovistarDeportes1.png/revision/latest?cb=20160818140254" group-title="ESPANHA",MOVISTAR DEPORTES 1 (Copyright © 2018 by TeamBlue)
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/7378.m3u8
 #EXTINF:-1,M.DEP 2
 http://89.38.98.85:8080/live/Reda/Reda/9688.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/880877523776811009/fw8WJRzE_400x400.jpg",TeleDeporte
-http://rtve-live.hds.adaptive.level3.net/hls-live/rtvegl0-irtve24lv3aomgl0/_definst_/live.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/unT3Jrz.png" group-title="ESPANHA",TELEDEPORTE (Copyright © 2018 by TeamBlue)
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/7296.m3u8
 #EXTINF:-1,GOL TV
 http://89.38.98.85:8080/live/Reda/Reda/9701.m3u8
 #EXTINF:-1 tvg-logo="https://imagenes.cablevisionfibertel.com.ar:7007/servlet/cv/223.png", Fox Sports
@@ -231,7 +233,7 @@ http://46.101.21.42:8081/live/live2/playlist.m3u8
 http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/index_656_av-p.m3u8?JoCaRoIPTV.m3u8
 #EXTINF:-1 tvg-logo="http://www.pazarlama30.com/wp-content/uploads/2016/04/2d5407b0a92d1b2e_600x400.jpg" tvg-group="MÚSICA", Virgin TV
 http://wow01.105.net/live/virgin1/chunklist_w25732073.m3u8?JoCaRoIPTV.m3u8
-#EXTINF:-1 tvg-logo="http://forounivers.com/uploads/monthly_2017_06/large.5937266710272_VH1HD.png.5c2f848e3fc35208f26555c5486408d3.png", VH1 HD
-http://3-120heat.pulsedmedia.com/public-llave1/list/public/vh1hd.php/Stream(04)/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/VH1_logonew.svg/2000px-VH1_logonew.svg.png" group-title="ESPANHA",VH1 EUROPE (Copyright © 2018 by TeamBlue)
+http://asdp.ddns.net:8000/live/daniel/daniel/340.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/VH1_Classic_UK.svg/1200px-VH1_Classic_UK.svg.png", VH1 Classic
 http://3-120heat.pulsedmedia.com/public-llave1/list/public/vh1class.php/Stream(04)/index.m3u8
