@@ -146,6 +146,8 @@ http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/7298.m3u8
 http://89.38.98.85:8080/live/Reda/Reda/9717.m3u8
 #EXTINF:-1 tvg-logo="http://www.mundoplus.tv/img/17731be322986efacc33a5ada475fb2a" group-title="ESPANHA",IBERALIA (Copyright © 2018 by TeamBlue)
 http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/603/index.m3u8
+#EXTINF:-1,ES-TOROS
+http://51.15.144.38:3222/play/a01m/index.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/KXZE1Qb.png" group-title="PORTUGAL",TOROS TV (Copyright © 2018 by TeamBlue)
 http://51.15.144.38:3222/play/a01m/index.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/KXZE1Qb.png" group-title="PORTUGAL",TOROS TV HD (Copyright © 2018 by TeamBlue)
