@@ -16,6 +16,8 @@ http://89.38.98.85:8080/live/Reda/Reda/9696.m3u8
 http://89.38.98.85:8080/live/Reda/Reda/9731.m3u8
 #EXTINF:-1,CLAN TVE
 http://89.38.98.85:8080/live/Reda/Reda/9716.m3u8
+#EXTINF:-1  group-title="España 2",CLAN TV (Opc. 2)
+http://10gbs.edgelink.ovh:8000/live/dosdispositivos/smartv.kodi/3722.m3u8
 #EXTINF:-1,ANTENA 3
 http://a3live-lh.akamaihd.net/i/antena3_1@35248/index_1_av-p.m3u8
 #EXTINF:-1,Antena 3 [HD]
@@ -42,12 +44,16 @@ https://mdslivehls-i.akamaihd.net/hls/live/571650/fdf/bitrate_1.m3u8
 https://mdslivehls-i.akamaihd.net/hls/live/571646/bemad/bitrate_1.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/744781228683857920/2hIDK_eo_400x400.jpg",Divinity
 https://mdslivehls-i.akamaihd.net/hls/live/571648/divinity/bitrate_1.m3u8
-#EXTINF:-1,PARAMOUNT
-http://89.38.98.85:8080/live/Reda/Reda/9672.m3u8
-#EXTINF:-1 tvg-logo="http://tecnotv.info/logoss/dmax.png" group-title="España", DMAX España
-http://37.187.128.169:8000/live/Ffggjkiyee/Rghfeed455ggsey/28.ts
-#EXTINF:-1 tvg-logo="http://www.boing.es/sites/boinges/themes/boing_theme/logo-es.png" group-title="Infantiles",BOING
-https://mdslivehls-i.akamaihd.net/hls/live/571647/boing/bitrate_1.m3u8
+#EXTINF:-1  group-title="España 2",PARAMOUNT CHANNEL
+http://10gbs.edgelink.ovh:8000/live/dosdispositivos/smartv.kodi/219.m3u8
+#EXTINF:-1  group-title="España 2",DKISS
+http://10gbs.edgelink.ovh:8000/live/dosdispositivos/smartv.kodi/3714.m3u8
+#EXTINF:-1  group-title="España 2",TEN
+http://10gbs.edgelink.ovh:8000/live/dosdispositivos/smartv.kodi/3810.m3u8
+#EXTINF:-1  group-title="España 2",DMAX
+http://10gbs.edgelink.ovh:8000/live/dosdispositivos/smartv.kodi/791.m3u8
+#EXTINF:-1  group-title="España 2",BOING
+http://10gbs.edgelink.ovh:8000/live/dosdispositivos/smartv.kodi/131.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/Sexta.jpg",LA SEXTA
 http://a3live-lh.akamaihd.net/i/lasexta_1@35272/master.m3u8
 #EXTINF:-1 tvg-logo="http://m.canalextremadura.es/sites/all/themes/canalex_2016/images/canalex/logotipo@2x.png", Canal Extremadura
@@ -58,6 +64,8 @@ http://hlstv.canalextremadura.es/livetv/smil:multistream.smil/chunklist_b1596000
 http://10gbs.edgelink.ovh:8000/live/dosdispositivos/smartv.kodi/3812.m3u8
 #EXTINF:-1 tvg-logo="",13 TV
 http://streaming.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/mobile/playlist.m3u8
+#EXTINF:-1  group-title="España 2",TELEMADADRID
+http://10gbs.edgelink.ovh:8000/live/dosdispositivos/smartv.kodi/782.m3u8
 #EXTINF:-1,DISNEY CHANNEL HD
 http://89.38.98.85:8080/live/Reda/Reda/9710.m3u8
 #EXTINF:-1  group-title="España 2",MTV ESPAÑA
@@ -88,6 +96,10 @@ http://185.231.160.49/600/1/index.m3u8
 http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/606/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Movistar_DCine.svg/1200px-Movistar_DCine.svg.png", M+ DCine
 http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/607/index.m3u8
+#EXTINF:-1  group-title="España 2",CALLE 13
+http://10gbs.edgelink.ovh:8000/live/dosdispositivos/smartv.kodi/134.m3u8
+#EXTINF:-1  group-title="España 2",CALLE 13 HD
+http://10gbs.edgelink.ovh:8000/live/dosdispositivos/smartv.kodi/244.m3u8
 #EXTINF:-1  group-title="España 2",SUNDANCE
 http://10gbs.edgelink.ovh:8000/live/dosdispositivos/smartv.kodi/223.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Movistar_Xtra.svg/1200px-Movistar_Xtra.svg.png", M+ Series Xtra
@@ -98,6 +110,8 @@ http://10gbs.edgelink.ovh:8000/live/dosdispositivos/smartv.kodi/185.m3u8
 http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/568/index.m3u8
 #EXTINF:-1  group-title="España 2",MOVISTAR  SERIES
 http://10gbs.edgelink.ovh:8000/live/dosdispositivos/smartv.kodi/184.m3u8
+#EXTINF:-1  group-title="España 2",MOVISTAR OSCARS
+http://10gbs.edgelink.ovh:8000/live/dosdispositivos/smartv.kodi/4292.m3u8
 #EXTINF:-1,AMC ESPAÑA
 http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/614/index.m3u8
 #EXTINF:-1,AMC ESPAÑA (OPCION 2)
