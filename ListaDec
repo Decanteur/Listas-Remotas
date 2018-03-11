@@ -154,36 +154,50 @@ http://10gbs.edgelink.ovh:8000/live/dosdispositivos/smartv.kodi/136.m3u8
 http://10gbs.edgelink.ovh:8000/live/dosdispositivos/smartv.kodi/3327.m3u8
 #EXTINF:-1  group-title="España 2",CANAL COCINA HD
 http://10gbs.edgelink.ovh:8000/live/dosdispositivos/smartv.kodi/3785.m3u8
-#EXTINF:-1,MTV
-http://89.38.98.85:8080/live/Reda/Reda/9679.m3u8
-#EXTINF:-1,DISNEY XD
-http://89.38.98.85:8080/live/Reda/Reda/9708.m3u8
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/b/bd/Discovery_Channel_logo.png/revision/latest?cb=20141027100430" group-title="ESPANHA",DISCOVERY (Copyright © 2018 by TeamBlue)
-http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/7366.m3u8
-#EXTINF:-1,NAT GEO WILD
-http://89.38.98.85:8080/live/Reda/Reda/9678.m3u8
-#EXTINF:-1,NATIONAL GEOGRAPHIC
-http://89.38.98.85:8080/live/Reda/Reda/9677.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/g5uYzpc.png" group-title="ESPANHA",HISTORIA (Copyright © 2018 by TeamBlue)
-http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/7356.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/37/C%26I_logo.svg/1280px-C%26I_logo.svg.png" group-title="ESPANHA",CRIMEN & INVESTIGATION (Copyright © 2018 by TeamBlue)
-http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/7317.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/1200px-A%26E_Network_logo.svg.png" group-title="ESPANHA",A&E (Copyright © 2018 by TeamBlue)
-http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/7390.m3u8
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/8d/Odisea.png/revision/latest?cb=20160430224323" group-title="ESPANHA",ODISEA (Copyright © 2018 by TeamBlue)
-http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/7375.m3u8
-#EXTINF:-1 tvg-logo="http://www.atm-es.com/r03000340/images/public/sections/nstp.png" group-title="ESPANHA",NON STOP PEOPLE (Copyright © 2018 by TeamBlue)
-http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/7298.m3u8
-#EXTINF:-1,CAZA Y PESCA
-http://89.38.98.85:8080/live/Reda/Reda/9717.m3u8
-#EXTINF:-1 tvg-logo="http://www.mundoplus.tv/img/17731be322986efacc33a5ada475fb2a" group-title="ESPANHA",IBERALIA (Copyright © 2018 by TeamBlue)
-http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/603/index.m3u8
-#EXTINF:-1,ES-TOROS
-http://51.15.144.38:3222/play/a01m/index.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/KXZE1Qb.png" group-title="PORTUGAL",TOROS TV (Copyright © 2018 by TeamBlue)
-http://51.15.144.38:3222/play/a01m/index.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/KXZE1Qb.png" group-title="PORTUGAL",TOROS TV HD (Copyright © 2018 by TeamBlue)
-http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/2636.m3u8
+#EXTINF:-1  group-title="España 2",MTV ESPAÑA
+http://10gbs.edgelink.ovh:8000/live/dosdispositivos/smartv.kodi/201.m3u8
+#EXTINF:-1  group-title="España 2",DISNEY XD
+http://10gbs.edgelink.ovh:8000/live/dosdispositivos/smartv.kodi/154.m3u8
+#EXTINF:-1  group-title="España 2",DISNEY JR
+http://10gbs.edgelink.ovh:8000/live/dosdispositivos/smartv.kodi/153.m3u8
+#EXTINF:-1  group-title="España 2",DISCOVERY CHANNEL
+http://10gbs.edgelink.ovh:8000/live/dosdispositivos/smartv.kodi/151.m3u8
+#EXTINF:-1  group-title="España 2",DISCOVERY CHANNEL HD
+http://10gbs.edgelink.ovh:8000/live/dosdispositivos/smartv.kodi/3707.m3u8
+#EXTINF:-1  group-title="España 2",NATIONAL  GEOGRAPHIC
+http://10gbs.edgelink.ovh:8000/live/dosdispositivos/smartv.kodi/204.m3u8
+#EXTINF:-1  group-title="España 2",National Geographic HD
+http://10gbs.edgelink.ovh:8000/live/dosdispositivos/smartv.kodi/258.m3u8
+#EXTINF:-1  group-title="España 2",NatGeo Wild Spain
+http://10gbs.edgelink.ovh:8000/live/dosdispositivos/smartv.kodi/594.m3u8
+#EXTINF:-1  group-title="España 2",HISTORIA
+http://10gbs.edgelink.ovh:8000/live/dosdispositivos/smartv.kodi/167.m3u8
+#EXTINF:-1  group-title="España 2",HISTORIA  HD
+http://10gbs.edgelink.ovh:8000/live/dosdispositivos/smartv.kodi/3711.m3u8
+#EXTINF:-1  group-title="España 2",CRIMEN Y INVES
+http://10gbs.edgelink.ovh:8000/live/dosdispositivos/smartv.kodi/132.m3u8
+#EXTINF:-1  group-title="España 2",A+E
+http://10gbs.edgelink.ovh:8000/live/dosdispositivos/smartv.kodi/101.m3u8
+#EXTINF:-1  group-title="España 2",ODISSEA
+http://10gbs.edgelink.ovh:8000/live/dosdispositivos/smartv.kodi/589.m3u8
+#EXTINF:-1  group-title="España 2",ODISSEA HD
+http://10gbs.edgelink.ovh:8000/live/dosdispositivos/smartv.kodi/3710.m3u8
+#EXTINF:-1  group-title="España 2",Non Stop HD
+http://10gbs.edgelink.ovh:8000/live/dosdispositivos/smartv.kodi/3782.m3u8
+#EXTINF:-1  group-title="España 2",VIAJAR HD
+http://10gbs.edgelink.ovh:8000/live/dosdispositivos/smartv.kodi/268.m3u8
+#EXTINF:-1  group-title="España 2",CAZA Y PESCA
+http://10gbs.edgelink.ovh:8000/live/dosdispositivos/smartv.kodi/141.m3u8
+#EXTINF:-1  group-title="España 2",CAZA Y PESCA HD
+http://10gbs.edgelink.ovh:8000/live/dosdispositivos/smartv.kodi/142.m3u8
+#EXTINF:-1  group-title="España 2",IBERALIA TV
+http://10gbs.edgelink.ovh:8000/live/dosdispositivos/smartv.kodi/170.m3u8
+#EXTINF:-1  group-title="España 2",Iberalia TV HD
+http://10gbs.edgelink.ovh:8000/live/dosdispositivos/smartv.kodi/3781.m3u8
+#EXTINF:-1  group-title="España 2",TOROS
+http://10gbs.edgelink.ovh:8000/live/dosdispositivos/smartv.kodi/233.m3u8
+#EXTINF:-1  group-title="España 2",TOROS TV HD
+http://10gbs.edgelink.ovh:8000/live/dosdispositivos/smartv.kodi/266.m3u8
 #EXTINF:-1 tvg-logo="https://i1.wp.com/directostv.teleame.com/wp-content/uploads/2017/09/Canal-Sur-Cocina.png?resize=324%2C235",CanalSur Cocina
 http://cast.streamingconnect.com:1935/cscocina/cscocina/playlist.m3u8
 #EXTINF:0 tvg-logo="http://1.bp.blogspot.com/-P3c2yfE1Uww/U-OUmhP67hI/AAAAAAAAAjI/15wK6GsidUY/s185-c/ondaluzendirectoenvivo.png" group-title="España",ONDA AZUL MALAGA
