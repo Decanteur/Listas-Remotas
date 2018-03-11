@@ -1,8 +1,10 @@
 #EXTM3U
 
 #EXTINF:-1,***Canales Españoles***
+http://sagi.typepad.com/treding_the_vc_waters/Picture1_1.jpg
 
 #EXTINF:-1,***TDT***
+http://sagi.typepad.com/treding_the_vc_waters/Picture1_1.jpg
 
 #EXTINF:-1 tvg-id="LA1.es" tvg-name="LA 1" audio-track="es" tvg-logo="https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE.jpg" group-title="Nacional",La 1 Opc. 1
 http://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@583042/master.m3u8
@@ -44,7 +46,6 @@ https://mdslivehls-i.akamaihd.net/hls/live/571648/divinity/bitrate_1.m3u8
 http://89.38.98.85:8080/live/Reda/Reda/9672.m3u8
 #EXTINF:-1 tvg-logo="http://tecnotv.info/logoss/dmax.png" group-title="España", DMAX España
 http://37.187.128.169:8000/live/Ffggjkiyee/Rghfeed455ggsey/28.ts
-
 #EXTINF:-1 tvg-logo="http://www.boing.es/sites/boinges/themes/boing_theme/logo-es.png" group-title="Infantiles",BOING
 https://mdslivehls-i.akamaihd.net/hls/live/571647/boing/bitrate_1.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/Sexta.jpg",LA SEXTA
@@ -53,12 +54,17 @@ http://a3live-lh.akamaihd.net/i/lasexta_1@35272/master.m3u8
 http://hlstv.canalextremadura.es/livetv/smil:multistream.smil/playlist.m3u8
 EXTINF:-1 tvg-logo="http://www.canalextremadura.es/sites/all/themes/canalex_2016/images/canalex/logotipo.png" group-title="España",CANAL EXTREMADURA Opc. 2
 http://hlstv.canalextremadura.es/livetv/smil:multistream.smil/chunklist_b1596000_DVR.m3u8
+#EXTINF:-1  group-title="España 2",CANAL SUR
+http://10gbs.edgelink.ovh:8000/live/dosdispositivos/smartv.kodi/3812.m3u8
 #EXTINF:-1 tvg-logo="",13 TV
 http://streaming.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/mobile/playlist.m3u8
 #EXTINF:-1,DISNEY CHANNEL HD
 http://89.38.98.85:8080/live/Reda/Reda/9710.m3u8
+#EXTINF:-1  group-title="España 2",MTV ESPAÑA
+http://10gbs.edgelink.ovh:8000/live/dosdispositivos/smartv.kodi/201.m3u8
 
 #EXTINF:-1,***Movistar+***
+http://sagi.typepad.com/treding_the_vc_waters/Picture1_1.jpg
 
 #EXTINF:-1,#0
 http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/611/index.m3u8
@@ -206,193 +212,8 @@ http://dsn6jqegjeixj.cloudfront.net/ondaazul-live/video/playlist.m3u8
 http://usaserver.miamitvchannel.com/miamitv/smil:miamitv/playlist.m3u8
 
 
-#EXTINF:-1,***MOVISTAR +***
-
-#EXTINF:-1,***ANGEL BLANCO TELEVISION 1***
-http://sagi.typepad.com/treding_the_vc_waters/Picture1_1.jpg
- 
-#EXTINF:-1,MOVISTAR . ESTRENOS
-http://163.172.52.83:8000/live/mMM33bE62ND6hY/ULfo7BodcIpYe3/536.m3u8
- 
-#EXTINF:-1,MOVISTAR .MOTO GP HD
-http://163.172.52.83:8000/live/mMM33bE62ND6hY/ULfo7BodcIpYe3/525.m3u8
- 
-#EXTINF:-1,MOVISTAR ACCION
-http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/605/index.m3u8
- 
-#EXTINF:-1,MOVISTAR ACCION HD
-http://163.172.52.83:8000/live/mMM33bE62ND6hY/ULfo7BodcIpYe3/543.m3u8
- 
-#EXTINF:-1,MOVISTAR ACCION HD
-http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/576/index.m3u8
- 
-#EXTINF:-1,MOVISTAR ANTENA 3 HD
-http://a3live-lh.akamaihd.net:80/i/antena3_1@35248/index_4_av-b.m3u8
- 
-#EXTINF:-1,MOVISTAR ANTENA 3 HD
-http://a3live-lh.akamaihd.net/i/antena3_1@35248/master.m3u8
- 
-#EXTINF:-1,MOVISTAR ATRESERIES HD
-http://a3live-lh.akamaihd.net:80/i/a3shds/geoa3series_1@122775/index_4_av-b.m3u8
- 
-#EXTINF:-1,MOVISTAR AXN WHITE
-http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/609/index.m3u8
- 
-#EXTINF:-1,MOVISTAR BEIN SPORT
-http://maximumtv.biz/tv/beyin1.m3u8
- 
-#EXTINF:-1,MOVISTAR BOING ESPAÑA
-https://mdslivehls-i.akamaihd.net/hls/live/571647/boing/bitrate_1.m3u8
- 
-#EXTINF:-1,MOVISTAR CINE ESPAÑOL
-http://163.172.52.83:8000/live/mMM33bE62ND6hY/ULfo7BodcIpYe3/542.m3u8
- 
-#EXTINF:-1,MOVISTAR Comedia
-http://185.231.160.49/613/1/index.m3u8
- 
-#EXTINF:-1,MOVISTAR COMEDIA
-http://163.172.52.83:8000/live/mMM33bE62ND6hY/ULfo7BodcIpYe3/541.m3u8
- 
-#EXTINF:-1,MOVISTAR COMEDIA
-http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/606/index.m3u8
- 
-#EXTINF:-1,MOVISTAR COMEDIA HD
-http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/580/index.m3u8
- 
-#EXTINF:-1,MOVISTAR COMEDY CENTRAL HD
-http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/572/index.m3u8
- 
-#EXTINF:-1,MOVISTAR CUATRO HD
-http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/616/index.m3u8
- 
-#EXTINF:-1,MOVISTAR DCINE
-http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/607/index.m3u8
- 
-#EXTINF:-1,MOVISTAR DCINE HD
-http://163.172.52.83:8000/live/mMM33bE62ND6hY/ULfo7BodcIpYe3/540.m3u8
- 
-#EXTINF:-1,MOVISTAR F1
-http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/612/index.m3u8
- 
-#EXTINF:-1,MOVISTAR F1
-http://playlist.onlybest.tv/ru/channel/6c53126176d7d597cbe6ffbb0c5fbf49/612/index.m3u8
- 
-#EXTINF:-1,MOVISTAR F1
-http://163.172.202.69:4022/formula1hd
- 
-#EXTINF:-1,MOVISTAR FightBox
-http://hls.redefine.pl/ECD95B41/1573/0/hls720/masterlist.m3u8
- 
-#EXTINF:-1,MOVISTAR FOX
-http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/608/index.m3u8
- 
-#EXTINF:-1,MOVISTAR FOX LIFE HD
-http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/567/index.m3u8
- 
-#EXTINF:-1,MOVISTAR FUTBOL
-http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/575/index.m3u8
- 
-#EXTINF:-1,MOVISTAR GOLF
-http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/569/index.m3u8
- 
-#EXTINF:-1,MOVISTAR GP
-http://163.172.202.69:4022/motogphd
- 
-#EXTINF:-1,MOVISTAR GP
-http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/613/index.m3u8
- 
-#EXTINF:-1,MOVISTAR LA LIGA TV
-http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/581/index.m3u8
- 
-#EXTINF:-1,MOVISTAR LA LIGA TV
-http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/581/index.m3u8
- 
-#EXTINF:-1,MOVISTAR LA LIGA TV 1
-http://playlist.onlybest.tv/en/channel/2874e3a9397ce975e8463c76533bcb1e/581/index.m3u8
- 
-#EXTINF:-1,MOVISTAR LA LIGA TV 2
-http://playlist.onlybest.tv/ru/channel/6c53126176d7d597cbe6ffbb0c5fbf49/581/index.m3u8
- 
-#EXTINF:-1,MOVISTAR MOTO GP
-http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/528/index.m3u8
- 
-#EXTINF:-1,MOVISTAR SERIES EXTRA HD
-http://163.172.52.83:8000/live/mMM33bE62ND6hY/ULfo7BodcIpYe3/531.m3u8
- 
-#EXTINF:-1,MOVISTAR Series Xtra
-http://185.231.160.49/600/1/index.m3u8
- 
-#EXTINF:-1,MOVISTAR TELECINCO HD
-http://playlist.onlybest.tv/ru/channel/45d923b700bdbb53af22c8219ae034ac/617/index.m3u8
- 
-#EXTINF:-1,MOVISTAR TODO DEPORTES
-http://190.92.0.43:1935/securelive/tdtv85jd5EKL3xWq3/chunklist_w1241310319.m3u8
- 
-#EXTINF:-1,MOVISTAR TRAVEL HD
-http://31.13.223.104:1935/travel/community.stream/chunklist_w511463959.m3u8
- 
-#EXTINF:-1,MOVISTAR TVE 1
-http://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@583042/master.m3u8
- 
-#EXTINF:-1,MOVISTAR. DEP 1 HD
-http://163.172.52.83:8000/live/mMM33bE62ND6hY/ULfo7BodcIpYe3/539.m3u8
- 
-#EXTINF:-1,MOVISTAR. FUTBOL HD
-http://163.172.52.83:8000/live/mMM33bE62ND6hY/ULfo7BodcIpYe3/535.m3u8
- 
-#EXTINF:-1,MOVISTAR. GOLF HD
-http://163.172.52.83:8000/live/mMM33bE62ND6hY/ULfo7BodcIpYe3/534.m3u8
- 
-#EXTINF:-1,MOVISTAR. MOTOGP
-http://163.172.52.83:8000/live/mMM33bE62ND6hY/ULfo7BodcIpYe3/533.m3u8
- 
-#EXTINF:-1,MOVISTAR. SERIES HD
-http://163.172.52.83:8000/live/mMM33bE62ND6hY/ULfo7BodcIpYe3/532.m3u8
- 
-#EXTINF:-1,MOVISTAR. XTRA
-http://163.172.52.83:8000/live/mMM33bE62ND6hY/ULfo7BodcIpYe3/530.m3u8
- 
-#EXTINF:-1,MOVISTAR. XTRA HD
-http://163.172.52.83:8000/live/mMM33bE62ND6hY/ULfo7BodcIpYe3/529.m3u8
- 
-#EXTINF:-1,MOVISTAR.COMEDIA HD
-http://163.172.52.83:8000/live/mMM33bE62ND6hY/ULfo7BodcIpYe3/528.m3u8
- 
-#EXTINF:-1,BEIN LA LIGA
-http://playlist.onlybest.tv/ru/channel/45d923b700bdbb53af22c8219ae034ac/574/index.m3u8
- 
-#EXTINF:-1,BEIN LA LIGA
-http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/574/index.m3u8
- 
-#EXTINF:-1,BEIN LA LIGA
-http://playlist.onlybest.tv/en/channel/2874e3a9397ce975e8463c76533bcb1e/574/index.m3u8
- 
-#EXTINF:-1,BEIN LA LIGA
-http://playlist.onlybest.tv/ru/channel/6c53126176d7d597cbe6ffbb0c5fbf49/574/index.m3u8
- 
-#EXTINF:-1,BEIN LA LIGA
-http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/574/index.m3u8
- 
-#EXTINF:-1,BEIN LA LIGA
-http://185.231.160.49/607/1/index.m3u8
- 
-#EXTINF:-1,BEIN LA LIGA
-http://iptvplayer.xyz:8181/streaming/spa/16.m3u8
- 
-#EXTINF:-1,BEIN LA LIGA
-http://playlist.onlybest.tv/ru/channel/45d923b700bdbb53af22c8219ae034ac/566/index.m3u8
- 
-#EXTINF:-1,BEIN LA LIGA
-http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/566/index.m3u8
- 
-#EXTINF:-1,BEIN SPORTS
-http://playlist.onlybest.tv/ru/channel/6c53126176d7d597cbe6ffbb0c5fbf49/566/index.m3u8
- 
-#EXTINF:-1,BEIN SPORTS
-http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/566/index.m3u8
-
-
 #EXTINF:-1,***Deportes***
+http://sagi.typepad.com/treding_the_vc_waters/Picture1_1.jpg
 
 #EXTINF:-1,Bein sport
 http://185.231.160.49/607/1/index.m3u8
