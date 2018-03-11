@@ -126,20 +126,34 @@ http://10gbs.edgelink.ovh:8000/live/dosdispositivos/smartv.kodi/103.m3u8
 http://10gbs.edgelink.ovh:8000/live/dosdispositivos/smartv.kodi/104.m3u8
 #EXTINF:-1 tvg-logo="http://dshm.tmsimg.com/h5/NowShowing/75423/s75423_h5_aa.png",FOX
 http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/608/index.m3u8
-#EXTINF:-1,FOX LIFE
-http://185.231.160.49/599/1/index.m3u8
-#EXTINF:-1 tvg-logo="https://ulango.tv/uploads/channels/11151/logo_canal%20hollywood3.png",Hollywood HD
+#EXTINF:-1  group-title="España 2",FOX (Opc. 2)
+http://10gbs.edgelink.ovh:8000/live/dosdispositivos/smartv.kodi/161.m3u8
+#EXTINF:-1  group-title="España 2",FOX HD
+http://10gbs.edgelink.ovh:8000/live/dosdispositivos/smartv.kodi/162.m3u8
+#EXTINF:-1  group-title="España 2",FOX LIFE
+http://10gbs.edgelink.ovh:8000/live/dosdispositivos/smartv.kodi/163.m3u8
+#EXTINF:-1  group-title="España 2",FOX LIFE HD
+http://10gbs.edgelink.ovh:8000/live/dosdispositivos/smartv.kodi/164.m3u8
+#EXTINF:-1  group-title="España 2",DARK
+http://10gbs.edgelink.ovh:8000/live/dosdispositivos/smartv.kodi/3446.m3u8
+#EXTINF:-1  group-title="España 2",HOLLYWOOD HD
+http://10gbs.edgelink.ovh:8000/live/dosdispositivos/smartv.kodi/169.m3u8
+#EXTINF:-1 tvg-logo="https://ulango.tv/uploads/channels/11151/logo_canal%20hollywood3.png",Hollywood HD (Opc. 2)
 http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/577/index.m3u8
-#EXTINF:-1,TNT
-http://89.38.98.85:8080/live/Reda/Reda/9665.m3u8
+#EXTINF:-1  group-title="España 2",TNT
+http://10gbs.edgelink.ovh:8000/live/dosdispositivos/smartv.kodi/231.m3u8
+#EXTINF:-1  group-title="España 2",TNT HD
+http://10gbs.edgelink.ovh:8000/live/dosdispositivos/smartv.kodi/232.m3u8
 #EXTINF:-1  group-title="España 2",SYFY
 http://10gbs.edgelink.ovh:8000/live/dosdispositivos/smartv.kodi/224.m3u8
 #EXTINF:-1  group-title="España 2",SYFY HD
 http://10gbs.edgelink.ovh:8000/live/dosdispositivos/smartv.kodi/264.m3u8
-#EXTINF:-1 tvg-logo="https://lh4.googleusercontent.com/r18zZHUG3-PrbUlEN1zoIkmvn3tYezub4PKNRLoDSxC5L_jfVINYEM8uRZj_UZJO1L1H1KiduDjs8jZXbsx_nrXj65ty2xKljhjIqdlqw8oYygIv9hGqth3-dPTG6ZUu2qnYbJh9Tp0" group-title="ESPANHA",CANAL COCINA (Copyright © 2018 by TeamBlue)
-http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/7319.m3u8
-#EXTINF:-1 tvg-logo="https://www.andorratelecom.ad/documents/33347/112493/600x600-de-casa-01.png/ec984b84-f707-1998-c782-27134a165329?t=1487250373351" group-title="ESPANHA",DECASA (Copyright © 2018 by TeamBlue)
-http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/7379.m3u8
+#EXTINF:-1  group-title="España 2",CANAL DECASA
+http://10gbs.edgelink.ovh:8000/live/dosdispositivos/smartv.kodi/136.m3u8
+#EXTINF:-1  group-title="España 2",CANAL COCINA
+http://10gbs.edgelink.ovh:8000/live/dosdispositivos/smartv.kodi/3327.m3u8
+#EXTINF:-1  group-title="España 2",CANAL COCINA HD
+http://10gbs.edgelink.ovh:8000/live/dosdispositivos/smartv.kodi/3785.m3u8
 #EXTINF:-1,MTV
 http://89.38.98.85:8080/live/Reda/Reda/9679.m3u8
 #EXTINF:-1,DISNEY XD
