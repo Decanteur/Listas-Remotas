@@ -1,0 +1,258 @@
+#EXTM3U
+ 
+#EXTINF:-1,*************************************
+***** Canales España 2 ************
+
+#EXTINF:-1  group-title="España 2",#0
+http://10gbs.edgelink.ovh:8000/live/dosdispositivos/smartv.kodi/99.m3u8
+#EXTINF:-1  group-title="España 2",#0 HD
+http://10gbs.edgelink.ovh:8000/live/dosdispositivos/smartv.kodi/100.m3u8
+#EXTINF:-1  group-title="España 2",MOVISTAR  SERIES
+http://10gbs.edgelink.ovh:8000/live/dosdispositivos/smartv.kodi/184.m3u8
+#EXTINF:-1  group-title="España 2",M. SERIES HD
+http://10gbs.edgelink.ovh:8000/live/dosdispositivos/smartv.kodi/253.m3u8
+#EXTINF:-1  group-title="España 2",MOVISTAR  SERIES XTRA
+http://10gbs.edgelink.ovh:8000/live/dosdispositivos/smartv.kodi/185.m3u8
+#EXTINF:-1  group-title="España 2",MOVISTAR  Series Xtra HD
+http://10gbs.edgelink.ovh:8000/live/dosdispositivos/smartv.kodi/186.m3u8
+#EXTINF:-1  group-title="España 2",MOVISTAR DE CINE ESPAÑA
+http://10gbs.edgelink.ovh:8000/live/dosdispositivos/smartv.kodi/2401.m3u8
+#EXTINF:-1  group-title="España 2",SOMOS
+http://10gbs.edgelink.ovh:8000/live/dosdispositivos/smartv.kodi/3708.m3u8
+#EXTINF:-1  group-title="España 2",XTREM
+http://10gbs.edgelink.ovh:8000/live/dosdispositivos/smartv.kodi/3709.m3u8
+#EXTINF:-1  group-title="España 2",FOX
+http://10gbs.edgelink.ovh:8000/live/dosdispositivos/smartv.kodi/161.m3u8
+#EXTINF:-1  group-title="España 2",FOX HD
+http://10gbs.edgelink.ovh:8000/live/dosdispositivos/smartv.kodi/162.m3u8
+#EXTINF:-1  group-title="España 2",AXN
+http://10gbs.edgelink.ovh:8000/live/dosdispositivos/smartv.kodi/108.m3u8
+#EXTINF:-1  group-title="España 2",AXN HD
+http://10gbs.edgelink.ovh:8000/live/dosdispositivos/smartv.kodi/109.m3u8
+#EXTINF:-1  group-title="España 2",AXN WHITE
+http://10gbs.edgelink.ovh:8000/live/dosdispositivos/smartv.kodi/110.m3u8
+#EXTINF:-1  group-title="España 2",AXN WHITE HD
+http://10gbs.edgelink.ovh:8000/live/dosdispositivos/smartv.kodi/242.m3u8
+#EXTINF:-1  group-title="España 2",AMC
+http://10gbs.edgelink.ovh:8000/live/dosdispositivos/smartv.kodi/103.m3u8
+#EXTINF:-1  group-title="España 2",AMC HD
+http://10gbs.edgelink.ovh:8000/live/dosdispositivos/smartv.kodi/104.m3u8
+#EXTINF:-1  group-title="España 2",TNT
+http://10gbs.edgelink.ovh:8000/live/dosdispositivos/smartv.kodi/231.m3u8
+#EXTINF:-1  group-title="España 2",TNT HD
+http://10gbs.edgelink.ovh:8000/live/dosdispositivos/smartv.kodi/232.m3u8
+#EXTINF:-1  group-title="España 2",COMEDY CENTRAL
+http://10gbs.edgelink.ovh:8000/live/dosdispositivos/smartv.kodi/714.m3u8
+#EXTINF:-1  group-title="España 2",COMEDY CENTRAL HD
+http://10gbs.edgelink.ovh:8000/live/dosdispositivos/smartv.kodi/144.m3u8
+#EXTINF:-1  group-title="España 2",CALLE 13
+http://10gbs.edgelink.ovh:8000/live/dosdispositivos/smartv.kodi/134.m3u8
+#EXTINF:-1  group-title="España 2",CALLE 13 HD
+http://10gbs.edgelink.ovh:8000/live/dosdispositivos/smartv.kodi/244.m3u8
+#EXTINF:-1  group-title="España 2",COSMOPOLITAN
+http://10gbs.edgelink.ovh:8000/live/dosdispositivos/smartv.kodi/145.m3u8
+#EXTINF:-1  group-title="España 2",COSMOPOLITAN HD
+http://10gbs.edgelink.ovh:8000/live/dosdispositivos/smartv.kodi/146.m3u8
+#EXTINF:-1  group-title="España 2",MTV ESPAÑA
+http://10gbs.edgelink.ovh:8000/live/dosdispositivos/smartv.kodi/201.m3u8
+#EXTINF:-1  group-title="España 2",Non Stop HD
+http://10gbs.edgelink.ovh:8000/live/dosdispositivos/smartv.kodi/3782.m3u8
+#EXTINF:-1  group-title="España 2",DKISS
+http://10gbs.edgelink.ovh:8000/live/dosdispositivos/smartv.kodi/3714.m3u8
+#EXTINF:-1  group-title="España 2",TEN
+http://10gbs.edgelink.ovh:8000/live/dosdispositivos/smartv.kodi/3810.m3u8
+#EXTINF:-1  group-title="España 2",MOVISTAR ESTRENOS
+http://10gbs.edgelink.ovh:8000/live/dosdispositivos/smartv.kodi/192.m3u8
+#EXTINF:-1  group-title="España 2",MOVISTAR ESTRENOS HD
+http://10gbs.edgelink.ovh:8000/live/dosdispositivos/smartv.kodi/255.m3u8
+#EXTINF:-1  group-title="España 2",MOVISTAR  ACCION
+http://10gbs.edgelink.ovh:8000/live/dosdispositivos/smartv.kodi/181.m3u8
+#EXTINF:-1  group-title="España 2",MOVISTAR ACCION HD
+http://10gbs.edgelink.ovh:8000/live/dosdispositivos/smartv.kodi/187.m3u8
+#EXTINF:-1  group-title="España 2",MOVISTAR COMEDIA
+http://10gbs.edgelink.ovh:8000/live/dosdispositivos/smartv.kodi/188.m3u8
+#EXTINF:-1  group-title="España 2",MOVISTAR COMEDIA HD
+http://10gbs.edgelink.ovh:8000/live/dosdispositivos/smartv.kodi/189.m3u8
+#EXTINF:-1  group-title="España 2",MOVISTAR DCINE
+http://10gbs.edgelink.ovh:8000/live/dosdispositivos/smartv.kodi/149.m3u8
+#EXTINF:-1  group-title="España 2",MOVISTAR DCINE HD
+http://10gbs.edgelink.ovh:8000/live/dosdispositivos/smartv.kodi/190.m3u8
+#EXTINF:-1  group-title="España 2",MOVISTAR OSCARS
+http://10gbs.edgelink.ovh:8000/live/dosdispositivos/smartv.kodi/4292.m3u8
+#EXTINF:-1  group-title="España 2",MOVISTAR DISNEY
+http://10gbs.edgelink.ovh:8000/live/dosdispositivos/smartv.kodi/4044.m3u8
+#EXTINF:-1  group-title="España 2",MOVISTAR XTRA
+http://10gbs.edgelink.ovh:8000/live/dosdispositivos/smartv.kodi/200.m3u8
+#EXTINF:-1  group-title="España 2",MOVISTAR XTRA HD
+http://10gbs.edgelink.ovh:8000/live/dosdispositivos/smartv.kodi/254.m3u8
+#EXTINF:-1  group-title="España 2",TCM
+http://10gbs.edgelink.ovh:8000/live/dosdispositivos/smartv.kodi/225.m3u8
+#EXTINF:-1  group-title="España 2",TCM HD
+http://10gbs.edgelink.ovh:8000/live/dosdispositivos/smartv.kodi/226.m3u8
+#EXTINF:-1  group-title="España 2",DARK
+http://10gbs.edgelink.ovh:8000/live/dosdispositivos/smartv.kodi/3446.m3u8
+#EXTINF:-1  group-title="España 2",HOLLYWOOD HD
+http://10gbs.edgelink.ovh:8000/live/dosdispositivos/smartv.kodi/169.m3u8
+#EXTINF:-1  group-title="España 2",SUNDANCE
+http://10gbs.edgelink.ovh:8000/live/dosdispositivos/smartv.kodi/223.m3u8
+#EXTINF:-1  group-title="España 2",PARAMOUNT CHANNEL
+http://10gbs.edgelink.ovh:8000/live/dosdispositivos/smartv.kodi/219.m3u8
+#EXTINF:-1  group-title="España 2",SYFY
+http://10gbs.edgelink.ovh:8000/live/dosdispositivos/smartv.kodi/224.m3u8
+#EXTINF:-1  group-title="España 2",SYFY HD
+http://10gbs.edgelink.ovh:8000/live/dosdispositivos/smartv.kodi/264.m3u8
+#EXTINF:-1  group-title="España 2",FOX LIFE
+http://10gbs.edgelink.ovh:8000/live/dosdispositivos/smartv.kodi/163.m3u8
+#EXTINF:-1  group-title="España 2",FOX LIFE HD
+http://10gbs.edgelink.ovh:8000/live/dosdispositivos/smartv.kodi/164.m3u8
+#EXTINF:-1  group-title="España 2",NATIONAL  GEOGRAPHIC
+http://10gbs.edgelink.ovh:8000/live/dosdispositivos/smartv.kodi/204.m3u8
+#EXTINF:-1  group-title="España 2",National Geographic HD
+http://10gbs.edgelink.ovh:8000/live/dosdispositivos/smartv.kodi/258.m3u8
+#EXTINF:-1  group-title="España 2",NatGeo Wild Spain
+http://10gbs.edgelink.ovh:8000/live/dosdispositivos/smartv.kodi/594.m3u8
+#EXTINF:-1  group-title="España 2",ODISSEA
+http://10gbs.edgelink.ovh:8000/live/dosdispositivos/smartv.kodi/589.m3u8
+#EXTINF:-1  group-title="España 2",ODISSEA HD
+http://10gbs.edgelink.ovh:8000/live/dosdispositivos/smartv.kodi/3710.m3u8
+#EXTINF:-1  group-title="España 2",HISTORIA
+http://10gbs.edgelink.ovh:8000/live/dosdispositivos/smartv.kodi/167.m3u8
+#EXTINF:-1  group-title="España 2",HISTORIA  HD
+http://10gbs.edgelink.ovh:8000/live/dosdispositivos/smartv.kodi/3711.m3u8
+#EXTINF:-1  group-title="España 2",DISCOVERY CHANNEL
+http://10gbs.edgelink.ovh:8000/live/dosdispositivos/smartv.kodi/151.m3u8
+#EXTINF:-1  group-title="España 2",DISCOVERY CHANNEL HD
+http://10gbs.edgelink.ovh:8000/live/dosdispositivos/smartv.kodi/3707.m3u8
+#EXTINF:-1  group-title="España 2",DISCOVERY MAX
+http://10gbs.edgelink.ovh:8000/live/dosdispositivos/smartv.kodi/791.m3u8
+#EXTINF:-1  group-title="España 2",CRIMEN Y INVES
+http://10gbs.edgelink.ovh:8000/live/dosdispositivos/smartv.kodi/132.m3u8
+#EXTINF:-1  group-title="España 2",IBERALIA TV
+http://10gbs.edgelink.ovh:8000/live/dosdispositivos/smartv.kodi/170.m3u8
+#EXTINF:-1  group-title="España 2",Iberalia TV HD
+http://10gbs.edgelink.ovh:8000/live/dosdispositivos/smartv.kodi/3781.m3u8
+#EXTINF:-1  group-title="España 2",A+E
+http://10gbs.edgelink.ovh:8000/live/dosdispositivos/smartv.kodi/101.m3u8
+#EXTINF:-1  group-title="España 2",CAZA Y PESCA
+http://10gbs.edgelink.ovh:8000/live/dosdispositivos/smartv.kodi/141.m3u8
+#EXTINF:-1  group-title="España 2",CAZA Y PESCA HD
+http://10gbs.edgelink.ovh:8000/live/dosdispositivos/smartv.kodi/142.m3u8
+#EXTINF:-1  group-title="España 2",VIAJAR HD
+http://10gbs.edgelink.ovh:8000/live/dosdispositivos/smartv.kodi/268.m3u8
+#EXTINF:-1  group-title="España 2",TOROS
+http://10gbs.edgelink.ovh:8000/live/dosdispositivos/smartv.kodi/233.m3u8
+#EXTINF:-1  group-title="España 2",TOROS TV HD
+http://10gbs.edgelink.ovh:8000/live/dosdispositivos/smartv.kodi/266.m3u8
+#EXTINF:-1  group-title="España 2",CANAL DECASA
+http://10gbs.edgelink.ovh:8000/live/dosdispositivos/smartv.kodi/136.m3u8
+#EXTINF:-1  group-title="España 2",CANAL COCINA
+http://10gbs.edgelink.ovh:8000/live/dosdispositivos/smartv.kodi/3327.m3u8
+#EXTINF:-1  group-title="España 2",CANAL COCINA HD
+http://10gbs.edgelink.ovh:8000/live/dosdispositivos/smartv.kodi/3785.m3u8
+#EXTINF:-1  group-title="España 2",CANAL EXTREMADURA
+http://10gbs.edgelink.ovh:8000/live/dosdispositivos/smartv.kodi/784.m3u8
+#EXTINF:-1  group-title="España 2",TELEMADADRID
+http://10gbs.edgelink.ovh:8000/live/dosdispositivos/smartv.kodi/782.m3u8
+#EXTINF:-1  group-title="España 2",CANAL SUR
+http://10gbs.edgelink.ovh:8000/live/dosdispositivos/smartv.kodi/3812.m3u8
+#EXTINF:-1  group-title="España 2",DISNEY CHANNEL
+http://10gbs.edgelink.ovh:8000/live/dosdispositivos/smartv.kodi/152.m3u8
+#EXTINF:-1  group-title="España 2",DISNEY XD
+http://10gbs.edgelink.ovh:8000/live/dosdispositivos/smartv.kodi/154.m3u8
+#EXTINF:-1  group-title="España 2",DISNEY JR
+http://10gbs.edgelink.ovh:8000/live/dosdispositivos/smartv.kodi/153.m3u8
+#EXTINF:-1  group-title="España 2",Nickelodeon
+http://10gbs.edgelink.ovh:8000/live/dosdispositivos/smartv.kodi/215.m3u8
+#EXTINF:-1  group-title="España 2",NICKELODEON HD
+http://10gbs.edgelink.ovh:8000/live/dosdispositivos/smartv.kodi/260.m3u8
+#EXTINF:-1  group-title="España 2",NICK JR
+http://10gbs.edgelink.ovh:8000/live/dosdispositivos/smartv.kodi/817.m3u8
+#EXTINF:-1  group-title="España 2",BOING
+http://10gbs.edgelink.ovh:8000/live/dosdispositivos/smartv.kodi/131.m3u8
+#EXTINF:-1  group-title="España 2",CLAN TV
+http://10gbs.edgelink.ovh:8000/live/dosdispositivos/smartv.kodi/3722.m3u8
+
+#EXTINF:-1,**************************************
+***** DEPORTES ********
+
+#EXTINF:-1  group-title="España 2",BEIN LALIGA
+http://10gbs.edgelink.ovh:8000/live/dosdispositivos/smartv.kodi/113.m3u8
+#EXTINF:-1  group-title="España 2",BEIN LALIGA HD
+http://10gbs.edgelink.ovh:8000/live/dosdispositivos/smartv.kodi/114.m3u8
+#EXTINF:-1  group-title="España 2",LALIGA TV BAR
+http://10gbs.edgelink.ovh:8000/live/dosdispositivos/smartv.kodi/176.m3u8
+#EXTINF:-1  group-title="España 2",LALIGA TV BAR HD
+http://10gbs.edgelink.ovh:8000/live/dosdispositivos/smartv.kodi/177.m3u8
+#EXTINF:-1  group-title="España 2",BEIN MAX LA LIGA 1 SD
+http://10gbs.edgelink.ovh:8000/live/dosdispositivos/smartv.kodi/3811.m3u8
+#EXTINF:-1  group-title="España 2",BEIN SPORT
+http://10gbs.edgelink.ovh:8000/live/dosdispositivos/smartv.kodi/115.m3u8
+#EXTINF:0 tvg-logo="http://bit.ly/2F3m5KN" group-title="Deportes", [Bein Sports la liga HD]
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/574/index.m3u8
+#EXTINF:-1  group-title="España 2",BEIN MAX LA LIGA 1 SD
+http://10gbs.edgelink.ovh:8000/live/dosdispositivos/smartv.kodi/3811.m3u8
+#EXTINF:-1  group-title="España 2",LA LIGA 123
+http://10gbs.edgelink.ovh:8000/live/dosdispositivos/smartv.kodi/775.m3u8
+#EXTINF:-1  group-title="España 2",MOVISTAR  FUTBOL
+http://10gbs.edgelink.ovh:8000/live/dosdispositivos/smartv.kodi/182.m3u8
+#EXTINF:-1  group-title="España 2",MOVISTAR FUTBOL HD
+http://10gbs.edgelink.ovh:8000/live/dosdispositivos/smartv.kodi/195.m3u8
+#EXTINF:-1  group-title="España 2",Multideporte 1
+http://10gbs.edgelink.ovh:8000/live/dosdispositivos/smartv.kodi/2669.m3u8
+#EXTINF:-1  group-title="España 2",Multideporte 2
+http://10gbs.edgelink.ovh:8000/live/dosdispositivos/smartv.kodi/2670.m3u8
+#EXTINF:-1  group-title="España 2",Multideporte 3
+http://10gbs.edgelink.ovh:8000/live/dosdispositivos/smartv.kodi/2671.m3u8
+#EXTINF:-1  group-title="España 2",Multideporte 4
+http://10gbs.edgelink.ovh:8000/live/dosdispositivos/smartv.kodi/2672.m3u8
+#EXTINF:-1  group-title="España 2",MULTIFUTBOOL 1
+http://10gbs.edgelink.ovh:8000/live/dosdispositivos/smartv.kodi/3778.m3u8
+#EXTINF:-1  group-title="España 2",MULTIFUTBOOL 3
+http://10gbs.edgelink.ovh:8000/live/dosdispositivos/smartv.kodi/3780.m3u8
+#EXTINF:-1  group-title="España 2",REAL MADRID TV
+http://10gbs.edgelink.ovh:8000/live/dosdispositivos/smartv.kodi/3809.m3u8
+#EXTINF:-1  group-title="España 2",BARCA TV
+http://10gbs.edgelink.ovh:8000/live/dosdispositivos/smartv.kodi/112.m3u8
+#EXTINF:-1  group-title="España 2",MOVISTAR DEPORTES 1
+http://10gbs.edgelink.ovh:8000/live/dosdispositivos/smartv.kodi/191.m3u8
+#EXTINF:-1  group-title="España 2",DEPORTES 2
+http://10gbs.edgelink.ovh:8000/live/dosdispositivos/smartv.kodi/150.m3u8
+#EXTINF:-1  group-title="España 2",MOVISTAR F1
+http://10gbs.edgelink.ovh:8000/live/dosdispositivos/smartv.kodi/193.m3u8
+#EXTINF:-1  group-title="España 2",MOVISTAR F1 HD
+http://10gbs.edgelink.ovh:8000/live/dosdispositivos/smartv.kodi/194.m3u8
+#EXTINF:-1  group-title="España 2",MOVISTAR MOTO GP
+http://10gbs.edgelink.ovh:8000/live/dosdispositivos/smartv.kodi/197.m3u8
+#EXTINF:-1  group-title="España 2",MOVISTAR MOTOGP HD
+http://10gbs.edgelink.ovh:8000/live/dosdispositivos/smartv.kodi/198.m3u8
+#EXTINF:-1  group-title="España 2",EUROSPORT 1
+http://10gbs.edgelink.ovh:8000/live/dosdispositivos/smartv.kodi/159.m3u8
+#EXTINF:-1  group-title="España 2",EUROSPORT 1 HD
+http://10gbs.edgelink.ovh:8000/live/dosdispositivos/smartv.kodi/246.m3u8
+#EXTINF:-1  group-title="España 2",EUROSPORT 2
+http://10gbs.edgelink.ovh:8000/live/dosdispositivos/smartv.kodi/160.m3u8
+#EXTINF:-1  group-title="España 2",Eurosport 2 HD
+http://10gbs.edgelink.ovh:8000/live/dosdispositivos/smartv.kodi/3330.m3u8
+#EXTINF:-1  group-title="España 2",TELEDEPORTE HD
+http://10gbs.edgelink.ovh:8000/live/dosdispositivos/smartv.kodi/3329.m3u8
+#EXTINF:-1  group-title="España 2",GOL TV
+http://10gbs.edgelink.ovh:8000/live/dosdispositivos/smartv.kodi/166.m3u8
+#EXTINF:-1  group-title="España 2",Red Bull Tv HD
+http://10gbs.edgelink.ovh:8000/live/dosdispositivos/smartv.kodi/4226.m3u8
+
+
+#EXTINF:-1,**************************************
+***** MUSICALES ********
+
+#EXTINF:-1  group-title="España 2",VH1 MOVISTAR
+http://10gbs.edgelink.ovh:8000/live/dosdispositivos/smartv.kodi/3682.m3u8
+#EXTINF:-1  group-title="España 2",HIT TV
+http://10gbs.edgelink.ovh:8000/live/dosdispositivos/smartv.kodi/4008.m3u8
+#EXTINF:-1  group-title="España 2",telemusica
+http://10gbs.edgelink.ovh:8000/live/dosdispositivos/smartv.kodi/4251.m3u8
+#EXTINF:-1  group-title="España 2",VIRGING MUSIC
+http://10gbs.edgelink.ovh:8000/live/dosdispositivos/smartv.kodi/4007.m3u8
+#EXTINF:-1  group-title="España 2",CAPITAL TV
+http://10gbs.edgelink.ovh:8000/live/dosdispositivos/smartv.kodi/4006.m3u8
+#EXTINF:-1  group-title="España 2",CADENA ELITE
+http://10gbs.edgelink.ovh:8000/live/dosdispositivos/smartv.kodi/3324.m3u8
