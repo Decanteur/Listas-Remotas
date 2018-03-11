@@ -57,6 +57,10 @@ http://10gbs.edgelink.ovh:8000/live/dosdispositivos/smartv.kodi/791.m3u8
 http://10gbs.edgelink.ovh:8000/live/dosdispositivos/smartv.kodi/131.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/Sexta.jpg",LA SEXTA
 http://a3live-lh.akamaihd.net/i/lasexta_1@35272/master.m3u8
+#EXTINF:-1,DISNEY CHANNEL HD
+http://89.38.98.85:8080/live/Reda/Reda/9710.m3u8
+#EXTINF:-1  group-title="España 2",MTV ESPAÑA
+http://10gbs.edgelink.ovh:8000/live/dosdispositivos/smartv.kodi/201.m3u8
 #EXTINF:-1 tvg-logo="http://m.canalextremadura.es/sites/all/themes/canalex_2016/images/canalex/logotipo@2x.png", Canal Extremadura
 http://hlstv.canalextremadura.es/livetv/smil:multistream.smil/playlist.m3u8
 EXTINF:-1 tvg-logo="http://www.canalextremadura.es/sites/all/themes/canalex_2016/images/canalex/logotipo.png" group-title="España",CANAL EXTREMADURA Opc. 2
@@ -67,10 +71,7 @@ http://10gbs.edgelink.ovh:8000/live/dosdispositivos/smartv.kodi/3812.m3u8
 http://streaming.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/mobile/playlist.m3u8
 #EXTINF:-1  group-title="España 2",TELEMADADRID
 http://10gbs.edgelink.ovh:8000/live/dosdispositivos/smartv.kodi/782.m3u8
-#EXTINF:-1,DISNEY CHANNEL HD
-http://89.38.98.85:8080/live/Reda/Reda/9710.m3u8
-#EXTINF:-1  group-title="España 2",MTV ESPAÑA
-http://10gbs.edgelink.ovh:8000/live/dosdispositivos/smartv.kodi/201.m3u8
+
 
 #EXTINF:-1,***MOVISTAR+***
 http://sagi.typepad.com/treding_the_vc_waters/Picture1_1.jpg
@@ -175,8 +176,6 @@ http://10gbs.edgelink.ovh:8000/live/dosdispositivos/smartv.kodi/136.m3u8
 http://10gbs.edgelink.ovh:8000/live/dosdispositivos/smartv.kodi/3327.m3u8
 #EXTINF:-1  group-title="España 2",CANAL COCINA HD
 http://10gbs.edgelink.ovh:8000/live/dosdispositivos/smartv.kodi/3785.m3u8
-#EXTINF:-1  group-title="España 2",MTV ESPAÑA
-http://10gbs.edgelink.ovh:8000/live/dosdispositivos/smartv.kodi/201.m3u8
 #EXTINF:-1  group-title="España 2",DISNEY XD
 http://10gbs.edgelink.ovh:8000/live/dosdispositivos/smartv.kodi/154.m3u8
 #EXTINF:-1  group-title="España 2",DISNEY JR
