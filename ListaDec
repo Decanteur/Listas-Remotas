@@ -72,7 +72,7 @@ http://89.38.98.85:8080/live/Reda/Reda/9710.m3u8
 #EXTINF:-1  group-title="España 2",MTV ESPAÑA
 http://10gbs.edgelink.ovh:8000/live/dosdispositivos/smartv.kodi/201.m3u8
 
-#EXTINF:-1,***Movistar+***
+#EXTINF:-1,***MOVISTAR+***
 http://sagi.typepad.com/treding_the_vc_waters/Picture1_1.jpg
 
 #EXTINF:-1,#0
@@ -227,7 +227,7 @@ http://dsn6jqegjeixj.cloudfront.net/ondaazul-live/video/playlist.m3u8
 http://usaserver.miamitvchannel.com/miamitv/smil:miamitv/playlist.m3u8
 
 
-#EXTINF:-1,***Deportes***
+#EXTINF:-1,***DEPORTES***
 http://sagi.typepad.com/treding_the_vc_waters/Picture1_1.jpg
 
 #EXTINF:-1,Bein sport
@@ -260,10 +260,10 @@ http://playlist.onlybest.tv/ru/channel/45d923b700bdbb53af22c8219ae034ac/575/inde
 http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/7378.m3u8
 #EXTINF:-1,M.DEP 2
 http://89.38.98.85:8080/live/Reda/Reda/9688.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/unT3Jrz.png" group-title="ESPANHA",TELEDEPORTE (Copyright © 2018 by TeamBlue)
-http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/7296.m3u8
-#EXTINF:-1,GOL TV
-http://89.38.98.85:8080/live/Reda/Reda/9701.m3u8
+#EXTINF:-1  group-title="España 2",TELEDEPORTE HD
+http://10gbs.edgelink.ovh:8000/live/dosdispositivos/smartv.kodi/3329.m3u8
+#EXTINF:-1  group-title="España 2",GOL TV
+http://10gbs.edgelink.ovh:8000/live/dosdispositivos/smartv.kodi/166.m3u8
 #EXTINF:-1 tvg-logo="https://imagenes.cablevisionfibertel.com.ar:7007/servlet/cv/223.png", Fox Sports
 http://3-120heat.pulsedmedia.com/public-llave1/list/public/f0xsports.php/Stream(04)/index.m3u8
 #EXTINF:-1 tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/8/8e/Fox_Sports_2.png/revision/20160413221614" group-title="Deportes",F0XSPORTS2 op1
@@ -272,10 +272,14 @@ http://3-120heat.pulsedmedia.com/public-llave1/list/public/f0xsports2-q3.php/ind
 http://3-120heat.pulsedmedia.com/public-llave1/list/public/f0xsports3.php/Stream(04)/index.m3u8
 #EXTINF:-1 tvg-logo="https://imagenes.cablevisionfibertel.com.ar:7007/servlet/cv/1132.png", ESPN +
 http://3-120heat.pulsedmedia.com/public-llave1/list/public/espn_plus.php/Stream(04)/index.m3u8
-#EXTINF:-1,EUROSPORT 1
-http://89.38.98.85:8080/live/Reda/Reda/9705.m3u8
-#EXTINF:-1,EUROSPORT 2
-http://89.38.98.85:8080/live/Reda/Reda/9704.m3u8
+#EXTINF:-1  group-title="España 2",EUROSPORT 1
+http://10gbs.edgelink.ovh:8000/live/dosdispositivos/smartv.kodi/159.m3u8
+#EXTINF:-1  group-title="España 2",EUROSPORT 1 HD
+http://10gbs.edgelink.ovh:8000/live/dosdispositivos/smartv.kodi/246.m3u8
+#EXTINF:-1  group-title="España 2",EUROSPORT 2
+http://10gbs.edgelink.ovh:8000/live/dosdispositivos/smartv.kodi/160.m3u8
+#EXTINF:-1  group-title="España 2",Eurosport 2 HD
+http://10gbs.edgelink.ovh:8000/live/dosdispositivos/smartv.kodi/3330.m3u8
 #EXTINF:-1,Eurosport (ENG)
 http://playlist.onlybest.tv/en/channel/2874e3a9397ce975e8463c76533bcb1e/160/index.m3u8
 #EXTINF:-1,Eurosport2 (ENG)
@@ -286,7 +290,8 @@ https://svglive3-event.level3.nfl.com/nflent3/live/nfl_now/NFLNOW_1200k.m3u8?
 http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8?
 
 
-#EXTINF:-1,***Musicales***
+#EXTINF:-1,***MUSICALES***
+http://sagi.typepad.com/treding_the_vc_waters/Picture1_1.jpg
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/32/Capital_TV_logo.png",CAPITAL TV (UK)
 http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/master.m3u8
