@@ -42,7 +42,7 @@ http://copo1.mitopo.me/live/energy/index.m3u8?token=nJuP1EJVEJAtsaZdbcgliA&expir
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/744781470946852864/nz8sp439_400x400.jpg",FDF
 https://mdslivehls-i.akamaihd.net/hls/live/571650/fdf/bitrate_1.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.sincroguia.tv/uploads/images/b/e/-/xbe-mad-1.jpg.pagespeed.ic.rDna1IN19j.jpg",Be Mad TV
-https://mdslivehls-i.akamaihd.net/hls/live/571646/bemad/bitrate_1.m3u8
+http://copo2.mitopo.me/live/bemad/index.m3u8?token=DGcurmhl3SbgrowvJa4k1A&expires=1521917096
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/744781228683857920/2hIDK_eo_400x400.jpg",Divinity
 https://mdslivehls-i.akamaihd.net/hls/live/571648/divinity/bitrate_1.m3u8
 #EXTINF:-1  group-title="España 2",PARAMOUNT CHANNEL
