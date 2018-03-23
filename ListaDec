@@ -13,7 +13,7 @@ http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl7/la1_lv3_aosv4
 #EXTINF:-1, group-title="tv" tvg-logo="https://imgfast.net/users/1114/10/46/39/album/tve2lo10.png", Rtve.es La 2
 http://hlsliveamdgl0-lh.akamaihd.net/i/hlslive_1@586367/index_0400_av-p.m3u8?sd=10&rebase=on
 #EXTINF:-1,24 HORAS
-http://89.38.98.85:8080/live/Reda/Reda/9731.m3u8
+http://hlsliveamdgl0-lh.akamaihd.net/i/hlslive_1@586367/index_0400_av-p.m3u8?sd=10&rebase=on
 #EXTINF:-1,CLAN TVE
 http://89.38.98.85:8080/live/Reda/Reda/9716.m3u8
 #EXTINF:-1  group-title="España 2",CLAN TV (Opc. 2)
@@ -38,7 +38,7 @@ http://telecinco-mediaset-esp-live.secure.footprint.net/mediaset/telecinco/strea
 https://livehlsdai-i.akamaihd.net/hls/live/571640/telecinco/bitrate_1.m3u8
 
 #EXTINF:-1, group-title="tv" tvg-logo="http://www.formulatv.com/fotos/a/9000/9225/l47xp2wnn9sgxixifo52a8c3d3a5b26_energy.png", Energy
-https://mdslivehls-i.akamaihd.net/hls/live/571649/energy/bitrate_3.m3u8
+http://copo1.mitopo.me/live/energy/index.m3u8?token=nJuP1EJVEJAtsaZdbcgliA&expires=1521914738
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/744781470946852864/nz8sp439_400x400.jpg",FDF
 https://mdslivehls-i.akamaihd.net/hls/live/571650/fdf/bitrate_1.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.sincroguia.tv/uploads/images/b/e/-/xbe-mad-1.jpg.pagespeed.ic.rDna1IN19j.jpg",Be Mad TV
