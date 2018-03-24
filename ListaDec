@@ -9,7 +9,7 @@ http://sagi.typepad.com/treding_the_vc_waters/Picture1_1.jpg
 #EXTINF:-1 tvg-id="LA1.es" tvg-name="LA 1" audio-track="es" tvg-logo="https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE.jpg" group-title="Nacional",La 1 Opc. 1
 http://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@583042/master.m3u8
 #EXTINF:-1 tvg-logo="http://tvonlinegratis.com/wp-content/uploads/2014/08/TVE1-La1-Logo-300x300.jpg" group-title="ESPAÑA",LA 1 Opc. 2
-http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl7/la1_lv3_aosv4_gl7/la1_lv3_aosv4_gl7.isml/la1_lv3_aosv4_gl7-audio=128000-video=400000.m3u8
+http://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@583042/master.m3u8
 #EXTINF:-1, group-title="tv" tvg-logo="https://imgfast.net/users/1114/10/46/39/album/tve2lo10.png", Rtve.es La 2
 http://hlsliveamdgl0-lh.akamaihd.net/i/hlslive_1@586367/index_0400_av-p.m3u8?sd=10&rebase=on
 #EXTINF:-1,24 HORAS
@@ -77,7 +77,7 @@ http://10gbs.edgelink.ovh:8000/live/dosdispositivos/smartv.kodi/782.m3u8
 http://sagi.typepad.com/treding_the_vc_waters/Picture1_1.jpg
 
 #EXTINF:-1,#0
-http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/611/index.m3u8
+http://playlist.onlybest.tv/en/channel/d3868b0930104dfc477b435d4bf18b4f/611/index.m3u8
 #EXTINF:-1 group-title="España",#0 Opc. 2
 http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/611/index.m3u8
 #EXTINF:-1  group-title="España 2",#0
@@ -89,7 +89,7 @@ http://10gbs.edgelink.ovh:8000/live/dosdispositivos/smartv.kodi/192.m3u8
 #EXTINF:-1  group-title="España 2",MOVISTAR ESTRENOS HD
 http://10gbs.edgelink.ovh:8000/live/dosdispositivos/smartv.kodi/255.m3u8
 #EXTINF:-1  group-title="España 2",MOVISTAR  ACCION
-http://10gbs.edgelink.ovh:8000/live/dosdispositivos/smartv.kodi/181.m3u8
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/576/index.m3u8
 #EXTINF:-1 tvg-logo="http://vertelevisor.com/imagenes/movistar-accion.png", M+ Accion HD
 http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/576/index.m3u8
 #EXTINF:-1,MOVISTAR Series Xtra
@@ -123,11 +123,11 @@ http://10gbs.edgelink.ovh:8000/live/dosdispositivos/smartv.kodi/225.m3u8
 #EXTINF:-1  group-title="España 2",TCM HD
 http://10gbs.edgelink.ovh:8000/live/dosdispositivos/smartv.kodi/226.m3u8
 #EXTINF:-1  group-title="España 2",COSMOPOLITAN
-http://10gbs.edgelink.ovh:8000/live/dosdispositivos/smartv.kodi/145.m3u8
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/570/index.m3u8
 #EXTINF:-1  group-title="España 2",COSMOPOLITAN HD
 http://10gbs.edgelink.ovh:8000/live/dosdispositivos/smartv.kodi/146.m3u8
 #EXTINF:-1  group-title="España 2",COMEDY CENTRAL
-http://10gbs.edgelink.ovh:8000/live/dosdispositivos/smartv.kodi/714.m3u8
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/572/index.m3u8
 #EXTINF:-1  group-title="España 2",COMEDY CENTRAL HD
 http://10gbs.edgelink.ovh:8000/live/dosdispositivos/smartv.kodi/144.m3u8
 #EXTINF:-1  group-title="España 2",AXN
@@ -139,7 +139,7 @@ http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/579/inde
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/AXN_White_logo_%282015%29.svg/1200px-AXN_White_logo_%282015%29.svg.png",AXN White
 http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/609/index.m3u8
 #EXTINF:-1  group-title="España 2",AXN WHITE (Opc. 2)
-http://10gbs.edgelink.ovh:8000/live/dosdispositivos/smartv.kodi/110.m3u8
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/609/index.m3u8
 #EXTINF:-1  group-title="España 2",AXN WHITE HD
 http://10gbs.edgelink.ovh:8000/live/dosdispositivos/smartv.kodi/242.m3u8
 #EXTINF:-1  group-title="España 2",AMC
@@ -153,7 +153,7 @@ http://10gbs.edgelink.ovh:8000/live/dosdispositivos/smartv.kodi/161.m3u8
 #EXTINF:-1  group-title="España 2",FOX HD
 http://10gbs.edgelink.ovh:8000/live/dosdispositivos/smartv.kodi/162.m3u8
 #EXTINF:-1  group-title="España 2",FOX LIFE
-http://10gbs.edgelink.ovh:8000/live/dosdispositivos/smartv.kodi/163.m3u8
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/567/index.m3u8
 #EXTINF:-1  group-title="España 2",FOX LIFE HD
 http://10gbs.edgelink.ovh:8000/live/dosdispositivos/smartv.kodi/164.m3u8
 #EXTINF:-1  group-title="España 2",DARK
@@ -259,6 +259,8 @@ http://playlist.onlybest.tv/ru/channel/45d923b700bdbb53af22c8219ae034ac/575/inde
 http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/7378.m3u8
 #EXTINF:-1,M.DEP 2
 http://89.38.98.85:8080/live/Reda/Reda/9688.m3u8
+#EXTINF:-1 ,group-title="MOVISTAR+" tvg-logo="http://www.movistarplus.es/recorte/m-NEO/guiapc/GOLF+.png", MOVISTAR GOLF
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/569/index.m3u8
 #EXTINF:-1  group-title="España 2",TELEDEPORTE HD
 http://10gbs.edgelink.ovh:8000/live/dosdispositivos/smartv.kodi/3329.m3u8
 #EXTINF:-1  group-title="España 2",GOL TV
