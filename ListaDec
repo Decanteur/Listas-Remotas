@@ -93,7 +93,7 @@ http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/576/inde
 #EXTINF:-1 tvg-logo="http://vertelevisor.com/imagenes/movistar-accion.png", M+ Accion HD
 http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/576/index.m3u8
 #EXTINF:-1,MOVISTAR Series Xtra
-http://185.231.160.49/600/1/index.m3u8
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/568/index.m3u8
 #EXTINF:-1,MOVISTAR COMEDIA
 http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/606/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Movistar_DCine.svg/1200px-Movistar_DCine.svg.png", M+ DCine
@@ -125,15 +125,15 @@ http://10gbs.edgelink.ovh:8000/live/dosdispositivos/smartv.kodi/226.m3u8
 #EXTINF:-1  group-title="España 2",COSMOPOLITAN
 http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/570/index.m3u8
 #EXTINF:-1  group-title="España 2",COSMOPOLITAN HD
-http://10gbs.edgelink.ovh:8000/live/dosdispositivos/smartv.kodi/146.m3u8
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/570/index.m3u8
 #EXTINF:-1  group-title="España 2",COMEDY CENTRAL
 http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/572/index.m3u8
 #EXTINF:-1  group-title="España 2",COMEDY CENTRAL HD
-http://10gbs.edgelink.ovh:8000/live/dosdispositivos/smartv.kodi/144.m3u8
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/572/index.m3u8
 #EXTINF:-1  group-title="España 2",AXN
-http://10gbs.edgelink.ovh:8000/live/dosdispositivos/smartv.kodi/108.m3u8
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/610/index.m3u8
 #EXTINF:-1  group-title="España 2",AXN HD
-http://10gbs.edgelink.ovh:8000/live/dosdispositivos/smartv.kodi/109.m3u8
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/579/index.m3u8
 #EXTINF:-1,AXN ESPAÑA (OPCION 2)
 http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/579/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/AXN_White_logo_%282015%29.svg/1200px-AXN_White_logo_%282015%29.svg.png",AXN White
@@ -141,7 +141,7 @@ http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/609/inde
 #EXTINF:-1  group-title="España 2",AXN WHITE (Opc. 2)
 http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/609/index.m3u8
 #EXTINF:-1  group-title="España 2",AXN WHITE HD
-http://10gbs.edgelink.ovh:8000/live/dosdispositivos/smartv.kodi/242.m3u8
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/609/index.m3u8
 #EXTINF:-1  group-title="España 2",AMC
 http://10gbs.edgelink.ovh:8000/live/dosdispositivos/smartv.kodi/103.m3u8
 #EXTINF:-1  group-title="España 2",AMC HD
@@ -149,17 +149,17 @@ http://10gbs.edgelink.ovh:8000/live/dosdispositivos/smartv.kodi/104.m3u8
 #EXTINF:-1 tvg-logo="http://dshm.tmsimg.com/h5/NowShowing/75423/s75423_h5_aa.png",FOX
 http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/608/index.m3u8
 #EXTINF:-1  group-title="España 2",FOX (Opc. 2)
-http://10gbs.edgelink.ovh:8000/live/dosdispositivos/smartv.kodi/161.m3u8
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/608/index.m3u8
 #EXTINF:-1  group-title="España 2",FOX HD
-http://10gbs.edgelink.ovh:8000/live/dosdispositivos/smartv.kodi/162.m3u8
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/608/index.m3u8
 #EXTINF:-1  group-title="España 2",FOX LIFE
 http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/567/index.m3u8
 #EXTINF:-1  group-title="España 2",FOX LIFE HD
-http://10gbs.edgelink.ovh:8000/live/dosdispositivos/smartv.kodi/164.m3u8
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/567/index.m3u8
 #EXTINF:-1  group-title="España 2",DARK
 http://10gbs.edgelink.ovh:8000/live/dosdispositivos/smartv.kodi/3446.m3u8
 #EXTINF:-1  group-title="España 2",HOLLYWOOD HD
-http://10gbs.edgelink.ovh:8000/live/dosdispositivos/smartv.kodi/169.m3u8
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/577/index.m3u8
 #EXTINF:-1 tvg-logo="https://ulango.tv/uploads/channels/11151/logo_canal%20hollywood3.png",Hollywood HD (Opc. 2)
 http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/577/index.m3u8
 #EXTINF:-1  group-title="España 2",TNT
