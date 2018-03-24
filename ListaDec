@@ -70,7 +70,9 @@ http://10gbs.edgelink.ovh:8000/live/dosdispositivos/smartv.kodi/3812.m3u8
 #EXTINF:-1 tvg-logo="",13 TV
 http://streaming.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/mobile/playlist.m3u8
 #EXTINF:-1  group-title="España 2",TELEMADRID
-http://10gbs.edgelink.ovh:8000/live/dosdispositivos/smartv.kodi/782.m3u8
+http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/telemadrid1/bitrate_1.m3u8
+#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/laotra.jpg",LA OTRA
+http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/laotra1/index.m3u8
 
 
 #EXTINF:-1,***MOVISTAR+***
@@ -79,7 +81,7 @@ http://sagi.typepad.com/treding_the_vc_waters/Picture1_1.jpg
 #EXTINF:-1,#0
 http://playlist.onlybest.tv/en/channel/d3868b0930104dfc477b435d4bf18b4f/611/index.m3u8
 #EXTINF:-1 group-title="España",#0 Opc. 2
-http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/611/index.m3u8
+http://playlist.onlybest.tv/ru/channel/45d923b700bdbb53af22c8219ae034ac/611/index.m3u8
 #EXTINF:-1  group-title="España 2",#0
 http://10gbs.edgelink.ovh:8000/live/dosdispositivos/smartv.kodi/99.m3u8
 #EXTINF:-1  group-title="España 2",#0 HD
