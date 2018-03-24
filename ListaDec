@@ -48,7 +48,7 @@ https://mdslivehls-i.akamaihd.net/hls/live/571648/divinity/bitrate_1.m3u8
 #EXTINF:-1  group-title="España 2",PARAMOUNT CHANNEL
 http://10gbs.edgelink.ovh:8000/live/dosdispositivos/smartv.kodi/219.m3u8
 #EXTINF:-1  group-title="España 2",DKISS
-http://10gbs.edgelink.ovh:8000/live/dosdispositivos/smartv.kodi/3714.m3u8
+http://xxedge263.livesports.pw/live/verdkiss3547fc28b712503ed6622e/chunklist.m3u8
 #EXTINF:-1  group-title="España 2",TEN
 http://10gbs.edgelink.ovh:8000/live/dosdispositivos/smartv.kodi/3810.m3u8
 #EXTINF:-1  group-title="España 2",DMAX
