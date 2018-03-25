@@ -239,16 +239,21 @@ http://185.231.160.49/607/1/index.m3u8
 http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/566/index.m3u8
 #EXTINF:-1,Bein Sports Opción 3
 http://playlist.onlybest.tv/en/channel/2874e3a9397ce975e8463c76533bcb1e/566/index.m3u8
+#EXTINF:-1,Bein Sports Opción 4
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/574/index.m3u8
+
 #EXTINF:-1,Bein LaLiga opción 1
 http://playlist.onlybest.tv/en/channel/2874e3a9397ce975e8463c76533bcb1e/574/index.m3u8
 #EXTINF:-1,Bein LaLiga opción 2
-http://192.99.39.218:25461/live/arodriguez/arodriguez/5738.ts
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/574/index.m3u8
 #EXTINF:-1 ,group-title="MOVISTAR+" tvg-logo="http://www.movistarplus.es/recorte/m-NEO/guiapc/BELIG1.png", BEIN LA LIGA (Opc. 3)
 http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/574/index.m3u8
+
 #EXTINF:-1,laligatv
 http://185.231.160.49/614/1/index.m3u8
 #EXTINF:-1 ,group-title="MOVISTAR+" tvg-logo="http://www.movistarplus.es/recorte/m-NEO/guiapc/BELIG1.png", LA LIGA TV (Opc. 2)
 http://playlist.onlybest.tv/ru/channel/45d923b700bdbb53af22c8219ae034ac/581/index.m3u8
+
 #EXTINF:-1,Moto GP
 http://185.231.160.49/652/1/index.m3u8
 #EXTINF:-1 tvg-logo="http://cinealplay.com/assets/images/espana/movistar-motogp.png", M+ MotoGP HD
@@ -257,6 +262,7 @@ http://playlist.onlybest.tv/ru/channel/45d923b700bdbb53af22c8219ae034ac/613/inde
 http://89.38.98.85:8080/live/Reda/Reda/9683.m3u8
 #EXTINF:-1,M+ MotoGP HD (Opc. 4)
 http://playlist.onlybest.tv/ru/channel/45d923b700bdbb53af22c8219ae034ac/613/index.m3u8
+
 #EXTINF:-1,Formula 1
 http://185.231.160.49/651/1/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.andorratelecom.ad/documents/33347/112493/movistar+formula+1-01.png/9492b402-dda4-b2b5-469f-bd831294680f?t=1487255283758", M+ Formula 1 HD (Opc. 2)
@@ -267,6 +273,7 @@ http://89.38.98.85:8080/live/Reda/Reda/9686.m3u8
 http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/612/index.m3u8
 #EXTINF:-1,M+ Formula 1 HD (Opc. 5)
 http://playlist.onlybest.tv/ru/channel/45d923b700bdbb53af22c8219ae034ac/612/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Movistar_F%C3%BAtbol.svg/1200px-Movistar_F%C3%BAtbol.svg.png", M+ Futbol HD
 http://playlist.onlybest.tv/ru/channel/45d923b700bdbb53af22c8219ae034ac/575/index.m3u8
 #EXTINF:-1 tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/c/c3/MovistarDeportes1.png/revision/latest?cb=20160818140254" group-title="ESPANHA",MOVISTAR DEPORTES 1 (Copyright © 2018 by TeamBlue)
