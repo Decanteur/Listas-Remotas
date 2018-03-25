@@ -44,7 +44,7 @@ http://copo1.mitopo.me/live/energy/index.m3u8?token=nJuP1EJVEJAtsaZdbcgliA&expir
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/744781470946852864/nz8sp439_400x400.jpg",FDF
 https://mdslivehls-i.akamaihd.net/hls/live/571650/fdf/bitrate_1.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.sincroguia.tv/uploads/images/b/e/-/xbe-mad-1.jpg.pagespeed.ic.rDna1IN19j.jpg",Be Mad TV
-http://copo2.mitopo.me/live/bemad/index.m3u8?token=DGcurmhl3SbgrowvJa4k1A&expires=1521917096
+https://mdslivehlsb-i.akamaihd.net/hls/live/623615/bemad/bitrate_4.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/744781228683857920/2hIDK_eo_400x400.jpg",Divinity
 https://mdslivehls-i.akamaihd.net/hls/live/571648/divinity/bitrate_1.m3u8
 #EXTINF:-1  group-title="España 2",PARAMOUNT CHANNEL
@@ -294,6 +294,8 @@ http://3-120heat.pulsedmedia.com/public-llave1/list/public/f0xsports2-q3.php/ind
 http://3-120heat.pulsedmedia.com/public-llave1/list/public/f0xsports3.php/Stream(04)/index.m3u8
 #EXTINF:-1 tvg-logo="https://imagenes.cablevisionfibertel.com.ar:7007/servlet/cv/1132.png", ESPN +
 http://3-120heat.pulsedmedia.com/public-llave1/list/public/espn_plus.php/Stream(04)/index.m3u8
+#EXTINF:-1,ESPN Deportes
+http://51.15.222.188/live/espndeportes/index.m3u8
 #EXTINF:-1  group-title="España 2",EUROSPORT 1
 http://10gbs.edgelink.ovh:8000/live/dosdispositivos/smartv.kodi/159.m3u8
 #EXTINF:-1  group-title="España 2",EUROSPORT 1 HD
