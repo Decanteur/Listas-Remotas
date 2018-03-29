@@ -86,6 +86,18 @@ http://cls.elitehd-audiovisuales.com/olsevilla/livestream1/chunklist.m3u8
 #EXTINF:-1 tvg-logo="", MALAGA-ONDALUZ TV
 http://cls.elitehd-audiovisuales.com/olmalaga/livestream1/chunklist.m3u8
 
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<items>
+ 
+<item>
+<title>CANAL SUR</title>
+<link>plugin://plugin.video.youtube/play/?video_id=8NxMdfHreT4</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+</items>
+
 
 #EXTINF:-1,***MOVISTAR+***
 http://sagi.typepad.com/treding_the_vc_waters/Picture1_1.jpg
