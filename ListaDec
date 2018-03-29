@@ -48,7 +48,7 @@ https://mdslivehlsb-i.akamaihd.net/hls/live/623615/bemad/bitrate_4.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/744781228683857920/2hIDK_eo_400x400.jpg",Divinity
 https://mdslivehls-i.akamaihd.net/hls/live/571648/divinity/bitrate_1.m3u8
 #EXTINF:-1  group-title="España 2",PARAMOUNT CHANNEL
-http://10gbs.edgelink.ovh:8000/live/dosdispositivos/smartv.kodi/219.m3u8
+http://paramount.live.flumotion.com/live/chunks.m3u8
 #EXTINF:-1  group-title="España 2",DKISS
 http://xxedge263.livesports.pw/live/verdkiss3547fc28b712503ed6622e/chunklist.m3u8
 #EXTINF:-1  group-title="España 2",TEN
