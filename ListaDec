@@ -54,7 +54,7 @@ http://xxedge263.livesports.pw/live/verdkiss3547fc28b712503ed6622e/chunklist.m3u
 #EXTINF:-1  group-title="España 2",TEN
 http://10gbs.edgelink.ovh:8000/live/dosdispositivos/smartv.kodi/3810.m3u8
 #EXTINF:-1  group-title="España 2",DMAX
-http://xxedge261.livesports.pw/live/verdmax4c05ab947ed6eac4e205909/chunklist.m3u8?md5=mUaBV17eRGp5elOto-joGA&expires=1522522226
+http://xxedge261.livesports.pw/live/verdmax4c05ab947ed6eac4e205909/chunklist.m3u8
 #EXTINF:-1  group-title="España 2",BOING
 https://mdslivehlsb-i.akamaihd.net/hls/live/623616/boing/bitrate_1.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/Sexta.jpg",LA SEXTA
