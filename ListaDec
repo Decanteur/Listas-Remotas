@@ -54,7 +54,7 @@ http://xxedge263.livesports.pw/live/verdkiss3547fc28b712503ed6622e/chunklist.m3u
 #EXTINF:-1  group-title="España 2",TEN
 http://10gbs.edgelink.ovh:8000/live/dosdispositivos/smartv.kodi/3810.m3u8
 #EXTINF:-1  group-title="España 2",DMAX
-http://xxedge261.livesports.pw/live/verdmax4c05ab947ed6eac4e205909/chunklist.m3u8
+http://154.16.149.50:8088/stream/maxxxxxxxxxxxxf/playlist.m3u8
 #EXTINF:-1  group-title="España 2",BOING
 https://mdslivehlsb-i.akamaihd.net/hls/live/623616/boing/bitrate_1.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/Sexta.jpg",LA SEXTA
@@ -82,7 +82,7 @@ http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/laotra1/index.m3u8
 #EXTINF:0 tvg-logo="http://1.bp.blogspot.com/-P3c2yfE1Uww/U-OUmhP67hI/AAAAAAAAAjI/15wK6GsidUY/s185-c/ondaluzendirectoenvivo.png" group-title="España",CANAL MÁLAGA RTV
 http://canalmalaga-tv-live.flumotion.com/chunks.m3u8
 #EXTINF:-1 tvg-logo="", 101 TV MALAGA
-http://cls2.todostreaming.eu/101tv/livestream101Tv/playlist.m3u8
+http://cls2.todostreaming.eu/101tv/livestream101Tv/chunklist.m3u8
 #EXTINF:-1 tvg-logo="", SEVILLA-ONDALUZ TV
 http://cls.elitehd-audiovisuales.com/olsevilla/livestream1/chunklist.m3u8
 #EXTINF:-1 tvg-logo="", MALAGA-ONDALUZ TV
