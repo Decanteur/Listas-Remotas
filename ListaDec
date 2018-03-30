@@ -54,15 +54,15 @@ http://xxedge263.livesports.pw/live/verdkiss3547fc28b712503ed6622e/chunklist.m3u
 #EXTINF:-1  group-title="España 2",TEN
 http://10gbs.edgelink.ovh:8000/live/dosdispositivos/smartv.kodi/3810.m3u8
 #EXTINF:-1  group-title="España 2",DMAX
-http://10gbs.edgelink.ovh:8000/live/dosdispositivos/smartv.kodi/791.m3u8
+http://xxedge261.livesports.pw/live/verdmax4c05ab947ed6eac4e205909/chunklist.m3u8?md5=mUaBV17eRGp5elOto-joGA&expires=1522522226
 #EXTINF:-1  group-title="España 2",BOING
 https://mdslivehlsb-i.akamaihd.net/hls/live/623616/boing/bitrate_1.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/Sexta.jpg",LA SEXTA
 http://a3live-lh.akamaihd.net/i/lasexta_1@35272/master.m3u8
 #EXTINF:-1,DISNEY CHANNEL HD
-http://89.38.98.85:8080/live/Reda/Reda/9710.m3u8
+http://xxedge263.livesports.pw/live/verdisneychannelb3cece21d/chunklist.m3u8?md5=0ED_z2vtlGt1saTGjwkiYg&expires=1522523174
 #EXTINF:-1  group-title="España 2",MTV ESPAÑA
-http://10gbs.edgelink.ovh:8000/live/dosdispositivos/smartv.kodi/201.m3u8
+http://copo6.mitopo.me/live/mtv/index.m3u8?token=h9F2zN-RmnuQkpS9aylB3g&expires=1522521642
 #EXTINF:-1 tvg-logo="http://m.canalextremadura.es/sites/all/themes/canalex_2016/images/canalex/logotipo@2x.png", Canal Extremadura
 http://hlstv.canalextremadura.es/livetv/smil:multistream.smil/playlist.m3u8
 EXTINF:-1 tvg-logo="http://www.canalextremadura.es/sites/all/themes/canalex_2016/images/canalex/logotipo.png" group-title="España",CANAL EXTREMADURA Opc. 2
@@ -81,6 +81,8 @@ http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/telemadrid1/bitrate
 http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/laotra1/index.m3u8
 #EXTINF:0 tvg-logo="http://1.bp.blogspot.com/-P3c2yfE1Uww/U-OUmhP67hI/AAAAAAAAAjI/15wK6GsidUY/s185-c/ondaluzendirectoenvivo.png" group-title="España",CANAL MÁLAGA RTV
 http://canalmalaga-tv-live.flumotion.com/chunks.m3u8
+#EXTINF:-1 tvg-logo="", 101 TV MALAGA
+http://cls2.todostreaming.eu/101tv/livestream101Tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="", SEVILLA-ONDALUZ TV
 http://cls.elitehd-audiovisuales.com/olsevilla/livestream1/chunklist.m3u8
 #EXTINF:-1 tvg-logo="", MALAGA-ONDALUZ TV
@@ -98,7 +100,7 @@ http://playlist.onlybest.tv/en/channel/d3868b0930104dfc477b435d4bf18b4f/611/inde
 #EXTINF:-1  group-title="España 2",#0 HD
 http://10gbs.edgelink.ovh:8000/live/dosdispositivos/smartv.kodi/100.m3u8
 #EXTINF:-1  group-title="España 2",MOVISTAR ESTRENOS
-http://10gbs.edgelink.ovh:8000/live/dosdispositivos/smartv.kodi/192.m3u8
+http://copo4.mitopo.me/live/plusestrenos/index.m3u8?token=43KAN5jKhTvR2ljlh7lwDw&expires=1522521421
 #EXTINF:-1  group-title="España 2",MOVISTAR ESTRENOS HD
 http://10gbs.edgelink.ovh:8000/live/dosdispositivos/smartv.kodi/255.m3u8
 #EXTINF:-1  group-title="España 2",MOVISTAR  ACCION
@@ -111,6 +113,8 @@ http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/568/inde
 http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/606/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Movistar_DCine.svg/1200px-Movistar_DCine.svg.png", M+ DCine
 http://playlist.onlybest.tv/ru/channel/57130b963cf73960c05f8ec9eb7db0e9/607/index.m3u8
+#EXTINF:-1,MOVISTAR DISNEY
+http://xxedge262.livesports.pw/live/vermdisney4fe56a2fafa38ae9670f/chunklist.m3u8?md5=1lPXYhC5_jDEV3y79mTUNw&expires=1522521527
 #EXTINF:-1  group-title="España 2",CALLE 13
 http://10gbs.edgelink.ovh:8000/live/dosdispositivos/smartv.kodi/134.m3u8
 #EXTINF:-1  group-title="España 2",CALLE 13 HD
@@ -156,7 +160,7 @@ http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/609/inde
 #EXTINF:-1  group-title="España 2",AXN WHITE HD
 http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/609/index.m3u8
 #EXTINF:-1  group-title="España 2",AMC
-http://10gbs.edgelink.ovh:8000/live/dosdispositivos/smartv.kodi/103.m3u8
+http://copo5.mitopo.me/live/amc/index.m3u8?token=XMvaxhtI5kjdRWshu6elVw&expires=1522521795
 #EXTINF:-1  group-title="España 2",AMC HD
 http://10gbs.edgelink.ovh:8000/live/dosdispositivos/smartv.kodi/104.m3u8
 #EXTINF:-1 tvg-logo="http://dshm.tmsimg.com/h5/NowShowing/75423/s75423_h5_aa.png",FOX
@@ -176,43 +180,45 @@ http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/577/inde
 #EXTINF:-1 tvg-logo="https://ulango.tv/uploads/channels/11151/logo_canal%20hollywood3.png",Hollywood HD (Opc. 2)
 http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/577/index.m3u8
 #EXTINF:-1  group-title="España 2",TNT
-http://10gbs.edgelink.ovh:8000/live/dosdispositivos/smartv.kodi/231.m3u8
+http://copo5.mitopo.me/live/tnt/index.m3u8?token=aBkFgObXvYu2IbwAkdfIWQ&expires=1522521905
 #EXTINF:-1  group-title="España 2",TNT HD
 http://10gbs.edgelink.ovh:8000/live/dosdispositivos/smartv.kodi/232.m3u8
 #EXTINF:-1  group-title="España 2",SYFY
-http://10gbs.edgelink.ovh:8000/live/dosdispositivos/smartv.kodi/224.m3u8
+http://copo2.mitopo.me/live/syfy/index.m3u8?token=F0ogaoaf1unEjPDZ6pZFiA&expires=1522521723
 #EXTINF:-1  group-title="España 2",SYFY HD
 http://10gbs.edgelink.ovh:8000/live/dosdispositivos/smartv.kodi/264.m3u8
+#EXTINF:-1  group-title="España 2",LIFE TV
+http://178.132.6.97/uzivo/lifetvesp/playlist.m3u8
 #EXTINF:-1  group-title="España 2",CANAL DECASA
 http://10gbs.edgelink.ovh:8000/live/dosdispositivos/smartv.kodi/136.m3u8
 #EXTINF:-1  group-title="España 2",CANAL COCINA
-http://10gbs.edgelink.ovh:8000/live/dosdispositivos/smartv.kodi/3327.m3u8
+http://copo1.mitopo.me/live/cocina/index.m3u8?token=1i3mqEc0cA6zv2pT3oh5SQ&expires=1522520298
 #EXTINF:-1  group-title="España 2",CANAL COCINA HD
-http://10gbs.edgelink.ovh:8000/live/dosdispositivos/smartv.kodi/3785.m3u8
+http://copo3.mitopo.me/live/cocina/index.m3u8?token=Yiq5IQ59hzDT3IRmdT0teA&expires=1522522499
 #EXTINF:-1  group-title="España 2",DISNEY XD
 http://10gbs.edgelink.ovh:8000/live/dosdispositivos/smartv.kodi/154.m3u8
 #EXTINF:-1  group-title="España 2",DISNEY JR
 http://10gbs.edgelink.ovh:8000/live/dosdispositivos/smartv.kodi/153.m3u8
 #EXTINF:-1  group-title="España 2",DISCOVERY CHANNEL
-http://10gbs.edgelink.ovh:8000/live/dosdispositivos/smartv.kodi/151.m3u8
+http://copo6.mitopo.me/live/discovery/index.m3u8?token=KDnWZxRZoFZ8JIFK-2RUTQ&expires=1522522147
 #EXTINF:-1  group-title="España 2",DISCOVERY CHANNEL HD
 http://10gbs.edgelink.ovh:8000/live/dosdispositivos/smartv.kodi/3707.m3u8
 #EXTINF:-1  group-title="España 2",NATIONAL  GEOGRAPHIC
-http://10gbs.edgelink.ovh:8000/live/dosdispositivos/smartv.kodi/204.m3u8
+http://copo5.mitopo.me/live/nationalgeo/index.m3u8?token=eXjR_CwpH8QwPV1I14x64A&expires=1522522277
 #EXTINF:-1  group-title="España 2",National Geographic HD
 http://10gbs.edgelink.ovh:8000/live/dosdispositivos/smartv.kodi/258.m3u8
 #EXTINF:-1  group-title="España 2",NatGeo Wild Spain
-http://10gbs.edgelink.ovh:8000/live/dosdispositivos/smartv.kodi/594.m3u8
+http://copo5.mitopo.me/live/nationalwild/index.m3u8?token=Y85LTK5XYwqt96BwvmAt3Q&expires=1522522094
 #EXTINF:-1  group-title="España 2",HISTORIA
-http://10gbs.edgelink.ovh:8000/live/dosdispositivos/smartv.kodi/167.m3u8
+http://copo5.mitopo.me/live/historia/index.m3u8?token=4zH6Yr0FjdVvGCIPSfOtWQ&expires=1522522052
 #EXTINF:-1  group-title="España 2",HISTORIA  HD
 http://10gbs.edgelink.ovh:8000/live/dosdispositivos/smartv.kodi/3711.m3u8
 #EXTINF:-1  group-title="España 2",CRIMEN Y INVES
-http://10gbs.edgelink.ovh:8000/live/dosdispositivos/smartv.kodi/132.m3u8
+http://xxedge262.livesports.pw/live/vercrimenyinvestigacioneb/chunklist.m3u8?md5=a0uRQFF9AWTN-YdHOAH1lA&expires=1522522454
 #EXTINF:-1  group-title="España 2",A+E
-http://10gbs.edgelink.ovh:8000/live/dosdispositivos/smartv.kodi/101.m3u8
+http://xxedge263.livesports.pw/live/veranadetelefive17669f5d28e4d7/chunklist.m3u8?md5=3yOi9rnZ_2FhYuacMlOIZQ&expires=1522522644
 #EXTINF:-1  group-title="España 2",ODISSEA
-http://10gbs.edgelink.ovh:8000/live/dosdispositivos/smartv.kodi/589.m3u8
+http://xxedge266.livesports.pw/live/verodiseatelef121d54573d3192a6/chunklist.m3u8?md5=Ky4HcMJJHCBoYZB8uy5xpQ&expires=1522522001
 #EXTINF:-1  group-title="España 2",ODISSEA HD
 http://10gbs.edgelink.ovh:8000/live/dosdispositivos/smartv.kodi/3710.m3u8
 #EXTINF:-1  group-title="España 2",Non Stop HD
@@ -220,17 +226,17 @@ http://10gbs.edgelink.ovh:8000/live/dosdispositivos/smartv.kodi/3782.m3u8
 #EXTINF:-1  group-title="España 2",VIAJAR HD
 http://10gbs.edgelink.ovh:8000/live/dosdispositivos/smartv.kodi/268.m3u8
 #EXTINF:-1  group-title="España 2",CAZA Y PESCA
-http://10gbs.edgelink.ovh:8000/live/dosdispositivos/smartv.kodi/141.m3u8
+http://xxedge264.livesports.pw/live/vercazaypesca65b3f60d9f53/chunklist.m3u8?md5=i9FZ_ZeJF5nL-Y4Dvhzfag&expires=1522522602
 #EXTINF:-1  group-title="España 2",CAZA Y PESCA HD
 http://10gbs.edgelink.ovh:8000/live/dosdispositivos/smartv.kodi/142.m3u8
 #EXTINF:-1  group-title="España 2",IBERALIA TV
 http://10gbs.edgelink.ovh:8000/live/dosdispositivos/smartv.kodi/170.m3u8
 #EXTINF:-1  group-title="España 2",Iberalia TV HD
-http://10gbs.edgelink.ovh:8000/live/dosdispositivos/smartv.kodi/3781.m3u8
+https://input2.fractalmedia.es/hls/iberaliatv.m3u8
 #EXTINF:-1  group-title="España 2",TOROS
-http://10gbs.edgelink.ovh:8000/live/dosdispositivos/smartv.kodi/233.m3u8
+http://petu16.pedromo.me/live/toros/index.m3u8?token=AF-A9vnLe2Uye6WnGGVklQ&expires=1522520434
 #EXTINF:-1  group-title="España 2",TOROS TV HD
-http://10gbs.edgelink.ovh:8000/live/dosdispositivos/smartv.kodi/266.m3u8
+http://petu13.pedromo.me/live/toros/index.m3u8?token=CFb4y_3ZyNVcldmoXWU7ng&expires=1522522564
 #EXTINF:-1 tvg-logo="https://i1.wp.com/directostv.teleame.com/wp-content/uploads/2017/09/Canal-Sur-Cocina.png?resize=324%2C235",CanalSur Cocina
 http://cast.streamingconnect.com:1935/cscocina/cscocina/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.parsatv.com/index_files/channels/miamitv.png", Miami TV USA
