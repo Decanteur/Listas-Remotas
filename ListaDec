@@ -73,8 +73,12 @@ http://10gbs.edgelink.ovh:8000/live/dosdispositivos/smartv.kodi/3812.m3u8
 https://www.youtube.com/watch?v=8NxMdfHreT4
 #EXTINF:-1  group-title="España 2",CANAL SUR COCINA
 http://173.212.214.184:1935/cscocina/cscocina/chunklist_w320014621.m3u8
+#EXTINF:-1 tvg-logo="https://i1.wp.com/directostv.teleame.com/wp-content/uploads/2017/09/Canal-Sur-Cocina.png?resize=324%2C235",CanalSur Cocina
+http://cast.streamingconnect.com:1935/cscocina/cscocina/playlist.m3u8
 #EXTINF:-1 tvg-logo="",13 TV
 http://streaming.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/mobile/playlist.m3u8
+#EXTINF:-1,Intereconomia TV
+http://streaming.enetres.net/16011939C62D44ED91350508FB25828B021/smil:live.smil/master.m3u8
 #EXTINF:-1  group-title="España 2",TELEMADRID
 http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/telemadrid1/bitrate_1.m3u8
 #EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/laotra.jpg",LA OTRA
@@ -239,8 +243,8 @@ https://input2.fractalmedia.es/hls/iberaliatv.m3u8
 http://petu16.pedromo.me/live/toros/index.m3u8?token=AF-A9vnLe2Uye6WnGGVklQ&expires=1522520434
 #EXTINF:-1  group-title="España 2",TOROS TV HD
 http://petu13.pedromo.me/live/toros/index.m3u8?token=CFb4y_3ZyNVcldmoXWU7ng&expires=1522522564
-#EXTINF:-1 tvg-logo="https://i1.wp.com/directostv.teleame.com/wp-content/uploads/2017/09/Canal-Sur-Cocina.png?resize=324%2C235",CanalSur Cocina
-http://cast.streamingconnect.com:1935/cscocina/cscocina/playlist.m3u8
+#EXTINF:-1,Miami TV ESP
+http://spainserver.miamitvchannel.com/miamitv/smil:miamitvspain/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.parsatv.com/index_files/channels/miamitv.png", Miami TV USA
 http://usaserver.miamitvchannel.com/miamitv/smil:miamitv/playlist.m3u8
 
