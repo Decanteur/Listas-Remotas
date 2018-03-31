@@ -37,7 +37,7 @@ https://livehlsdai-i.akamaihd.net/hls/live/571643/cuatro/bitrate_1.m3u8
 #EXTINF:-1 tvg-logo="https://i2.wp.com/iptvsmartv.files.wordpress.com/2017/04/telecinco_circular_500.png?ssl=1&w=450",Telecinco
 http://telecinco-mediaset-esp-live.secure.footprint.net/mediaset/telecinco/stream1/streamPlaylist.m3u8
 #EXTINF:-1,Telecinco Opc. 2
-https://livehlsdai-i.akamaihd.net/hls/live/571640/telecinco/bitrate_1.m3u8
+http://playlist.onlybest.tv/ru/channel/45d923b700bdbb53af22c8219ae034ac/617/index.m3u8
 
 #EXTINF:-1, group-title="tv" tvg-logo="http://www.formulatv.com/fotos/a/9000/9225/l47xp2wnn9sgxixifo52a8c3d3a5b26_energy.png", Energy
 https://mdslivehlsb-i.akamaihd.net/hls/live/623617/energy/bitrate_1.m3u8
@@ -160,9 +160,11 @@ http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/609/inde
 #EXTINF:-1  group-title="España 2",AXN WHITE HD
 http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/609/index.m3u8
 #EXTINF:-1  group-title="España 2",AMC
-http://copo5.mitopo.me/live/amc/index.m3u8?token=XMvaxhtI5kjdRWshu6elVw&expires=1522521795
+http://playlist.onlybest.tv/ru/channel/6c53126176d7d597cbe6ffbb0c5fbf49/614/index.m3u8
 #EXTINF:-1  group-title="España 2",AMC HD
-http://10gbs.edgelink.ovh:8000/live/dosdispositivos/smartv.kodi/104.m3u8
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/614/index.m3u8
+#EXTINF:-1, AMC España HD
+http://playlist.onlybest.tv/ru/channel/57130b963cf73960c05f8ec9eb7db0e9/614/index.m3u8
 #EXTINF:-1 tvg-logo="http://dshm.tmsimg.com/h5/NowShowing/75423/s75423_h5_aa.png",FOX
 http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/608/index.m3u8
 #EXTINF:-1  group-title="España 2",FOX (Opc. 2)
@@ -198,7 +200,7 @@ http://copo3.mitopo.me/live/cocina/index.m3u8?token=Yiq5IQ59hzDT3IRmdT0teA&expir
 #EXTINF:-1  group-title="España 2",DISNEY XD
 http://10gbs.edgelink.ovh:8000/live/dosdispositivos/smartv.kodi/154.m3u8
 #EXTINF:-1  group-title="España 2",DISNEY JR
-http://10gbs.edgelink.ovh:8000/live/dosdispositivos/smartv.kodi/153.m3u8
+http://playlist.onlybest.tv/ru/channel/57130b963cf73960c05f8ec9eb7db0e9/604/index.m3u8
 #EXTINF:-1  group-title="España 2",DISCOVERY CHANNEL
 http://copo6.mitopo.me/live/discovery/index.m3u8?token=KDnWZxRZoFZ8JIFK-2RUTQ&expires=1522522147
 #EXTINF:-1  group-title="España 2",DISCOVERY CHANNEL HD
@@ -224,13 +226,13 @@ http://10gbs.edgelink.ovh:8000/live/dosdispositivos/smartv.kodi/3710.m3u8
 #EXTINF:-1  group-title="España 2",Non Stop HD
 http://10gbs.edgelink.ovh:8000/live/dosdispositivos/smartv.kodi/3782.m3u8
 #EXTINF:-1  group-title="España 2",VIAJAR HD
-http://10gbs.edgelink.ovh:8000/live/dosdispositivos/smartv.kodi/268.m3u8
+http://31.13.223.104:1935/travel/community.stream/chunklist_w511463959.m3u8
 #EXTINF:-1  group-title="España 2",CAZA Y PESCA
 http://xxedge264.livesports.pw/live/vercazaypesca65b3f60d9f53/chunklist.m3u8?md5=i9FZ_ZeJF5nL-Y4Dvhzfag&expires=1522522602
 #EXTINF:-1  group-title="España 2",CAZA Y PESCA HD
 http://10gbs.edgelink.ovh:8000/live/dosdispositivos/smartv.kodi/142.m3u8
 #EXTINF:-1  group-title="España 2",IBERALIA TV
-http://10gbs.edgelink.ovh:8000/live/dosdispositivos/smartv.kodi/170.m3u8
+http://playlist.onlybest.tv/ru/channel/57130b963cf73960c05f8ec9eb7db0e9/603/index.m3u8
 #EXTINF:-1  group-title="España 2",Iberalia TV HD
 https://input2.fractalmedia.es/hls/iberaliatv.m3u8
 #EXTINF:-1  group-title="España 2",TOROS
@@ -247,7 +249,7 @@ http://usaserver.miamitvchannel.com/miamitv/smil:miamitv/playlist.m3u8
 http://sagi.typepad.com/treding_the_vc_waters/Picture1_1.jpg
 
 #EXTINF:-1,Bein sport
-http://185.231.160.49/607/1/index.m3u8
+http://playlist.onlybest.tv/ru/channel/6c53126176d7d597cbe6ffbb0c5fbf49/566/index.m3u8
 #EXTINF:-1,beIN Sports Opción 2
 http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/566/index.m3u8
 #EXTINF:-1,Bein Sports Opción 3
@@ -309,6 +311,8 @@ http://3-120heat.pulsedmedia.com/public-llave1/list/public/f0xsports3.php/Stream
 http://3-120heat.pulsedmedia.com/public-llave1/list/public/espn_plus.php/Stream(04)/index.m3u8
 #EXTINF:-1,ESPN Deportes
 http://51.15.222.188/live/espndeportes/index.m3u8
+#EXTINF:-1,MOVISTAR TODO DEPORTES
+http://190.92.0.43:1935/securelive/tdtv85jd5EKL3xWq3/chunklist_w1241310319.m3u8
 #EXTINF:-1  group-title="España 2",EUROSPORT 1
 http://10gbs.edgelink.ovh:8000/live/dosdispositivos/smartv.kodi/159.m3u8
 #EXTINF:-1  group-title="España 2",EUROSPORT 1 HD
@@ -358,3 +362,5 @@ http://wow01.105.net/live/virgin1/chunklist_w25732073.m3u8?JoCaRoIPTV.m3u8
 http://10gbs.edgelink.ovh:8000/live/dosdispositivos/smartv.kodi/3682.m3u8
 #EXTINF:-1  group-title="España 2",CADENA ELITE
 http://10gbs.edgelink.ovh:8000/live/dosdispositivos/smartv.kodi/3324.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oAdVLb8.png" group-title="ARGENTINA", Music Top | HD
+http://live-edge01.telecentro.net.ar/live/msctphd-720/playlist.m3u8
