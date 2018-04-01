@@ -85,6 +85,8 @@ http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/telemadrid1/bitrate
 http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/laotra1/index.m3u8
 #EXTINF:0 tvg-logo="http://1.bp.blogspot.com/-P3c2yfE1Uww/U-OUmhP67hI/AAAAAAAAAjI/15wK6GsidUY/s185-c/ondaluzendirectoenvivo.png" group-title="España",CANAL MÁLAGA RTV
 http://canalmalaga-tv-live.flumotion.com/chunks.m3u8
+#EXTINF:-1,7 MURCIA
+http://rtvmurcia_01-lh.akamaihd.net/i/rtvmurcia_1_0@507973/master.m3u8
 #EXTINF:-1 tvg-logo="", 101 TV MALAGA
 http://cls2.todostreaming.eu/101tv/livestream101Tv/chunklist.m3u8
 #EXTINF:-1 tvg-logo="", SEVILLA-ONDALUZ TV
@@ -352,6 +354,8 @@ http://10gbs.edgelink.ovh:8000/live/dosdispositivos/smartv.kodi/4006.m3u8
 http://kissfm-cires21-video.secure.footprint.net/hittv/master.m3u8
 #EXTINF:-1  group-title="España 2",HIT TV (Opc. 2)
 http://10gbs.edgelink.ovh:8000/live/dosdispositivos/smartv.kodi/4008.m3u8
+#EXTINF:-1,Hit TV (Opc. 3)
+http://kissfm-cires21-video.secure.footprint.net/hittv/bitrate_3.m3u8
 #EXTINF:0 type="stream" channelId="-1" tvg-logo="http://www.liveradio.ie/files/images/119710/resized/180x172c/logo_toplatino_300x300.jpg"group-title="MUSICA", TOP LATINO
 http://online.radiodifusion.net:1935/livetv/latinoSD.stream/chunklist_w430979689.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/p2c8bPp.png" group-title="MUSICA", MTV LIVE
