@@ -70,7 +70,7 @@ http://hlstv.canalextremadura.es/livetv/smil:multistream.smil/chunklist_b1596000
 #EXTINF:-1  group-title="España 2",CANAL SUR
 http://10gbs.edgelink.ovh:8000/live/dosdispositivos/smartv.kodi/3812.m3u8
 #EXTINF:-1  group-title="España 2",CANAL SUR Opc. 2
-https://www.youtube.com/watch?v=8NxMdfHreT4
+http://cls.todostreaming.eu/unatv/live/chunklist.m3u8
 #EXTINF:-1  group-title="España 2",CANAL SUR COCINA
 http://173.212.214.184:1935/cscocina/cscocina/chunklist_w320014621.m3u8
 #EXTINF:-1 tvg-logo="https://i1.wp.com/directostv.teleame.com/wp-content/uploads/2017/09/Canal-Sur-Cocina.png?resize=324%2C235",CanalSur Cocina
@@ -92,7 +92,7 @@ http://cls2.todostreaming.eu/101tv/livestream101Tv/chunklist.m3u8
 #EXTINF:-1 tvg-logo="", SEVILLA-ONDALUZ TV
 http://cls.elitehd-audiovisuales.com/olsevilla/livestream1/chunklist.m3u8
 #EXTINF:-1 tvg-logo="", MALAGA-ONDALUZ TV
-http://cls.elitehd-audiovisuales.com/olmalaga/livestream1/chunklist.m3u8
+http://dsn6jqegjeixj.cloudfront.net/ondaazul-live/video/playlist.m3u8
 
 #EXTINF:-1,***MOVISTAR+***
 http://sagi.typepad.com/treding_the_vc_waters/Picture1_1.jpg
@@ -249,19 +249,22 @@ http://petu13.pedromo.me/live/toros/index.m3u8?token=CFb4y_3ZyNVcldmoXWU7ng&expi
 http://spainserver.miamitvchannel.com/miamitv/smil:miamitvspain/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.parsatv.com/index_files/channels/miamitv.png", Miami TV USA
 http://usaserver.miamitvchannel.com/miamitv/smil:miamitv/playlist.m3u8
+#EXTINF:-1,Sobrenatural Tv
+http://213.13.26.11:1935/live/sobrenaturaltv/livestream.m3u8
 
 
 #EXTINF:-1,***DEPORTES***
 http://sagi.typepad.com/treding_the_vc_waters/Picture1_1.jpg
 
-#EXTINF:-1,Bein sport
-http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/566/index.m3u8
+#EXTINF:-1,BEIN SPORTS
+http://playlist.onlybest.tv/ru/channel/6c53126176d7d597cbe6ffbb0c5fbf49/566/index.m3u8
 #EXTINF:-1,beIN Sports Opción 2
 http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/566/index.m3u8
 #EXTINF:-1,Bein Sports Opción 3
 http://playlist.onlybest.tv/en/channel/2874e3a9397ce975e8463c76533bcb1e/566/index.m3u8
 #EXTINF:-1,Bein Sports Opción 4
 http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/574/index.m3u8
+
 
 #EXTINF:-1,Bein LaLiga opción 1
 http://playlist.onlybest.tv/ru/channel/6c53126176d7d597cbe6ffbb0c5fbf49/574/index.m3u8
