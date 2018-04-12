@@ -249,8 +249,7 @@ http://petu13.pedromo.me/live/toros/index.m3u8?token=CFb4y_3ZyNVcldmoXWU7ng&expi
 http://spainserver.miamitvchannel.com/miamitv/smil:miamitvspain/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.parsatv.com/index_files/channels/miamitv.png", Miami TV USA
 http://usaserver.miamitvchannel.com/miamitv/smil:miamitv/playlist.m3u8
-#EXTINF:-1,Sobrenatural Tv
-http://213.13.26.11:1935/live/sobrenaturaltv/livestream.m3u8
+
 
 
 #EXTINF:-1,***DEPORTES***
