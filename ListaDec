@@ -312,6 +312,12 @@ http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/569/inde
 http://10gbs.edgelink.ovh:8000/live/dosdispositivos/smartv.kodi/3329.m3u8
 #EXTINF:-1  group-title="España 2",GOL TV
 http://10gbs.edgelink.ovh:8000/live/dosdispositivos/smartv.kodi/166.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lzIdgGe.jpg" group-title="DEPORTES", ESPN + HD
+http://tecnotv.info/livetv/espn
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Jt9TnsK.jpg" group-title="DEPORTES", ESPN 2 HD
+http://tecnotv.info/livetv/espn2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oBglO9Q.jpg" group-title="DEPORTES", ESPN 3
+http://tecnotv.info/livetv/espn3
 #EXTINF:-1 tvg-logo="https://imagenes.cablevisionfibertel.com.ar:7007/servlet/cv/223.png", Fox Sports
 http://3-120heat.pulsedmedia.com/public-llave1/list/public/f0xsports.php/Stream(04)/index.m3u8
 #EXTINF:-1 tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/8/8e/Fox_Sports_2.png/revision/20160413221614" group-title="Deportes",F0XSPORTS2 op1
