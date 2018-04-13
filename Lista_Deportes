@@ -56,3 +56,7 @@ http://142.44.214.153:58000/live/uruguayiptv_366716/jAJU6d3D2r/11128.m3u8
 https://svglive3-event.level3.nfl.com/nflent3/live/nfl_now/NFLNOW_1200k.m3u8
 #EXTINF:-1,MLB
 http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8
+#EXTINF:0,Bein Sports English
+http://66.70.179.201:25461/live/Blue/Max1094/136.m3u8?ixtlaarreola.m3u8
+#EXTINF:-1,Eurosport 2 HD
+http://playlist.onlybest.tv/ru/channel/45d923b700bdbb53af22c8219ae034ac/78/index.m3u8
