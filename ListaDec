@@ -263,6 +263,10 @@ http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/566/inde
 http://playlist.onlybest.tv/en/channel/2874e3a9397ce975e8463c76533bcb1e/566/index.m3u8
 #EXTINF:-1,Bein Sports Opción 4
 http://lamasu.dragontvapp.com/live/beinsportesp/index.m3u8
+#EXTINF:-0,BEINSPORT HD Opc. 5
+http://playlist.onlybest.tv/ru/channel/45d923b700bdbb53af22c8219ae034ac/574/index.m3u8
+#EXTINF:-1, BEIN SPORTS Opc. 6
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/574/index.m3u8
 
 
 #EXTINF:-1,Bein LaLiga opción 1
@@ -292,8 +296,10 @@ http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/613/inde
 http://playlist.onlybest.tv/ru/channel/45d923b700bdbb53af22c8219ae034ac/613/index.m3u8
 #EXTINF:-1,M.MOTOGP Opc. 3
 http://89.38.98.85:8080/live/Reda/Reda/9683.m3u8
-#EXTINF:-1,M+ MotoGP HD (Opc. 4)
+#EXTINF:-1,M+ MotoGP HD Opc. 4
 http://playlist.onlybest.tv/ru/channel/45d923b700bdbb53af22c8219ae034ac/613/index.m3u8
+#EXTINF:0,Movistar MotoGP Opción 5
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/613/index.m3u8
 
 #EXTINF:-1,Formula 1
 http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/612/index.m3u8
@@ -314,6 +320,7 @@ http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/7378.m3u8
 http://89.38.98.85:8080/live/Reda/Reda/9688.m3u8
 #EXTINF:-1 ,group-title="MOVISTAR+" tvg-logo="http://www.movistarplus.es/recorte/m-NEO/guiapc/GOLF+.png", MOVISTAR GOLF
 http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/569/index.m3u8
+
 #EXTINF:-1  group-title="España 2",TELEDEPORTE HD
 http://10gbs.edgelink.ovh:8000/live/dosdispositivos/smartv.kodi/3329.m3u8
 #EXTINF:-1  group-title="España 2",GOL TV
@@ -346,6 +353,8 @@ http://10gbs.edgelink.ovh:8000/live/dosdispositivos/smartv.kodi/160.m3u8
 http://10gbs.edgelink.ovh:8000/live/dosdispositivos/smartv.kodi/3330.m3u8
 #EXTINF:-1,Eurosport (ENG)
 http://playlist.onlybest.tv/en/channel/2874e3a9397ce975e8463c76533bcb1e/160/index.m3u8
+#EXTINF:0,Eurosport 1 (ENG) opc. 2
+http://65.254.55.10:4000/live/197/197.m3u8
 #EXTINF:-1,Eurosport2 (ENG)
 http://playlist.onlybest.tv/en/channel/2874e3a9397ce975e8463c76533bcb1e/78/index.m3u8
 #EXTINF:0 type="favorites" channelId="805", NBA
