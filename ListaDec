@@ -87,6 +87,8 @@ http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/laotra1/index.m3u8
 http://canalmalaga-tv-live.flumotion.com/chunks.m3u8
 #EXTINF:-1,7 MURCIA
 http://rtvmurcia_01-lh.akamaihd.net/i/rtvmurcia_1_0@507973/master.m3u8
+#EXTINF:-1,CASTILLA-LA MANCHA
+http://klive-a.akamaihd.net/dc-0/live/hls/p/2288691/e/1_c9gw17x6/sd/10000/t/_8qpezTWS_dE9-Jbl4-o-A/index-s32.m3u8
 #EXTINF:-1 tvg-logo="", 101 TV MALAGA
 http://cls2.todostreaming.eu/101tv/livestream101Tv/chunklist.m3u8
 #EXTINF:-1 tvg-logo="", SEVILLA-ONDALUZ TV
@@ -325,6 +327,8 @@ http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/569/inde
 http://10gbs.edgelink.ovh:8000/live/dosdispositivos/smartv.kodi/3329.m3u8
 #EXTINF:-1  group-title="España 2",GOL TV
 http://10gbs.edgelink.ovh:8000/live/dosdispositivos/smartv.kodi/166.m3u8
+#EXTINF:0,Todo Deportes TV
+http://190.92.0.43:1935/securelive/tdtv85jd5EKL3xWq3/chunklist_w1241310319.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lzIdgGe.jpg" group-title="DEPORTES", ESPN + HD
 http://tecnotv.info/livetv/espn
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Jt9TnsK.jpg" group-title="DEPORTES", ESPN 2 HD
@@ -367,6 +371,8 @@ https://svglive3-event.level3.nfl.com/nflent3/live/nfl_now/NFLNOW_1200k.m3u8
 http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8?
 #EXTINF:-1  group-title="España 2",Red Bull Tv HD
 http://10gbs.edgelink.ovh:8000/live/dosdispositivos/smartv.kodi/4226.m3u8
+#EXTINF:0,Extreme Sports Channel
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/47/index.m3u8
 
 
 #EXTINF:-1,***MUSICALES***
