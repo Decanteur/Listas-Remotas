@@ -316,7 +316,7 @@ http://89.38.98.85:8080/live/Reda/Reda/9686.m3u8
 #EXTINF:-1 ,group-title="MOVISTAR+" tvg-logo="http://www.movistarplus.es/recorte/m-NEO/guiapc/MVF1.png", MOVISTAR FORMULA 1 (Opc. 4)
 http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/612/index.m3u8
 #EXTINF:-1,M+ Formula 1 HD (Opc. 5)
-http://playlist.onlybest.tv/ru/channel/45d923b700bdbb53af22c8219ae034ac/612/index.m3u8
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/612/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Movistar_F%C3%BAtbol.svg/1200px-Movistar_F%C3%BAtbol.svg.png", M+ Futbol HD
 http://playlist.onlybest.tv/ru/channel/45d923b700bdbb53af22c8219ae034ac/575/index.m3u8
@@ -338,7 +338,7 @@ http://186.33.227.198/DXTV/smil:DXTV.smil/playlist.m3u8?tecnotv.info?iptv.m3u8
 #EXTINF:0,DXTV DEPORTES opc. 2
 http://186.33.227.198/DXTV/smil:DXTV.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lzIdgGe.jpg" group-title="DEPORTES", ESPN + HD
-http://tecnotv.info/livetv/espn
+http://tvpremiumhd.club/lista-gratuita/paris/s217.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Jt9TnsK.jpg" group-title="DEPORTES", ESPN 2 HD
 http://tecnotv.info/livetv/espn2
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oBglO9Q.jpg" group-title="DEPORTES", ESPN 3
@@ -379,6 +379,8 @@ https://svglive3-event.level3.nfl.com/nflent3/live/nfl_now/NFLNOW_1200k.m3u8
 https://robos2.elrobacanales.com/budtv/ufc_total_play_100/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/612493747410989056/-bAKXu6G_400x400.jpg" group-title="DEPORTES",MLB Network
 http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8?
+#EXTINF:-1, FIGHT NETWORK
+http://righttv.ddns.net:25461/live/trial30/trial30/11261.m3u8
 #EXTINF:-1  group-title="España 2",Red Bull Tv HD
 http://10gbs.edgelink.ovh:8000/live/dosdispositivos/smartv.kodi/4226.m3u8
 #EXTINF:0,Extreme Sports Channel
