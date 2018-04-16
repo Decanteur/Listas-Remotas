@@ -253,6 +253,8 @@ http://petu13.pedromo.me/live/toros/index.m3u8?token=CFb4y_3ZyNVcldmoXWU7ng&expi
 http://spainserver.miamitvchannel.com/miamitv/smil:miamitvspain/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.parsatv.com/index_files/channels/miamitv.png", Miami TV USA
 http://usaserver.miamitvchannel.com/miamitv/smil:miamitv/playlist.m3u8
+#EXTINF:-1,Miami TV opc. 3
+http://mexicoserver.miamitvchannel.com/miamitv/smil:miamitvmexico/chunklist_w324994460_b1896000.m3u8
 
 
 
