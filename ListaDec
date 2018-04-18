@@ -273,6 +273,8 @@ http://lamasu.dragontvapp.com/live/beinsportesp/index.m3u8
 http://playlist.onlybest.tv/ru/channel/45d923b700bdbb53af22c8219ae034ac/574/index.m3u8
 #EXTINF:-1, BEIN SPORTS Opc. 6
 http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/574/index.m3u8
+#EXTINF:-1,BEIN SPORTS Opc. 7
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/574/index.m3u8
 
 
 #EXTINF:-1,Bein LaLiga opción 1
@@ -337,6 +339,8 @@ http://190.92.0.43:1935/securelive/tdtv85jd5EKL3xWq3/chunklist_w1241310319.m3u8
 http://186.33.227.198/DXTV/smil:DXTV.smil/playlist.m3u8?tecnotv.info?iptv.m3u8
 #EXTINF:0,DXTV DEPORTES opc. 2
 http://186.33.227.198/DXTV/smil:DXTV.smil/playlist.m3u8
+#EXTINF:-1, ESPN Deportes
+https://robos2.elrobacanales.com/budtv/Evento_BudTv_ESPN_Dep_151/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lzIdgGe.jpg" group-title="DEPORTES", ESPN + HD
 http://tvpremiumhd.club/lista-gratuita/paris/s217.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Jt9TnsK.jpg" group-title="DEPORTES", ESPN 2 HD
@@ -377,6 +381,8 @@ https://svglive3-event.level3.nfl.com/nflent3/live/nfl_now/NFLNOW_1200k.m3u8?
 https://svglive3-event.level3.nfl.com/nflent3/live/nfl_now/NFLNOW_1200k.m3u8
 #EXTINF:-1,UFC
 https://robos2.elrobacanales.com/budtv/ufc_total_play_100/playlist.m3u8
+#EXTINF:0,ESPN USA Channel
+http://stream.memesyndicate.com/live/thx/index.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/612493747410989056/-bAKXu6G_400x400.jpg" group-title="DEPORTES",MLB Network
 http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8?
 #EXTINF:-1, FIGHT NETWORK
