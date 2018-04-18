@@ -348,11 +348,15 @@ http://tecnotv.info/livetv/espn2
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oBglO9Q.jpg" group-title="DEPORTES", ESPN 3
 http://tecnotv.info/livetv/espn3
 #EXTINF:-1 tvg-logo="https://imagenes.cablevisionfibertel.com.ar:7007/servlet/cv/223.png", Fox Sports
-http://3-120heat.pulsedmedia.com/public-llave1/list/public/f0xsports.php/Stream(04)/index.m3u8
+http://tvpremiumhd.club/lista-gratuita/japan/s205.m3u8
 #EXTINF:-1 tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/8/8e/Fox_Sports_2.png/revision/20160413221614" group-title="Deportes",F0XSPORTS2 op1
-http://3-120heat.pulsedmedia.com/public-llave1/list/public/f0xsports2-q3.php/index.m3u8
+http://tvpremiumhd.club/lista-gratuita/japan/s207.m3u8
 #EXTINF:-1 tvg-logo="http://dshm.tmsimg.com/h5/NowShowing/47374/s47374_h5_aa.png", Fox Sports 3
-http://3-120heat.pulsedmedia.com/public-llave1/list/public/f0xsports3.php/Stream(04)/index.m3u8
+http://tvpremiumhd.club/lista-gratuita/japan/s206.m3u8
+#EXTINF:-0 tvg-logo="https://i.imgur.com/n62eZ1f.png" group-title="DEPORTES",FOX SPORTS 0 MX
+http://tvpremiumhd.club/lista-gratuita/japan/s986.m3u8
+#EXTINF:-0 tvg-logo="https://i.imgur.com/6PBLizD.png" group-title="DEPORTES",FOX SPORTS 2 MX
+http://tvpremiumhd.club/lista-gratuita/japan/s987.m3u8
 #EXTINF:-1 tvg-logo="https://imagenes.cablevisionfibertel.com.ar:7007/servlet/cv/1132.png", ESPN +
 http://3-120heat.pulsedmedia.com/public-llave1/list/public/espn_plus.php/Stream(04)/index.m3u8
 #EXTINF:-1,ESPN Deportes
@@ -379,6 +383,8 @@ http://31.204.150.12:8080/edge/4304/tracks-v1a1/index.m3u8?token=17.18.1487.6d44
 https://svglive3-event.level3.nfl.com/nflent3/live/nfl_now/NFLNOW_1200k.m3u8?
 #EXTINF:0 type="favorites" channelId="-1", NFL Now
 https://svglive3-event.level3.nfl.com/nflent3/live/nfl_now/NFLNOW_1200k.m3u8
+#EXTINF:-0 tvg-logo="https://i.imgur.com/HhEOqo2.png" group-title="DEPORTES" group-title="TV USA",NFL SPORTS
+http://tvpremiumhd.club/lista-gratuita/japan/s846.m3u8
 #EXTINF:-1,UFC
 https://robos2.elrobacanales.com/budtv/ufc_total_play_100/playlist.m3u8
 #EXTINF:0,ESPN USA Channel
