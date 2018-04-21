@@ -69,10 +69,6 @@ http://copo6.mitopo.me/live/mtv/index.m3u8?token=h9F2zN-RmnuQkpS9aylB3g&expires=
 http://hlstv.canalextremadura.es/livetv/smil:multistream.smil/playlist.m3u8
 EXTINF:-1 tvg-logo="http://www.canalextremadura.es/sites/all/themes/canalex_2016/images/canalex/logotipo.png" group-title="España",CANAL EXTREMADURA Opc. 2
 http://hlstv.canalextremadura.es/livetv/smil:multistream.smil/chunklist_b1596000_DVR.m3u8
-#EXTINF:-1  group-title="España 2",CANAL SUR
-http://10gbs.edgelink.ovh:8000/live/dosdispositivos/smartv.kodi/3812.m3u8
-#EXTINF:-1  group-title="España 2",CANAL SUR Opc. 2
-http://cls.todostreaming.eu/unatv/live/chunklist.m3u8
 #EXTINF:-1  group-title="España 2",CANAL SUR COCINA
 http://173.212.214.184:1935/cscocina/cscocina/chunklist_w320014621.m3u8
 #EXTINF:-1 tvg-logo="https://i1.wp.com/directostv.teleame.com/wp-content/uploads/2017/09/Canal-Sur-Cocina.png?resize=324%2C235",CanalSur Cocina
@@ -85,29 +81,18 @@ http://streaming.enetres.net/16011939C62D44ED91350508FB25828B021/smil:live.smil/
 http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/telemadrid1/bitrate_1.m3u8
 #EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/laotra.jpg",LA OTRA
 http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/laotra1/index.m3u8
-#EXTINF:0 tvg-logo="http://1.bp.blogspot.com/-P3c2yfE1Uww/U-OUmhP67hI/AAAAAAAAAjI/15wK6GsidUY/s185-c/ondaluzendirectoenvivo.png" group-title="España",CANAL MÁLAGA RTV
-http://canalmalaga-tv-live.flumotion.com/chunks.m3u8
-#EXTINF:-1,7 MURCIA
-http://rtvmurcia_01-lh.akamaihd.net/i/rtvmurcia_1_0@507973/master.m3u8
-#EXTINF:-1,CASTILLA-LA MANCHA
-http://klive-a.akamaihd.net/dc-0/live/hls/p/2288691/e/1_c9gw17x6/sd/10000/t/_8qpezTWS_dE9-Jbl4-o-A/index-s32.m3u8
-#EXTINF:-1 tvg-logo="", 101 TV MALAGA
-http://cls2.todostreaming.eu/101tv/livestream101Tv/chunklist.m3u8
-#EXTINF:-1 tvg-logo="", SEVILLA-ONDALUZ TV
-http://cls.elitehd-audiovisuales.com/olsevilla/livestream1/chunklist.m3u8
-#EXTINF:-1 tvg-logo="", MALAGA-ONDALUZ TV
-http://dsn6jqegjeixj.cloudfront.net/ondaazul-live/video/playlist.m3u8
+
 
 #EXTINF:-1,***MOVISTAR+***
 http://sagi.typepad.com/treding_the_vc_waters/Picture1_1.jpg
 
-#EXTINF:-1,#0
-http://playlist.onlybest.tv/en/channel/d3868b0930104dfc477b435d4bf18b4f/611/index.m3u8
-#EXTINF:-1 group-title="España",#0 Opc. 2
+#EXTINF:-1 tvg-logo="",#0 opc. 1
+http://playlist.onlybest.tv/ru/channel/57130b963cf73960c05f8ec9eb7db0e9/611/index.m3u8
+#EXTINF:-1 tvg-logo="",#0 Opc. 2
 http://playlist.onlybest.tv/ru/channel/45d923b700bdbb53af22c8219ae034ac/611/index.m3u8
-#EXTINF:-1  group-title="España 2",#0
+#EXTINF:-1  tvg-logo="",#0 opc. 3
 http://playlist.onlybest.tv/en/channel/d3868b0930104dfc477b435d4bf18b4f/611/index.m3u8
-#EXTINF:-1  group-title="España 2",#0 HD
+#EXTINF:-1  tvg-logo="",#0 HD
 http://10gbs.edgelink.ovh:8000/live/dosdispositivos/smartv.kodi/100.m3u8
 #EXTINF:-1  group-title="España 2",MOVISTAR ESTRENOS
 http://copo4.mitopo.me/live/plusestrenos/index.m3u8?token=43KAN5jKhTvR2ljlh7lwDw&expires=1522521421
