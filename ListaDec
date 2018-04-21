@@ -249,6 +249,8 @@ https://input2.fractalmedia.es/hls/iberaliatv.m3u8
 http://petu16.pedromo.me/live/toros/index.m3u8?token=AF-A9vnLe2Uye6WnGGVklQ&expires=1522520434
 #EXTINF:-1  group-title="España 2",TOROS TV HD
 http://petu13.pedromo.me/live/toros/index.m3u8?token=CFb4y_3ZyNVcldmoXWU7ng&expires=1522522564
+#EXTINF:-1,Intereconomia TV
+http://streaming.enetres.net/16011939C62D44ED91350508FB25828B021/smil:live.smil/master.m3u8
 #EXTINF:-1,Miami TV ESP
 http://spainserver.miamitvchannel.com/miamitv/smil:miamitvspain/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.parsatv.com/index_files/channels/miamitv.png", Miami TV USA
@@ -324,6 +326,9 @@ http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/612/inde
 http://playlist.onlybest.tv/ru/channel/45d923b700bdbb53af22c8219ae034ac/575/index.m3u8
 #EXTINF:-1,MOVISTAR FUTBOL opc. 2
 http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/575/index.m3u8
+#EXTINF:-1,Movistar Futbol opc. 3
+http://playlist.onlybest.tv/ru/channel/d0f21a70397d3659fe259aa5e2a62107/575/index.m3u8
+
 #EXTINF:-1 tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/c/c3/MovistarDeportes1.png/revision/latest?cb=20160818140254" group-title="ESPANHA",MOVISTAR DEPORTES 1 (Copyright © 2018 by TeamBlue)
 http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/7378.m3u8
 #EXTINF:-1,M.DEP 2
