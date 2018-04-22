@@ -11,9 +11,9 @@ http://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@583042/master.m3u8
 #EXTINF:-1 tvg-logo="http://tvonlinegratis.com/wp-content/uploads/2014/08/TVE1-La1-Logo-300x300.jpg" group-title="ESPAÑA",LA 1 Opc. 2
 http://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@583042/master.m3u8
 #EXTINF:-1, group-title="tv" tvg-logo="https://imgfast.net/users/1114/10/46/39/album/tve2lo10.png", Rtve.es La 2
-http://hlsliveamdgl0-lh.akamaihd.net/i/hlslive_1@586367/index_0400_av-p.m3u8?sd=10&rebase=on
+http://hlsliveamdgl0-lh.akamaihd.net/i/hlslive_1@586367/master.m3u8
 #EXTINF:-1 ,group-title="MOVISTAR+" tvg-logo="http://www.movistarplus.es/recorte/m-NEO/guiapc/LA2.png", LA 2 TVE
-http://hlsliveamdgl0-lh.akamaihd.net/i/hlslive_1@586367/index_0400_av-p.m3u8
+http://hlsliveamdgl0-lh.akamaihd.net/i/hlslive_1@586367/master.m3u8
 #EXTINF:-1,24 HORAS
 http://hlsliveamdgl8-lh.akamaihd.net/i/hlsdvrlive_1@583030/index_0400_av-p.m3u8?sd=10&rebase=on
 
@@ -35,7 +35,7 @@ http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/index_3_av-b.m3u8
 #EXTINF:-1 tvg-logo="",Cuatro
 https://livehlsdai-i.akamaihd.net/hls/live/571643/cuatro/bitrate_1.m3u8
 #EXTINF:-1 tvg-logo="https://i2.wp.com/iptvsmartv.files.wordpress.com/2017/04/telecinco_circular_500.png?ssl=1&w=450",Telecinco opc. 1
-http://telecinco-mediaset-esp-live.secure.footprint.net/mediaset/telecinco/stream1/streamPlaylist.m3u8
+https://livehlsdai-i.akamaihd.net/hls/live/571640/telecinco/bitrate_1.m3u8
 #EXTINF:-1,Telecinco Opc. 2
 http://playlist.onlybest.tv/ru/channel/45d923b700bdbb53af22c8219ae034ac/617/index.m3u8
 #EXTINF:-1, group-title="tv" tvg-logo="http://www.formulatv.com/fotos/a/9000/9225/l47xp2wnn9sgxixifo52a8c3d3a5b26_energy.png", Energy
@@ -425,6 +425,10 @@ http://10gbs.edgelink.ovh:8000/live/dosdispositivos/smartv.kodi/4008.m3u8
 http://kissfm-cires21-video.secure.footprint.net/hittv/bitrate_3.m3u8
 #EXTINF:0 type="stream" channelId="-1" tvg-logo="http://www.liveradio.ie/files/images/119710/resized/180x172c/logo_toplatino_300x300.jpg"group-title="MUSICA", TOP LATINO
 http://online.radiodifusion.net:1935/livetv/latinoSD.stream/chunklist_w430979689.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",MTV
+https://bud122.budtv.tv/liverobos/mtv_p3/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",MTV Hits
+https://bud122.budtv.tv/liverobos/mtv_hits_p3/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/p2c8bPp.png" group-title="MUSICA", MTV LIVE
 http://3-120heat.pulsedmedia.com/public-llave1/list/public/mtvl1ve.php/index.m3u8
 #EXTINF:-1,VIBE
