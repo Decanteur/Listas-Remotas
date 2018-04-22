@@ -3,31 +3,31 @@
  
       <channel>
     <name>          <<<<<<<<<Vídeos+>>>>>>>></name>
-    <thumbnail>http://i.imgur.com/CkvRWfL.jpg</thumbnail>
-    <fanart>http://totmacedonia.cat/wp-content/uploads/2016/10/conciertos-abril-2015-espa%C3%B1a-comprar-entradas-y-venta-entradas-en-ya-se-que-regalar-1.jpg</fanart>
+    <thumbnail>https://www.luismaram.com/wp-content/uploads/2016/04/Bancos-de-video-700x525.jpg</thumbnail>
+    <fanart>http://www.clixmarketing.com/blog/wp-content/uploads/2016/08/videomarketing-1.jpg</fanart>
         <items>
                
-                        <item><title>[COLOR=yellow]                     <<[/COLOR][COLOR=yellow]Vídeos[/COLOR][COLOR=yellow]>>[/COLOR]</title>   <link>http://about.me/adryan</link>
-<fanart>http://totmacedonia.cat/wp-content/uploads/2016/10/conciertos-abril-2015-espa%C3%B1a-comprar-entradas-y-venta-entradas-en-ya-se-que-regalar-1.jpg</fanart>
-<thumbnail>http://www.uniacc.cl/wp-content/uploads/2012/10/SITIO-MUSICA.jpg</thumbnail>
+                        <item><title>[COLOR=yellow]                     <<[/COLOR][COLOR=yellow]Canales[/COLOR][COLOR=yellow]>>[/COLOR]</title>   <link>http://about.me/adryan</link>
+<fanart>https://i.ytimg.com/vi/0Fsi0H25t4U/maxresdefault.jpg</fanart>
+<thumbnail>http://www.saberia.com/wp-content/uploads/2012/06/Canales-de-TV-USA-300x263.png</thumbnail>
 </item>
          
     <channel>
-    <name>[COLOR orange]•[/COLOR][COLOR aqua]►Iron Maiden[/COLOR]</name>
+    <name>[COLOR orange]•[/COLOR][COLOR aqua]►España[/COLOR]</name>
     <info></info>
-    <thumbnail>https://www.merchandisingplaza.es/194643/Poster-Iron-Maiden-Poster-Iron-Maiden-Eddies-s.jpg</thumbnail>
-    <fanart>http://www.alternativenation.net/wp-content/uploads/2016/09/maxresdefault.jpg</fanart>
+    <thumbnail>https://images-na.ssl-images-amazon.com/images/I/81o4rqD4s4L.png</thumbnail>
+    <fanart>https://i.ytimg.com/vi/PRQfB_AFZZU/maxresdefault.jpg</fanart>
  
  
  
 <items>
  
 <item>
-<title>[COLOR white][COLOR blue]• [/COLOR] Iron Maiden - Flight 666</title>
+<title>[COLOR white][COLOR blue]• [/COLOR] Canal Sur</title>
 <link>plugin://plugin.video.youtube/play/?video_id=r0EOb3O645Y</link>
-<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMjIwNDkzOTYyN15BMl5BanBnXkFtZTcwNDQ0ODQ2Mg@@._V1_.jpg</thumbnail>
-<fanart>https://www.whitakercenter.org/media/files/maxresdefault.png</fanart>
-<info></info>
+<thumbnail>http://www.elcamaleonverde.com/wp-content/uploads/2016/02/logo-medio-canalsur.png</thumbnail>
+<fanart>https://www.casascuevacazorla.com/wp-content/uploads/2018/02/Canal-sur.jpg</fanart>
+<info>Canal Sur Televisión es un canal de televisión abierta autonómico español, el canal principal de Radio y Televisión de Andalucía, la radiotelevisión autonómica de Andalucía.</info>
 </item>
 </items>
  
