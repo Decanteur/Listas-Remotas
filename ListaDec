@@ -282,6 +282,8 @@ http://playlist.onlybest.tv/ru/channel/45d923b700bdbb53af22c8219ae034ac/574/inde
 http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/574/index.m3u8
 #EXTINF:-1,BEIN SPORTS Opc. 7
 http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/574/index.m3u8
+#EXTINF:-1,BEIN SPORTS (TK)
+http://ams.tvizlehd.com/live/beinhaber/chunks.m3u8
 
 
 #EXTINF:-1,Bein LaLiga opción 1
@@ -328,6 +330,9 @@ http://89.38.98.85:8080/live/Reda/Reda/9686.m3u8
 http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/612/index.m3u8
 #EXTINF:-1,M+ Formula 1 HD (Opc. 5)
 http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/612/index.m3u8
+
+#EXTINF:-1,SKY Sport F1  
+http://31.220.0.134:8081/live/jtvf1/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Movistar_F%C3%BAtbol.svg/1200px-Movistar_F%C3%BAtbol.svg.png", M+ Futbol HD
 http://playlist.onlybest.tv/ru/channel/45d923b700bdbb53af22c8219ae034ac/575/index.m3u8
@@ -400,10 +405,55 @@ http://playlist.onlybest.tv/en/channel/2874e3a9397ce975e8463c76533bcb1e/78/index
 http://playlist.onlybest.tv/ru/channel/45d923b700bdbb53af22c8219ae034ac/78/index.m3u8
 #EXTINF:0 type="favorites" channelId="2743", Sky Sport Bundesliga 1
 http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/725/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.cbcsport.tv/upload/img/live.png" group-title="DEPORTES 2",CBC Sport
+http://s69362.cdn.ngenix.net/live/_definst_/Stream1/chunklist.m3u8
+
+#EXTINF:-1,BT Sport 1
+http://31.220.0.134:8081/live/jtvb1/playlist.m3u8
+#EXTINF:-1,BT Sport 2
+http://31.220.0.134:8081/live/jtvb2/playlist.m3u8
+#EXTINF:-1,BT Sport 3
+http://31.220.0.134:8081/live/jtvb3/playlist.m3u8
+#EXTINF:-1,BT ESPN
+http://31.220.0.196:8081/live/ctvb4/playlist.m3u8
+
+#EXTINF:-1,SKY Sport 1
+http://31.220.0.134:8081/live/jtvs1/playlist.m3u8
+#EXTINF:-1,SKY SPORT1
+http://31.220.0.196:8081/live/ctvs1/playlist.m3u8
+#EXTINF:-1,SKY Sport 2
+http://31.220.0.196:8081/live/ctvs2/playlist.m3u8
+#EXTINF:-1,SKY Sport 3
+http://31.220.0.134:8081/live/jtvs3/playlist.m3u8
+#EXTINF:-1,SKY SPORT 3
+http://31.220.0.196:8081/live/ctvs3/playlist.m3u8
+#EXTINF:-1,SKY Sport 4
+http://31.220.0.134:8081/live/jtvs4/playlist.m3u8
+#EXTINF:-1,SKY Sport 5
+http://31.220.0.134:8081/live/jtvs5/playlist.m3u8
+#EXTINF:-1,SKY SPORT 5
+http://31.220.0.196:8081/live/ctvs4/playlist.m3u8
+
+#EXTINF:-1,FS 1
+http://31.220.0.196:8081/live/fx11sx/chunks.m3u8
+#EXTINF:-1,FS 2
+http://31.220.0.196:8081/live/fx2sx/chunks.m3u8
+
+#EXTINF:-1,SK 1 HD
+http://31.220.0.134:8081/live/sk1/playlist.m3u8
+#EXTINF:-1,SK2 HD
+http://31.220.0.134:8081/live/sk2/playlist.m3u8
+#EXTINF:-1,SK3 HD
+http://31.220.0.134:8081/live/sk1/playlist.m3u8
+
+#EXTINF:-1,BBC 2
+http://31.220.0.134:8081/live/bbc2/playlist.m3u8
+
 #EXTINF:0 type="favorites" channelId="805", NBA
 http://31.204.150.12:8080/edge/4304/tracks-v1a1/index.m3u8?token=17.18.1487.6d44eab61dcf5b1f0e6fa8f6595ee1bc.1.1.1.641.0.0.71875765cf0ee5df30360b6487a7b6ec
 #EXTINF:0 type="favorites" channelId="805", NBA
-http://31.204.150.12:8080/edge/4304/tracks-v1a1/index.m3u8?
+#EXTINF:-1,NBA
+http://31.220.0.134:8081/live/nba/playlist.m3u8
 
 #EXTINF:-1,NFL TV
 https://svglive3-event.level3.nfl.com/nflent3/live/nfl_now/NFLNOW_1200k.m3u8
