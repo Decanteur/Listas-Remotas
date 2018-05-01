@@ -326,10 +326,12 @@ http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/612/inde
 http://playlist.onlybest.tv/ru/channel/45d923b700bdbb53af22c8219ae034ac/612/index.m3u8
 #EXTINF:-1,M.FORMULA 1 Opc. 3
 http://89.38.98.85:8080/live/Reda/Reda/9686.m3u8
-#EXTINF:-1 ,group-title="MOVISTAR+" tvg-logo="http://www.movistarplus.es/recorte/m-NEO/guiapc/MVF1.png", MOVISTAR FORMULA 1 (Opc. 4)
+#EXTINF:-1 ,group-title="MOVISTAR+" tvg-logo="http://www.movistarplus.es/recorte/m-NEO/guiapc/MVF1.png", MOVISTAR FORMULA 1 opc. 4
 http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/612/index.m3u8
-#EXTINF:-1,M+ Formula 1 HD (Opc. 5)
+#EXTINF:-1,M+ Formula 1 HD opc. 5
 http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/612/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES",FORMULA 1 opción 6
+http://playlist.onlybest.tv/ru/channel/6c53126176d7d597cbe6ffbb0c5fbf49/612/index.m3u8
 
 #EXTINF:-1,SKY Sport F1  
 http://31.220.0.134:8081/live/jtvf1/playlist.m3u8
