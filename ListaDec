@@ -498,6 +498,8 @@ http://tvpremiumhd.club/lista-gratuita/japan/s846.m3u8
 
 #EXTINF:-1, Red NHL
 https://live119.elrobacanales.com/budtv/nhl.network.usa/playlist.m3u8
+#EXTINF:-1, NHL Network
+https://live119.elrobacanales.com/budtv/nhl.network.usa/playlist.m3u8
 
 #EXTINF:-1,UFC
 https://robos2.elrobacanales.com/budtv/ufc_total_play_100/playlist.m3u8
