@@ -369,6 +369,8 @@ http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/575/inde
 http://pro213.com:80/live/gonzalezcarvallo332/2sq0tn/1928.m3u8
 #EXTINF:0,Movistar Partidazo opc. 2
 http://pro213.com:80/live/gonzalezcarvallo332/2sq0tn/8833.m3u8
+#EXTINF:0,Movistar Partidazo opc. 3
+https://pegasus.listasdf.com/live/partidazo/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/c/c3/MovistarDeportes1.png/revision/latest?cb=20160818140254" group-title="ESPANHA",MOVISTAR DEPORTES 1
 http://pro213.com:80/live/gonzalezcarvallo332/2sq0tn/2432.m3u8
