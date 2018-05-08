@@ -11,7 +11,7 @@ http://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@583042/master.m3u8
 #EXTINF:-1 tvg-logo="http://tvonlinegratis.com/wp-content/uploads/2014/08/TVE1-La1-Logo-300x300.jpg" group-title="ESPAÑA",LA 1 Opc. 2
 http://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@583042/master.m3u8
 #EXTINF:-1, group-title="tv" tvg-logo="https://imgfast.net/users/1114/10/46/39/album/tve2lo10.png", Rtve.es La 2
-http://hlsliveamdgl0-lh.akamaihd.net/i/hlslive_1@586367/master.m3u8
+http://hlsliveamdgl0-lh.akamaihd.net/i/hlslive_1@586367/index_0400_av-p.m3u8
 #EXTINF:-1 ,group-title="MOVISTAR+" tvg-logo="http://www.movistarplus.es/recorte/m-NEO/guiapc/LA2.png", LA 2 TVE
 http://hlsliveamdgl0-lh.akamaihd.net/i/hlslive_1@586367/master.m3u8
 #EXTINF:-1,24 HORAS
@@ -88,6 +88,9 @@ http://streaming.enetres.net/16011939C62D44ED91350508FB25828B021/smil:live.smil/
 http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/telemadrid1/bitrate_1.m3u8
 #EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/laotra.jpg",LA OTRA
 http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/laotra1/index.m3u8
+
+#EXTINF:0,7 MURCIA
+http://rtvmurcia_01-lh.akamaihd.net/i/rtvmurcia_1_0@507973/master.m3u8
 
 
 #EXTINF:-1,***MOVISTAR+***
@@ -216,7 +219,7 @@ http://copo3.mitopo.me/live/cocina/index.m3u8?token=Yiq5IQ59hzDT3IRmdT0teA&expir
 #EXTINF:-1  group-title="España 2",DISNEY XD
 http://10gbs.edgelink.ovh:8000/live/dosdispositivos/smartv.kodi/154.m3u8
 #EXTINF:-1  group-title="España 2",DISNEY JR
-http://pro213.com:80/live/gonzalezcarvallo332/2sq0tn/1917.m3u8
+http://playlist.onlybest.tv/ru/channel/93308c1d4668223e600a223a8004a665/604/index.m3u8
 #EXTINF:-1  group-title="España 2",DISCOVERY CHANNEL
 http://pro213.com:80/live/gonzalezcarvallo332/2sq0tn/2724.m3u8
 #EXTINF:-1  group-title="España 2",DISCOVERY CHANNEL HD
@@ -571,6 +574,8 @@ http://wow01.105.net/live/virgin1/chunklist_w25732073.m3u8
 http://asdp.ddns.net:8000/live/daniel/daniel/340.m3u8
 #EXTINF:-1,Music Choice
 http://edge.music-choice-play-chaina1.top.comcast.net/PlayMetadataInserter/play/chunklist.m3u8
+#EXTINF:-1,Music Choice - Pop Hits
+http://edge.music-choice-vc-chainb2.top.comcast.net/VideoChannels/MC133/chunklist.m3u8
 #EXTINF:-1  group-title="España 2",CADENA ELITE
 http://10gbs.edgelink.ovh:8000/live/dosdispositivos/smartv.kodi/3324.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oAdVLb8.png" group-title="ARGENTINA", Music Top | HD
