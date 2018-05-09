@@ -216,64 +216,58 @@ http://10gbs.edgelink.ovh:8000/live/dosdispositivos/smartv.kodi/136.m3u8
 http://pro213.com:80/live/gonzalezcarvallo332/2sq0tn/2430.m3u8
 #EXTINF:-1  group-title="España 2",CANAL COCINA HD
 http://copo3.mitopo.me/live/cocina/index.m3u8?token=Yiq5IQ59hzDT3IRmdT0teA&expires=1522522499
+
 #EXTINF:-1  group-title="España 2",DISNEY XD
 http://10gbs.edgelink.ovh:8000/live/dosdispositivos/smartv.kodi/154.m3u8
 #EXTINF:-1  group-title="España 2",DISNEY JR
 http://playlist.onlybest.tv/ru/channel/93308c1d4668223e600a223a8004a665/604/index.m3u8
+
 #EXTINF:-1  group-title="España 2",DISCOVERY CHANNEL
 http://pro213.com:80/live/gonzalezcarvallo332/2sq0tn/2724.m3u8
 #EXTINF:-1  group-title="España 2",DISCOVERY CHANNEL HD
 http://10gbs.edgelink.ovh:8000/live/dosdispositivos/smartv.kodi/3707.m3u8
+
 #EXTINF:-1  group-title="España 2",NATIONAL  GEOGRAPHIC
 http://pro213.com:80/live/gonzalezcarvallo332/2sq0tn/2421.m3u8 
 #EXTINF:-1  group-title="España 2",National Geographic HD
 http://10gbs.edgelink.ovh:8000/live/dosdispositivos/smartv.kodi/258.m3u8
 #EXTINF:-1  group-title="España 2",NatGeo Wild Spain
 http://pro213.com:80/live/gonzalezcarvallo332/2sq0tn/1789.m3u8
+
 #EXTINF:-1  group-title="España 2",HISTORIA
 http://copo5.mitopo.me/live/historia/index.m3u8?token=4zH6Yr0FjdVvGCIPSfOtWQ&expires=1522522052
 #EXTINF:-1  group-title="España 2",HISTORIA  HD
 http://10gbs.edgelink.ovh:8000/live/dosdispositivos/smartv.kodi/3711.m3u8
+
 #EXTINF:-1  group-title="España 2",CRIMEN Y INVES
 http://xxedge262.livesports.pw/live/vercrimenyinvestigacioneb/chunklist.m3u8?md5=a0uRQFF9AWTN-YdHOAH1lA&expires=1522522454
 #EXTINF:-1  group-title="España 2",A+E
 http://xxedge263.livesports.pw/live/veranadetelefive17669f5d28e4d7/chunklist.m3u8?md5=3yOi9rnZ_2FhYuacMlOIZQ&expires=1522522644
+
 #EXTINF:-1  group-title="España 2",ODISSEA
 http://pro213.com:80/live/gonzalezcarvallo332/2sq0tn/1912.m3u8
 #EXTINF:-1  group-title="España 2",ODISSEA HD
 http://10gbs.edgelink.ovh:8000/live/dosdispositivos/smartv.kodi/3710.m3u8
+
 #EXTINF:-1  group-title="España 2",Non Stop HD
 http://10gbs.edgelink.ovh:8000/live/dosdispositivos/smartv.kodi/3782.m3u8
 #EXTINF:-1  group-title="España 2",VIAJAR HD
 http://pro213.com:80/live/gonzalezcarvallo332/2sq0tn/1909.m3u8
+
 #EXTINF:-1  group-title="España 2",CAZA Y PESCA
 http://pro213.com:80/live/gonzalezcarvallo332/2sq0tn/2429.m3u8
 #EXTINF:-1  group-title="España 2",CAZA Y PESCA HD
 http://10gbs.edgelink.ovh:8000/live/dosdispositivos/smartv.kodi/142.m3u8
+
 #EXTINF:-1  group-title="España 2",IBERALIA TV
 http://playlist.onlybest.tv/ru/channel/57130b963cf73960c05f8ec9eb7db0e9/603/index.m3u8
 #EXTINF:-1  group-title="España 2",Iberalia TV HD
 https://input2.fractalmedia.es/hls/iberaliatv.m3u8
+
 #EXTINF:-1  group-title="España 2",TOROS
 http://pro213.com:80/live/gonzalezcarvallo332/2sq0tn/2525.m3u8
 #EXTINF:-1  group-title="España 2",TOROS TV HD
 https://ssh101.com/m3u8/dyn/t800/index.m3u8
-#EXTINF:1,group.title="TV"tvg-logo="Taquilla 1
-http://pro213.com:80/live/gonzalezcarvallo332/2sq0tn/8849.m3u8
-#EXTINF:1,group.title="TV"tvg-logo="Taquilla 2
-http://pro213.com:80/live/gonzalezcarvallo332/2sq0tn/8850.m3u8
-#EXTINF:1,group.title="TV"tvg-logo="Taquilla 3
-http://pro213.com:80/live/gonzalezcarvallo332/2sq0tn/8851.m3u8
-#EXTINF:1,group.title="TV"tvg-logo="Taquilla 4
-http://pro213.com:80/live/gonzalezcarvallo332/2sq0tn/8852.m3u8
-#EXTINF:1,group.title="TV"tvg-logo="Taquilla 5
-http://pro213.com:80/live/gonzalezcarvallo332/2sq0tn/8853.m3u8
-#EXTINF:1,group.title="TV"tvg-logo="Taquilla 6
-http://pro213.com:80/live/gonzalezcarvallo332/2sq0tn/8854.m3u8
-#EXTINF:1,group.title="TV"tvg-logo="Taquilla 7
-http://pro213.com:80/live/gonzalezcarvallo332/2sq0tn/8855.m3u8
-#EXTINF:1,group.title="TV"tvg-logo="Taquilla 8
-http://pro213.com:80/live/gonzalezcarvallo332/2sq0tn/8856.m3u8
 
 #EXTINF:-1,Miami TV ESP
 http://spainserver.miamitvchannel.com/miamitv/smil:miamitvspain/playlist.m3u8
@@ -454,21 +448,21 @@ http://31.220.0.134:8081/live/jtvb3/playlist.m3u8
 #EXTINF:-1,BT ESPN
 http://31.220.0.196:8081/live/ctvb4/playlist.m3u8
 
-#EXTINF:-1,SKY Sport 1
+#EXTINF:-1,SKY Sports Main Event
 http://31.220.0.134:8081/live/jtvs1/playlist.m3u8
-#EXTINF:-1,SKY SPORT1
+#EXTINF:-1,SKY Sports Main Event opc. 2
 http://31.220.0.196:8081/live/ctvs1/playlist.m3u8
-#EXTINF:-1,SKY Sport 2
+#EXTINF:-1,SKY Sports Football
 http://31.220.0.196:8081/live/ctvs2/playlist.m3u8
+#EXTINF:-1,SKY Sports Football opc. 2
+http://31.220.0.134:8081/live/jtvs5/playlist.m3u8
 #EXTINF:-1,SKY Sport 3
 http://31.220.0.134:8081/live/jtvs3/playlist.m3u8
 #EXTINF:-1,SKY SPORT 3
 http://31.220.0.196:8081/live/ctvs3/playlist.m3u8
-#EXTINF:-1,SKY Sport 4
+#EXTINF:-1,SKY Sports Arena
 http://31.220.0.134:8081/live/jtvs4/playlist.m3u8
-#EXTINF:-1,SKY Sport 5
-http://31.220.0.134:8081/live/jtvs5/playlist.m3u8
-#EXTINF:-1,SKY SPORT 5
+#EXTINF:-1,SKY Sports Arena opc. 2
 http://31.220.0.196:8081/live/ctvs4/playlist.m3u8
 
 #EXTINF:-1,FS 1
