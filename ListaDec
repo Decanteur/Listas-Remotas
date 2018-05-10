@@ -394,7 +394,7 @@ http://186.33.227.198/DXTV/smil:DXTV.smil/playlist.m3u8?tecnotv.info?iptv.m3u8
 http://186.33.227.198/DXTV/smil:DXTV.smil/playlist.m3u8
 
 #EXTINF:-1, ESPN Deportes opc. 1
-https://robos2.elrobacanales.com/budtv/Evento_BudTv_ESPN_Dep_151/playlist.m3u8
+https://live97.elrobacanales.com/budtv/Evento_BudTv_ESPN_Dep_151/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lzIdgGe.jpg" group-title="DEPORTES", ESPN + HD opc 2
 http://tvpremiumhd.club/lista-gratuita/paris/s217.m3u8
 
@@ -566,6 +566,8 @@ http://wow01.105.net/live/virgin1/chunklist_w25732073.m3u8?JoCaRoIPTV.m3u8
 http://wow01.105.net/live/virgin1/chunklist_w25732073.m3u8
 #EXTINF:-1  group-title="España 2",VH1 MOVISTAR
 http://asdp.ddns.net:8000/live/daniel/daniel/340.m3u8
+#EXTINF:-1  group-title="España 2",VH1
+http://playlist.onlybest.tv/en/channel/78ad82ff7979f9daa5f44464e8788080/238/index.m3u8
 #EXTINF:-1,Music Choice
 http://edge.music-choice-play-chaina1.top.comcast.net/PlayMetadataInserter/play/chunklist.m3u8
 #EXTINF:-1,Music Choice - Pop Hits
