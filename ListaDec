@@ -578,3 +578,5 @@ http://10gbs.edgelink.ovh:8000/live/dosdispositivos/smartv.kodi/3324.m3u8
 http://live-edge01.telecentro.net.ar/live/msctphd-720/playlist.m3u8
 #EXTINF:-1,Retro TV
 http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
+#EXTINF:-1, group-title="MUSICA",NRJ HITS TV Live
+http://5.196.138.6:1935/live/nrjbelgique/chunklist_w1099779633.m3u8?iptvgratis?chile.m3u8
