@@ -560,6 +560,8 @@ http://online.radiodifusion.net:1935/livetv/latinoSD.stream/chunklist_w430979689
 https://bud122.budtv.tv/liverobos/mtv_p3/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",MTV Hits
 https://bud122.budtv.tv/liverobos/mtv_hits_p3/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",MTV Hits UK
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/229/index.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/p2c8bPp.png" group-title="MUSICA", MTV LIVE
 http://3-120heat.pulsedmedia.com/public-llave1/list/public/mtvl1ve.php/index.m3u8
 #EXTINF:-1,VIBE
