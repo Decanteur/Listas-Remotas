@@ -541,6 +541,11 @@ http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/102/inde
 #EXTINF:-1,CNBC Europe
 http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/340/index.m3u8
 
+#EXTINF:-1,CBS NEWS
+http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/index_2200_av-p.m3u8
+#EXTINF:-1,BBC World News
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/145/index.m3u8
+
 #EXTINF:-1,***MUSICALES***
 http://sagi.typepad.com/treding_the_vc_waters/Picture1_1.jpg
 
