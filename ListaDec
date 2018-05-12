@@ -535,6 +535,12 @@ http://185.62.86.6:8081/hls/itv2.m3u8
 #EXTINF:0, London Live HD
 http://bcoveliveios-i.akamaihd.net/hls/live/217434/3083279840001/master.m3u8
 
+#EXTINF:-1,CNN International Europe
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/102/index.m3u8
+
+#EXTINF:-1,CNBC Europe
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/340/index.m3u8
+
 #EXTINF:-1,***MUSICALES***
 http://sagi.typepad.com/treding_the_vc_waters/Picture1_1.jpg
 
