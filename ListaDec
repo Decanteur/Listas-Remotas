@@ -14,6 +14,8 @@ http://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@583042/master.m3u8
 http://hlsliveamdgl0-lh.akamaihd.net/i/hlslive_1@586367/index_0400_av-p.m3u8
 #EXTINF:-1 ,group-title="MOVISTAR+" tvg-logo="http://www.movistarplus.es/recorte/m-NEO/guiapc/LA2.png", LA 2 TVE
 http://hlsliveamdgl0-lh.akamaihd.net/i/hlslive_1@586367/master.m3u8
+#EXTINF:0,ES: LA 2 opc. 3
+http://server.stablechannels.tv:25461/live/5RUTvfRf3/mD2fb0Y3z1/3304.m3u8
 #EXTINF:-1,24 HORAS
 http://hlsliveamdgl8-lh.akamaihd.net/i/hlsdvrlive_1@583030/index_0400_av-p.m3u8?sd=10&rebase=on
 #EXTINF:-1,24 HORAS opc. 2
@@ -59,16 +61,21 @@ http://a3live-lh.akamaihd.net/i/lasexta_1@35272/master.m3u8
 http://paramount.live.flumotion.com/live/chunks.m3u8
 
 #EXTINF:-1  group-title="España 2",DMAX
-http://154.16.149.50:8088/stream/maxxxxxxxxxxxxf/playlist.m3u8
+http://154.16.149.50:8088/stream/maxxxxxxxxxxxxf/playlist.m3u80
+
+#EXTINF:0,ES: Dkiss
+http://server.stablechannels.tv:25461/live/5RUTvfRf3/mD2fb0Y3z1/3331.m3u8
+#EXTINF:0,ES: TEN
+http://server.stablechannels.tv:25461/live/5RUTvfRf3/mD2fb0Y3z1/3293.m3u8
 
 #EXTINF:-1 tvg-logo="",13 TV
 http://streaming.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/mobile/playlist.m3u8
 
 #EXTINF:-1,DISNEY CHANNEL HD
-http://pro213.com:80/live/gonzalezcarvallo332/2sq0tn/1793.m3u8
+http://server.stablechannels.tv:25461/live/5RUTvfRf3/mD2fb0Y3z1/3327.m3u8
 
 #EXTINF:-1  group-title="España 2",MTV ESPAÑA
-http://pro213.com:80/live/gonzalezcarvallo332/2sq0tn/2439.m3u8
+http://server.stablechannels.tv:25461/live/5RUTvfRf3/mD2fb0Y3z1/3345.m3u8
 
 #EXTINF:-1 tvg-logo="http://m.canalextremadura.es/sites/all/themes/canalex_2016/images/canalex/logotipo@2x.png", Canal Extremadura
 http://hlstv.canalextremadura.es/livetv/smil:multistream.smil/playlist.m3u8
@@ -79,6 +86,9 @@ http://hlstv.canalextremadura.es/livetv/smil:multistream.smil/chunklist_b1596000
 http://173.212.214.184:1935/cscocina/cscocina/chunklist_w320014621.m3u8
 #EXTINF:-1 tvg-logo="https://i1.wp.com/directostv.teleame.com/wp-content/uploads/2017/09/Canal-Sur-Cocina.png?resize=324%2C235",CanalSur Cocina
 http://cast.streamingconnect.com:1935/cscocina/cscocina/playlist.m3u8
+
+#EXTINF:0,ES: Andalucia TV
+http://server.stablechannels.tv:25461/live/5RUTvfRf3/mD2fb0Y3z1/3287.m3u8
 
 
 #EXTINF:-1,Intereconomia TV
@@ -106,14 +116,17 @@ http://playlist.onlybest.tv/en/channel/d3868b0930104dfc477b435d4bf18b4f/611/inde
 http://10gbs.edgelink.ovh:8000/live/dosdispositivos/smartv.kodi/100.m3u8
 
 #EXTINF:-1  group-title="España 2",MOVISTAR ESTRENOS
-http://copo4.mitopo.me/live/plusestrenos/index.m3u8?token=43KAN5jKhTvR2ljlh7lwDw&expires=1522521421
+http://server.stablechannels.tv:25461/live/5RUTvfRf3/mD2fb0Y3z1/3360.m3u8
 #EXTINF:-1  group-title="España 2",MOVISTAR ESTRENOS HD
 http://10gbs.edgelink.ovh:8000/live/dosdispositivos/smartv.kodi/255.m3u8
 
 #EXTINF:-1  group-title="España 2",MOVISTAR  ACCION
 http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/576/index.m3u8
 #EXTINF:-1 tvg-logo="http://vertelevisor.com/imagenes/movistar-accion.png", M+ Accion HD
-http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/576/index.m3u8
+http://server.stablechannels.tv:25461/live/5RUTvfRf3/mD2fb0Y3z1/3365.m3u8
+
+#EXTINF:0,ES: Movistar  Cine Ñ
+http://server.stablechannels.tv:25461/live/5RUTvfRf3/mD2fb0Y3z1/3364.m3u8
 
 #EXTINF:-1,MOVISTAR Series Xtra opc. 1
 http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/568/index.m3u8
@@ -139,7 +152,7 @@ http://10gbs.edgelink.ovh:8000/live/dosdispositivos/smartv.kodi/134.m3u8
 http://10gbs.edgelink.ovh:8000/live/dosdispositivos/smartv.kodi/244.m3u8
 
 #EXTINF:-1  group-title="España 2",SUNDANCE
-http://10gbs.edgelink.ovh:8000/live/dosdispositivos/smartv.kodi/223.m3u8
+http://server.stablechannels.tv:25461/live/5RUTvfRf3/mD2fb0Y3z1/3358.m3u8
 
 
 #EXTINF:-1  group-title="España 2",MOVISTAR OSCARS
@@ -151,7 +164,7 @@ http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/614/inde
 http://playlist.onlybest.tv/ru/channel/6c53126176d7d597cbe6ffbb0c5fbf49/614/index.m3u8
 
 #EXTINF:-1  group-title="España 2",TCM
-http://10gbs.edgelink.ovh:8000/live/dosdispositivos/smartv.kodi/225.m3u8
+http://server.stablechannels.tv:25461/live/5RUTvfRf3/mD2fb0Y3z1/3357.m3u8
 #EXTINF:-1  group-title="España 2",TCM HD
 http://10gbs.edgelink.ovh:8000/live/dosdispositivos/smartv.kodi/226.m3u8
 
@@ -159,6 +172,8 @@ http://10gbs.edgelink.ovh:8000/live/dosdispositivos/smartv.kodi/226.m3u8
 http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/570/index.m3u8
 #EXTINF:-1  group-title="España 2",COSMOPOLITAN HD
 http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/570/index.m3u8
+#EXTINF:0,ES: Cosmo TV SD
+http://server.stablechannels.tv:25461/live/5RUTvfRf3/mD2fb0Y3z1/3350.m3u8
 
 #EXTINF:-1  group-title="España 2",COMEDY CENTRAL
 http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/572/index.m3u8
@@ -195,64 +210,69 @@ http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/567/inde
 #EXTINF:-1  group-title="España 2",FOX LIFE HD
 http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/567/index.m3u8
 #EXTINF:-1  group-title="España 2",DARK
-http://10gbs.edgelink.ovh:8000/live/dosdispositivos/smartv.kodi/3446.m3u8
+http://server.stablechannels.tv:25461/live/5RUTvfRf3/mD2fb0Y3z1/3367.m3u8
 #EXTINF:-1  group-title="España 2",HOLLYWOOD HD
 http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/577/index.m3u8
 #EXTINF:-1 tvg-logo="https://ulango.tv/uploads/channels/11151/logo_canal%20hollywood3.png",Hollywood HD (Opc. 2)
 http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/577/index.m3u8
 #EXTINF:-1  group-title="España 2",TNT
-http://pro213.com:80/live/gonzalezcarvallo332/2sq0tn/1788.m3u8
+http://server.stablechannels.tv:25461/live/5RUTvfRf3/mD2fb0Y3z1/3342.m3u8
 #EXTINF:-1  group-title="España 2",TNT HD
 http://10gbs.edgelink.ovh:8000/live/dosdispositivos/smartv.kodi/232.m3u8
 #EXTINF:-1  group-title="España 2",SYFY
-http://copo2.mitopo.me/live/syfy/index.m3u8?token=F0ogaoaf1unEjPDZ6pZFiA&expires=1522521723
+http://server.stablechannels.tv:25461/live/5RUTvfRf3/mD2fb0Y3z1/3343.m3u8
 #EXTINF:-1  group-title="España 2",SYFY HD
 http://10gbs.edgelink.ovh:8000/live/dosdispositivos/smartv.kodi/264.m3u8
+#EXTINF:0,ES: XTRM
+http://server.stablechannels.tv:25461/live/5RUTvfRf3/mD2fb0Y3z1/3264.m3u8
 #EXTINF:-1  group-title="España 2",LIFE TV
 http://178.132.6.97/uzivo/lifetvesp/playlist.m3u8
+
 #EXTINF:-1  group-title="España 2",CANAL DECASA
-http://10gbs.edgelink.ovh:8000/live/dosdispositivos/smartv.kodi/136.m3u8
+http://server.stablechannels.tv:25461/live/5RUTvfRf3/mD2fb0Y3z1/3332.m3u8
 #EXTINF:-1  group-title="España 2",CANAL COCINA
-http://pro213.com:80/live/gonzalezcarvallo332/2sq0tn/2430.m3u8
+http://server.stablechannels.tv:25461/live/5RUTvfRf3/mD2fb0Y3z1/3334.m3u8
 #EXTINF:-1  group-title="España 2",CANAL COCINA HD
 http://copo3.mitopo.me/live/cocina/index.m3u8?token=Yiq5IQ59hzDT3IRmdT0teA&expires=1522522499
 
+#EXTINF:0,ES: Movistar  Disney
+http://server.stablechannels.tv:25461/live/5RUTvfRf3/mD2fb0Y3z1/3361.m3u8
 #EXTINF:-1  group-title="España 2",DISNEY XD
 http://10gbs.edgelink.ovh:8000/live/dosdispositivos/smartv.kodi/154.m3u8
 #EXTINF:-1  group-title="España 2",DISNEY JR
 http://playlist.onlybest.tv/ru/channel/93308c1d4668223e600a223a8004a665/604/index.m3u8
 
 #EXTINF:-1  group-title="España 2",DISCOVERY CHANNEL
-http://pro213.com:80/live/gonzalezcarvallo332/2sq0tn/2724.m3u8
+http://server.stablechannels.tv:25461/live/5RUTvfRf3/mD2fb0Y3z1/3340.m3u8
 #EXTINF:-1  group-title="España 2",DISCOVERY CHANNEL HD
 http://10gbs.edgelink.ovh:8000/live/dosdispositivos/smartv.kodi/3707.m3u8
 
 #EXTINF:-1  group-title="España 2",NATIONAL  GEOGRAPHIC
-http://pro213.com:80/live/gonzalezcarvallo332/2sq0tn/2421.m3u8 
+http://server.stablechannels.tv:25461/live/5RUTvfRf3/mD2fb0Y3z1/3337.m3u8 
 #EXTINF:-1  group-title="España 2",National Geographic HD
 http://10gbs.edgelink.ovh:8000/live/dosdispositivos/smartv.kodi/258.m3u8
 #EXTINF:-1  group-title="España 2",NatGeo Wild Spain
-http://pro213.com:80/live/gonzalezcarvallo332/2sq0tn/1789.m3u8
+http://server.stablechannels.tv:25461/live/5RUTvfRf3/mD2fb0Y3z1/3338.m3u8
 
 #EXTINF:-1  group-title="España 2",HISTORIA
-http://copo5.mitopo.me/live/historia/index.m3u8?token=4zH6Yr0FjdVvGCIPSfOtWQ&expires=1522522052
+http://server.stablechannels.tv:25461/live/5RUTvfRf3/mD2fb0Y3z1/3339.m3u8
 #EXTINF:-1  group-title="España 2",HISTORIA  HD
 http://10gbs.edgelink.ovh:8000/live/dosdispositivos/smartv.kodi/3711.m3u8
 
 #EXTINF:-1  group-title="España 2",CRIMEN Y INVES
-http://xxedge262.livesports.pw/live/vercrimenyinvestigacioneb/chunklist.m3u8?md5=a0uRQFF9AWTN-YdHOAH1lA&expires=1522522454
+http://server.stablechannels.tv:25461/live/5RUTvfRf3/mD2fb0Y3z1/3333.m3u8
 #EXTINF:-1  group-title="España 2",A+E
 http://xxedge263.livesports.pw/live/veranadetelefive17669f5d28e4d7/chunklist.m3u8?md5=3yOi9rnZ_2FhYuacMlOIZQ&expires=1522522644
 
 #EXTINF:-1  group-title="España 2",ODISSEA
-http://pro213.com:80/live/gonzalezcarvallo332/2sq0tn/1912.m3u8
+http://server.stablechannels.tv:25461/live/5RUTvfRf3/mD2fb0Y3z1/3336.m3u8
 #EXTINF:-1  group-title="España 2",ODISSEA HD
 http://10gbs.edgelink.ovh:8000/live/dosdispositivos/smartv.kodi/3710.m3u8
 
 #EXTINF:-1  group-title="España 2",Non Stop HD
 http://10gbs.edgelink.ovh:8000/live/dosdispositivos/smartv.kodi/3782.m3u8
 #EXTINF:-1  group-title="España 2",VIAJAR HD
-http://pro213.com:80/live/gonzalezcarvallo332/2sq0tn/1909.m3u8
+http://server.stablechannels.tv:25461/live/5RUTvfRf3/mD2fb0Y3z1/3335.m3u8
 
 #EXTINF:-1  group-title="España 2",CAZA Y PESCA
 http://pro213.com:80/live/gonzalezcarvallo332/2sq0tn/2429.m3u8
@@ -265,12 +285,14 @@ http://playlist.onlybest.tv/ru/channel/57130b963cf73960c05f8ec9eb7db0e9/603/inde
 https://input2.fractalmedia.es/hls/iberaliatv.m3u8
 
 #EXTINF:-1  group-title="España 2",TOROS
-http://pro213.com:80/live/gonzalezcarvallo332/2sq0tn/2525.m3u8
+http://server.stablechannels.tv:25461/live/5RUTvfRf3/mD2fb0Y3z1/3383.m3u8
 #EXTINF:-1  group-title="España 2",TOROS TV HD
 https://ssh101.com/m3u8/dyn/t800/index.m3u8
 
 #EXTINF:0,CNN Español
 http://server.stablechannels.tv:25461/live/5RUTvfRf3/mD2fb0Y3z1/3527.m3u8
+#EXTINF:0,ES: RT HD en Español
+http://server.stablechannels.tv:25461/live/5RUTvfRf3/mD2fb0Y3z1/3267.m3u8
 
 #EXTINF:-1,Miami TV ESP
 http://spainserver.miamitvchannel.com/miamitv/smil:miamitvspain/playlist.m3u8
@@ -326,11 +348,13 @@ http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/581/inde
 http://lamasu.dragontvapp.com/live/ligatv/index.m3u8
 #EXTINF:-1 ,group-title="MOVISTAR+" tvg-logo="http://www.movistarplus.es/recorte/m-NEO/guiapc/BELIG1.png", LA LIGA TV (Opc. 4)
 http://pro213.com:80/live/gonzalezcarvallo332/2sq0tn/8831.m3u8
+#EXTINF:0,ES: La Liga TV BAR SD
+http://server.stablechannels.tv:25461/live/5RUTvfRf3/mD2fb0Y3z1/3378.m3u8
 #EXTINF:0,LaLiga TV Bar HD
 http://playlist.onlybest.tv/ru/channel/d0f21a70397d3659fe259aa5e2a62107/581/index.m3u8
 
 #EXTINF:-1,Moto GP
-http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/613/index.m3u8
+http://server.stablechannels.tv:25461/live/5RUTvfRf3/mD2fb0Y3z1/3368.m3u8
 #EXTINF:-1 tvg-logo="http://cinealplay.com/assets/images/espana/movistar-motogp.png", M+ MotoGP HD
 http://playlist.onlybest.tv/ru/channel/45d923b700bdbb53af22c8219ae034ac/613/index.m3u8
 #EXTINF:-1,M.MOTOGP Opc. 3
@@ -341,7 +365,7 @@ http://playlist.onlybest.tv/ru/channel/45d923b700bdbb53af22c8219ae034ac/613/inde
 http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/613/index.m3u8
 
 #EXTINF:-1,Formula 1
-http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/612/index.m3u8
+http://server.stablechannels.tv:25461/live/5RUTvfRf3/mD2fb0Y3z1/3370.m3u8
 #EXTINF:-1 tvg-logo="https://www.andorratelecom.ad/documents/33347/112493/movistar+formula+1-01.png/9492b402-dda4-b2b5-469f-bd831294680f?t=1487255283758", M+ Formula 1 HD (Opc. 2)
 http://playlist.onlybest.tv/ru/channel/45d923b700bdbb53af22c8219ae034ac/612/index.m3u8
 #EXTINF:-1,M.FORMULA 1 Opc. 3
@@ -367,19 +391,19 @@ http://playlist.onlybest.tv/ru/channel/d0f21a70397d3659fe259aa5e2a62107/575/inde
 #EXTINF:0,Movistar Futbol opc. 4
 http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/575/index.m3u8
 
-#EXTINF:0,Movistar Partidazo
-http://pro213.com:80/live/gonzalezcarvallo332/2sq0tn/1928.m3u8
+#EXTINF:0,ES: Movistar  Partidazo SD (Solo eventos)
+http://server.stablechannels.tv:25461/live/5RUTvfRf3/mD2fb0Y3z1/3374.m3u8
 #EXTINF:0,Movistar Partidazo opc. 2
 http://pro213.com:80/live/gonzalezcarvallo332/2sq0tn/8833.m3u8
 #EXTINF:0,Movistar Partidazo opc. 3
 https://pegasus.listasdf.com/live/partidazo/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/c/c3/MovistarDeportes1.png/revision/latest?cb=20160818140254" group-title="ESPANHA",MOVISTAR DEPORTES 1
-http://pro213.com:80/live/gonzalezcarvallo332/2sq0tn/2432.m3u8
+http://server.stablechannels.tv:25461/live/5RUTvfRf3/mD2fb0Y3z1/3372.m3u8
 #EXTINF:-1  group-title="España 2",Movistar Deportes 1 opc. 2
 http://pro213.com:80/live/gonzalezcarvallo332/2sq0tn/8827.m3u8
 #EXTINF:-1,Movistar Deportes 2
-http://89.38.98.85:8080/live/Reda/Reda/9688.m3u8
+http://server.stablechannels.tv:25461/live/5RUTvfRf3/mD2fb0Y3z1/3371.m3u8
 #EXTINF:-1,Movistar Deportes 2 opc. 2
 http://pro213.com:80/live/gonzalezcarvallo332/2sq0tn/8828.m3u8
 
@@ -453,7 +477,7 @@ http://server.stablechannels.tv:25461/live/5RUTvfRf3/mD2fb0Y3z1/2924.m3u8
 #EXTINF:-1,MOVISTAR TODO DEPORTES
 http://190.92.0.43:1935/securelive/tdtv85jd5EKL3xWq3/chunklist_w1241310319.m3u8
 #EXTINF:-1  group-title="España 2",EUROSPORT 1
-http://pro213.com:80/live/gonzalezcarvallo332/2sq0tn/1906.m3u8
+http://server.stablechannels.tv:25461/live/5RUTvfRf3/mD2fb0Y3z1/3373.m3u8
 #EXTINF:-1  group-title="España 2",EUROSPORT 1 HD
 http://10gbs.edgelink.ovh:8000/live/dosdispositivos/smartv.kodi/246.m3u8
 #EXTINF:-1  group-title="España 2",EUROSPORT 2
@@ -522,6 +546,25 @@ http://31.220.0.134:8081/live/sk1/playlist.m3u8
 http://31.220.0.134:8081/live/sk2/playlist.m3u8
 #EXTINF:-1,SK3 HD
 http://31.220.0.134:8081/live/sk1/playlist.m3u8
+
+#EXTINF:0,USA | Tennis Channel HD
+http://server.stablechannels.tv:25461/live/5RUTvfRf3/mD2fb0Y3z1/3074.m3u8
+#EXTINF:0,USA | ESPN
+http://server.stablechannels.tv:25461/live/5RUTvfRf3/mD2fb0Y3z1/3119.m3u8
+#EXTINF:0,USA | ESPN 2
+http://server.stablechannels.tv:25461/live/5RUTvfRf3/mD2fb0Y3z1/3118.m3u8
+#EXTINF:0,USA | ESPN News US HD
+http://server.stablechannels.tv:25461/live/5RUTvfRf3/mD2fb0Y3z1/3117.m3u8
+#EXTINF:0,USA | ESPN U HD
+http://server.stablechannels.tv:25461/live/5RUTvfRf3/mD2fb0Y3z1/3116.m3u8
+#EXTINF:0,USA | Fox Sports 1
+http://server.stablechannels.tv:25461/live/5RUTvfRf3/mD2fb0Y3z1/3109.m3u8
+#EXTINF:0,USA | NBA TV HD
+http://server.stablechannels.tv:25461/live/5RUTvfRf3/mD2fb0Y3z1/3094.m3u8
+#EXTINF:0,USA | NBC Sport Network HD
+http://server.stablechannels.tv:25461/live/5RUTvfRf3/mD2fb0Y3z1/3091.m3u8
+#EXTINF:0,USA | NHL Network
+http://server.stablechannels.tv:25461/live/5RUTvfRf3/mD2fb0Y3z1/3088.m3u8
 
 #EXTINF:-1,BBC 2
 http://31.220.0.134:8081/live/bbc2/playlist.m3u8
@@ -592,6 +635,9 @@ http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/102/inde
 #EXTINF:-1,CNBC Europe
 http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/340/index.m3u8
 
+#EXTINF:0,USA | FOX News HD
+http://server.stablechannels.tv:25461/live/5RUTvfRf3/mD2fb0Y3z1/3110.m3u8
+
 #EXTINF:-1,CBS NEWS
 http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/index_2200_av-p.m3u8
 #EXTINF:-1,BBC World News
@@ -632,9 +678,9 @@ http://wow01.105.net/live/virgin1/chunklist_w25732073.m3u8?JoCaRoIPTV.m3u8
 #EXTINF:-1,Virgin Rock
 http://wow01.105.net/live/virgin1/chunklist_w25732073.m3u8
 #EXTINF:-1  group-title="España 2",VH1 MOVISTAR
-http://asdp.ddns.net:8000/live/daniel/daniel/340.m3u8
-#EXTINF:-1  group-title="España 2",VH1
-http://playlist.onlybest.tv/en/channel/78ad82ff7979f9daa5f44464e8788080/238/index.m3u8
+http://server.stablechannels.tv:25461/live/5RUTvfRf3/mD2fb0Y3z1/3261.m3u8
+#EXTINF:0,ES: VH1 Classic
+http://server.stablechannels.tv:25461/live/5RUTvfRf3/mD2fb0Y3z1/3260.m3u8
 #EXTINF:-1,Music Choice
 http://edge.music-choice-play-chaina1.top.comcast.net/PlayMetadataInserter/play/chunklist.m3u8
 #EXTINF:-1,Music Choice - Pop Hits
