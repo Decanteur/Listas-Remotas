@@ -82,10 +82,14 @@ http://hlstv.canalextremadura.es/livetv/smil:multistream.smil/playlist.m3u8
 EXTINF:-1 tvg-logo="http://www.canalextremadura.es/sites/all/themes/canalex_2016/images/canalex/logotipo.png" group-title="España",CANAL EXTREMADURA Opc. 2
 http://hlstv.canalextremadura.es/livetv/smil:multistream.smil/chunklist_b1596000_DVR.m3u8
 
+#EXTINF:0,Canal Sur
+http://server.stablechannels.tv:25461/live/5RUTvfRf3/mD2fb0Y3z1/3284.m3u8
 #EXTINF:-1  group-title="España 2",CANAL SUR COCINA
 http://173.212.214.184:1935/cscocina/cscocina/chunklist_w320014621.m3u8
-#EXTINF:-1 tvg-logo="https://i1.wp.com/directostv.teleame.com/wp-content/uploads/2017/09/Canal-Sur-Cocina.png?resize=324%2C235",CanalSur Cocina
+#EXTINF:-1 tvg-logo="https://i1.wp.com/directostv.teleame.com/wp-content/uploads/2017/09/Canal-Sur-Cocina.png?resize=324%2C235",CanalSur Cocina opc. 2
 http://cast.streamingconnect.com:1935/cscocina/cscocina/playlist.m3u8
+#EXTINF:-1  group-title="España 2",CANAL SUR COCINA opc. 3
+http://server.stablechannels.tv:25461/live/5RUTvfRf3/mD2fb0Y3z1/3283.m3u8
 
 #EXTINF:0,ES: Andalucia TV
 http://server.stablechannels.tv:25461/live/5RUTvfRf3/mD2fb0Y3z1/3287.m3u8
@@ -536,7 +540,7 @@ http://31.220.0.134:8081/live/jtvs4/playlist.m3u8
 http://31.220.0.196:8081/live/ctvs4/playlist.m3u8
 
 #EXTINF:-1,FS 1
-http://31.220.0.196:8081/live/fx11sx/chunks.m3u8
+http://stream.fs1.tv:8080/hls/webstream.m3u8
 #EXTINF:-1,FS 2
 http://31.220.0.196:8081/live/fx2sx/chunks.m3u8
 
