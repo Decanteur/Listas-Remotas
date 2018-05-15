@@ -318,15 +318,6 @@ http://pro213.com:80/live/gonzalezcarvallo332/2sq0tn/8832.m3u8
 http://playlist.onlybest.tv/en/channel/2874e3a9397ce975e8463c76533bcb1e/566/index.m3u8
 #EXTINF:-1,Bein Sports Opción 4
 http://lamasu.dragontvapp.com/live/beinsportesp/index.m3u8
-#EXTINF:-0,BEINSPORT HD Opc. 5
-http://playlist.onlybest.tv/ru/channel/45d923b700bdbb53af22c8219ae034ac/574/index.m3u8
-#EXTINF:-1, BEIN SPORTS Opc. 6
-http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/574/index.m3u8
-#EXTINF:-1,BEIN SPORTS Opc. 7
-http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/574/index.m3u8
-#EXTINF:-1,BEIN SPORTS (TK)
-http://ams.tvizlehd.com/live/beinhaber/chunks.m3u8
-
 
 #EXTINF:-1,Bein LaLiga opción 1
 http://playlist.onlybest.tv/ru/channel/6c53126176d7d597cbe6ffbb0c5fbf49/574/index.m3u8
@@ -337,35 +328,32 @@ http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/574/inde
 #EXTINF:-1,Bein LaLiga opción 4
 http://playlist.onlybest.tv/ru/channel/93308c1d4668223e600a223a8004a665/574/index.m3u8
 #EXTINF:-1,Bein LaLiga opción 5
-http://pro213.com:80/live/gonzalezcarvallo332/2sq0tn/8846.m3u8
+http://playlist.onlybest.tv/ru/channel/45d923b700bdbb53af22c8219ae034ac/574/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fUKODzu.png" group-title="DEPORTES", Movistar Futbol | FHD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fUKODzu.png" group-title="DEPORTES", Movistar Futbol opc. 1
 http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/575/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fUKODzu.png" group-title="DEPORTES", Movistar Futbol
-http://lamasu.dragontvapp.com/live/mfutbol/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fUKODzu.png" group-title="DEPORTES", Movistar Futbol opc. 2
+http://playlist.onlybest.tv/ru/channel/45d923b700bdbb53af22c8219ae034ac/575/index.m3u8
+#EXTINF:-1,MOVISTAR FUTBOL opc. 3
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/575/index.m3u8
+#EXTINF:-1,Movistar Futbol opc. 4
+http://playlist.onlybest.tv/ru/channel/d0f21a70397d3659fe259aa5e2a62107/575/index.m3u8
 
 #EXTINF:-1,laligatv
 http://playlist.onlybest.tv/ru/channel/6c53126176d7d597cbe6ffbb0c5fbf49/581/index.m3u8
 #EXTINF:-1 ,group-title="MOVISTAR+" tvg-logo="http://www.movistarplus.es/recorte/m-NEO/guiapc/BELIG1.png", LA LIGA TV (Opc. 2)
 http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/581/index.m3u8
-#EXTINF:-1 ,group-title="MOVISTAR+" tvg-logo="http://www.movistarplus.es/recorte/m-NEO/guiapc/BELIG1.png", LA LIGA TV (Opc. 3)
-http://lamasu.dragontvapp.com/live/ligatv/index.m3u8
-#EXTINF:-1 ,group-title="MOVISTAR+" tvg-logo="http://www.movistarplus.es/recorte/m-NEO/guiapc/BELIG1.png", LA LIGA TV (Opc. 4)
-http://pro213.com:80/live/gonzalezcarvallo332/2sq0tn/8831.m3u8
+
 #EXTINF:0,ES: La Liga TV BAR SD
 http://server.stablechannels.tv:25461/live/5RUTvfRf3/mD2fb0Y3z1/3378.m3u8
 #EXTINF:0,LaLiga TV Bar HD
 http://playlist.onlybest.tv/ru/channel/d0f21a70397d3659fe259aa5e2a62107/581/index.m3u8
 
-#EXTINF:-1,Moto GP
-http://server.stablechannels.tv:25461/live/5RUTvfRf3/mD2fb0Y3z1/3368.m3u8
-#EXTINF:-1 tvg-logo="http://cinealplay.com/assets/images/espana/movistar-motogp.png", M+ MotoGP HD
+#EXTINF:-1 tvg-logo="http://cinealplay.com/assets/images/espana/movistar-motogp.png", M+ MotoGP opc. 1
 http://playlist.onlybest.tv/ru/channel/45d923b700bdbb53af22c8219ae034ac/613/index.m3u8
-#EXTINF:-1,M.MOTOGP Opc. 3
+#EXTINF:-1,M.MOTOGP Opc. 2
 http://89.38.98.85:8080/live/Reda/Reda/9683.m3u8
-#EXTINF:-1,M+ MotoGP HD Opc. 4
-http://playlist.onlybest.tv/ru/channel/45d923b700bdbb53af22c8219ae034ac/613/index.m3u8
-#EXTINF:0,Movistar MotoGP Opción 5
+#EXTINF:-1,M+ MotoGP HD Opc. 3
 http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/613/index.m3u8
 
 #EXTINF:-1,Formula 1
@@ -385,15 +373,6 @@ http://144.217.64.126:8080/live/coke123/coke123/53616.m3u8
 
 #EXTINF:-1,SKY Sport F1  
 http://31.220.0.134:8081/live/jtvf1/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Movistar_F%C3%BAtbol.svg/1200px-Movistar_F%C3%BAtbol.svg.png", M+ Futbol HD
-http://playlist.onlybest.tv/ru/channel/45d923b700bdbb53af22c8219ae034ac/575/index.m3u8
-#EXTINF:-1,MOVISTAR FUTBOL opc. 2
-http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/575/index.m3u8
-#EXTINF:-1,Movistar Futbol opc. 3
-http://playlist.onlybest.tv/ru/channel/d0f21a70397d3659fe259aa5e2a62107/575/index.m3u8
-#EXTINF:0,Movistar Futbol opc. 4
-http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/575/index.m3u8
 
 #EXTINF:0,ES: Movistar  Partidazo SD (Solo eventos)
 http://server.stablechannels.tv:25461/live/5RUTvfRf3/mD2fb0Y3z1/3374.m3u8
