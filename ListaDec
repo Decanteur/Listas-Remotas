@@ -318,6 +318,8 @@ http://pro213.com:80/live/gonzalezcarvallo332/2sq0tn/8832.m3u8
 http://playlist.onlybest.tv/en/channel/2874e3a9397ce975e8463c76533bcb1e/566/index.m3u8
 #EXTINF:-1,Bein Sports Opción 4
 http://lamasu.dragontvapp.com/live/beinsportesp/index.m3u8
+#EXTINF:0,Bein Sports Ñ
+http://server.stablechannels.tv:25461/live/5RUTvfRf3/mD2fb0Y3z1/3612.m3u8
 
 #EXTINF:-1,Bein LaLiga opción 1
 http://playlist.onlybest.tv/ru/channel/6c53126176d7d597cbe6ffbb0c5fbf49/574/index.m3u8
@@ -338,6 +340,9 @@ http://playlist.onlybest.tv/ru/channel/45d923b700bdbb53af22c8219ae034ac/575/inde
 http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/575/index.m3u8
 #EXTINF:-1,Movistar Futbol opc. 4
 http://playlist.onlybest.tv/ru/channel/d0f21a70397d3659fe259aa5e2a62107/575/index.m3u8
+
+#EXTINF:-1,MOVISTAR TODO DEPORTES
+http://190.92.0.43:1935/securelive/tdtv85jd5EKL3xWq3/chunklist_w1241310319.m3u8
 
 #EXTINF:-1,laligatv
 http://playlist.onlybest.tv/ru/channel/6c53126176d7d597cbe6ffbb0c5fbf49/581/index.m3u8
@@ -457,8 +462,6 @@ http://server.stablechannels.tv:25461/live/5RUTvfRf3/mD2fb0Y3z1/2922.m3u8
 #EXTINF:0,Fox Sports 3 HD (Chile)
 http://server.stablechannels.tv:25461/live/5RUTvfRf3/mD2fb0Y3z1/2924.m3u8
 
-#EXTINF:-1,MOVISTAR TODO DEPORTES
-http://190.92.0.43:1935/securelive/tdtv85jd5EKL3xWq3/chunklist_w1241310319.m3u8
 #EXTINF:-1  group-title="España 2",EUROSPORT 1
 http://server.stablechannels.tv:25461/live/5RUTvfRf3/mD2fb0Y3z1/3373.m3u8
 #EXTINF:-1  group-title="España 2",EUROSPORT 1 HD
@@ -475,6 +478,7 @@ http://65.254.55.10:4000/live/197/197.m3u8
 http://playlist.onlybest.tv/en/channel/2874e3a9397ce975e8463c76533bcb1e/78/index.m3u8
 #EXTINF:-1 tvg-logo="https://broadbandtvnews-broadbandtvnews.netdna-ssl.com/wp-content/uploads/2015/11/Eurosport-1-symbol.png", Eurosport 2 HD (ENG)
 http://playlist.onlybest.tv/ru/channel/45d923b700bdbb53af22c8219ae034ac/78/index.m3u8
+
 #EXTINF:0 type="favorites" channelId="2743", Sky Sport Bundesliga 1
 http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/725/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.cbcsport.tv/upload/img/live.png" group-title="DEPORTES 2",CBC Sport
