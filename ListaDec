@@ -373,8 +373,6 @@ http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/612/inde
 http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/612/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="DEPORTES",FORMULA 1 opción 6
 http://playlist.onlybest.tv/ru/channel/6c53126176d7d597cbe6ffbb0c5fbf49/612/index.m3u8
-#EXTINF:0,FORMULA 1 opc. 7
-http://144.217.64.126:8080/live/coke123/coke123/53616.m3u8
 
 #EXTINF:-1,SKY Sport F1  
 http://31.220.0.134:8081/live/jtvf1/playlist.m3u8
@@ -590,8 +588,10 @@ http://righttv.ddns.net:25461/live/trial30/trial30/11261.m3u8
 http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/900/index.m3u8
 #EXTINF:-1  group-title="España 2",Red Bull Tv HD
 http://10gbs.edgelink.ovh:8000/live/dosdispositivos/smartv.kodi/4226.m3u8
-#EXTINF:0,Extreme Sports Channel
+#EXTINF:0,Extreme Sports Channel opc. 1
 http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/47/index.m3u8
+#EXTINF:-1,Extreme Sports Channel opc 2
+http://playlist.onlybest.tv/ru/channel/45d923b700bdbb53af22c8219ae034ac/47/index.m3u8
 
 #EXTINF:-1,NeoSports
 http://cshms4.airtel.tv/PLTV/88888888/224/3221225791/01.m3u8
