@@ -350,7 +350,7 @@ http://playlist.onlybest.tv/ru/channel/6c53126176d7d597cbe6ffbb0c5fbf49/581/inde
 http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/581/index.m3u8
 
 #EXTINF:0,ES: La Liga TV BAR SD
-http://server.stablechannels.tv:25461/live/5RUTvfRf3/mD2fb0Y3z1/3378.m3u8
+http://playlist.onlybest.tv/ru/channel/d0f21a70397d3659fe259aa5e2a62107/581/index.m3u8
 #EXTINF:0,LaLiga TV Bar HD
 http://playlist.onlybest.tv/ru/channel/d0f21a70397d3659fe259aa5e2a62107/581/index.m3u8
 
@@ -554,6 +554,12 @@ http://server.stablechannels.tv:25461/live/5RUTvfRf3/mD2fb0Y3z1/3088.m3u8
 #EXTINF:-1,BBC 2
 http://31.220.0.134:8081/live/bbc2/playlist.m3u8
 
+#EXTINF:0, Sport 1 HD Deutschland
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/453/index.m3u8
+
+#EXTINF:0, Sky Sports 2 DE
+http://playlist.onlybest.tv/ru/channel/45d923b700bdbb53af22c8219ae034ac/733/index.m3u8
+
 #EXTINF:0 type="favorites" channelId="805", NBA
 http://31.204.150.12:8080/edge/4304/tracks-v1a1/index.m3u8?token=17.18.1487.6d44eab61dcf5b1f0e6fa8f6595ee1bc.1.1.1.641.0.0.71875765cf0ee5df30360b6487a7b6ec
 #EXTINF:0 type="favorites" channelId="805", NBA
@@ -607,12 +613,16 @@ http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/04.m3u8
 https://secure-streams.akamaized.net/rt-uk/index.m3u8
 #EXTINF:0, CBS
 http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/index_700_av-p.m3u8
+
 #EXTINF:0, itv
 http://185.62.86.6:8081/hls/itv.m3u8
 #EXTINF:0, itv opc. 2
 http://145.239.1.103:8000/live/melik/123456/721.m3u8
 #EXTINF:0, itv 2
 http://185.62.86.6:8081/hls/itv2.m3u8
+#EXTINF:0, itv 4
+https://itvliveevents-i.akamaihd.net/hls/live/203496/itvliveevents/ITVEVTMN/master.m3u8
+
 #EXTINF:0, London Live HD
 http://bcoveliveios-i.akamaihd.net/hls/live/217434/3083279840001/master.m3u8
 
