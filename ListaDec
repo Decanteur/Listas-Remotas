@@ -138,7 +138,7 @@ http://playlist.onlybest.tv/en/channel/d3868b0930104dfc477b435d4bf18b4f/611/inde
 http://10gbs.edgelink.ovh:8000/live/dosdispositivos/smartv.kodi/100.m3u8
 
 #EXTINF:-1  group-title="España 2",MOVISTAR ESTRENOS
-http://server.stablechannels.tv:25461/live/5RUTvfRf3/mD2fb0Y3z1/3360.m3u8
+http://mypanel.tv:8080/live/berto/berto/7222.m3u8
 #EXTINF:-1  group-title="España 2",MOVISTAR ESTRENOS HD
 http://10gbs.edgelink.ovh:8000/live/dosdispositivos/smartv.kodi/255.m3u8
 
