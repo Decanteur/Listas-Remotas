@@ -110,9 +110,11 @@ http://server.stablechannels.tv:25461/live/5RUTvfRf3/mD2fb0Y3z1/3283.m3u8
 #EXTINF:0,ES: Andalucia TV
 http://server.stablechannels.tv:25461/live/5RUTvfRf3/mD2fb0Y3z1/3287.m3u8
 
-
 #EXTINF:-1,Intereconomia TV
 http://streaming.enetres.net/16011939C62D44ED91350508FB25828B021/smil:live.smil/master.m3u8
+
+#EXTINF:0 type="favorites" channelId="-1" tvg-logo="http://www.unored.tv/wp-content/uploads/2015/08/Extrema-TV-logo.jpg", Extrema TV
+http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 
 #EXTINF:-1  group-title="España 2",TELEMADRID
 http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/telemadrid1/bitrate_1.m3u8
@@ -142,8 +144,8 @@ http://10gbs.edgelink.ovh:8000/live/dosdispositivos/smartv.kodi/255.m3u8
 
 #EXTINF:-1  group-title="España 2",MOVISTAR  ACCION
 http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/576/index.m3u8
-#EXTINF:-1 tvg-logo="http://vertelevisor.com/imagenes/movistar-accion.png", M+ Accion HD
-http://server.stablechannels.tv:25461/live/5RUTvfRf3/mD2fb0Y3z1/3365.m3u8
+#EXTINF:-1 tvg-logo="http://vertelevisor.com/imagenes/movistar-accion.png", M+ Accion HD opc. 2
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/576/index.m3u8
 
 #EXTINF:0,ES: Movistar  Cine Ñ
 http://server.stablechannels.tv:25461/live/5RUTvfRf3/mD2fb0Y3z1/3364.m3u8
@@ -631,6 +633,22 @@ http://playlist.onlybest.tv/ru/channel/45d923b700bdbb53af22c8219ae034ac/47/index
 #EXTINF:-1,NeoSports
 http://cshms4.airtel.tv/PLTV/88888888/224/3221225791/01.m3u8
 
+#EXTINF:-1,SONY TEN1 HD
+http://cshms3.airtel.tv/wh7f454c46tw2224230268_1388919955/PLTV/88888888/224/3221225875/01.m3u8
+#EXTINF:-1,SONY TEN2 SD
+http://cshms3.airtel.tv/wh7f454c46tw3547367093_1434011504/PLTV/88888888/224/3221225932/01.m3u8
+#EXTINF:-1,SONY TEN3 HD
+http://cshms4.airtel.tv/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221226330/04.m3u8
+
+#EXTINF:-1,DSports HD
+http://cshms4.airtel.tv/wh7f454c46tw2959729406_596421737/PLTV/88888888/224/3221226484/04.m3u8
+ 
+#EXTINF:-1,DSports opc. 2
+http://mhms8.airtel.tv/wh7f454c46tw2201796875_990797628/PLTV/88888888/224/3221226392/06.m3u8
+ 
+#EXTINF:-1,DSports opc. 3
+http://cshms4.airtel.tv/PLTV/88888888/224/3221226392/06.m3u8
+
 #EXTINF:-1,***EXTRANJERAS***
 http://sagi.typepad.com/treding_the_vc_waters/Picture1_1.jpg
 
@@ -711,6 +729,8 @@ http://wow01.105.net/live/virgin1/chunklist_w25732073.m3u8?JoCaRoIPTV.m3u8
 http://wow01.105.net/live/virgin1/chunklist_w25732073.m3u8
 #EXTINF:-1  group-title="España 2",VH1 MOVISTAR
 http://server.stablechannels.tv:25461/live/5RUTvfRf3/mD2fb0Y3z1/3261.m3u8
+#EXTINF:-1 tvg-logo="http://teamblue.rudigualter.pt/teamblue/LOGO/VH1EUROPE.png" group-title="ESPANHA",VH1 EUROPE ()
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/238/index.m3u8
 #EXTINF:0,ES: VH1 Classic
 http://server.stablechannels.tv:25461/live/5RUTvfRf3/mD2fb0Y3z1/3260.m3u8
 #EXTINF:-1,Music Choice
