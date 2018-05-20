@@ -24,7 +24,7 @@ http://hlsliveamdgl8-lh.akamaihd.net/i/hlsdvrlive_1@583030/master.m3u8
 #EXTINF:-1,ANTENA 3
 http://a3live-lh.akamaihd.net/i/antena3_1@35248/index_1_av-p.m3u8
 #EXTINF:-1,Antena 3 [HD]
-http://a3live-lh.akamaihd.net/i/antena3_1@35248/master.m3u8
+http://playlist.onlybest.tv/ru/channel/57130b963cf73960c05f8ec9eb7db0e9/615/index.m3u8
 #EXTINF:-1,NEOX
 http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/index_1_av-b.m3u8?iptvgratis?chile.m3u8
 #EXTINF:-1,NOVA
@@ -39,6 +39,8 @@ http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/index_3_av-b.m3u8
 http://mypanel.tv:8080/live/berto/berto/8760.m3u8
 #EXTINF:-1 group-title="",Mega HD ES opc. 4
 http://mypanel.tv:8080/live/berto/berto/13824.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/Sexta.jpg",LA SEXTA
+http://playlist.onlybest.tv/ru/channel/57130b963cf73960c05f8ec9eb7db0e9/618/index.m3u8
 
 #EXTINF:-1 tvg-logo="",Cuatro
 https://livehlsdai-i.akamaihd.net/hls/live/571643/cuatro/bitrate_1.m3u8
@@ -55,17 +57,15 @@ http://mypanel.tv:8080/live/berto/berto/8765.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/744781470946852864/nz8sp439_400x400.jpg",FDF
 https://mdslivehls-i.akamaihd.net/hls/live/571650/fdf/bitrate_1.m3u8
 #EXTINF:-1 group-title="Mediaset España" ,FDF ES opc. 2
-http://mypanel.tv:8080/live/berto/berto/7221.m3u8
+https://mdslivehls-i.akamaihd.net/hls/live/571650/fdf/bitrate_4.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.sincroguia.tv/uploads/images/b/e/-/xbe-mad-1.jpg.pagespeed.ic.rDna1IN19j.jpg",Be Mad TV
 https://mdslivehlsb-i.akamaihd.net/hls/live/623615/bemad/bitrate_4.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/744781228683857920/2hIDK_eo_400x400.jpg",Divinity
 https://mdslivehls-i.akamaihd.net/hls/live/571648/divinity/bitrate_1.m3u8
 #EXTINF:-1 group-title="Mediaset España" ,Divinity ES opc. 2  
-http://mypanel.tv:8080/live/berto/berto/13534.m3u8
+https://mdslivehls-i.akamaihd.net/hls/live/571648/divinity/bitrate_4.m3u8
 #EXTINF:-1  group-title="España 2",BOING
 https://mdslivehlsb-i.akamaihd.net/hls/live/623616/boing/bitrate_1.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/Sexta.jpg",LA SEXTA
-http://a3live-lh.akamaihd.net/i/lasexta_1@35272/master.m3u8
 
 #EXTINF:-1  group-title="España 2",PARAMOUNT CHANNEL
 http://paramount.live.flumotion.com/live/chunks.m3u8
@@ -153,7 +153,7 @@ http://server.stablechannels.tv:25461/live/5RUTvfRf3/mD2fb0Y3z1/3364.m3u8
 #EXTINF:-1,MOVISTAR Series Xtra opc. 1
 http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/568/index.m3u8
 #EXTINF:-1  group-title="España 2",MOVISTAR  SERIES XTRA opc. 2
-http://10gbs.edgelink.ovh:8000/live/dosdispositivos/smartv.kodi/185.m3u8
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/568/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Movistar_Series.svg/1200px-Movistar_Series.svg.png",M+ Series Xtra HD opc. 3
 http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/568/index.m3u8
 #EXTINF:-1  group-title="España 2",MOVISTAR  SERIES opc. 4
@@ -163,7 +163,7 @@ http://10gbs.edgelink.ovh:8000/live/dosdispositivos/smartv.kodi/184.m3u8
 http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/606/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Movistar_DCine.svg/1200px-Movistar_DCine.svg.png", M+ DCine
-http://playlist.onlybest.tv/ru/channel/57130b963cf73960c05f8ec9eb7db0e9/607/index.m3u8
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/607/index.m3u8
 
 #EXTINF:-1,MOVISTAR DISNEY
 http://xxedge262.livesports.pw/live/vermdisney4fe56a2fafa38ae9670f/chunklist.m3u8?md5=1lPXYhC5_jDEV3y79mTUNw&expires=1522521527
@@ -195,7 +195,7 @@ http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/570/inde
 #EXTINF:-1 group-title="Spain" ,Cosmopolitan HD ES opc. 2
 http://mypanel.tv:8080/live/berto/berto/13537.m3u8
 #EXTINF:0,ES: Cosmo TV SD opc. 3
-http://server.stablechannels.tv:25461/live/5RUTvfRf3/mD2fb0Y3z1/3350.m3u8
+http://playlist.onlybest.tv/ru/channel/57130b963cf73960c05f8ec9eb7db0e9/570/index.m3u8
 
 #EXTINF:-1  group-title="España 2",COMEDY CENTRAL
 http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/572/index.m3u8
@@ -315,7 +315,7 @@ http://mypanel.tv:8080/live/berto/berto/7232.m3u8
 #EXTINF:-1  group-title="España 2",IBERALIA TV
 http://playlist.onlybest.tv/ru/channel/57130b963cf73960c05f8ec9eb7db0e9/603/index.m3u8
 #EXTINF:-1  group-title="España 2",Iberalia TV HD
-https://input2.fractalmedia.es/hls/iberaliatv.m3u8
+http://playlist.onlybest.tv/ru/channel/d0f21a70397d3659fe259aa5e2a62107/603/index.m3u8
 
 #EXTINF:-1  group-title="España 2",TOROS
 http://server.stablechannels.tv:25461/live/5RUTvfRf3/mD2fb0Y3z1/3383.m3u8
@@ -325,7 +325,7 @@ http://mypanel.tv:8080/live/berto/berto/13548.m3u8
 #EXTINF:0,CNN Español
 http://server.stablechannels.tv:25461/live/5RUTvfRf3/mD2fb0Y3z1/3527.m3u8
 #EXTINF:0,ES: RT HD en Español
-http://server.stablechannels.tv:25461/live/5RUTvfRf3/mD2fb0Y3z1/3267.m3u8
+https://secure-streams.akamaized.net/rt-esp/index.m3u8
 
 #EXTINF:-1,Miami TV ESP
 http://spainserver.miamitvchannel.com/miamitv/smil:miamitvspain/playlist.m3u8
@@ -505,6 +505,10 @@ http://65.254.55.10:4000/live/197/197.m3u8
 http://playlist.onlybest.tv/en/channel/2874e3a9397ce975e8463c76533bcb1e/78/index.m3u8
 #EXTINF:-1 tvg-logo="https://broadbandtvnews-broadbandtvnews.netdna-ssl.com/wp-content/uploads/2015/11/Eurosport-1-symbol.png", Eurosport 2 HD (ENG)
 http://playlist.onlybest.tv/ru/channel/45d923b700bdbb53af22c8219ae034ac/78/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES",EuroSport 1 De
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/682/index.m3u8
+#EXTINF:-1, tvg-logo="jPW4CkF.png" group-title="",Eurosport 1 It
+http://65.254.55.10:4000/live/197/197.m3u8
 
 #EXTINF:0 type="favorites" channelId="2743", Sky Sport Bundesliga 1
 http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/725/index.m3u8
