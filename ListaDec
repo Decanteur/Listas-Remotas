@@ -33,8 +33,12 @@ http://a3live-lh.akamaihd.net/i/nvhds/geonova_1@379404/master.m3u8
 http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/master.m3u8
 #EXTINF:-1,MEGA
 http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/index_2_av-b.m3u8?JoCaRoIPTV.m3u8
-#EXTINF:-1,MEGA HD
+#EXTINF:-1,MEGA HD opc. 2
 http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/index_3_av-b.m3u8
+#EXTINF:-1 group-title="",Mega ES opc. 3
+http://mypanel.tv:8080/live/berto/berto/8760.m3u8
+#EXTINF:-1 group-title="",Mega HD ES opc. 4
+http://mypanel.tv:8080/live/berto/berto/13824.m3u8
 
 #EXTINF:-1 tvg-logo="",Cuatro
 https://livehlsdai-i.akamaihd.net/hls/live/571643/cuatro/bitrate_1.m3u8
@@ -46,12 +50,18 @@ http://telecinco-mediaset-esp-live.secure.footprint.net/mediaset/telecinco/strea
 http://telecinco-mediaset-esp-live.secure.footprint.net/mediaset/telecinco/stream1/streamPlaylist.m3u8
 #EXTINF:-1, group-title="tv" tvg-logo="http://www.formulatv.com/fotos/a/9000/9225/l47xp2wnn9sgxixifo52a8c3d3a5b26_energy.png", Energy
 https://mdslivehlsb-i.akamaihd.net/hls/live/623617/energy/bitrate_1.m3u8
+#EXTINF:-1 group-title="Mediaset España" ,Energy ES opc. 2
+http://mypanel.tv:8080/live/berto/berto/8765.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/744781470946852864/nz8sp439_400x400.jpg",FDF
 https://mdslivehls-i.akamaihd.net/hls/live/571650/fdf/bitrate_1.m3u8
+#EXTINF:-1 group-title="Mediaset España" ,FDF ES opc. 2
+http://mypanel.tv:8080/live/berto/berto/7221.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.sincroguia.tv/uploads/images/b/e/-/xbe-mad-1.jpg.pagespeed.ic.rDna1IN19j.jpg",Be Mad TV
 https://mdslivehlsb-i.akamaihd.net/hls/live/623615/bemad/bitrate_4.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/744781228683857920/2hIDK_eo_400x400.jpg",Divinity
 https://mdslivehls-i.akamaihd.net/hls/live/571648/divinity/bitrate_1.m3u8
+#EXTINF:-1 group-title="Mediaset España" ,Divinity ES opc. 2  
+http://mypanel.tv:8080/live/berto/berto/13534.m3u8
 #EXTINF:-1  group-title="España 2",BOING
 https://mdslivehlsb-i.akamaihd.net/hls/live/623616/boing/bitrate_1.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/Sexta.jpg",LA SEXTA
@@ -59,12 +69,16 @@ http://a3live-lh.akamaihd.net/i/lasexta_1@35272/master.m3u8
 
 #EXTINF:-1  group-title="España 2",PARAMOUNT CHANNEL
 http://paramount.live.flumotion.com/live/chunks.m3u8
+#EXTINF:-1 group-title="Peliculas" ,Paramount Channel ES
+http://mypanel.tv:8080/live/berto/berto/8769.m3u8 opc. 2
 
 #EXTINF:-1  group-title="España 2",DMAX
 http://154.16.149.50:8088/stream/maxxxxxxxxxxxxf/playlist.m3u80
 
 #EXTINF:0,ES: Dkiss
 http://server.stablechannels.tv:25461/live/5RUTvfRf3/mD2fb0Y3z1/3331.m3u8
+#EXTINF:-1 group-title="Spain" ,Dkiss HD ES opc. 2
+http://mypanel.tv:8080/live/berto/berto/13533.m3u8
 #EXTINF:0,ES: TEN
 http://server.stablechannels.tv:25461/live/5RUTvfRf3/mD2fb0Y3z1/3293.m3u8
 
@@ -76,6 +90,8 @@ http://server.stablechannels.tv:25461/live/5RUTvfRf3/mD2fb0Y3z1/3327.m3u8
 
 #EXTINF:-1  group-title="España 2",MTV ESPAÑA
 http://server.stablechannels.tv:25461/live/5RUTvfRf3/mD2fb0Y3z1/3345.m3u8
+#EXTINF:-1 group-title="Spain" ,MTV Espana ES opc. 2
+http://mypanel.tv:8080/live/berto/berto/8759.m3u8
 
 #EXTINF:-1 tvg-logo="http://m.canalextremadura.es/sites/all/themes/canalex_2016/images/canalex/logotipo@2x.png", Canal Extremadura
 http://hlstv.canalextremadura.es/livetv/smil:multistream.smil/playlist.m3u8
@@ -151,7 +167,7 @@ http://playlist.onlybest.tv/ru/channel/57130b963cf73960c05f8ec9eb7db0e9/607/inde
 http://xxedge262.livesports.pw/live/vermdisney4fe56a2fafa38ae9670f/chunklist.m3u8?md5=1lPXYhC5_jDEV3y79mTUNw&expires=1522521527
 
 #EXTINF:-1  group-title="España 2",CALLE 13 opc. 1
-http://10gbs.edgelink.ovh:8000/live/dosdispositivos/smartv.kodi/134.m3u8
+http://mypanel.tv:8080/live/berto/berto/7247.m3u8
 #EXTINF:-1  group-title="España 2",CALLE 13 HD opc. 2
 http://10gbs.edgelink.ovh:8000/live/dosdispositivos/smartv.kodi/244.m3u8
 
@@ -169,14 +185,14 @@ http://playlist.onlybest.tv/ru/channel/6c53126176d7d597cbe6ffbb0c5fbf49/614/inde
 
 #EXTINF:-1  group-title="España 2",TCM
 http://server.stablechannels.tv:25461/live/5RUTvfRf3/mD2fb0Y3z1/3357.m3u8
-#EXTINF:-1  group-title="España 2",TCM HD
-http://10gbs.edgelink.ovh:8000/live/dosdispositivos/smartv.kodi/226.m3u8
+#EXTINF:-1  group-title="España 2",TCM HD opc. 2
+http://mypanel.tv:8080/live/berto/berto/7180.m3u8
 
 #EXTINF:-1  group-title="España 2",COSMOPOLITAN
 http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/570/index.m3u8
-#EXTINF:-1  group-title="España 2",COSMOPOLITAN HD
-http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/570/index.m3u8
-#EXTINF:0,ES: Cosmo TV SD
+#EXTINF:-1 group-title="Spain" ,Cosmopolitan HD ES opc. 2
+http://mypanel.tv:8080/live/berto/berto/13537.m3u8
+#EXTINF:0,ES: Cosmo TV SD opc. 3
 http://server.stablechannels.tv:25461/live/5RUTvfRf3/mD2fb0Y3z1/3350.m3u8
 
 #EXTINF:-1  group-title="España 2",COMEDY CENTRAL
@@ -186,10 +202,12 @@ http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/572/inde
 
 #EXTINF:-1  group-title="España 2",AXN
 http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/610/index.m3u8
-#EXTINF:-1  group-title="España 2",AXN HD
+#EXTINF:-1  group-title="España 2",AXN HD opc. 2
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/614/index.m3u8
+#EXTINF:-1,AXN ESPAÑA opc. 3
 http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/579/index.m3u8
-#EXTINF:-1,AXN ESPAÑA (OPCION 2)
-http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/579/index.m3u8
+#EXTINF:-1 group-title="Peliculas" ,AXN HD ES opc. 4
+http://mypanel.tv:8080/live/berto/berto/7252.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/AXN_White_logo_%282015%29.svg/1200px-AXN_White_logo_%282015%29.svg.png",AXN White
 http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/609/index.m3u8
@@ -197,36 +215,43 @@ http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/609/inde
 http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/609/index.m3u8
 #EXTINF:-1  group-title="España 2",AXN WHITE HD
 http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/609/index.m3u8
+
 #EXTINF:-1  group-title="España 2",AMC
 http://pro213.com:80/live/gonzalezcarvallo332/2sq0tn/2434.m3u8
 #EXTINF:-1  group-title="España 2",AMC HD
 http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/614/index.m3u8
 #EXTINF:-1, AMC España HD
 http://playlist.onlybest.tv/ru/channel/57130b963cf73960c05f8ec9eb7db0e9/614/index.m3u8
+
 #EXTINF:-1 tvg-logo="http://dshm.tmsimg.com/h5/NowShowing/75423/s75423_h5_aa.png",FOX
 http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/608/index.m3u8
 #EXTINF:-1  group-title="España 2",FOX (Opc. 2)
 http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/608/index.m3u8
 #EXTINF:-1  group-title="España 2",FOX HD
 http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/608/index.m3u8
+
 #EXTINF:-1  group-title="España 2",FOX LIFE
 http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/567/index.m3u8
-#EXTINF:-1  group-title="España 2",FOX LIFE HD
-http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/567/index.m3u8
+#EXTINF:-1  group-title="España 2",FOX LIFE HD opc. 2
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/567/index.m3u8
+
 #EXTINF:-1  group-title="España 2",DARK
 http://server.stablechannels.tv:25461/live/5RUTvfRf3/mD2fb0Y3z1/3367.m3u8
+
 #EXTINF:-1  group-title="España 2",HOLLYWOOD HD
 http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/577/index.m3u8
 #EXTINF:-1 tvg-logo="https://ulango.tv/uploads/channels/11151/logo_canal%20hollywood3.png",Hollywood HD (Opc. 2)
 http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/577/index.m3u8
+
 #EXTINF:-1  group-title="España 2",TNT
 http://server.stablechannels.tv:25461/live/5RUTvfRf3/mD2fb0Y3z1/3342.m3u8
-#EXTINF:-1  group-title="España 2",TNT HD
-http://10gbs.edgelink.ovh:8000/live/dosdispositivos/smartv.kodi/232.m3u8
+#EXTINF:-1  group-title="España 2",TNT HD opc. 2
+http://mypanel.tv:8080/live/berto/berto/7177.m3u8
+
 #EXTINF:-1  group-title="España 2",SYFY
 http://server.stablechannels.tv:25461/live/5RUTvfRf3/mD2fb0Y3z1/3343.m3u8
-#EXTINF:-1  group-title="España 2",SYFY HD
-http://10gbs.edgelink.ovh:8000/live/dosdispositivos/smartv.kodi/264.m3u8
+#EXTINF:-1  group-title="España 2",SYFY HD opc. 2
+http://mypanel.tv:8080/live/berto/berto/13522.m3u8
 #EXTINF:0,ES: XTRM
 http://server.stablechannels.tv:25461/live/5RUTvfRf3/mD2fb0Y3z1/3264.m3u8
 #EXTINF:-1  group-title="España 2",LIFE TV
@@ -234,10 +259,11 @@ http://178.132.6.97/uzivo/lifetvesp/playlist.m3u8
 
 #EXTINF:-1  group-title="España 2",CANAL DECASA
 http://server.stablechannels.tv:25461/live/5RUTvfRf3/mD2fb0Y3z1/3332.m3u8
+
 #EXTINF:-1  group-title="España 2",CANAL COCINA
 http://server.stablechannels.tv:25461/live/5RUTvfRf3/mD2fb0Y3z1/3334.m3u8
-#EXTINF:-1  group-title="España 2",CANAL COCINA HD
-http://copo3.mitopo.me/live/cocina/index.m3u8?token=Yiq5IQ59hzDT3IRmdT0teA&expires=1522522499
+#EXTINF:-1  group-title="España 2",CANAL COCINA HD opc. 2
+http://mypanel.tv:8080/live/berto/berto/7244.m3u8
 
 #EXTINF:0,ES: Movistar  Disney
 http://server.stablechannels.tv:25461/live/5RUTvfRf3/mD2fb0Y3z1/3361.m3u8
@@ -252,21 +278,22 @@ http://server.stablechannels.tv:25461/live/5RUTvfRf3/mD2fb0Y3z1/3340.m3u8
 http://10gbs.edgelink.ovh:8000/live/dosdispositivos/smartv.kodi/3707.m3u8
 
 #EXTINF:-1  group-title="España 2",NATIONAL  GEOGRAPHIC
-http://server.stablechannels.tv:25461/live/5RUTvfRf3/mD2fb0Y3z1/3337.m3u8 
-#EXTINF:-1  group-title="España 2",National Geographic HD
-http://10gbs.edgelink.ovh:8000/live/dosdispositivos/smartv.kodi/258.m3u8
+http://mypanel.tv:8080/live/berto/berto/13528.m3u8
+#EXTINF:-1  group-title="España 2",National Geographic HD opc. 2
+http://mypanel.tv:8080/live/berto/berto/7187.m3u8
+
 #EXTINF:-1  group-title="España 2",NatGeo Wild Spain
-http://server.stablechannels.tv:25461/live/5RUTvfRf3/mD2fb0Y3z1/3338.m3u8
+http://mypanel.tv:8080/live/berto/berto/13528.m3u8
 
 #EXTINF:-1  group-title="España 2",HISTORIA
 http://server.stablechannels.tv:25461/live/5RUTvfRf3/mD2fb0Y3z1/3339.m3u8
-#EXTINF:-1  group-title="España 2",HISTORIA  HD
-http://10gbs.edgelink.ovh:8000/live/dosdispositivos/smartv.kodi/3711.m3u8
+#EXTINF:-1  group-title="España 2",HISTORIA HD opc. 2
+http://mypanel.tv:8080/live/berto/berto/7217.m3u8
 
 #EXTINF:-1  group-title="España 2",CRIMEN Y INVES
 http://server.stablechannels.tv:25461/live/5RUTvfRf3/mD2fb0Y3z1/3333.m3u8
-#EXTINF:-1  group-title="España 2",A+E
-http://xxedge263.livesports.pw/live/veranadetelefive17669f5d28e4d7/chunklist.m3u8?md5=3yOi9rnZ_2FhYuacMlOIZQ&expires=1522522644
+#EXTINF:-1 group-title="Spain",A&E
+http://mypanel.tv:8080/live/berto/berto/7256.m3u8
 
 #EXTINF:-1  group-title="España 2",ODISSEA
 http://mypanel.tv:8080/live/berto/berto/7235.m3u8
@@ -645,6 +672,12 @@ http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/145/inde
 #EXTINF:0, DW Español
 http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/master.m3u8
 
+#EXTINF:-1,RTE News Now
+http://wmsrtsp1.rte.ie/live/android.sdp/playlist.m3u8
+
+#EXTINF: -1  group-title="Latinos", Telesur HD
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/803/index.m3u8
+
 #EXTINF:-1,***MUSICALES***
 http://sagi.typepad.com/treding_the_vc_waters/Picture1_1.jpg
 
@@ -668,8 +701,8 @@ https://bud122.budtv.tv/liverobos/mtv_hits_p3/playlist.m3u8
 http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/229/index.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/p2c8bPp.png" group-title="MUSICA", MTV LIVE
 http://3-120heat.pulsedmedia.com/public-llave1/list/public/mtvl1ve.php/index.m3u8
-#EXTINF:-1,VIBE
-http://46.101.21.42:8081/live/live2/playlist.m3u8
+#EXTINF:-1,Vibee
+http://46.101.21.42:8081/live/live2/playlist.m3u8?JoCaRoIPTV.m3u8
 #EXTINF:-1 tvg-logo="http://puu.sh/nB5xX/247b3cc965.png" group-title="MUSICA", Heart TV
 http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/index_656_av-p.m3u8?JoCaRoIPTV.m3u8
 #EXTINF:-1 tvg-logo="http://www.pazarlama30.com/wp-content/uploads/2016/04/2d5407b0a92d1b2e_600x400.jpg" tvg-group="MÚSICA", Virgin TV
@@ -692,3 +725,5 @@ http://live-edge01.telecentro.net.ar/live/msctphd-720/playlist.m3u8
 http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
 #EXTINF:-1, group-title="MUSICA",NRJ HITS TV Live
 http://5.196.138.6:1935/live/nrjbelgique/chunklist_w1099779633.m3u8?iptvgratis?chile.m3u8
+#EXTINF:-1,Radio Montecarlo
+http://wow01.105.net/live/rmc1/playlist.m3u8?JoCaRoIPTV.m3u8
