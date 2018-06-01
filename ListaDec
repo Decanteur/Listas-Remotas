@@ -22,17 +22,17 @@ http://hlsliveamdgl8-lh.akamaihd.net/i/hlsdvrlive_1@583030/index_0400_av-p.m3u8?
 http://hlsliveamdgl8-lh.akamaihd.net/i/hlsdvrlive_1@583030/master.m3u8
 
 #EXTINF:-1,ANTENA 3
-http://a3live-lh.akamaihd.net/i/antena3_1@35248/index_1_av-p.m3u8
+https://atresplayerp-i.akamaized.net/antena3mpp/bitrate_1.m3u8
 #EXTINF:-1,Antena 3 [HD]
 http://playlist.onlybest.tv/ru/channel/57130b963cf73960c05f8ec9eb7db0e9/615/index.m3u8
 #EXTINF:-1,NEOX
-http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/index_1_av-b.m3u8?iptvgratis?chile.m3u8
+https://livepull1.secure.footprint.net/geoneoxmpp/bitrate_1.m3u8
 #EXTINF:-1,NOVA
-http://a3live-lh.akamaihd.net/i/nvhds/geonova_1@379404/master.m3u8
+https://livepull1.secure.footprint.net/geonovampp/bitrate_1.m3u8
 #EXTINF:-1,Antena 3 Series [HD]
-http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/master.m3u8
+https://livepull1.secure.footprint.net/a3seriesmpp/bitrate_1.m3u8
 #EXTINF:-1,MEGA
-http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/index_2_av-b.m3u8?JoCaRoIPTV.m3u8
+https://livepull1.secure.footprint.net/geomegampp/bitrate_1.m3u8
 #EXTINF:-1,MEGA HD opc. 2
 http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/index_3_av-b.m3u8
 #EXTINF:-1 group-title="",Mega ES opc. 3
@@ -41,6 +41,8 @@ http://mypanel.tv:8080/live/berto/berto/8760.m3u8
 http://mypanel.tv:8080/live/berto/berto/13824.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/Sexta.jpg",LA SEXTA
 http://playlist.onlybest.tv/ru/channel/57130b963cf73960c05f8ec9eb7db0e9/618/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/Sexta.jpg",LA SEXTA opc. 2
+https://atresplayerp-i.akamaized.net/lasextampp/bitrate_1.m3u8
 
 #EXTINF:-1 tvg-logo="",Cuatro
 https://livehlsdai-i.akamaihd.net/hls/live/571643/cuatro/bitrate_1.m3u8
@@ -266,10 +268,14 @@ http://mypanel.tv:8080/live/berto/berto/7177.m3u8
 http://server.stablechannels.tv:25461/live/5RUTvfRf3/mD2fb0Y3z1/3343.m3u8
 #EXTINF:-1  group-title="España 2",SYFY HD opc. 2
 http://mypanel.tv:8080/live/berto/berto/13522.m3u8
+
 #EXTINF:0,ES: XTRM
 http://server.stablechannels.tv:25461/live/5RUTvfRf3/mD2fb0Y3z1/3264.m3u8
+
 #EXTINF:-1  group-title="España 2",LIFE TV
 http://178.132.6.97/uzivo/lifetvesp/playlist.m3u8
+#EXTINF:-1  group-title="España 2",LIFE TV opc. 2
+http://178.132.6.97/uzivo/lifetvesp/tracks-v1a1/index.m3u8
 
 #EXTINF:-1  group-title="España 2",CANAL DECASA
 http://server.stablechannels.tv:25461/live/5RUTvfRf3/mD2fb0Y3z1/3332.m3u8
