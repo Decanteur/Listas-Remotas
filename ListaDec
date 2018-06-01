@@ -44,6 +44,8 @@ http://playlist.onlybest.tv/ru/channel/57130b963cf73960c05f8ec9eb7db0e9/618/inde
 
 #EXTINF:-1 tvg-logo="",Cuatro
 https://livehlsdai-i.akamaihd.net/hls/live/571643/cuatro/bitrate_1.m3u8
+#EXTINF:-1 tvg-logo="",Cuatro opc. 2
+http://cuatro-mediaset-esp-live.secure.footprint.net/mediaset/cuatro/stream1/streamPlaylist.m3u8
 #EXTINF:-1 tvg-logo="https://i2.wp.com/iptvsmartv.files.wordpress.com/2017/04/telecinco_circular_500.png?ssl=1&w=450",Telecinco opc. 1
 http://telecinco-mediaset-esp-live.secure.footprint.net/mediaset/telecinco/index.m3u8
 #EXTINF:-1,Telecinco Opc. 2
@@ -84,6 +86,8 @@ http://server.stablechannels.tv:25461/live/5RUTvfRf3/mD2fb0Y3z1/3293.m3u8
 
 #EXTINF:-1 tvg-logo="",13 TV
 http://streaming.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/mobile/playlist.m3u8
+#EXTINF:-1 tvg-logo="",13 TV opc. 2
+http://streaming.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/mobile/.m3u8
 
 #EXTINF:-1,DISNEY CHANNEL HD
 http://server.stablechannels.tv:25461/live/5RUTvfRf3/mD2fb0Y3z1/3327.m3u8
@@ -135,7 +139,7 @@ http://playlist.onlybest.tv/ru/channel/45d923b700bdbb53af22c8219ae034ac/611/inde
 #EXTINF:-1  tvg-logo="",#0 opc. 3
 http://playlist.onlybest.tv/en/channel/d3868b0930104dfc477b435d4bf18b4f/611/index.m3u8
 #EXTINF:-1  tvg-logo="",#0 HD
-http://10gbs.edgelink.ovh:8000/live/dosdispositivos/smartv.kodi/100.m3u8
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/611/index.m3u8
 
 #EXTINF:-1  group-title="España 2",MOVISTAR ESTRENOS
 http://mypanel.tv:8080/live/berto/berto/7222.m3u8
@@ -161,9 +165,15 @@ http://10gbs.edgelink.ovh:8000/live/dosdispositivos/smartv.kodi/184.m3u8
 
 #EXTINF:-1,MOVISTAR COMEDIA
 http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/606/index.m3u8
+#EXTINF:-1,MOVISTAR COMEDIA opc. 2
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/606/index.m3u8
+#EXTINF:-1,MOVISTAR COMEDIA opc. 3
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/580/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Movistar_DCine.svg/1200px-Movistar_DCine.svg.png", M+ DCine
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Movistar_DCine.svg/1200px-Movistar_DCine.svg.png", Movistar Dcine
 http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/607/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Movistar_DCine.svg/1200px-Movistar_DCine.svg.png", Movistar Dcine opc. 2
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/607/index.m3u8
 
 #EXTINF:-1,MOVISTAR DISNEY
 http://xxedge262.livesports.pw/live/vermdisney4fe56a2fafa38ae9670f/chunklist.m3u8?md5=1lPXYhC5_jDEV3y79mTUNw&expires=1522521527
@@ -209,7 +219,7 @@ http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/614/inde
 #EXTINF:-1,AXN ESPAÑA opc. 3
 http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/579/index.m3u8
 #EXTINF:-1 group-title="Peliculas" ,AXN HD ES opc. 4
-http://mypanel.tv:8080/live/berto/berto/7252.m3u8
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/610/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/AXN_White_logo_%282015%29.svg/1200px-AXN_White_logo_%282015%29.svg.png",AXN White
 http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/609/index.m3u8
@@ -228,7 +238,7 @@ http://playlist.onlybest.tv/ru/channel/57130b963cf73960c05f8ec9eb7db0e9/614/inde
 #EXTINF:-1 tvg-logo="http://dshm.tmsimg.com/h5/NowShowing/75423/s75423_h5_aa.png",FOX
 http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/608/index.m3u8
 #EXTINF:-1  group-title="España 2",FOX (Opc. 2)
-http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/608/index.m3u8
+http://playlist.onlybest.tv/ru/channel/57130b963cf73960c05f8ec9eb7db0e9/608/index.m3u8
 #EXTINF:-1  group-title="España 2",FOX HD
 http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/608/index.m3u8
 
@@ -236,6 +246,8 @@ http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/608/inde
 http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/567/index.m3u8
 #EXTINF:-1  group-title="España 2",FOX LIFE HD opc. 2
 http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/567/index.m3u8
+#EXTINF:-1  group-title="España 2",FOX LIFE HD opc. 3
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/601/index.m3u8
 
 #EXTINF:-1  group-title="España 2",DARK
 http://server.stablechannels.tv:25461/live/5RUTvfRf3/mD2fb0Y3z1/3367.m3u8
