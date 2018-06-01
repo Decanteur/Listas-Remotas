@@ -387,6 +387,8 @@ http://playlist.onlybest.tv/ru/channel/45d923b700bdbb53af22c8219ae034ac/575/inde
 http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/575/index.m3u8
 #EXTINF:-1,Movistar Futbol opc. 4
 http://playlist.onlybest.tv/ru/channel/d0f21a70397d3659fe259aa5e2a62107/575/index.m3u8
+#EXTINF:-1,Movistar Futbol opc. 5
+http://playlist.onlybest.tv/ru/channel/6c53126176d7d597cbe6ffbb0c5fbf49/575/index.m3u8
 
 #EXTINF:-1,MOVISTAR TODO DEPORTES
 http://190.92.0.43:1935/securelive/tdtv85jd5EKL3xWq3/chunklist_w1241310319.m3u8
@@ -404,9 +406,11 @@ http://playlist.onlybest.tv/ru/channel/d0f21a70397d3659fe259aa5e2a62107/581/inde
 #EXTINF:-1 tvg-logo="http://cinealplay.com/assets/images/espana/movistar-motogp.png", M+ MotoGP opc. 1
 http://playlist.onlybest.tv/ru/channel/45d923b700bdbb53af22c8219ae034ac/613/index.m3u8
 #EXTINF:-1,M.MOTOGP Opc. 2
-http://89.38.98.85:8080/live/Reda/Reda/9683.m3u8
+http://playlist.onlybest.tv/ru/channel/6c53126176d7d597cbe6ffbb0c5fbf49/613/index.m3u8
 #EXTINF:-1,M+ MotoGP HD Opc. 3
 http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/613/index.m3u8
+#EXTINF:-1,M+ MotoGP HD Opc. 4
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/613/index.m3u8
 
 #EXTINF:-1,Formula 1
 http://server.stablechannels.tv:25461/live/5RUTvfRf3/mD2fb0Y3z1/3370.m3u8
