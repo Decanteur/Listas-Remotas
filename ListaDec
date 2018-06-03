@@ -462,7 +462,7 @@ http://186.33.227.198/DXTV/smil:DXTV.smil/playlist.m3u8
 #EXTINF:-1, ESPN Deportes opc. 1
 https://live97.elrobacanales.com/budtv/Evento_BudTv_ESPN_Dep_151/playlist.m3u8
 #EXTINF:0,ESPN opc. 2
-http://server.stablechannels.tv:25461/live/5RUTvfRf3/mD2fb0Y3z1/3604.m3u8
+http://189.216.247.113/Content/HLS/Live/Channel(ESPN_HD)/index.m3u8
 #EXTINF:-1,ESPN Deportes opc. 3
 http://51.15.222.188/live/espndeportes/index.m3u8
 #EXTINF:0,ESPN sur
@@ -470,11 +470,11 @@ http://server.stablechannels.tv:25461/live/5RUTvfRf3/mD2fb0Y3z1/3575.m3u8
 #EXTINF:0,ESPN HD sur
 http://server.stablechannels.tv:25461/live/5RUTvfRf3/mD2fb0Y3z1/3576.m3u8
 #EXTINF:0,ESPN 2
-http://server.stablechannels.tv:25461/live/5RUTvfRf3/mD2fb0Y3z1/3603.m3u8
+http://189.216.247.113/Content/HLS/Live/Channel(ESPN2_HD)/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Jt9TnsK.jpg" group-title="DEPORTES", ESPN 2 HD Sur
 http://server.stablechannels.tv:25461/live/5RUTvfRf3/mD2fb0Y3z1/3578.m3u8
 #EXTINF:0,ESPN 3
-http://server.stablechannels.tv:25461/live/5RUTvfRf3/mD2fb0Y3z1/3602.m3u8
+http://189.216.247.113/Content/HLS/Live/Channel(ESPN3)/index.m3u8
 #EXTINF:0,ESPN 3 sur
 http://server.stablechannels.tv:25461/live/5RUTvfRf3/mD2fb0Y3z1/3579.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oBglO9Q.jpg" group-title="DEPORTES", ESPN HD 3 sur
@@ -618,8 +618,7 @@ http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/774/inde
 http://playlist.onlybest.tv/ru/channel/45d923b700bdbb53af22c8219ae034ac/733/index.m3u8
 
 #EXTINF:0 type="favorites" channelId="805", NBA
-http://31.204.150.12:8080/edge/4304/tracks-v1a1/index.m3u8?token=17.18.1487.6d44eab61dcf5b1f0e6fa8f6595ee1bc.1.1.1.641.0.0.71875765cf0ee5df30360b6487a7b6ec
-#EXTINF:0 type="favorites" channelId="805", NBA
+http://189.216.247.113/Content/HLS/Live/Channel(NBA_TV)/index.m3u8
 #EXTINF:-1,NBA
 http://31.220.0.134:8081/live/nba/playlist.m3u8
 
@@ -641,8 +640,9 @@ https://live119.elrobacanales.com/budtv/nhl.network.usa/playlist.m3u8
 https://robos2.elrobacanales.com/budtv/ufc_total_play_100/playlist.m3u8
 #EXTINF:-1,UFC opc. 2
 https://live97.elrobacanales.com/budtv/ufc_total_play_100/playlist.m3u8
-#EXTINF:0,ESPN USA Channel
-http://stream.memesyndicate.com/live/thx/index.m3u8
+#EXTINF:-1,CBC Sport
+http://s69362.cdn.ngenix.net/live/_definst_/Stream1/chunklist.m3u8
+
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/612493747410989056/-bAKXu6G_400x400.jpg" group-title="DEPORTES",MLB Network
 http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8?
 #EXTINF:-1, FIGHT NETWORK
