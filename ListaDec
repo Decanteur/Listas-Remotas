@@ -99,6 +99,9 @@ http://server.stablechannels.tv:25461/live/5RUTvfRf3/mD2fb0Y3z1/3345.m3u8
 #EXTINF:-1 group-title="Spain" ,MTV Espana ES opc. 2
 http://mypanel.tv:8080/live/berto/berto/8759.m3u8
 
+#EXTINF:-1,Pride
+http://178.132.6.97/PrideTV/tracks-v1a1/index.m3u8
+
 #EXTINF:-1 tvg-logo="http://m.canalextremadura.es/sites/all/themes/canalex_2016/images/canalex/logotipo@2x.png", Canal Extremadura
 http://hlstv.canalextremadura.es/livetv/smil:multistream.smil/playlist.m3u8
 EXTINF:-1 tvg-logo="http://www.canalextremadura.es/sites/all/themes/canalex_2016/images/canalex/logotipo.png" group-title="España",CANAL EXTREMADURA Opc. 2
