@@ -363,7 +363,7 @@ http://mexicoserver.miamitvchannel.com/miamitv/smil:miamitvmexico/chunklist_w324
 http://sagi.typepad.com/treding_the_vc_waters/Picture1_1.jpg
 
 #EXTINF:-1,BEIN SPORTS
-http://mypanel.tv:8080/live/berto/berto/8784.m3u8
+http://primestreams.tv:826/live/Rocky01/Rocky01/36412.m3u8
 #EXTINF:-1,beIN Sports Opción 2
 http://pro213.com:80/live/gonzalezcarvallo332/2sq0tn/8832.m3u8
 #EXTINF:-1,Bein Sports Opción 3
@@ -417,6 +417,11 @@ http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/613/inde
 #EXTINF:-1,M+ MotoGP HD Opc. 4
 http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/613/index.m3u8
 
+#EXTINF:-1,MOTOGP LIVE 1
+http://primestreams.tv:826/live/Rocky01/Rocky01/35101.m3u8
+#EXTINF:-1,MOTOGP LIVE 3
+http://primestreams.tv:826/live/Rocky01/Rocky01/35100.m3u8
+
 #EXTINF:-1,Formula 1
 http://server.stablechannels.tv:25461/live/5RUTvfRf3/mD2fb0Y3z1/3370.m3u8
 #EXTINF:-1 tvg-logo="https://www.andorratelecom.ad/documents/33347/112493/movistar+formula+1-01.png/9492b402-dda4-b2b5-469f-bd831294680f?t=1487255283758", M+ Formula 1 HD (Opc. 2)
@@ -430,8 +435,10 @@ http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/612/inde
 #EXTINF:-1 tvg-logo="" group-title="DEPORTES",FORMULA 1 opción 6
 http://playlist.onlybest.tv/ru/channel/6c53126176d7d597cbe6ffbb0c5fbf49/612/index.m3u8
 
-#EXTINF:-1,SKY Sport F1  
+#EXTINF:-1,SKY Sport F1
 http://31.220.0.134:8081/live/jtvf1/playlist.m3u8
+#EXTINF:-1,SKY Sport F1 opc. 2
+http://primestreams.tv:826/live/Rocky01/Rocky01/1532.m3u8
 
 #EXTINF:0,ES: Movistar  Partidazo SD (Solo eventos)
 http://server.stablechannels.tv:25461/live/5RUTvfRf3/mD2fb0Y3z1/3374.m3u8
@@ -469,17 +476,17 @@ https://live97.elrobacanales.com/budtv/Evento_BudTv_ESPN_Dep_151/playlist.m3u8
 #EXTINF:0,ESPN opc. 2
 http://189.216.247.113/Content/HLS/Live/Channel(ESPN_HD)/index.m3u8
 #EXTINF:-1,ESPN Deportes opc. 3
-http://51.15.222.188/live/espndeportes/index.m3u8
+http://primestreams.tv:826/live/Rocky01/Rocky01/36705.m3u8
 #EXTINF:0,ESPN sur
 http://server.stablechannels.tv:25461/live/5RUTvfRf3/mD2fb0Y3z1/3575.m3u8
 #EXTINF:0,ESPN HD sur
 http://server.stablechannels.tv:25461/live/5RUTvfRf3/mD2fb0Y3z1/3576.m3u8
 #EXTINF:0,ESPN 2
-http://189.216.247.113/Content/HLS/Live/Channel(ESPN2_HD)/index.m3u8
+http://primestreams.tv:826/live/Rocky01/Rocky01/36704.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Jt9TnsK.jpg" group-title="DEPORTES", ESPN 2 HD Sur
 http://server.stablechannels.tv:25461/live/5RUTvfRf3/mD2fb0Y3z1/3578.m3u8
 #EXTINF:0,ESPN 3
-http://189.216.247.113/Content/HLS/Live/Channel(ESPN3)/index.m3u8
+http://primestreams.tv:826/live/Rocky01/Rocky01/36703.m3u8
 #EXTINF:0,ESPN 3 sur
 http://server.stablechannels.tv:25461/live/5RUTvfRf3/mD2fb0Y3z1/3579.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oBglO9Q.jpg" group-title="DEPORTES", ESPN HD 3 sur
@@ -487,24 +494,24 @@ http://server.stablechannels.tv:25461/live/5RUTvfRf3/mD2fb0Y3z1/3577.m3u8
 #EXTINF:0,ESPN Plus
 http://server.stablechannels.tv:25461/live/5RUTvfRf3/mD2fb0Y3z1/3600.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lzIdgGe.jpg" group-title="DEPORTES", ESPN + HD opc 2
-http://tvpremiumhd.club/lista-gratuita/paris/s217.m3u8
+http://primestreams.tv:826/live/Rocky01/Rocky01/36701.m3u8
 #EXTINF:-1 tvg-logo="https://imagenes.cablevisionfibertel.com.ar:7007/servlet/cv/1132.png", ESPN +
 http://3-120heat.pulsedmedia.com/public-llave1/list/public/espn_plus.php/Stream(04)/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://imagenes.cablevisionfibertel.com.ar:7007/servlet/cv/223.png", Fox Sports
-http://tvpremiumhd.club/lista-gratuita/japan/s205.m3u8
+http://primestreams.tv:826/live/Rocky01/Rocky01/36691.m3u8
 #EXTINF:0,Fox Sports 1 (Arg)
 http://server.stablechannels.tv:25461/live/5RUTvfRf3/mD2fb0Y3z1/3571.m3u8
 #EXTINF:0,Fox Sports 1
 http://server.stablechannels.tv:25461/live/5RUTvfRf3/mD2fb0Y3z1/3598.m3u8
 
 #EXTINF:-1 tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/8/8e/Fox_Sports_2.png/revision/20160413221614" group-title="Deportes",F0X SPORTS 2
-http://server.stablechannels.tv:25461/live/5RUTvfRf3/mD2fb0Y3z1/3597.m3u8
+http://primestreams.tv:826/live/Rocky01/Rocky01/36690.m3u8
 #EXTINF:0,Fox Sports 2 (Arg)
 http://server.stablechannels.tv:25461/live/5RUTvfRf3/mD2fb0Y3z1/3568.m3u8
 #EXTINF:0,Fox Sports 3
-http://server.stablechannels.tv:25461/live/5RUTvfRf3/mD2fb0Y3z1/3566.m3u8
+http://primestreams.tv:826/live/Rocky01/Rocky01/36689.m3u8
 #EXTINF:0,Fox Sports 3
 http://server.stablechannels.tv:25461/live/5RUTvfRf3/mD2fb0Y3z1/3596.m3u8
 #EXTINF:-0 tvg-logo="https://i.imgur.com/n62eZ1f.png" group-title="DEPORTES",FOX SPORTS 0 MX
@@ -515,6 +522,33 @@ http://tvpremiumhd.club/lista-gratuita/japan/s987.m3u8
 http://server.stablechannels.tv:25461/live/5RUTvfRf3/mD2fb0Y3z1/2922.m3u8
 #EXTINF:0,Fox Sports 3 HD (Chile)
 http://server.stablechannels.tv:25461/live/5RUTvfRf3/mD2fb0Y3z1/2924.m3u8
+
+#EXTINF:-1,BEIN SPORTS USA Local
+http://primestreams.tv:826/live/Rocky01/Rocky01/1501.m3u8
+#EXTINF:-1,BEIN SPORTS 1
+http://primestreams.tv:826/live/Rocky01/Rocky01/1770.m3u8
+#EXTINF:-1,BEIN SPORTS 2
+http://primestreams.tv:826/live/Rocky01/Rocky01/1493.m3u8
+#EXTINF:-1,BEIN SPORTS 3
+http://primestreams.tv:826/live/Rocky01/Rocky01/1494.m3u8
+#EXTINF:-1,BEIN SPORTS 4
+http://primestreams.tv:826/live/Rocky01/Rocky01/1495.m3u8
+#EXTINF:-1,BEIN SPORTS 5
+http://primestreams.tv:826/live/Rocky01/Rocky01/1496.m3u8
+#EXTINF:-1,BEIN SPORTS 6
+http://primestreams.tv:826/live/Rocky01/Rocky01/1497.m3u8
+#EXTINF:-1,BEIN SPORTS 7
+http://primestreams.tv:826/live/Rocky01/Rocky01/1498.m3u8
+#EXTINF:-1,BEIN SPORTS 8
+http://primestreams.tv:826/live/Rocky01/Rocky01/1499.m3u8
+#EXTINF:-1,BEIN SPORTS 9
+http://primestreams.tv:826/live/Rocky01/Rocky01/1500.m3u8
+#EXTINF:-1,BEIN SPORTS 10
+http://primestreams.tv:826/live/Rocky01/Rocky01/1490.m3u8
+#EXTINF:-1,BEIN SPORTS 11
+http://primestreams.tv:826/live/Rocky01/Rocky01/1491.m3u8
+#EXTINF:-1,BEIN SPORTS 12
+http://primestreams.tv:826/live/Rocky01/Rocky01/1492.m3u8
 
 #EXTINF:-1  group-title="España 2",EUROSPORT 1
 http://mypanel.tv:8080/live/berto/berto/8746.m3u8
@@ -527,9 +561,9 @@ http://10gbs.edgelink.ovh:8000/live/dosdispositivos/smartv.kodi/3330.m3u8
 #EXTINF:-1,Eurosport (ENG)
 http://playlist.onlybest.tv/en/channel/2874e3a9397ce975e8463c76533bcb1e/160/index.m3u8
 #EXTINF:0,Eurosport 1 (ENG) opc. 2
-http://65.254.55.10:4000/live/197/197.m3u8
+http://primestreams.tv:826/live/Rocky01/Rocky01/31459.m3u8
 #EXTINF:-1,Eurosport2 (ENG)
-http://playlist.onlybest.tv/en/channel/2874e3a9397ce975e8463c76533bcb1e/78/index.m3u8
+http://primestreams.tv:826/live/Rocky01/Rocky01/31460.m3u8
 #EXTINF:-1 tvg-logo="https://broadbandtvnews-broadbandtvnews.netdna-ssl.com/wp-content/uploads/2015/11/Eurosport-1-symbol.png", Eurosport 2 HD (ENG)
 http://playlist.onlybest.tv/ru/channel/45d923b700bdbb53af22c8219ae034ac/78/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="DEPORTES",EuroSport 1 De
@@ -556,24 +590,26 @@ http://sportsbar.pw/lba/ODg5ZjMyOGE0ZGJiNzZjN2YzNDA3Nzk5ZWE1NjE4NmY=/g3/SportTV3
 http://sportsbar.pw/lba/ODg5ZjMyOGE0ZGJiNzZjN2YzNDA3Nzk5ZWE1NjE4NmY=/g9/SportTV5.m3u8
 
 #EXTINF:-1,BT Sport 1
-http://31.220.0.134:8081/live/jtvb1/playlist.m3u8
+http://primestreams.tv:826/live/Rocky01/Rocky01/1526.m3u8
 #EXTINF:-1,BT Sport 2
-http://31.220.0.134:8081/live/jtvb2/playlist.m3u8
+http://primestreams.tv:826/live/Rocky01/Rocky01/1527.m3u8
 #EXTINF:-1,BT Sport 3
-http://31.220.0.134:8081/live/jtvb3/playlist.m3u8
+http://primestreams.tv:826/live/Rocky01/Rocky01/1528.m3u8
 #EXTINF:-1,BT ESPN
-http://31.220.0.196:8081/live/ctvb4/playlist.m3u8
+http://primestreams.tv:826/live/Rocky01/Rocky01/28249.m3u8
 #EXTINF:0,BT SPORT MOSAIC
 http://144.217.64.126:8080/live/coke123/coke123/21729.m3u8
 #EXTINF:0,BT SPORT EXTRA
 http://144.217.64.126:8080/live/coke123/coke123/21730.m3u8
 
+#EXTINF:-1,SKY Sports News
+http://primestreams.tv:826/live/Rocky01/Rocky01/37193.m3u8
 #EXTINF:-1,SKY Sports Main Event
-http://sportsbar.pw/lba/MmI5ZTcxYThjNGY2NTZmODFhZGE2MzcxYzY4ZWZiOWE=/g8/SkyMainEvent.m3u8
+http://primestreams.tv:826/live/Rocky01/Rocky01/27209.m3u8
 #EXTINF:-1,SKY Sports Main Event opc. 2
 http://31.220.0.196:8081/live/ctvs1/playlist.m3u8
 #EXTINF:-1,SKY Sports Football
-http://sportsbar.pw/lba/ODg5ZjMyOGE0ZGJiNzZjN2YzNDA3Nzk5ZWE1NjE4NmY=/g10/SkyFootball.m3u8
+http://primestreams.tv:826/live/Rocky01/Rocky01/1591.m3u8
 #EXTINF:-1,SKY Sports Football opc. 2
 http://31.220.0.134:8081/live/jtvs5/playlist.m3u8
 #EXTINF:-1,SKY Sport 3
@@ -581,18 +617,18 @@ http://31.220.0.134:8081/live/jtvs3/playlist.m3u8
 #EXTINF:-1,SKY SPORT 3
 http://31.220.0.196:8081/live/ctvs3/playlist.m3u8
 #EXTINF:0,SKY SPORTS ACTION
-http://144.217.64.126:8080/live/coke123/coke123/21741.m3u8
+http://primestreams.tv:826/live/Rocky01/Rocky01/1590.m3u8
 #EXTINF:0,SKY SPORT PREMIER LEAGUE
 http://144.217.64.126:8080/live/coke123/coke123/21739.m3u8
 #EXTINF:-1,SKY Sports Arena
-http://31.220.0.134:8081/live/jtvs4/playlist.m3u8
+http://primestreams.tv:826/live/Rocky01/Rocky01/27173.m3u8
 #EXTINF:-1,SKY Sports Arena opc. 2
 http://31.220.0.196:8081/live/ctvs4/playlist.m3u8
 
 #EXTINF:-1,FS 1
-http://stream.fs1.tv:8080/hls/webstream.m3u8
+http://primestreams.tv:826/live/Rocky01/Rocky01/35465.m3u8
 #EXTINF:-1,FS 2
-http://31.220.0.196:8081/live/fx2sx/chunks.m3u8
+http://primestreams.tv:826/live/Rocky01/Rocky01/35466.m3u8
 
 #EXTINF:-1,SK 1 HD
 http://31.220.0.134:8081/live/sk1/playlist.m3u8
@@ -600,6 +636,17 @@ http://31.220.0.134:8081/live/sk1/playlist.m3u8
 http://31.220.0.134:8081/live/sk2/playlist.m3u8
 #EXTINF:-1,SK3 HD
 http://31.220.0.134:8081/live/sk1/playlist.m3u8
+
+#EXTINF:-1,TSN 1
+http://primestreams.tv:826/live/Rocky01/Rocky01/1621.m3u8
+#EXTINF:-1,TSN 2
+http://primestreams.tv:826/live/Rocky01/Rocky01/1622.m3u8
+#EXTINF:-1,TSN 3
+http://primestreams.tv:826/live/Rocky01/Rocky01/1623.m3u8
+#EXTINF:-1,TSN 4
+http://primestreams.tv:826/live/Rocky01/Rocky01/1624.m3u8
+#EXTINF:-1,TSN 5
+http://primestreams.tv:826/live/Rocky01/Rocky01/1625.m3u8
 
 #EXTINF:0,USA | Tennis Channel HD
 http://server.stablechannels.tv:25461/live/5RUTvfRf3/mD2fb0Y3z1/3074.m3u8
@@ -631,6 +678,9 @@ http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/774/inde
 #EXTINF:0, Sky Sports 2 DE
 http://playlist.onlybest.tv/ru/channel/45d923b700bdbb53af22c8219ae034ac/733/index.m3u8
 
+#EXTINF:-1,TENNIS CHANNEL
+http://primestreams.tv:826/live/Rocky01/Rocky01/31209.m3u8
+
 #EXTINF:0 type="favorites" channelId="805", NBA
 http://189.216.247.113/Content/HLS/Live/Channel(NBA_TV)/index.m3u8
 #EXTINF:-1,NBA
@@ -650,8 +700,11 @@ https://live119.elrobacanales.com/budtv/nhl.network.usa/playlist.m3u8
 #EXTINF:-1, NHL Network
 https://live119.elrobacanales.com/budtv/nhl.network.usa/playlist.m3u8
 
+#EXTINF:-1,Box Nation HD (UK)
+http://primestreams.tv:826/live/Rocky01/Rocky01/1380.m3u8
+
 #EXTINF:-1,UFC
-https://robos2.elrobacanales.com/budtv/ufc_total_play_100/playlist.m3u8
+http://primestreams.tv:826/live/Rocky01/Rocky01/33843.m3u8
 #EXTINF:-1,UFC opc. 2
 https://live97.elrobacanales.com/budtv/ufc_total_play_100/playlist.m3u8
 #EXTINF:-1,CBC Sport
@@ -789,6 +842,8 @@ http://server.stablechannels.tv:25461/live/5RUTvfRf3/mD2fb0Y3z1/3260.m3u8
 http://edge.music-choice-play-chaina1.top.comcast.net/PlayMetadataInserter/play/chunklist.m3u8
 #EXTINF:-1,Music Choice - Pop Hits
 http://edge.music-choice-vc-chainb2.top.comcast.net/VideoChannels/MC133/chunklist.m3u8
+#EXTINF:-1,Music Box
+http://212.26.132.86/hls/mb_ua.m3u8
 #EXTINF:-1  group-title="España 2",CADENA ELITE
 http://10gbs.edgelink.ovh:8000/live/dosdispositivos/smartv.kodi/3324.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oAdVLb8.png" group-title="ARGENTINA", Music Top | HD
