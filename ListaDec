@@ -546,6 +546,15 @@ http://cshms3.airtel.tv/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221
 #EXTINF:0,Sony ESPN
 http://144.217.64.126:8080/live/coke123/coke123/53656.m3u8
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV1HD.png" tvg-id="sporttv1.pt" group-title="PORTUGAL",SPORT TV 1 HD
+http://sportsbar.pw/lba/ODg5ZjMyOGE0ZGJiNzZjN2YzNDA3Nzk5ZWE1NjE4NmY=/g1/SportTV1.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV2HD.png" tvg-id="sporttv2.pt" group-title="PORTUGAL",SPORT TV 2 HD
+http://sportsbar.pw/lba/MmI5ZTcxYThjNGY2NTZmODFhZGE2MzcxYzY4ZWZiOWE=/g7/Sport2PT.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV3HD.png" tvg-id="sporttv3.pt" group-title="PORTUGAL",SPORT TV 3 HD
+http://sportsbar.pw/lba/ODg5ZjMyOGE0ZGJiNzZjN2YzNDA3Nzk5ZWE1NjE4NmY=/g3/SportTV3.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV5HD.png" tvg-id="sporttv5.pt" group-title="PORTUGAL",SPORT TV 5 HD
+http://sportsbar.pw/lba/ODg5ZjMyOGE0ZGJiNzZjN2YzNDA3Nzk5ZWE1NjE4NmY=/g9/SportTV5.m3u8
+
 #EXTINF:-1,BT Sport 1
 http://31.220.0.134:8081/live/jtvb1/playlist.m3u8
 #EXTINF:-1,BT Sport 2
@@ -560,11 +569,11 @@ http://144.217.64.126:8080/live/coke123/coke123/21729.m3u8
 http://144.217.64.126:8080/live/coke123/coke123/21730.m3u8
 
 #EXTINF:-1,SKY Sports Main Event
-http://31.220.0.134:8081/live/jtvs1/playlist.m3u8
+http://sportsbar.pw/lba/MmI5ZTcxYThjNGY2NTZmODFhZGE2MzcxYzY4ZWZiOWE=/g8/SkyMainEvent.m3u8
 #EXTINF:-1,SKY Sports Main Event opc. 2
 http://31.220.0.196:8081/live/ctvs1/playlist.m3u8
 #EXTINF:-1,SKY Sports Football
-http://31.220.0.196:8081/live/ctvs2/playlist.m3u8
+http://sportsbar.pw/lba/ODg5ZjMyOGE0ZGJiNzZjN2YzNDA3Nzk5ZWE1NjE4NmY=/g10/SkyFootball.m3u8
 #EXTINF:-1,SKY Sports Football opc. 2
 http://31.220.0.134:8081/live/jtvs5/playlist.m3u8
 #EXTINF:-1,SKY Sport 3
@@ -693,13 +702,21 @@ https://secure-streams.akamaized.net/rt-uk/index.m3u8
 http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/index_700_av-p.m3u8
 
 #EXTINF:0, itv
-http://185.62.86.6:8081/hls/itv.m3u8
+https://ovh.easyview.eu/hls/itv.m3u8
 #EXTINF:0, itv opc. 2
-http://145.239.1.103:8000/live/melik/123456/721.m3u8
+http://185.59.221.136:9981/stream/channelid/1998784340
 #EXTINF:0, itv 2
-http://185.62.86.6:8081/hls/itv2.m3u8
+https://ovh.easyview.eu/hls/itv2.m3u8
+#EXTINF:0, itv 2 opc. 2
+http://185.59.221.136:9981/stream/channelid/2139720971
+#EXTINF:0, itv 3
+https://ovh.easyview.eu/hls/itv3.m3u8
+#EXTINF:0, itv 3 opc. 2
+https://ovh.easyview.eu/hls/itv3.m3u8
 #EXTINF:0, itv 4
-https://itvliveevents-i.akamaihd.net/hls/live/203496/itvliveevents/ITVEVTMN/master.m3u8
+https://ovh.easyview.eu/hls/itv4.m3u8
+#EXTINF:0, itv 4 opc. 2
+https://ovh.easyview.eu/hls/itv4.m3u8
 
 #EXTINF:0, London Live HD
 http://bcoveliveios-i.akamaihd.net/hls/live/217434/3083279840001/master.m3u8
@@ -712,9 +729,13 @@ http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/340/inde
 
 #EXTINF:0,USA | FOX News HD
 http://server.stablechannels.tv:25461/live/5RUTvfRf3/mD2fb0Y3z1/3110.m3u8
-
+#EXTINF:0,USA | ABC News HD
+http://abclive.abcnews.com/i/abc_live4@136330/master.m3u8
 #EXTINF:-1,CBS NEWS
 http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/index_2200_av-p.m3u8
+
+#EXTINF:-1,BBC News
+https://ovh.easyview.eu/hls/bbcnews.m3u8
 #EXTINF:-1,BBC World News
 http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/145/index.m3u8
 
