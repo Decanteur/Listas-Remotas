@@ -523,6 +523,9 @@ http://server.stablechannels.tv:25461/live/5RUTvfRf3/mD2fb0Y3z1/2922.m3u8
 #EXTINF:0,Fox Sports 3 HD (Chile)
 http://server.stablechannels.tv:25461/live/5RUTvfRf3/mD2fb0Y3z1/2924.m3u8
 
+#EXTINF:0,ALL Sports
+http://173.236.10.10:1935/dgrau/dgrau/live.m3u8
+
 #EXTINF:-1,BEIN SPORTS USA Local
 http://primestreams.tv:826/live/Rocky01/Rocky01/1501.m3u8
 #EXTINF:-1,BEIN SPORTS 1
