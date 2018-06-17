@@ -7,11 +7,11 @@ http://sagi.typepad.com/treding_the_vc_waters/Picture1_1.jpg
 http://sagi.typepad.com/treding_the_vc_waters/Picture1_1.jpg
 
 #EXTINF:-1 tvg-id="LA1.es" tvg-name="LA 1" audio-track="es" tvg-logo="https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE.jpg" group-title="Nacional",La 1 Opc. 1
-http://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@583042/master.m3u8
+http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl7/la1_lv3_aosv4_gl7/la1_lv3_aosv4_gl7.isml/la1_lv3_aosv4_gl7-audio=128000-video=400000.m3u8
 #EXTINF:-1 tvg-logo="http://tvonlinegratis.com/wp-content/uploads/2014/08/TVE1-La1-Logo-300x300.jpg" group-title="ESPAÑA",LA 1 Opc. 2
 http://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@583042/master.m3u8
 #EXTINF:-1, group-title="tv" tvg-logo="https://imgfast.net/users/1114/10/46/39/album/tve2lo10.png", Rtve.es La 2
-http://hlsliveamdgl0-lh.akamaihd.net/i/hlslive_1@586367/index_0400_av-p.m3u8
+http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl0/la2_lv3_aosv4_gl0/la2_lv3_aosv4_gl0.isml/la2_lv3_aosv4_gl0-audio=128000-video=400000.m3u8
 #EXTINF:-1 ,group-title="MOVISTAR+" tvg-logo="http://www.movistarplus.es/recorte/m-NEO/guiapc/LA2.png", LA 2 TVE
 http://hlsliveamdgl0-lh.akamaihd.net/i/hlslive_1@586367/master.m3u8
 #EXTINF:0,ES: LA 2 opc. 3
@@ -750,12 +750,23 @@ http://sagi.typepad.com/treding_the_vc_waters/Picture1_1.jpg
 
 #EXTINF:0,Bloomberg TV Europe (UK)
 http://cdn-videos.akamaized.net/btv/desktop/akamai/europe/live/primary.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5Nd9z70.png" group-title="NOTICIAS",Bloomberg TV US HD
+http://tvpremiumhd.club/lista-gratuita/215416/tv/iptv.php?id=liveproduseast.global.ssl.fastly.net/btv/desktop/us_live
 #EXTINF:0,Sky News
 http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/04.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uy91U7w.png" group-title="NOTICIAS",Sky News HD
+http://tvpremiumhd.club/lista-gratuita/215416/tv/iptv.php?id=skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/07
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KFKktei.png" group-title="NOTICIAS",RT USA HD
+http://tvpremiumhd.club/lista-gratuita/215416/tv/iptv.php?id=secure-streams.akamaized.net/rt-usa/index
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KFKktei.png" group-title="NOTICIAS",RT UK HD
+http://tvpremiumhd.club/lista-gratuita/215416/tv/iptv.php?id=secure-streams.akamaized.net/rt-uk/index
 #EXTINF:0,RT UK
 https://secure-streams.akamaized.net/rt-uk/index.m3u8
+
 #EXTINF:0, CBS
 http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/index_700_av-p.m3u8
+#EXTINF:-1 tvg-name="CBS News" tvg-logo="https://i.imgur.com/HoMBdRo.png" group-title="USA",CBS News
+http://tvpremiumhd.club/lista-gratuita/215416/cbsnews.m3u8
 
 #EXTINF:0, itv
 https://ovh.easyview.eu/hls/itv.m3u8
