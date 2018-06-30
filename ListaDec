@@ -9,7 +9,7 @@ http://sagi.typepad.com/treding_the_vc_waters/Picture1_1.jpg
 #EXTINF:-1 tvg-id="LA1.es" tvg-name="LA 1" audio-track="es" tvg-logo="https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE.jpg" group-title="Nacional",La 1 Opc. 1
 http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl7/la1_lv3_aosv4_gl7/la1_lv3_aosv4_gl7.isml/la1_lv3_aosv4_gl7-audio=128000-video=400000.m3u8
 #EXTINF:-1 tvg-logo="http://tvonlinegratis.com/wp-content/uploads/2014/08/TVE1-La1-Logo-300x300.jpg" group-title="ESPAÑA",LA 1 Opc. 2
-http://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@583042/master.m3u8
+http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl7/la1ca_lv3_aosv4_gl7/la1ca_lv3_aosv4_gl7.isml/la1ca_lv3_aosv4_gl7-audio=128000-video=1500000.m3u8
 #EXTINF:-1, group-title="tv" tvg-logo="https://imgfast.net/users/1114/10/46/39/album/tve2lo10.png", Rtve.es La 2
 http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl0/la2_lv3_aosv4_gl0/la2_lv3_aosv4_gl0.isml/la2_lv3_aosv4_gl0-audio=128000-video=400000.m3u8
 #EXTINF:-1 ,group-title="MOVISTAR+" tvg-logo="http://www.movistarplus.es/recorte/m-NEO/guiapc/LA2.png", LA 2 TVE
@@ -17,7 +17,7 @@ http://hlsliveamdgl0-lh.akamaihd.net/i/hlslive_1@586367/master.m3u8
 #EXTINF:0,ES: LA 2 opc. 3
 http://server.stablechannels.tv:25461/live/5RUTvfRf3/mD2fb0Y3z1/3304.m3u8
 #EXTINF:-1,24 HORAS
-http://hlsliveamdgl8-lh.akamaihd.net/i/hlsdvrlive_1@583030/index_0400_av-p.m3u8?sd=10&rebase=on
+http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl0/irtve01_lv3_aosv4_gl0/irtve01_lv3_aosv4_gl0.isml/irtve01_lv3_aosv4_gl0-audio=128000-video=400000.m3u8
 #EXTINF:-1,24 HORAS opc. 2
 http://hlsliveamdgl8-lh.akamaihd.net/i/hlsdvrlive_1@583030/master.m3u8
 
@@ -816,6 +816,9 @@ http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/master.m3u8
 
 #EXTINF:-1,RTE News Now
 http://wmsrtsp1.rte.ie/live/android.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TV5MONDE.png" tvg-id=" group-title="FRANÇA",TV5 MONDE
+http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877/v3plusinfo247hls/v3plusinfo247hls_1_1.m3u8
 
 #EXTINF: -1  group-title="Latinos", Telesur HD
 http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/803/index.m3u8
