@@ -9,7 +9,7 @@ http://sagi.typepad.com/treding_the_vc_waters/Picture1_1.jpg
 #EXTINF:-1 tvg-id="LA1.es" tvg-name="LA 1" audio-track="es" tvg-logo="https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE.jpg" group-title="Nacional",La 1 Opc. 1
 http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl7/la1_lv3_aosv4_gl7/la1_lv3_aosv4_gl7.isml/la1_lv3_aosv4_gl7-audio=128000-video=400000.m3u8
 #EXTINF:-1 tvg-logo="http://tvonlinegratis.com/wp-content/uploads/2014/08/TVE1-La1-Logo-300x300.jpg" group-title="ESPAÑA",LA 1 Opc. 2
-http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl7/la1ca_lv3_aosv4_gl7/la1ca_lv3_aosv4_gl7.isml/la1ca_lv3_aosv4_gl7-audio=128000-video=1500000.m3u8
+http://tv.latintvweb.com:8000/live/carmen/carmen/23674.m3u8
 #EXTINF:-1, group-title="tv" tvg-logo="https://imgfast.net/users/1114/10/46/39/album/tve2lo10.png", Rtve.es La 2
 http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl0/la2_lv3_aosv4_gl0/la2_lv3_aosv4_gl0.isml/la2_lv3_aosv4_gl0-audio=128000-video=400000.m3u8
 #EXTINF:-1 ,group-title="MOVISTAR+" tvg-logo="http://www.movistarplus.es/recorte/m-NEO/guiapc/LA2.png", LA 2 TVE
@@ -34,7 +34,7 @@ http://tv.latintvweb.com:8000/live/carmen/carmen/84006.m3u8
 #EXTINF:-1,Antena 3 Series
 http://tv.latintvweb.com:8000/live/carmen/carmen/85237.m3u8
 #EXTINF:-1,MEGA
-https://livepull1.secure.footprint.net/geomegampp/bitrate_1.m3u8
+http://tv.latintvweb.com:8000/live/carmen/carmen/23624.m3u8
 #EXTINF:-1,MEGA HD opc. 2
 http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/index_3_av-b.m3u8
 #EXTINF:-1 group-title="",Mega ES opc. 3
@@ -47,7 +47,7 @@ http://playlist.onlybest.tv/ru/channel/57130b963cf73960c05f8ec9eb7db0e9/618/inde
 https://atresplayerp-i.akamaized.net/lasextampp/bitrate_1.m3u8
 
 #EXTINF:-1 tvg-logo="",Cuatro
-https://livehlsdai-i.akamaihd.net/hls/live/571643/cuatro/bitrate_1.m3u8
+http://tv.latintvweb.com:8000/live/carmen/carmen/23659.m3u8
 #EXTINF:-1 tvg-logo="",Cuatro opc. 2
 http://cuatro-mediaset-esp-live.secure.footprint.net/mediaset/cuatro/stream1/streamPlaylist.m3u8
 #EXTINF:-1 tvg-logo="https://i2.wp.com/iptvsmartv.files.wordpress.com/2017/04/telecinco_circular_500.png?ssl=1&w=450",Telecinco opc. 1
@@ -198,7 +198,7 @@ http://server.stablechannels.tv:25461/live/5RUTvfRf3/mD2fb0Y3z1/3358.m3u8
 http://10gbs.edgelink.ovh:8000/live/dosdispositivos/smartv.kodi/4292.m3u8
 
 #EXTINF:-1,AMC ESPAÑA opc 1
-http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/614/index.m3u8
+http://tv.latintvweb.com:8000/live/carmen/carmen/23566.m3u8
 #EXTINF:-1,AMC ESPAÑA opc. 2
 http://playlist.onlybest.tv/ru/channel/6c53126176d7d597cbe6ffbb0c5fbf49/614/index.m3u8
 
@@ -234,13 +234,6 @@ http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/609/inde
 http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/609/index.m3u8
 #EXTINF:-1  group-title="España 2",AXN WHITE HD
 http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/609/index.m3u8
-
-#EXTINF:-1  group-title="España 2",AMC
-http://pro213.com:80/live/gonzalezcarvallo332/2sq0tn/2434.m3u8
-#EXTINF:-1  group-title="España 2",AMC HD
-http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/614/index.m3u8
-#EXTINF:-1, AMC España HD
-http://playlist.onlybest.tv/ru/channel/57130b963cf73960c05f8ec9eb7db0e9/614/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://dshm.tmsimg.com/h5/NowShowing/75423/s75423_h5_aa.png",FOX
 http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/608/index.m3u8
@@ -286,16 +279,19 @@ http://178.132.6.97/uzivo/lifetvesp/tracks-v1a1/index.m3u8
 http://server.stablechannels.tv:25461/live/5RUTvfRf3/mD2fb0Y3z1/3332.m3u8
 
 #EXTINF:-1  group-title="España 2",CANAL COCINA
-http://server.stablechannels.tv:25461/live/5RUTvfRf3/mD2fb0Y3z1/3334.m3u8
+http://tv.latintvweb.com:8000/live/carmen/carmen/23600.m3u8
 #EXTINF:-1  group-title="España 2",CANAL COCINA HD opc. 2
 http://mypanel.tv:8080/live/berto/berto/7244.m3u8
 
 #EXTINF:0,ES: Movistar  Disney
-http://server.stablechannels.tv:25461/live/5RUTvfRf3/mD2fb0Y3z1/3361.m3u8
+http://tv.latintvweb.com:8000/live/carmen/carmen/23625.m3u8
 #EXTINF:-1  group-title="España 2",DISNEY XD
 http://10gbs.edgelink.ovh:8000/live/dosdispositivos/smartv.kodi/154.m3u8
 #EXTINF:-1  group-title="España 2",DISNEY JR
 http://playlist.onlybest.tv/ru/channel/93308c1d4668223e600a223a8004a665/604/index.m3u8
+
+#EXTINF:-1,ES: NICKELODEON HD
+http://tv.latintvweb.com:8000/live/carmen/carmen/23636.m3u8
 
 #EXTINF:-1  group-title="España 2",DISCOVERY CHANNEL
 http://server.stablechannels.tv:25461/live/5RUTvfRf3/mD2fb0Y3z1/3340.m3u8
@@ -327,8 +323,9 @@ http://10gbs.edgelink.ovh:8000/live/dosdispositivos/smartv.kodi/3710.m3u8
 
 #EXTINF:-1  group-title="España 2",Non Stop HD
 http://10gbs.edgelink.ovh:8000/live/dosdispositivos/smartv.kodi/3782.m3u8
+
 #EXTINF:-1  group-title="España 2",VIAJAR HD
-http://server.stablechannels.tv:25461/live/5RUTvfRf3/mD2fb0Y3z1/3335.m3u8
+http://tv.latintvweb.com:8000/live/carmen/carmen/23672.m3u8
 
 #EXTINF:-1  group-title="España 2",CAZA Y PESCA
 http://pro213.com:80/live/gonzalezcarvallo332/2sq0tn/2429.m3u8
@@ -341,7 +338,7 @@ http://playlist.onlybest.tv/ru/channel/57130b963cf73960c05f8ec9eb7db0e9/603/inde
 http://playlist.onlybest.tv/ru/channel/d0f21a70397d3659fe259aa5e2a62107/603/index.m3u8
 
 #EXTINF:-1  group-title="España 2",TOROS
-http://server.stablechannels.tv:25461/live/5RUTvfRf3/mD2fb0Y3z1/3383.m3u8
+http://tv.latintvweb.com:8000/live/carmen/carmen/23657.m3u8
 #EXTINF:-1  group-title="España 2",TOROS TV HD
 http://tv.latintvweb.com:8000/live/carmen/carmen/20502.m3u8
 
@@ -425,9 +422,9 @@ http://primestreams.tv:826/live/Rocky01/Rocky01/35101.m3u8
 http://primestreams.tv:826/live/Rocky01/Rocky01/35100.m3u8
 
 #EXTINF:-1,Formula 1
-http://server.stablechannels.tv:25461/live/5RUTvfRf3/mD2fb0Y3z1/3370.m3u8
+http://tv.latintvweb.com:8000/live/carmen/carmen/23558.m3u8
 #EXTINF:-1 tvg-logo="https://www.andorratelecom.ad/documents/33347/112493/movistar+formula+1-01.png/9492b402-dda4-b2b5-469f-bd831294680f?t=1487255283758", M+ Formula 1 HD (Opc. 2)
-http://playlist.onlybest.tv/ru/channel/45d923b700bdbb53af22c8219ae034ac/612/index.m3u8
+http://tv.latintvweb.com:8000/live/carmen/carmen/23559.m3u8
 #EXTINF:-1,M.FORMULA 1 Opc. 3
 http://89.38.98.85:8080/live/Reda/Reda/9686.m3u8
 #EXTINF:-1 ,group-title="MOVISTAR+" tvg-logo="http://www.movistarplus.es/recorte/m-NEO/guiapc/MVF1.png", MOVISTAR FORMULA 1 opc. 4
@@ -438,7 +435,7 @@ http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/612/inde
 http://playlist.onlybest.tv/ru/channel/6c53126176d7d597cbe6ffbb0c5fbf49/612/index.m3u8
 
 #EXTINF:-1,SKY Sport F1
-http://31.220.0.134:8081/live/jtvf1/playlist.m3u8
+http://tv.latintvweb.com:8000/live/carmen/carmen/16601.m3u8
 #EXTINF:-1,SKY Sport F1 opc. 2
 http://primestreams.tv:826/live/Rocky01/Rocky01/1532.m3u8
 
@@ -463,8 +460,9 @@ http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/569/inde
 
 #EXTINF:-1  group-title="España 2",TELEDEPORTE HD
 http://10gbs.edgelink.ovh:8000/live/dosdispositivos/smartv.kodi/3329.m3u8
+
 #EXTINF:-1  group-title="España 2",GOL TV
-http://10gbs.edgelink.ovh:8000/live/dosdispositivos/smartv.kodi/166.m3u8
+http://tv.latintvweb.com:8000/live/carmen/carmen/23619.m3u8
 
 #EXTINF:0,Todo Deportes TV
 http://190.92.0.43:1935/securelive/tdtv85jd5EKL3xWq3/chunklist_w1241310319.m3u8
@@ -531,8 +529,25 @@ http://server.stablechannels.tv:25461/live/5RUTvfRf3/mD2fb0Y3z1/2922.m3u8
 #EXTINF:0,Fox Sports 3 HD (Chile)
 http://server.stablechannels.tv:25461/live/5RUTvfRf3/mD2fb0Y3z1/2924.m3u8
 
+#EXTINF:-1,Fox Sports Premiun [720]
+http://tv.latintvweb.com:8000/live/carmen/carmen/34883.m3u8
+#EXTINF:-1,ARG-FOX SPORT PREMIUM
+http://tv.latintvweb.com:8000/live/carmen/carmen/15223.m3u8
+#EXTINF:-1,ARG-FOX SPORTS PREMIUM (OPC2)
+http://tv.latintvweb.com:8000/live/carmen/carmen/21954.m3u8
+
+#EXTINF:-1,ARG-TNT SPORT. [720]
+http://tv.latintvweb.com:8000/live/carmen/carmen/40192.m3u8
+#EXTINF:-1,ARG-TNT SPORTS HD
+http://tv.latintvweb.com:8000/live/carmen/carmen/15222.m3u8
+#EXTINF:-1,ARG-TNT SPORTS (opc2)
+http://tv.latintvweb.com:8000/live/carmen/carmen/21953.m3u8
+
 #EXTINF:0,ALL Sports
 http://173.236.10.10:1935/dgrau/dgrau/live.m3u8
+
+#EXTINF:-1,USA:BEIN ENGLISH HD
+http://tv.latintvweb.com:8000/live/carmen/carmen/11610.m3u8
 
 #EXTINF:-1,BEIN SPORTS USA Local
 http://primestreams.tv:826/live/Rocky01/Rocky01/1501.m3u8
@@ -566,7 +581,7 @@ http://65.254.55.10:4000/live/197/197.m3u8
 #EXTINF:-1  group-title="España 2",EUROSPORT 1 HD
 http://10gbs.edgelink.ovh:8000/live/dosdispositivos/smartv.kodi/246.m3u8
 #EXTINF:-1  group-title="España 2",EUROSPORT 2
-http://mypanel.tv:8080/live/berto/berto/13531.m3u8
+http://tv.latintvweb.com:8000/live/carmen/carmen/23616.m3u8
 #EXTINF:-1  group-title="España 2",Eurosport 2 HD
 http://10gbs.edgelink.ovh:8000/live/dosdispositivos/smartv.kodi/3330.m3u8
 #EXTINF:-1,Eurosport (ENG)
@@ -593,8 +608,10 @@ http://cshms3.airtel.tv/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221
 #EXTINF:0,Sony ESPN
 http://144.217.64.126:8080/live/coke123/coke123/53656.m3u8
 
-#EXTINF:-1,TYC SPORTS – MUNDIAL RUSIA 2018
-https://live.tycsports.com/hls/live/650593/108571-tyc/master_1800.m3u8
+#EXTINF:-1,ARG-TyC Sports [720]
+http://tv.latintvweb.com:8000/live/carmen/carmen/35797.m3u8
+#EXTINF:-1,TYC SPORT HD
+http://tv.latintvweb.com:8000/live/carmen/carmen/11599.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV1HD.png" tvg-id="sporttv1.pt" group-title="PORTUGAL",SPORT TV 1 HD
 http://sportsbar.pw/lba/ODg5ZjMyOGE0ZGJiNzZjN2YzNDA3Nzk5ZWE1NjE4NmY=/g1/SportTV1.m3u8
@@ -612,7 +629,7 @@ http://primestreams.tv:826/live/Rocky01/Rocky01/1527.m3u8
 #EXTINF:-1,BT Sport 3
 http://primestreams.tv:826/live/Rocky01/Rocky01/1528.m3u8
 #EXTINF:-1,BT ESPN
-http://primestreams.tv:826/live/Rocky01/Rocky01/28249.m3u8
+http://tv.latintvweb.com:8000/live/carmen/carmen/16539.m3u8
 #EXTINF:0,BT SPORT MOSAIC
 http://144.217.64.126:8080/live/coke123/coke123/21729.m3u8
 #EXTINF:0,BT SPORT EXTRA
