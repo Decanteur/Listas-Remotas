@@ -22,7 +22,7 @@ http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl0/irtve01_lv3_a
 http://hlsliveamdgl8-lh.akamaihd.net/i/hlsdvrlive_1@583030/master.m3u8
 
 #EXTINF:-1,ANTENA 3
-https://atresplayerp-i.akamaized.net/antena3mpp/bitrate_1.m3u8
+http://tv.latintvweb.com:8000/live/carmen/carmen/84001.m3u8
 #EXTINF:-1,Antena 3 [HD]
 http://playlist.onlybest.tv/ru/channel/57130b963cf73960c05f8ec9eb7db0e9/615/index.m3u8
 #EXTINF:-1,NEOX
@@ -30,7 +30,9 @@ https://livepull1.secure.footprint.net/geoneoxmpp/bitrate_1.m3u8
 #EXTINF:-1,NOVA
 https://livepull1.secure.footprint.net/geonovampp/bitrate_1.m3u8
 #EXTINF:-1,Antena 3 Series [HD]
-https://livepull1.secure.footprint.net/a3seriesmpp/bitrate_1.m3u8
+http://tv.latintvweb.com:8000/live/carmen/carmen/84006.m3u8
+#EXTINF:-1,Antena 3 Series
+http://tv.latintvweb.com:8000/live/carmen/carmen/85237.m3u8
 #EXTINF:-1,MEGA
 https://livepull1.secure.footprint.net/geomegampp/bitrate_1.m3u8
 #EXTINF:-1,MEGA HD opc. 2
@@ -341,7 +343,7 @@ http://playlist.onlybest.tv/ru/channel/d0f21a70397d3659fe259aa5e2a62107/603/inde
 #EXTINF:-1  group-title="España 2",TOROS
 http://server.stablechannels.tv:25461/live/5RUTvfRf3/mD2fb0Y3z1/3383.m3u8
 #EXTINF:-1  group-title="España 2",TOROS TV HD
-http://mypanel.tv:8080/live/berto/berto/13548.m3u8
+http://tv.latintvweb.com:8000/live/carmen/carmen/20502.m3u8
 
 #EXTINF:0,CNN Español
 http://server.stablechannels.tv:25461/live/5RUTvfRf3/mD2fb0Y3z1/3527.m3u8
@@ -371,7 +373,7 @@ http://playlist.onlybest.tv/en/channel/2874e3a9397ce975e8463c76533bcb1e/566/inde
 #EXTINF:-1,Bein Sports Opción 4
 http://lamasu.dragontvapp.com/live/beinsportesp/index.m3u8
 #EXTINF:0,Bein Sports Ñ
-http://server.stablechannels.tv:25461/live/5RUTvfRf3/mD2fb0Y3z1/3612.m3u8
+http://tv.latintvweb.com:8000/live/carmen/carmen/11609.m3u8
 
 #EXTINF:-1,Bein LaLiga opción 1
 http://playlist.onlybest.tv/ru/channel/6c53126176d7d597cbe6ffbb0c5fbf49/574/index.m3u8
@@ -472,31 +474,35 @@ http://186.33.227.198/DXTV/smil:DXTV.smil/playlist.m3u8?tecnotv.info?iptv.m3u8
 http://186.33.227.198/DXTV/smil:DXTV.smil/playlist.m3u8
 
 #EXTINF:-1, ESPN Deportes opc. 1
-https://live97.elrobacanales.com/budtv/Evento_BudTv_ESPN_Dep_151/playlist.m3u8
+http://tv.latintvweb.com:8000/live/carmen/carmen/31528.m3u8
 #EXTINF:0,ESPN opc. 2
-http://189.216.247.113/Content/HLS/Live/Channel(ESPN_HD)/index.m3u8
+http://tv.latintvweb.com:8000/live/carmen/carmen/82046.m3u8
 #EXTINF:-1,ESPN Deportes opc. 3
-http://primestreams.tv:826/live/Rocky01/Rocky01/36705.m3u8
-#EXTINF:0,ESPN sur
-http://server.stablechannels.tv:25461/live/5RUTvfRf3/mD2fb0Y3z1/3575.m3u8
-#EXTINF:0,ESPN HD sur
-http://server.stablechannels.tv:25461/live/5RUTvfRf3/mD2fb0Y3z1/3576.m3u8
+http://tv.latintvweb.com:8000/live/carmen/carmen/15078.m3u8
+#EXTINF:-1,ESPN MEX [HD]
+http://tv.latintvweb.com:8000/live/carmen/carmen/34307.m3u8
 #EXTINF:0,ESPN 2
-http://primestreams.tv:826/live/Rocky01/Rocky01/36704.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Jt9TnsK.jpg" group-title="DEPORTES", ESPN 2 HD Sur
-http://server.stablechannels.tv:25461/live/5RUTvfRf3/mD2fb0Y3z1/3578.m3u8
+http://tv.latintvweb.com:8000/live/carmen/carmen/31527.m3u8
+#EXTINF:0,ESPN 2
+http://tv.latintvweb.com:8000/live/carmen/carmen/15077.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Jt9TnsK.jpg" group-title="DEPORTES", ESPN 2 HD
+http://tv.latintvweb.com:8000/live/carmen/carmen/82069.m3u8
+#EXTINF:-1,ESPN 2 MEX [HD]
+http://tv.latintvweb.com:8000/live/carmen/carmen/34306.m3u8
 #EXTINF:0,ESPN 3
-http://primestreams.tv:826/live/Rocky01/Rocky01/36703.m3u8
-#EXTINF:0,ESPN 3 sur
-http://server.stablechannels.tv:25461/live/5RUTvfRf3/mD2fb0Y3z1/3579.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/oBglO9Q.jpg" group-title="DEPORTES", ESPN HD 3 sur
-http://server.stablechannels.tv:25461/live/5RUTvfRf3/mD2fb0Y3z1/3577.m3u8
+http://tv.latintvweb.com:8000/live/carmen/carmen/82072.m3u8
+#EXTINF:0,ESPN 3
+http://tv.latintvweb.com:8000/live/carmen/carmen/15076.m3u8
+#EXTINF:-1,ESPN 3 MEX [HD]
+http://tv.latintvweb.com:8000/live/carmen/carmen/34305.m3u8
 #EXTINF:0,ESPN Plus
-http://server.stablechannels.tv:25461/live/5RUTvfRf3/mD2fb0Y3z1/3600.m3u8
+http://tv.latintvweb.com:8000/live/carmen/carmen/15075.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lzIdgGe.jpg" group-title="DEPORTES", ESPN + HD opc 2
 http://primestreams.tv:826/live/Rocky01/Rocky01/36701.m3u8
-#EXTINF:-1 tvg-logo="https://imagenes.cablevisionfibertel.com.ar:7007/servlet/cv/1132.png", ESPN +
-http://3-120heat.pulsedmedia.com/public-llave1/list/public/espn_plus.php/Stream(04)/index.m3u8
+#EXTINF:-1,ESPN PLUS MEX [HD]
+http://tv.latintvweb.com:8000/live/carmen/carmen/34303.m3u8
+#EXTINF:-1,ESPN NETWORK [HD]
+http://tv.latintvweb.com:8000/live/carmen/carmen/34304.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://imagenes.cablevisionfibertel.com.ar:7007/servlet/cv/223.png", Fox Sports
@@ -671,7 +677,7 @@ http://server.stablechannels.tv:25461/live/5RUTvfRf3/mD2fb0Y3z1/3116.m3u8
 #EXTINF:0,USA | Fox Sports 1
 http://tv.latintvweb.com:8000/live/carmen/carmen/11605.m3u8
 #EXTINF:0,USA | NBA TV HD
-http://server.stablechannels.tv:25461/live/5RUTvfRf3/mD2fb0Y3z1/3094.m3u8
+http://tv.latintvweb.com:8000/live/carmen/carmen/11611.m3u8
 #EXTINF:0,USA | NBC Sport Network HD
 http://server.stablechannels.tv:25461/live/5RUTvfRf3/mD2fb0Y3z1/3091.m3u8
 #EXTINF:0,USA | NHL Network
