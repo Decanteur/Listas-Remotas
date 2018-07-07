@@ -500,18 +500,20 @@ http://3-120heat.pulsedmedia.com/public-llave1/list/public/espn_plus.php/Stream(
 
 
 #EXTINF:-1 tvg-logo="https://imagenes.cablevisionfibertel.com.ar:7007/servlet/cv/223.png", Fox Sports
-http://primestreams.tv:826/live/Rocky01/Rocky01/36691.m3u8
+http://tv.latintvweb.com:8000/live/carmen/carmen/31526.m3u8
 #EXTINF:0,Fox Sports 1 (Arg)
-http://server.stablechannels.tv:25461/live/5RUTvfRf3/mD2fb0Y3z1/3571.m3u8
+http://tv.latintvweb.com:8000/live/carmen/carmen/29848.m3u8
 #EXTINF:0,Fox Sports 1
 http://server.stablechannels.tv:25461/live/5RUTvfRf3/mD2fb0Y3z1/3598.m3u8
 
 #EXTINF:-1 tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/8/8e/Fox_Sports_2.png/revision/20160413221614" group-title="Deportes",F0X SPORTS 2
-http://primestreams.tv:826/live/Rocky01/Rocky01/36690.m3u8
+http://tv.latintvweb.com:8000/live/carmen/carmen/23960.m3u8
+#EXTINF:-1 tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/8/8e/Fox_Sports_2.png/revision/20160413221614" group-title="Deportes",F0X SPORTS 2
+http://tv.latintvweb.com:8000/live/carmen/carmen/23809.m3u8
 #EXTINF:0,Fox Sports 2 (Arg)
-http://server.stablechannels.tv:25461/live/5RUTvfRf3/mD2fb0Y3z1/3568.m3u8
+http://tv.latintvweb.com:8000/live/carmen/carmen/23961.m3u8
 #EXTINF:0,Fox Sports 3
-http://primestreams.tv:826/live/Rocky01/Rocky01/36689.m3u8
+http://tv.latintvweb.com:8000/live/carmen/carmen/28042.m3u8
 #EXTINF:0,Fox Sports 3
 http://server.stablechannels.tv:25461/live/5RUTvfRf3/mD2fb0Y3z1/3596.m3u8
 #EXTINF:-0 tvg-logo="https://i.imgur.com/n62eZ1f.png" group-title="DEPORTES",FOX SPORTS 0 MX
@@ -554,7 +556,7 @@ http://primestreams.tv:826/live/Rocky01/Rocky01/1491.m3u8
 http://primestreams.tv:826/live/Rocky01/Rocky01/1492.m3u8
 
 #EXTINF:-1  group-title="España 2",EUROSPORT 1
-http://mypanel.tv:8080/live/berto/berto/8746.m3u8
+http://65.254.55.10:4000/live/197/197.m3u8
 #EXTINF:-1  group-title="España 2",EUROSPORT 1 HD
 http://10gbs.edgelink.ovh:8000/live/dosdispositivos/smartv.kodi/246.m3u8
 #EXTINF:-1  group-title="España 2",EUROSPORT 2
@@ -572,6 +574,8 @@ http://playlist.onlybest.tv/ru/channel/45d923b700bdbb53af22c8219ae034ac/78/index
 #EXTINF:-1 tvg-logo="" group-title="DEPORTES",EuroSport 1 De
 http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/682/index.m3u8
 #EXTINF:-1, tvg-logo="jPW4CkF.png" group-title="",Eurosport 1 It
+http://65.254.55.10:4000/live/197/197.m3u8
+#EXTINF:-1,Eurosport 1 CZ
 http://65.254.55.10:4000/live/197/197.m3u8
 
 #EXTINF:0 type="favorites" channelId="2743", Sky Sport Bundesliga 1
@@ -665,7 +669,7 @@ http://server.stablechannels.tv:25461/live/5RUTvfRf3/mD2fb0Y3z1/3117.m3u8
 #EXTINF:0,USA | ESPN U HD
 http://server.stablechannels.tv:25461/live/5RUTvfRf3/mD2fb0Y3z1/3116.m3u8
 #EXTINF:0,USA | Fox Sports 1
-http://server.stablechannels.tv:25461/live/5RUTvfRf3/mD2fb0Y3z1/3109.m3u8
+http://tv.latintvweb.com:8000/live/carmen/carmen/11605.m3u8
 #EXTINF:0,USA | NBA TV HD
 http://server.stablechannels.tv:25461/live/5RUTvfRf3/mD2fb0Y3z1/3094.m3u8
 #EXTINF:0,USA | NBC Sport Network HD
@@ -710,7 +714,7 @@ https://live119.elrobacanales.com/budtv/nhl.network.usa/playlist.m3u8
 http://primestreams.tv:826/live/Rocky01/Rocky01/1380.m3u8
 
 #EXTINF:-1,UFC
-http://primestreams.tv:826/live/Rocky01/Rocky01/33843.m3u8
+http://tv.latintvweb.com:8000/live/carmen/carmen/6294.m3u8
 #EXTINF:-1,UFC opc. 2
 https://live97.elrobacanales.com/budtv/ufc_total_play_100/playlist.m3u8
 #EXTINF:-1,CBC Sport
@@ -809,7 +813,10 @@ https://ovh.easyview.eu/hls/bbc1.m3u8
 #EXTINF:-1,BBC News
 https://ovh.easyview.eu/hls/bbcnews.m3u8
 #EXTINF:-1,BBC World News
-http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/145/index.m3u8
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/145/index.m3u8  
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xFSBik0.png" group-title="NOTICIAS", The Weather Channel | HD
+http://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
 
 #EXTINF:0, DW Español
 http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/master.m3u8
