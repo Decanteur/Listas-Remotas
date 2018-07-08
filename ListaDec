@@ -851,6 +851,8 @@ http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/145/inde
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xFSBik0.png" group-title="NOTICIAS", The Weather Channel | HD
 http://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
+#EXTINF: -1 tvg-logo = "https://i.imgur.com/tMrDZ6b.png" group-title = "NOTICIAS", Weather Nation | HD
+http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751/a.m3u8
 
 #EXTINF:0, DW Español
 http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/master.m3u8
