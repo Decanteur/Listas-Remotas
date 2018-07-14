@@ -26,7 +26,7 @@ http://tv.latintvweb.com:8000/live/carmen/carmen/84001.m3u8
 #EXTINF:-1,Antena 3 [HD]
 http://playlist.onlybest.tv/ru/channel/57130b963cf73960c05f8ec9eb7db0e9/615/index.m3u8
 #EXTINF:-1,NEOX
-https://livepull1.secure.footprint.net/geoneoxmpp/bitrate_1.m3u8
+http://iptv-area-51.tv:2095/live/Jonathan/tvaL66sB28/7277.m3u8
 #EXTINF:-1,NOVA
 https://livepull1.secure.footprint.net/geonovampp/bitrate_1.m3u8
 #EXTINF:-1,Antena 3 Series [HD]
@@ -36,7 +36,7 @@ http://tv.latintvweb.com:8000/live/carmen/carmen/85237.m3u8
 #EXTINF:-1,MEGA
 http://tv.latintvweb.com:8000/live/carmen/carmen/23624.m3u8
 #EXTINF:-1,MEGA HD opc. 2
-http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/index_3_av-b.m3u8
+http://iptv-area-51.tv:2095/live/Jonathan/tvaL66sB28/7293.m3u8
 #EXTINF:-1 group-title="",Mega ES opc. 3
 http://mypanel.tv:8080/live/berto/berto/8760.m3u8
 #EXTINF:-1 group-title="",Mega HD ES opc. 4
@@ -73,10 +73,10 @@ https://mdslivehls-i.akamaihd.net/hls/live/571648/divinity/bitrate_4.m3u8
 #EXTINF:-1  group-title="España 2",BOING
 https://mdslivehlsb-i.akamaihd.net/hls/live/623616/boing/bitrate_1.m3u8
 
-#EXTINF:-1  group-title="España 2",PARAMOUNT CHANNEL
+#EXTINF:-1  group-title="España 2",PARAMOUNT NETWORK
 http://paramount.live.flumotion.com/live/chunks.m3u8
-#EXTINF:-1 group-title="Peliculas" ,Paramount Channel ES
-http://mypanel.tv:8080/live/berto/berto/8769.m3u8 opc. 2
+#EXTINF:-1 group-title="Peliculas" ,Paramount NETWORK opc. 2
+http://iptv-area-51.tv:2095/live/Jonathan/tvaL66sB28/7273.m3u8
 
 #EXTINF:-1  group-title="España 2",DMAX
 http://154.16.149.50:8088/stream/maxxxxxxxxxxxxf/playlist.m3u80
@@ -94,7 +94,7 @@ http://streaming.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/mobile/playlist
 http://streaming.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/mobile/.m3u8
 
 #EXTINF:-1,DISNEY CHANNEL HD
-http://server.stablechannels.tv:25461/live/5RUTvfRf3/mD2fb0Y3z1/3327.m3u8
+http://iptv-area-51.tv:2095/live/Jonathan/tvaL66sB28/7306.m3u8
 
 #EXTINF:-1  group-title="España 2",MTV ESPAÑA
 http://server.stablechannels.tv:25461/live/5RUTvfRf3/mD2fb0Y3z1/3345.m3u8
@@ -154,7 +154,7 @@ http://mypanel.tv:8080/live/berto/berto/7222.m3u8
 http://10gbs.edgelink.ovh:8000/live/dosdispositivos/smartv.kodi/255.m3u8
 
 #EXTINF:-1  group-title="España 2",MOVISTAR  ACCION
-http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/576/index.m3u8
+http://iptv-area-51.tv:2095/live/Jonathan/tvaL66sB28/7290.m3u8
 #EXTINF:-1 tvg-logo="http://vertelevisor.com/imagenes/movistar-accion.png", M+ Accion HD opc. 2
 http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/576/index.m3u8
 
@@ -163,24 +163,15 @@ http://server.stablechannels.tv:25461/live/5RUTvfRf3/mD2fb0Y3z1/3364.m3u8
 
 #EXTINF:-1,MOVISTAR Series Xtra opc. 1
 http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/568/index.m3u8
-#EXTINF:-1  group-title="España 2",MOVISTAR  SERIES XTRA opc. 2
-http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/568/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Movistar_Series.svg/1200px-Movistar_Series.svg.png",M+ Series Xtra HD opc. 3
-http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/568/index.m3u8
-#EXTINF:-1  group-title="España 2",MOVISTAR  SERIES opc. 4
-http://10gbs.edgelink.ovh:8000/live/dosdispositivos/smartv.kodi/184.m3u8
+
+#EXTINF:-1,Movistar Xtra
+http://iptv-area-51.tv:2095/live/Jonathan/tvaL66sB28/7282.m3u8
 
 #EXTINF:-1,MOVISTAR COMEDIA
-http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/606/index.m3u8
-#EXTINF:-1,MOVISTAR COMEDIA opc. 2
-http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/606/index.m3u8
-#EXTINF:-1,MOVISTAR COMEDIA opc. 3
-http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/580/index.m3u8
+http://iptv-area-51.tv:2095/live/Jonathan/tvaL66sB28/7289.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Movistar_DCine.svg/1200px-Movistar_DCine.svg.png", Movistar Dcine
+#EXTINF:-1 tvg-logo="", Movistar Dcine
 http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/607/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Movistar_DCine.svg/1200px-Movistar_DCine.svg.png", Movistar Dcine opc. 2
-http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/607/index.m3u8
 
 #EXTINF:-1,MOVISTAR DISNEY
 http://xxedge262.livesports.pw/live/vermdisney4fe56a2fafa38ae9670f/chunklist.m3u8?md5=1lPXYhC5_jDEV3y79mTUNw&expires=1522521527
@@ -215,7 +206,7 @@ http://mypanel.tv:8080/live/berto/berto/13537.m3u8
 http://playlist.onlybest.tv/ru/channel/57130b963cf73960c05f8ec9eb7db0e9/570/index.m3u8
 
 #EXTINF:-1  group-title="España 2",COMEDY CENTRAL
-http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/572/index.m3u8
+http://iptv-area-51.tv:2095/live/Jonathan/tvaL66sB28/7310.m3u8
 #EXTINF:-1  group-title="España 2",COMEDY CENTRAL HD
 http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/572/index.m3u8
 
@@ -243,11 +234,7 @@ http://playlist.onlybest.tv/ru/channel/57130b963cf73960c05f8ec9eb7db0e9/608/inde
 http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/608/index.m3u8
 
 #EXTINF:-1  group-title="España 2",FOX LIFE
-http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/567/index.m3u8
-#EXTINF:-1  group-title="España 2",FOX LIFE HD opc. 2
-http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/567/index.m3u8
-#EXTINF:-1  group-title="España 2",FOX LIFE HD opc. 3
-http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/601/index.m3u8
+http://iptv-area-51.tv:2095/live/Jonathan/tvaL66sB28/7299.m3u8
 
 #EXTINF:-1  group-title="España 2",DARK
 http://server.stablechannels.tv:25461/live/5RUTvfRf3/mD2fb0Y3z1/3367.m3u8
@@ -263,7 +250,7 @@ http://server.stablechannels.tv:25461/live/5RUTvfRf3/mD2fb0Y3z1/3342.m3u8
 http://mypanel.tv:8080/live/berto/berto/7177.m3u8
 
 #EXTINF:-1  group-title="España 2",SYFY
-http://server.stablechannels.tv:25461/live/5RUTvfRf3/mD2fb0Y3z1/3343.m3u8
+http://iptv-area-51.tv:2095/live/Jonathan/tvaL66sB28/7275.m3u8
 #EXTINF:-1  group-title="España 2",SYFY HD opc. 2
 http://mypanel.tv:8080/live/berto/berto/13522.m3u8
 
@@ -279,16 +266,14 @@ http://178.132.6.97/uzivo/lifetvesp/tracks-v1a1/index.m3u8
 http://server.stablechannels.tv:25461/live/5RUTvfRf3/mD2fb0Y3z1/3332.m3u8
 
 #EXTINF:-1  group-title="España 2",CANAL COCINA
-http://tv.latintvweb.com:8000/live/carmen/carmen/23600.m3u8
-#EXTINF:-1  group-title="España 2",CANAL COCINA HD opc. 2
-http://mypanel.tv:8080/live/berto/berto/7244.m3u8
+http://iptv-area-51.tv:2095/live/Jonathan/tvaL66sB28/7314.m3u8
 
 #EXTINF:0,ES: Movistar  Disney
 http://tv.latintvweb.com:8000/live/carmen/carmen/23625.m3u8
 #EXTINF:-1  group-title="España 2",DISNEY XD
 http://10gbs.edgelink.ovh:8000/live/dosdispositivos/smartv.kodi/154.m3u8
 #EXTINF:-1  group-title="España 2",DISNEY JR
-http://playlist.onlybest.tv/ru/channel/93308c1d4668223e600a223a8004a665/604/index.m3u8
+http://iptv-area-51.tv:2095/live/Jonathan/tvaL66sB28/7305.m3u8
 
 #EXTINF:-1,ES: NICKELODEON HD
 http://tv.latintvweb.com:8000/live/carmen/carmen/23636.m3u8
@@ -333,9 +318,7 @@ http://pro213.com:80/live/gonzalezcarvallo332/2sq0tn/2429.m3u8
 http://mypanel.tv:8080/live/berto/berto/7232.m3u8
 
 #EXTINF:-1  group-title="España 2",IBERALIA TV
-http://playlist.onlybest.tv/ru/channel/57130b963cf73960c05f8ec9eb7db0e9/603/index.m3u8
-#EXTINF:-1  group-title="España 2",Iberalia TV HD
-http://playlist.onlybest.tv/ru/channel/d0f21a70397d3659fe259aa5e2a62107/603/index.m3u8
+https://input2.fractalmedia.es/hls/iberaliatv.m3u8
 
 #EXTINF:-1  group-title="España 2",TOROS
 http://tv.latintvweb.com:8000/live/carmen/carmen/23657.m3u8
@@ -528,6 +511,8 @@ http://tv.latintvweb.com:8000/live/carmen/carmen/34303.m3u8
 #EXTINF:-1,ESPN NETWORK [HD]
 http://tv.latintvweb.com:8000/live/carmen/carmen/34304.m3u8
 
+#EXTINF:-1, ESPN HD USA
+http://80.80.160.168/live/6/live.m3u8
 
 #EXTINF:-1 tvg-logo="https://imagenes.cablevisionfibertel.com.ar:7007/servlet/cv/223.png", Fox Sports
 http://tv.latintvweb.com:8000/live/carmen/carmen/31526.m3u8
@@ -900,7 +885,7 @@ http://wow01.105.net/live/virgin1/chunklist_w25732073.m3u8
 #EXTINF:-1  group-title="España 2",VH1 MOVISTAR
 http://server.stablechannels.tv:25461/live/5RUTvfRf3/mD2fb0Y3z1/3261.m3u8
 #EXTINF:-1 tvg-logo="http://teamblue.rudigualter.pt/teamblue/LOGO/VH1EUROPE.png" group-title="ESPANHA",VH1 EUROPE ()
-http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/238/index.m3u8
+http://81.200.50.4/hls/VH1_nejtv_portable_low.m3u8
 #EXTINF:0,ES: VH1 Classic
 http://server.stablechannels.tv:25461/live/5RUTvfRf3/mD2fb0Y3z1/3260.m3u8
 #EXTINF:-1,Music Choice
