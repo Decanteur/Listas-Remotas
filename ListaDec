@@ -437,8 +437,8 @@ http://primestreams.tv:826/live/Rocky01/Rocky01/31459.m3u8
 http://primestreams.tv:826/live/Rocky01/Rocky01/31460.m3u8
 #EXTINF:-1 tvg-logo="https://broadbandtvnews-broadbandtvnews.netdna-ssl.com/wp-content/uploads/2015/11/Eurosport-1-symbol.png", Eurosport 2 HD (ENG)
 http://playlist.onlybest.tv/ru/channel/45d923b700bdbb53af22c8219ae034ac/78/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="DEPORTES",EuroSport 1 De
-http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/682/index.m3u8
+#EXTINF:-1,DE: Eurosport1
+https://playlist.onlybest.tv/ru/channel/62aa43e5b3a27ee29e6680e8ae8e9c79/682/index.m3u8
 #EXTINF:-1, tvg-logo="jPW4CkF.png" group-title="",Eurosport 1 It
 http://65.254.55.10:4000/live/197/197.m3u8
 #EXTINF:-1,Eurosport 1 CZ
@@ -488,6 +488,10 @@ http://tv.latintvweb.com:8000/live/carmen/carmen/34303.m3u8
 #EXTINF:-1,ESPN NETWORK [HD]
 http://tv.latintvweb.com:8000/live/carmen/carmen/34304.m3u8
 
+#EXTINF:0,ESPN (ENG)
+#EXTVLCOPT:network-caching=1000
+http://198.255.114.218:8000/live/ez9RrBt05e/czfUqk5epQ/4157.m3u8
+
 #EXTINF:-1, ESPN HD USA
 http://80.80.160.168/live/6/live.m3u8
 
@@ -536,6 +540,19 @@ http://173.236.10.10:1935/dgrau/dgrau/live.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Deportes", EQUIPE FRANCIA
 http://ec.playmedia.fr/lequipe21/live/chunklist_w307583200.m3u8
+
+#EXTINF:-1,DE: Sport 1 HD
+https://playlist.onlybest.tv/ru/channel/62aa43e5b3a27ee29e6680e8ae8e9c79/453/index.m3u8
+#EXTINF:-1,DE: Sky Sport News
+https://playlist.onlybest.tv/ru/channel/62aa43e5b3a27ee29e6680e8ae8e9c79/460/index.m3u8
+#EXTINF:-1,DE: Sky Sport Austria HD
+https://playlist.onlybest.tv/ru/channel/62aa43e5b3a27ee29e6680e8ae8e9c79/475/index.m3u8
+#EXTINF:-1,DE: SKY SPORT 1
+https://playlist.onlybest.tv/ru/channel/62aa43e5b3a27ee29e6680e8ae8e9c79/724/index.m3u8
+#EXTINF:-1,DE: Sky Sport Bundesliga 1
+https://playlist.onlybest.tv/ru/channel/62aa43e5b3a27ee29e6680e8ae8e9c79/725/index.m3u8
+#EXTINF:-1,DE: Sky Sport 2 HD
+https://playlist.onlybest.tv/ru/channel/62aa43e5b3a27ee29e6680e8ae8e9c79/733/index.m3u8
 
 #EXTINF:-1,USA:BEIN ENGLISH HD
 http://tv.latintvweb.com:8000/live/carmen/carmen/11610.m3u8
@@ -748,10 +765,15 @@ http://sagi.typepad.com/treding_the_vc_waters/Picture1_1.jpg
 http://cdn-videos.akamaized.net/btv/desktop/akamai/europe/live/primary.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5Nd9z70.png" group-title="NOTICIAS",Bloomberg TV US HD
 http://tvpremiumhd.club/lista-gratuita/215416/tv/iptv.php?id=liveproduseast.global.ssl.fastly.net/btv/desktop/us_live
+
 #EXTINF:0,Sky News
 http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/04.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uy91U7w.png" group-title="NOTICIAS",Sky News HD
 http://tvpremiumhd.club/lista-gratuita/215416/tv/iptv.php?id=skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/07
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Sky TG24
+http://skyianywhere2-i.akamaihd.net/hls/live/200275/tg24/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KFKktei.png" group-title="NOTICIAS",RT USA HD
 http://tvpremiumhd.club/lista-gratuita/215416/tv/iptv.php?id=secure-streams.akamaized.net/rt-usa/index
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KFKktei.png" group-title="NOTICIAS",RT UK HD
