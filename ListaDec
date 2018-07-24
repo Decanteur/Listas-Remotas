@@ -7,7 +7,7 @@ http://sagi.typepad.com/treding_the_vc_waters/Picture1_1.jpg
 http://sagi.typepad.com/treding_the_vc_waters/Picture1_1.jpg
 
 #EXTINF:-1 tvg-id="LA1.es" tvg-name="LA 1" audio-track="es" tvg-logo="https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE.jpg" group-title="Nacional",La 1 Opc. 1
-http://iptv-area-51.tv:2095/live/Jonathan/tvaL66sB28/7249.m3u8
+http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl7/la1_lv3_aosv4_gl7/la1_lv3_aosv4_gl7.isml/la1_lv3_aosv4_gl7-audio=128000-video=400000.m3u8
 #EXTINF:-1, group-title="tv" tvg-logo="https://imgfast.net/users/1114/10/46/39/album/tve2lo10.png", Rtve.es La 2
 http://iptv-area-51.tv:2095/live/Jonathan/tvaL66sB28/7248.m3u8
 #EXTINF:-1,24 HORAS
@@ -16,13 +16,13 @@ http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl0/irtve01_lv3_a
 http://hlsliveamdgl8-lh.akamaihd.net/i/hlsdvrlive_1@583030/master.m3u8
 
 #EXTINF:-1,ANTENA 3
-http://tv.latintvweb.com:8000/live/carmen/carmen/84001.m3u8
+https://playlist.onlybest.tv/en/channel/9e18d4d6e4f56f48723f3d0ec5cfa94e/615/index.m3u8
 #EXTINF:-1,Antena 3 [HD]
 http://playlist.onlybest.tv/ru/channel/57130b963cf73960c05f8ec9eb7db0e9/615/index.m3u8
 #EXTINF:-1,NEOX
 http://iptv-area-51.tv:2095/live/Jonathan/tvaL66sB28/7277.m3u8
 #EXTINF:-1,NOVA
-http://iptv-area-51.tv:2095/live/Jonathan/tvaL66sB28/7275.m3u8
+https://playlist.onlybest.tv/en/channel/9e18d4d6e4f56f48723f3d0ec5cfa94e/602/index.m3u8
 #EXTINF:-1,Antena 3 Series [HD]
 http://tv.latintvweb.com:8000/live/carmen/carmen/84006.m3u8
 #EXTINF:-1,Antena 3 Series
@@ -34,14 +34,14 @@ http://mypanel.tv:8080/live/berto/berto/8760.m3u8
 #EXTINF:-1 group-title="",Mega HD ES opc. 4
 http://mypanel.tv:8080/live/berto/berto/13824.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/Sexta.jpg",LA SEXTA
-http://playlist.onlybest.tv/ru/channel/57130b963cf73960c05f8ec9eb7db0e9/618/index.m3u8
+https://playlist.onlybest.tv/en/channel/9e18d4d6e4f56f48723f3d0ec5cfa94e/618/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/Sexta.jpg",LA SEXTA opc. 2
-https://atresplayerp-i.akamaized.net/lasextampp/bitrate_1.m3u8
+https://playlist.onlybest.tv/en/channel/9e18d4d6e4f56f48723f3d0ec5cfa94e/618/index.m3u8
 
 #EXTINF:-1 tvg-logo="",Cuatro
-http://tv.latintvweb.com:8000/live/carmen/carmen/23659.m3u8
+https://playlist.onlybest.tv/en/channel/9e18d4d6e4f56f48723f3d0ec5cfa94e/616/index.m3u8
 #EXTINF:-1 tvg-logo="https://i2.wp.com/iptvsmartv.files.wordpress.com/2017/04/telecinco_circular_500.png?ssl=1&w=450",Telecinco
-http://iptv-area-51.tv:2095/live/Jonathan/tvaL66sB28/7257.m3u8
+https://playlist.onlybest.tv/en/channel/9e18d4d6e4f56f48723f3d0ec5cfa94e/617/index.m3u8
 #EXTINF:-1, group-title="tv" tvg-logo="http://www.formulatv.com/fotos/a/9000/9225/l47xp2wnn9sgxixifo52a8c3d3a5b26_energy.png", Energy
 https://mdslivehlsb-i.akamaihd.net/hls/live/623617/energy/bitrate_1.m3u8
 #EXTINF:-1 group-title="Mediaset España" ,Energy ES opc. 2
@@ -94,7 +94,7 @@ EXTINF:-1 tvg-logo="http://www.canalextremadura.es/sites/all/themes/canalex_2016
 http://hlstv.canalextremadura.es/livetv/smil:multistream.smil/chunklist_b1596000_DVR.m3u8
 
 #EXTINF:0,Canal Sur
-https://www.youtube.com/watch?v=ByFtoVr4PUY
+http://canalsur-live.hls.adaptive.level3.net/hls-live/canalsur_live-rtva/_definst_/live/stream1.m3u8
 #EXTINF:-1  group-title="España 2",CANAL SUR COCINA
 http://173.212.214.184:1935/cscocina/cscocina/chunklist_w320014621.m3u8
 #EXTINF:-1 tvg-logo="https://i1.wp.com/directostv.teleame.com/wp-content/uploads/2017/09/Canal-Sur-Cocina.png?resize=324%2C235",CanalSur Cocina opc. 2
@@ -124,7 +124,7 @@ http://rtvmurcia_01-lh.akamaihd.net/i/rtvmurcia_1_0@507973/master.m3u8
 http://sagi.typepad.com/treding_the_vc_waters/Picture1_1.jpg
 
 #EXTINF:-1 tvg-logo="",#0 opc. 1
-http://playlist.onlybest.tv/ru/channel/57130b963cf73960c05f8ec9eb7db0e9/611/index.m3u8
+https://playlist.onlybest.tv/en/channel/9e18d4d6e4f56f48723f3d0ec5cfa94e/611/index.m3u8
 #EXTINF:-1 tvg-logo="",#0 Opc. 2
 http://playlist.onlybest.tv/ru/channel/45d923b700bdbb53af22c8219ae034ac/611/index.m3u8
 #EXTINF:-1  tvg-logo="",#0 opc. 3
@@ -138,19 +138,19 @@ http://mypanel.tv:8080/live/berto/berto/7222.m3u8
 http://10gbs.edgelink.ovh:8000/live/dosdispositivos/smartv.kodi/255.m3u8
 
 #EXTINF:-1  group-title="España 2",MOVISTAR  ACCION
-http://iptv-area-51.tv:2095/live/Jonathan/tvaL66sB28/7290.m3u8
+https://playlist.onlybest.tv/en/channel/9e18d4d6e4f56f48723f3d0ec5cfa94e/605/index.m3u8
 
 #EXTINF:0,ES: Movistar  Cine Ñ
 http://server.stablechannels.tv:25461/live/5RUTvfRf3/mD2fb0Y3z1/3364.m3u8
 
-#EXTINF:-1,MOVISTAR Series Xtra opc. 1
-http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/568/index.m3u8
+#EXTINF:-1,MOVISTAR Series Xtra
+https://playlist.onlybest.tv/en/channel/9e18d4d6e4f56f48723f3d0ec5cfa94e/568/index.m3u8
 
 #EXTINF:-1,Movistar Xtra
 http://iptv-area-51.tv:2095/live/Jonathan/tvaL66sB28/7282.m3u8
 
 #EXTINF:-1,MOVISTAR COMEDIA
-http://iptv-area-51.tv:2095/live/Jonathan/tvaL66sB28/7289.m3u8
+https://playlist.onlybest.tv/en/channel/9e18d4d6e4f56f48723f3d0ec5cfa94e/606/index.m3u8
 
 #EXTINF:-1 tvg-logo="", Movistar Dcine
 http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/607/index.m3u8
@@ -171,9 +171,9 @@ http://server.stablechannels.tv:25461/live/5RUTvfRf3/mD2fb0Y3z1/3358.m3u8
 http://10gbs.edgelink.ovh:8000/live/dosdispositivos/smartv.kodi/4292.m3u8
 
 #EXTINF:-1,AMC ESPAÑA opc 1
-http://tv.latintvweb.com:8000/live/carmen/carmen/23566.m3u8
+https://playlist.onlybest.tv/en/channel/9e18d4d6e4f56f48723f3d0ec5cfa94e/614/index.m3u8
 #EXTINF:-1,AMC ESPAÑA opc. 2
-http://playlist.onlybest.tv/ru/channel/6c53126176d7d597cbe6ffbb0c5fbf49/614/index.m3u8
+https://playlist.onlybest.tv/en/channel/9e18d4d6e4f56f48723f3d0ec5cfa94e/614/index.m3u8
 
 #EXTINF:-1  group-title="España 2",TCM
 http://server.stablechannels.tv:25461/live/5RUTvfRf3/mD2fb0Y3z1/3357.m3u8
@@ -191,34 +191,25 @@ http://playlist.onlybest.tv/ru/channel/57130b963cf73960c05f8ec9eb7db0e9/570/inde
 http://iptv-area-51.tv:2095/live/Jonathan/tvaL66sB28/7310.m3u8
 
 #EXTINF:-1  group-title="España 2",AXN
-http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/610/index.m3u8
-#EXTINF:-1  group-title="España 2",AXN HD opc. 2
-http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/614/index.m3u8
-#EXTINF:-1,AXN ESPAÑA opc. 3
-http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/579/index.m3u8
-#EXTINF:-1 group-title="Peliculas" ,AXN HD ES opc. 4
-http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/610/index.m3u8
-
+https://playlist.onlybest.tv/en/channel/9e18d4d6e4f56f48723f3d0ec5cfa94e/610/index.m3u8
+#EXTINF:-1  group-title="España 2",AXN opc. 2
+https://playlist.onlybest.tv/en/channel/9e18d4d6e4f56f48723f3d0ec5cfa94e/579/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/AXN_White_logo_%282015%29.svg/1200px-AXN_White_logo_%282015%29.svg.png",AXN White
-http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/609/index.m3u8
-#EXTINF:-1  group-title="España 2",AXN WHITE (Opc. 2)
-http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/609/index.m3u8
-#EXTINF:-1  group-title="España 2",AXN WHITE HD
-http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/609/index.m3u8
+https://playlist.onlybest.tv/en/channel/9e18d4d6e4f56f48723f3d0ec5cfa94e/609/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://dshm.tmsimg.com/h5/NowShowing/75423/s75423_h5_aa.png",FOX
-http://iptv-area-51.tv:2095/live/Jonathan/tvaL66sB28/7300.m3u8
+https://playlist.onlybest.tv/en/channel/9e18d4d6e4f56f48723f3d0ec5cfa94e/608/index.m3u8
 
 #EXTINF:-1  group-title="España 2",FOX LIFE
-http://iptv-area-51.tv:2095/live/Jonathan/tvaL66sB28/7299.m3u8
+https://playlist.onlybest.tv/en/channel/9e18d4d6e4f56f48723f3d0ec5cfa94e/601/index.m3u8
+#EXTINF:-1  group-title="España 2",FOX LIFE opc. 2
+https://playlist.onlybest.tv/en/channel/9e18d4d6e4f56f48723f3d0ec5cfa94e/567/index.m3u8
 
 #EXTINF:-1  group-title="España 2",DARK
 http://server.stablechannels.tv:25461/live/5RUTvfRf3/mD2fb0Y3z1/3367.m3u8
 
 #EXTINF:-1  group-title="España 2",HOLLYWOOD HD
-http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/577/index.m3u8
-#EXTINF:-1 tvg-logo="https://ulango.tv/uploads/channels/11151/logo_canal%20hollywood3.png",Hollywood HD (Opc. 2)
-http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/577/index.m3u8
+https://playlist.onlybest.tv/en/channel/9e18d4d6e4f56f48723f3d0ec5cfa94e/577/index.m3u8
 
 #EXTINF:-1  group-title="España 2",TNT
 http://iptv-area-51.tv:2095/live/Jonathan/tvaL66sB28/7253.m3u8
@@ -292,7 +283,7 @@ http://pro213.com:80/live/gonzalezcarvallo332/2sq0tn/2429.m3u8
 http://mypanel.tv:8080/live/berto/berto/7232.m3u8
 
 #EXTINF:-1  group-title="España 2",IBERALIA TV
-https://input2.fractalmedia.es/hls/iberaliatv.m3u8
+https://playlist.onlybest.tv/en/channel/9e18d4d6e4f56f48723f3d0ec5cfa94e/603/index.m3u8
 
 #EXTINF:-1  group-title="España 2",TOROS
 http://tv.latintvweb.com:8000/live/carmen/carmen/23657.m3u8
@@ -327,10 +318,10 @@ http://playlist.onlybest.tv/en/channel/2874e3a9397ce975e8463c76533bcb1e/566/inde
 #EXTINF:-1,Bein Sports Opción 4
 http://lamasu.dragontvapp.com/live/beinsportesp/index.m3u8
 #EXTINF:0,Bein Sports Ñ
-http://tv.latintvweb.com:8000/live/carmen/carmen/11609.m3u8
+http://192.99.18.65:8000/live/marcelino/marcelino/530.m3u8
 
 #EXTINF:-1,Bein LaLiga opción 1
-http://playlist.onlybest.tv/ru/channel/6c53126176d7d597cbe6ffbb0c5fbf49/574/index.m3u8
+https://playlist.onlybest.tv/en/channel/9e18d4d6e4f56f48723f3d0ec5cfa94e/575/index.m3u8
 #EXTINF:-1,Bein LaLiga opción 2
 http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/574/index.m3u8
 #EXTINF:-1 ,group-title="MOVISTAR+" tvg-logo="http://www.movistarplus.es/recorte/m-NEO/guiapc/BELIG1.png", Bein LaLiga opción 3
@@ -355,7 +346,7 @@ http://playlist.onlybest.tv/ru/channel/6c53126176d7d597cbe6ffbb0c5fbf49/575/inde
 http://190.92.0.43:1935/securelive/tdtv85jd5EKL3xWq3/chunklist_w1241310319.m3u8
 
 #EXTINF:-1,laligatv
-http://playlist.onlybest.tv/ru/channel/6c53126176d7d597cbe6ffbb0c5fbf49/581/index.m3u8
+https://playlist.onlybest.tv/en/channel/9e18d4d6e4f56f48723f3d0ec5cfa94e/581/index.m3u8
 #EXTINF:-1 ,group-title="MOVISTAR+" tvg-logo="http://www.movistarplus.es/recorte/m-NEO/guiapc/BELIG1.png", LA LIGA TV (Opc. 2)
 http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/581/index.m3u8
 
@@ -413,7 +404,7 @@ http://server.stablechannels.tv:25461/live/5RUTvfRf3/mD2fb0Y3z1/3371.m3u8
 http://pro213.com:80/live/gonzalezcarvallo332/2sq0tn/8828.m3u8
 
 #EXTINF:-1 ,group-title="MOVISTAR+" tvg-logo="http://www.movistarplus.es/recorte/m-NEO/guiapc/GOLF+.png", MOVISTAR GOLF
-http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/569/index.m3u8
+https://playlist.onlybest.tv/en/channel/9e18d4d6e4f56f48723f3d0ec5cfa94e/569/index.m3u8
 
 #EXTINF:-1  group-title="España 2",TELEDEPORTE HD
 http://10gbs.edgelink.ovh:8000/live/dosdispositivos/smartv.kodi/3329.m3u8
@@ -466,7 +457,7 @@ http://tv.latintvweb.com:8000/live/carmen/carmen/15078.m3u8
 #EXTINF:-1,ESPN MEX [HD]
 http://tv.latintvweb.com:8000/live/carmen/carmen/34307.m3u8
 #EXTINF:0,ESPN 2
-http://tv.latintvweb.com:8000/live/carmen/carmen/31527.m3u8
+http://192.99.18.65:8000/live/marcelino/marcelino/1048.m3u8
 #EXTINF:0,ESPN 2
 http://tv.latintvweb.com:8000/live/carmen/carmen/15077.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Jt9TnsK.jpg" group-title="DEPORTES", ESPN 2 HD
@@ -474,7 +465,7 @@ http://tv.latintvweb.com:8000/live/carmen/carmen/82069.m3u8
 #EXTINF:-1,ESPN 2 MEX [HD]
 http://tv.latintvweb.com:8000/live/carmen/carmen/34306.m3u8
 #EXTINF:0,ESPN 3
-http://tv.latintvweb.com:8000/live/carmen/carmen/82072.m3u8
+http://192.99.18.65:8000/live/marcelino/marcelino/1049.m3u8
 #EXTINF:0,ESPN 3
 http://tv.latintvweb.com:8000/live/carmen/carmen/15076.m3u8
 #EXTINF:-1,ESPN 3 MEX [HD]
@@ -496,15 +487,15 @@ http://198.255.114.218:8000/live/ez9RrBt05e/czfUqk5epQ/4157.m3u8
 http://80.80.160.168/live/6/live.m3u8
 
 #EXTINF:-1 tvg-logo="https://imagenes.cablevisionfibertel.com.ar:7007/servlet/cv/223.png", Fox Sports
-http://tv.latintvweb.com:8000/live/carmen/carmen/31526.m3u8
+http://192.99.18.65:8000/live/marcelino/marcelino/1043.m3u8
 #EXTINF:0,Fox Sports 1 (Arg)
 http://tv.latintvweb.com:8000/live/carmen/carmen/29848.m3u8
 #EXTINF:0,Fox Sports 1
 http://server.stablechannels.tv:25461/live/5RUTvfRf3/mD2fb0Y3z1/3598.m3u8
 
-#EXTINF:-1 tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/8/8e/Fox_Sports_2.png/revision/20160413221614" group-title="Deportes",F0X SPORTS 2
-http://tv.latintvweb.com:8000/live/carmen/carmen/23960.m3u8
-#EXTINF:-1 tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/8/8e/Fox_Sports_2.png/revision/20160413221614" group-title="Deportes",F0X SPORTS 2
+#EXTINF:-1 tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/8/8e/Fox_Sports_2.png/revision/20160413221614",F0X SPORTS 2
+http://192.99.18.65:8000/live/marcelino/marcelino/1044.m3u8
+#EXTINF:-1 tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/8/8e/Fox_Sports_2.png/revision/20160413221614",F0X SPORTS 2
 http://tv.latintvweb.com:8000/live/carmen/carmen/23809.m3u8
 #EXTINF:0,Fox Sports 2 (Arg)
 http://tv.latintvweb.com:8000/live/carmen/carmen/23961.m3u8
@@ -588,10 +579,13 @@ http://primestreams.tv:826/live/Rocky01/Rocky01/1492.m3u8
 http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/725/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.cbcsport.tv/upload/img/live.png" group-title="DEPORTES 2",CBC Sport
 http://s69362.cdn.ngenix.net/live/_definst_/Stream1/chunklist.m3u8
+
 #EXTINF:-1,ESPN (ENG)
 http://cshms3.airtel.tv/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221225805/01.m3u8
 #EXTINF:0,Sony ESPN
 http://144.217.64.126:8080/live/coke123/coke123/53656.m3u8
+#EXTINF:0,Sony ESPN (opc. 2)
+http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226076/index.m3u8
 
 #EXTINF:-1,ARG-TyC Sports [720]
 http://tv.latintvweb.com:8000/live/carmen/carmen/35797.m3u8
@@ -730,10 +724,14 @@ http://s69362.cdn.ngenix.net/live/_definst_/Stream1/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/612493747410989056/-bAKXu6G_400x400.jpg" group-title="DEPORTES",MLB Network
 http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8?
+
 #EXTINF:-1, FIGHT NETWORK
 http://righttv.ddns.net:25461/live/trial30/trial30/11261.m3u8
 #EXTINF:0 type="favorites" channelId="2808", FightBox HD
-http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/900/index.m3u8
+https://playlist.onlybest.tv/en/channel/9e18d4d6e4f56f48723f3d0ec5cfa94e/900/index.m3u8
+#EXTINF:-1 tvg-logo="http://fight-time.com/wp-content/uploads/2017/03/Fight-Time-Logo-Transparente-g.png" group-title="DEPORTES" ,Fight Time
+http://109.232.71.249/stream/stream_fighttime/fighttimehd.m3u8?xtreamiptv.m3u8
+
 #EXTINF:-1  group-title="España 2",Red Bull Tv HD
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8?xtreamiptv.m3u8
 #EXTINF:0,Extreme Sports Channel opc. 1
