@@ -14,13 +14,15 @@ http://iptv-area-51.tv:2095/live/Jonathan/tvaL66sB28/7248.m3u8
 http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl0/irtve01_lv3_aosv4_gl0/irtve01_lv3_aosv4_gl0.isml/irtve01_lv3_aosv4_gl0-audio=128000-video=400000.m3u8
 #EXTINF:-1,24 HORAS opc. 2
 http://hlsliveamdgl8-lh.akamaihd.net/i/hlsdvrlive_1@583030/master.m3u8
+#EXTINF:-1, CLAN  TVE
+http://195.154.151.89:8000/live/PROFESSIONAL/PROFESSIONAL1/8013.m3u8
 
 #EXTINF:-1,ANTENA 3
 https://playlist.onlybest.tv/en/channel/9e18d4d6e4f56f48723f3d0ec5cfa94e/615/index.m3u8
 #EXTINF:-1,Antena 3 [HD]
 http://playlist.onlybest.tv/ru/channel/57130b963cf73960c05f8ec9eb7db0e9/615/index.m3u8
 #EXTINF:-1,NEOX
-http://iptv-area-51.tv:2095/live/Jonathan/tvaL66sB28/7277.m3u8
+http://195.154.151.89:8000/live/PROFESSIONAL/PROFESSIONAL1/8595.m3u8
 #EXTINF:-1,NOVA
 https://playlist.onlybest.tv/en/channel/9e18d4d6e4f56f48723f3d0ec5cfa94e/602/index.m3u8
 #EXTINF:-1,Antena 3 Series [HD]
@@ -243,7 +245,7 @@ http://tv.latintvweb.com:8000/live/carmen/carmen/23625.m3u8
 #EXTINF:-1  group-title="España 2",DISNEY XD
 http://10gbs.edgelink.ovh:8000/live/dosdispositivos/smartv.kodi/154.m3u8
 #EXTINF:-1  group-title="España 2",DISNEY JR
-http://iptv-area-51.tv:2095/live/Jonathan/tvaL66sB28/7305.m3u8
+http://playlist.onlybest.tv/ru/channel/6c53126176d7d597cbe6ffbb0c5fbf49/604/index.m3u8
 
 #EXTINF:-1,ES: NICKELODEON HD
 http://tv.latintvweb.com:8000/live/carmen/carmen/23636.m3u8
@@ -790,15 +792,41 @@ http://sagi.typepad.com/treding_the_vc_waters/Picture1_1.jpg
 #EXTINF:-1,EuroNews FR
 http://playlist.onlybest.tv/en/channel/7abc2d60a8eb9f7041451a3c8ab4d75a/684/index.m3u8
 
-#EXTINF:0,Bloomberg TV Europe (UK)
-http://cdn-videos.akamaized.net/btv/desktop/akamai/europe/live/primary.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5Nd9z70.png" group-title="NOTICIAS",Bloomberg TV US HD
-http://tvpremiumhd.club/lista-gratuita/215416/tv/iptv.php?id=liveproduseast.global.ssl.fastly.net/btv/desktop/us_live
+#EXTINF:0,#EXTINF:-1, ABC NEWS
+http://abclive.abcnews.com/i/abc_live4@136330/master.m3u8
+
+#EXTINF:-1,BBC
+https://ovh.easyview.eu/hls/bbc1.m3u8
+#EXTINF:-1,BBC News
+https://ovh.easyview.eu/hls/bbcnews.m3u8
+#EXTINF:-1,BBC World News
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/145/index.m3u8 
+
+#EXTINF:0, CBS News
+http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/index_700_av-p.m3u8
+#EXTINF:-1,CBS NEWS
+http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/index_2200_av-p.m3u8
+#EXTINF:-1 tvg-name="CBS News" tvg-logo="https://i.imgur.com/HoMBdRo.png" group-title="USA",CBS News
+http://tvpremiumhd.club/lista-gratuita/215416/cbsnews.m3u8
+
+#EXTINF:-1,CNN International Europe
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/102/index.m3u8
+
+#EXTINF:-1,CNBC Europe
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/340/index.m3u8
+
+#EXTINF:0,USA | FOX News HD
+http://server.stablechannels.tv:25461/live/5RUTvfRf3/mD2fb0Y3z1/3110.m3u8
 
 #EXTINF:0,Sky News
 http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/04.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uy91U7w.png" group-title="NOTICIAS",Sky News HD
-http://tvpremiumhd.club/lista-gratuita/215416/tv/iptv.php?id=skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/07
+http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/05.m3u8
+
+#EXTINF:0,Bloomberg TV Europe (UK)
+http://cdn-videos.akamaized.net/btv/desktop/akamai/europe/live/primary.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5Nd9z70.png" group-title="NOTICIAS",Bloomberg TV US HD
+http://tvpremiumhd.club/lista-gratuita/215416/tv/iptv.php?id=liveproduseast.global.ssl.fastly.net/btv/desktop/us_live
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Sky TG24
 http://skyianywhere2-i.akamaihd.net/hls/live/200275/tg24/playlist.m3u8
@@ -809,11 +837,6 @@ http://tvpremiumhd.club/lista-gratuita/215416/tv/iptv.php?id=secure-streams.akam
 http://tvpremiumhd.club/lista-gratuita/215416/tv/iptv.php?id=secure-streams.akamaized.net/rt-uk/index
 #EXTINF:0,RT UK
 https://secure-streams.akamaized.net/rt-uk/index.m3u8
-
-#EXTINF:0, CBS
-http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/index_700_av-p.m3u8
-#EXTINF:-1 tvg-name="CBS News" tvg-logo="https://i.imgur.com/HoMBdRo.png" group-title="USA",CBS News
-http://tvpremiumhd.club/lista-gratuita/215416/cbsnews.m3u8
 
 #EXTINF:0, itv
 https://ovh.easyview.eu/hls/itv.m3u8
@@ -835,30 +858,10 @@ https://ovh.easyview.eu/hls/itv4.m3u8
 #EXTINF:0, London Live HD
 http://bcoveliveios-i.akamaihd.net/hls/live/217434/3083279840001/master.m3u8
 
-#EXTINF:-1,CNN International Europe
-http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/102/index.m3u8
-
-#EXTINF:-1,CNBC Europe
-http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/340/index.m3u8
-
 #EXTINF:-1,France24 (FRA)
 http://static.france24.com/live/F24_FR_LO_HLS/live_web.m3u8
 #EXTINF:-1,France24 (ENG)
 http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
-
-#EXTINF:0,USA | FOX News HD
-http://server.stablechannels.tv:25461/live/5RUTvfRf3/mD2fb0Y3z1/3110.m3u8
-#EXTINF:0,USA | ABC News HD
-http://abclive.abcnews.com/i/abc_live4@136330/master.m3u8
-#EXTINF:-1,CBS NEWS
-http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/index_2200_av-p.m3u8
-
-#EXTINF:-1,BBC
-https://ovh.easyview.eu/hls/bbc1.m3u8
-#EXTINF:-1,BBC News
-https://ovh.easyview.eu/hls/bbcnews.m3u8
-#EXTINF:-1,BBC World News
-http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/145/index.m3u8  
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xFSBik0.png" group-title="NOTICIAS", The Weather Channel | HD
 http://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
