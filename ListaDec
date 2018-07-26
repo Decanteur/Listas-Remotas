@@ -158,6 +158,8 @@ https://playlist.onlybest.tv/en/channel/9e18d4d6e4f56f48723f3d0ec5cfa94e/580/ind
 
 #EXTINF:-1 tvg-logo="", Movistar Dcine
 https://playlist.onlybest.tv/en/channel/9e18d4d6e4f56f48723f3d0ec5cfa94e/607/index.m3u8
+#EXTINF:-1 tvg-logo="", Movistar Dcine opc. 2
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/607/index.m3u8
 
 #EXTINF:-1,MOVISTAR DISNEY
 http://xxedge262.livesports.pw/live/vermdisney4fe56a2fafa38ae9670f/chunklist.m3u8?md5=1lPXYhC5_jDEV3y79mTUNw&expires=1522521527
@@ -327,14 +329,18 @@ https://playlist.onlybest.tv/en/channel/9e18d4d6e4f56f48723f3d0ec5cfa94e/574/ind
 #EXTINF:-1 ,group-title="MOVISTAR+" tvg-logo="http://www.movistarplus.es/recorte/m-NEO/guiapc/BELIG1.png", Bein LaLiga opción 3
 http://playlist.onlybest.tv/en/channel/1cd9443da6d218d341f44c6da6ba783b/443/index.m3u8
 #EXTINF:-1,Bein LaLiga opción 4
-http://playlist.onlybest.tv/en/channel/3dfec4b56a6fbb4052ceb76274060617/581/index.m3u8
+http://playlist.onlybest.tv/ru/channel/6c53126176d7d597cbe6ffbb0c5fbf49/574/index.m3u8
 #EXTINF:-1,Bein LaLiga opción 5
 http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/574/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fUKODzu.png" group-title="DEPORTES", Movistar Futbol
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fUKODzu.png" group-title="DEPORTES", Movistar Fútbol
 https://playlist.onlybest.tv/en/channel/9e18d4d6e4f56f48723f3d0ec5cfa94e/575/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fUKODzu.png" group-title="DEPORTES", Movistar Futbol opc. 2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fUKODzu.png" group-title="DEPORTES", Movistar Fútbol opc. 2
 http://playlist.onlybest.tv/en/channel/1cd9443da6d218d341f44c6da6ba783b/448/index.m3u8
+#EXTINF:-1,Movistar Fútbol opc. 3
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/575/index.m3u8
+#EXTINF:-1,Movistar Fútbol opc. 4
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/575/index.m3u8
 
 #EXTINF:-1,MOVISTAR TODO DEPORTES
 http://190.92.0.43:1935/securelive/tdtv85jd5EKL3xWq3/chunklist_w1241310319.m3u8
@@ -343,6 +349,12 @@ http://190.92.0.43:1935/securelive/tdtv85jd5EKL3xWq3/chunklist_w1241310319.m3u8
 https://playlist.onlybest.tv/en/channel/9e18d4d6e4f56f48723f3d0ec5cfa94e/581/index.m3u8
 #EXTINF:-1 ,group-title="MOVISTAR+" tvg-logo="http://www.movistarplus.es/recorte/m-NEO/guiapc/BELIG1.png", LA LIGA TV (Opc. 2)
 http://playlist.onlybest.tv/en/channel/1cd9443da6d218d341f44c6da6ba783b/444/index.m3u8
+#EXTINF:-1 ,group-title="MOVISTAR+" tvg-logo="http://www.movistarplus.es/recorte/m-NEO/guiapc/BELIG1.png", LA LIGA TV (Opc. 3)
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/581/index.m3u8
+#EXTINF:-1 ,group-title="MOVISTAR+" tvg-logo="http://www.movistarplus.es/recorte/m-NEO/guiapc/BELIG1.png", LA LIGA TV (Opc. 4)
+http://playlist.onlybest.tv/ru/channel/6c53126176d7d597cbe6ffbb0c5fbf49/581/index.m3u8
+#EXTINF:-1 ,group-title="MOVISTAR+" tvg-logo="http://www.movistarplus.es/recorte/m-NEO/guiapc/BELIG1.png", LA LIGA TV (Opc. 5)
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/581/index.m3u8
 
 #EXTINF:0,ES: La Liga TV BAR SD
 http://playlist.onlybest.tv/ru/channel/d0f21a70397d3659fe259aa5e2a62107/581/index.m3u8
@@ -373,8 +385,6 @@ http://playlist.onlybest.tv/ru/channel/6c53126176d7d597cbe6ffbb0c5fbf49/612/inde
 http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/612/index.m3u8
 #EXTINF:-1,M+ Formula 1 HD opc. 5
 http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/612/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="DEPORTES",FORMULA 1 opción 6
-http://playlist.onlybest.tv/ru/channel/6c53126176d7d597cbe6ffbb0c5fbf49/612/index.m3u8
 
 #EXTINF:-1,SKY Sport F1
 http://tv.latintvweb.com:8000/live/carmen/carmen/16601.m3u8
@@ -776,6 +786,9 @@ http://cshms4.airtel.tv/PLTV/88888888/224/3221226392/06.m3u8
 
 #EXTINF:-1,***EXTRANJERAS***
 http://sagi.typepad.com/treding_the_vc_waters/Picture1_1.jpg
+
+#EXTINF:-1,EuroNews FR
+http://playlist.onlybest.tv/en/channel/7abc2d60a8eb9f7041451a3c8ab4d75a/684/index.m3u8
 
 #EXTINF:0,Bloomberg TV Europe (UK)
 http://cdn-videos.akamaized.net/btv/desktop/akamai/europe/live/primary.m3u8
