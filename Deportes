@@ -1,0 +1,474 @@
+#EXTM3U
+
+#EXTINF:-1,***DEPORTES***
+http://sagi.typepad.com/treding_the_vc_waters/Picture1_1.jpg
+
+#EXTINF:-1,BEIN SPORTS
+http://playlist.onlybest.tv/en/channel/2874e3a9397ce975e8463c76533bcb1e/566/index.m3u8
+#EXTINF:-1,beIN Sports Opción 2
+http://pro213.com:80/live/gonzalezcarvallo332/2sq0tn/8832.m3u8
+
+#EXTINF:0,Bein Sports Ñ
+http://192.99.18.65:8000/live/marcelino/marcelino/530.m3u8
+
+#EXTINF:-1,Bein LaLiga opción 1
+https://playlist.onlybest.tv/en/channel/9e18d4d6e4f56f48723f3d0ec5cfa94e/575/index.m3u8
+#EXTINF:-1,Bein LaLiga opción 2
+https://playlist.onlybest.tv/en/channel/9e18d4d6e4f56f48723f3d0ec5cfa94e/574/index.m3u8
+#EXTINF:-1 ,group-title="MOVISTAR+" tvg-logo="http://www.movistarplus.es/recorte/m-NEO/guiapc/BELIG1.png", Bein LaLiga opción 3
+http://playlist.onlybest.tv/en/channel/1cd9443da6d218d341f44c6da6ba783b/443/index.m3u8
+#EXTINF:-1,Bein LaLiga opción 4
+http://playlist.onlybest.tv/ru/channel/6c53126176d7d597cbe6ffbb0c5fbf49/574/index.m3u8
+#EXTINF:-1,Bein LaLiga opción 5
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/574/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fUKODzu.png" group-title="DEPORTES", Movistar Fútbol
+https://playlist.onlybest.tv/en/channel/9e18d4d6e4f56f48723f3d0ec5cfa94e/575/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fUKODzu.png" group-title="DEPORTES", Movistar Fútbol opc. 2
+http://playlist.onlybest.tv/en/channel/1cd9443da6d218d341f44c6da6ba783b/448/index.m3u8
+#EXTINF:-1,Movistar Fútbol opc. 3
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/575/index.m3u8
+#EXTINF:-1,Movistar Fútbol opc. 4
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/575/index.m3u8
+#EXTINF:-1,MOVISTAR FUTBOL HD opc. 5
+http://live.tvplayerlatino.com/usuarios/src5/MoviFutbol/Saul.Rangel/MiT.m3u8
+
+#EXTINF:-1,MOVISTAR TODO DEPORTES
+http://190.92.0.43:1935/securelive/tdtv85jd5EKL3xWq3/chunklist_w1241310319.m3u8
+
+#EXTINF:-1,laligatv
+https://playlist.onlybest.tv/en/channel/9e18d4d6e4f56f48723f3d0ec5cfa94e/581/index.m3u8
+#EXTINF:-1 ,group-title="MOVISTAR+" tvg-logo="http://www.movistarplus.es/recorte/m-NEO/guiapc/BELIG1.png", LA LIGA TV (Opc. 2)
+http://playlist.onlybest.tv/en/channel/1cd9443da6d218d341f44c6da6ba783b/444/index.m3u8
+#EXTINF:-1 ,group-title="MOVISTAR+" tvg-logo="http://www.movistarplus.es/recorte/m-NEO/guiapc/BELIG1.png", LA LIGA TV (Opc. 3)
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/581/index.m3u8
+#EXTINF:-1 ,group-title="MOVISTAR+" tvg-logo="http://www.movistarplus.es/recorte/m-NEO/guiapc/BELIG1.png", LA LIGA TV (Opc. 4)
+http://playlist.onlybest.tv/ru/channel/6c53126176d7d597cbe6ffbb0c5fbf49/581/index.m3u8
+#EXTINF:-1 ,group-title="MOVISTAR+" tvg-logo="http://www.movistarplus.es/recorte/m-NEO/guiapc/BELIG1.png", LA LIGA TV (Opc. 5)
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/581/index.m3u8
+
+#EXTINF:0,ES: La Liga TV BAR SD
+http://playlist.onlybest.tv/en/channel/3dfec4b56a6fbb4052ceb76274060617/581/index.m3u8
+#EXTINF:0,LaLiga TV Bar HD
+http://playlist.onlybest.tv/ru/channel/d0f21a70397d3659fe259aa5e2a62107/581/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://cinealplay.com/assets/images/espana/movistar-motogp.png", M+ MotoGP opc. 1
+https://playlist.onlybest.tv/en/channel/9e18d4d6e4f56f48723f3d0ec5cfa94e/613/index.m3u8
+#EXTINF:-1,M.MOTOGP Opc. 2
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/613/index.m3u8
+#EXTINF:-1,M+ MotoGP HD Opc. 3
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/613/index.m3u8
+#EXTINF:-1,M+ MotoGP HD Opc. 4
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/613/index.m3u8
+
+#EXTINF:-1,MOTOGP LIVE 1
+http://primestreams.tv:826/live/Rocky01/Rocky01/35101.m3u8
+#EXTINF:-1,MOTOGP LIVE 3
+http://primestreams.tv:826/live/Rocky01/Rocky01/35100.m3u8
+
+#EXTINF:-1,Formula 1
+https://playlist.onlybest.tv/en/channel/9e18d4d6e4f56f48723f3d0ec5cfa94e/612/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.andorratelecom.ad/documents/33347/112493/movistar+formula+1-01.png/9492b402-dda4-b2b5-469f-bd831294680f?t=1487255283758", M+ Formula 1 HD (Opc. 2)
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/612/index.m3u8
+#EXTINF:-1,M.FORMULA 1 Opc. 3
+http://playlist.onlybest.tv/ru/channel/6c53126176d7d597cbe6ffbb0c5fbf49/612/index.m3u8
+#EXTINF:-1 ,group-title="MOVISTAR+" tvg-logo="http://www.movistarplus.es/recorte/m-NEO/guiapc/MVF1.png", MOVISTAR FORMULA 1 opc. 4
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/612/index.m3u8
+#EXTINF:-1,M+ Formula 1 HD opc. 5
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/612/index.m3u8
+
+#EXTINF:-1,SKY Sport F1
+http://tv.latintvweb.com:8000/live/carmen/carmen/16601.m3u8
+#EXTINF:-1,SKY Sport F1 opc. 2
+http://primestreams.tv:826/live/Rocky01/Rocky01/1532.m3u8
+
+#EXTINF:0,ES: Movistar  Partidazo SD (Solo eventos)
+http://server.stablechannels.tv:25461/live/5RUTvfRf3/mD2fb0Y3z1/3374.m3u8
+#EXTINF:0,Movistar Partidazo opc. 2
+http://pro213.com:80/live/gonzalezcarvallo332/2sq0tn/8833.m3u8
+#EXTINF:0,Movistar Partidazo opc. 3
+https://pegasus.listasdf.com/live/partidazo/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/c/c3/MovistarDeportes1.png/revision/latest?cb=20160818140254" group-title="ESPANHA",MOVISTAR DEPORTES 1
+http://server.stablechannels.tv:25461/live/5RUTvfRf3/mD2fb0Y3z1/3372.m3u8
+#EXTINF:-1  group-title="España 2",Movistar Deportes 1 opc. 2
+http://pro213.com:80/live/gonzalezcarvallo332/2sq0tn/8827.m3u8
+#EXTINF:-1,Movistar Deportes 2
+http://server.stablechannels.tv:25461/live/5RUTvfRf3/mD2fb0Y3z1/3371.m3u8
+#EXTINF:-1,Movistar Deportes 2 opc. 2
+http://pro213.com:80/live/gonzalezcarvallo332/2sq0tn/8828.m3u8
+
+#EXTINF:-1 ,group-title="MOVISTAR+" tvg-logo="http://www.movistarplus.es/recorte/m-NEO/guiapc/GOLF+.png", MOVISTAR GOLF
+https://playlist.onlybest.tv/en/channel/9e18d4d6e4f56f48723f3d0ec5cfa94e/569/index.m3u8
+
+#EXTINF:-1  group-title="España 2",TELEDEPORTE HD
+http://10gbs.edgelink.ovh:8000/live/dosdispositivos/smartv.kodi/3329.m3u8
+
+#EXTINF:-1  group-title="España 2",GOL TV
+http://tv.latintvweb.com:8000/live/carmen/carmen/23619.m3u8
+
+#EXTINF:-1  group-title="España 2",EUROSPORT 1
+http://65.254.55.10:4000/live/197/197.m3u8
+#EXTINF:-1  group-title="España 2",EUROSPORT 1 HD
+http://65.254.55.10:4000/live/197/197.m3u8
+#EXTINF:-1  group-title="España 2",EUROSPORT 2
+http://tv.latintvweb.com:8000/live/carmen/carmen/23616.m3u8
+#EXTINF:-1  group-title="España 2",Eurosport 2 HD
+http://10gbs.edgelink.ovh:8000/live/dosdispositivos/smartv.kodi/3330.m3u8
+
+#EXTINF:-1,Eurosport 1 (ENG)
+https://playlist.onlybest.tv/en/channel/9e18d4d6e4f56f48723f3d0ec5cfa94e/160/index.m3u8
+#EXTINF:-1,Eurosport 2 (ENG)
+http://playlist.onlybest.tv/en/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/78/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES",EuroSport 1 De
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/682/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES",EuroSport 2 De
+http://playlist.onlybest.tv/en/channel/3dfec4b56a6fbb4052ceb76274060617/471/index.m3u8
+#EXTINF:-1, tvg-logo="jPW4CkF.png" group-title="",Eurosport 1 It
+http://65.254.55.10:4000/live/197/197.m3u8
+#EXTINF:-1,Eurosport 1 RU
+http://playlist.onlybest.tv/en/channel/3dfec4b56a6fbb4052ceb76274060617/159/index.m3u8
+#EXTINF:-1,Eurosport 2 RU
+https://playlist.onlybest.tv/en/channel/9e18d4d6e4f56f48723f3d0ec5cfa94e/78/index.m3u8
+
+#EXTINF:-1,SKY Sports Main Event (EN)
+http://cdnv.cli.tn/iptv/ch914?code=610116485444847
+#EXTINF:-1,SKY Sports Football (EN)
+http://cdnv.cli.tn/iptv/ch922?code=610116485444847
+#EXTINF:0,SKY SPORTS Action (EN)
+http://cdnv.cli.tn/iptv/ch915?code=610116485444847
+#EXTINF:0,SKY SPORT Premier League (EN)
+http://cdnv.cli.tn/iptv/ch937?code=610116485444847
+#EXTINF:-1,SKY Sport Golf (EN)
+http://cdnv.cli.tn/iptv/ch916?code=610116485444847
+#EXTINF:-1,SKY Sports Arena (EN)
+http://62.210.99.158:80/live?channelId=121&uid=4486&deviceSn=12cd5a8b567fd9c1
+#EXTINF:-1,SKY Sports Arena opc. 2 (EN)
+http://31.220.0.196:8081/live/ctvs4/playlist.m3u8
+
+#EXTINF:-1,Sky Sport Uno (IT)
+http://iptvhit.com/plus/it/play?369a
+#EXTINF:-1,Sky Sport Football (IT)
+http://iptvhit.com/plus/it/play?41a
+#EXTINF:-1,Sky Sport Arena (IT)
+http://iptvhit.com/plus/it/play?40a
+#EXTINF:-1,Sky Sport Serie A (IT)
+http://iptvhit.com/plus/it/play?359a
+#EXTINF:-1,Sky Sport 24 (IT)
+http://iptvhit.com/plus/it/play?43a
+#EXTINF:-1,Sky Sport F1 (IT)
+http://iptvhit.com/plus/it/play?365a
+
+#EXTINF:-1,SKY SPORTS MIX HD (USA)
+http://cdnv.cli.tn/iptv/ch931?code=610116485444847
+
+#EXTINF:-1,Match! Football 1
+http://playlist.onlybest.tv/en/channel/3dfec4b56a6fbb4052ceb76274060617/5/index.m3u8
+#EXTINF:-1,Match! Football 2
+http://playlist.onlybest.tv/en/channel/3dfec4b56a6fbb4052ceb76274060617/6/index.m3u8
+#EXTINF:-1,Match! Football 3
+http://playlist.onlybest.tv/en/channel/3dfec4b56a6fbb4052ceb76274060617/7/index.m3u8
+
+#EXTINF:-1, tvg-logo="http://onelike.tv/images/xsport.png" group-title="DEPORTES",XSport UA
+http://83.142.232.246:1935/live/efir_live720p/playlist.m3u8?xtreamiptv.m3u8
+
+#EXTINF:-1,Super Tennis HD
+http://playlist.onlybest.tv/en/channel/3dfec4b56a6fbb4052ceb76274060617/670/index.m3u8
+
+#EXTINF:-1, tvg-logo="" group-title="Deportes", FightTime
+http://109.232.71.249/stream/stream_fighttime/fighttimehd.m3u8
+
+#EXTINF:0,Todo Deportes TV
+http://190.92.0.43:1935/securelive/tdtv85jd5EKL3xWq3/chunklist_w1241310319.m3u8
+
+#EXTINF:0,DXTV DEPORTES opc. 1
+http://186.33.227.198/DXTV/smil:DXTV.smil/playlist.m3u8?tecnotv.info?iptv.m3u8
+#EXTINF:0,DXTV DEPORTES opc. 2
+http://186.33.227.198/DXTV/smil:DXTV.smil/playlist.m3u8
+
+#EXTINF:-1, ESPN Deportes opc. 1
+http://tv.latintvweb.com:8000/live/carmen/carmen/31528.m3u8
+#EXTINF:0,ESPN opc. 2
+http://tv.latintvweb.com:8000/live/carmen/carmen/82046.m3u8
+#EXTINF:-1,ESPN Deportes opc. 3
+http://tv.latintvweb.com:8000/live/carmen/carmen/15078.m3u8
+#EXTINF:-1,ESPN MEX [HD]
+http://tvpremiumhd.club/lista-gratuita/074719/tv/v/2084.ts
+#EXTINF:0,ESPN 2
+http://192.99.18.65:8000/live/marcelino/marcelino/1048.m3u8
+#EXTINF:0,ESPN 2
+http://tvpremiumhd.club/lista-gratuita/074719/tv/v/1785.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Jt9TnsK.jpg" group-title="DEPORTES", ESPN 2 HD
+http://tv.latintvweb.com:8000/live/carmen/carmen/82069.m3u8
+#EXTINF:-1,ESPN 2 MEX [HD]
+http://tv.latintvweb.com:8000/live/carmen/carmen/34306.m3u8
+#EXTINF:0,ESPN 3
+http://192.99.18.65:8000/live/marcelino/marcelino/1049.m3u8
+#EXTINF:0,ESPN 3
+http://tv.latintvweb.com:8000/live/carmen/carmen/15076.m3u8
+#EXTINF:-1,ESPN 3 MEX [HD]
+http://tv.latintvweb.com:8000/live/carmen/carmen/34305.m3u8
+#EXTINF:0,ESPN Plus
+http://tvpremiumhd.club/lista-gratuita/074719/tv/v/1786.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lzIdgGe.jpg" group-title="DEPORTES", ESPN + HD opc 2
+http://tvpremiumhd.club/lista-gratuita/074719/tv/v/2096.ts
+#EXTINF:-1,ESPN PLUS MEX [HD]
+http://tv.latintvweb.com:8000/live/carmen/carmen/34303.m3u8
+#EXTINF:-1,ESPN NETWORK [HD]
+http://tv.latintvweb.com:8000/live/carmen/carmen/34304.m3u8
+
+#EXTINF:0,ESPN (ENG)
+#EXTVLCOPT:network-caching=1000
+http://198.255.114.218:8000/live/ez9RrBt05e/czfUqk5epQ/4157.m3u8
+#EXTINF:0,ESPN Plus (ENG)
+#EXTVLCOPT:network-caching=1000
+http://198.255.114.218:8000/live/ez9RrBt05e/czfUqk5epQ/4156.m3u8
+
+#EXTINF:-1 tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg",ESPN (BRA)
+https://dpmia01.gcdn.co/c001/myStream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg",ESPN+ (BRA)
+https://dpmia01.gcdn.co/c003/myStream/playlist.m3u8
+
+#EXTINF:-1, ESPN HD USA
+http://80.80.160.168/live/6/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://imagenes.cablevisionfibertel.com.ar:7007/servlet/cv/223.png", Fox Sports
+http://192.99.18.65:8000/live/marcelino/marcelino/1043.m3u8
+#EXTINF:0,Fox Sports 1 (Arg)
+http://tv.latintvweb.com:8000/live/carmen/carmen/31526.m3u8
+#EXTINF:0,Fox Sports 1
+http://server.stablechannels.tv:25461/live/5RUTvfRf3/mD2fb0Y3z1/3598.m3u8
+
+#EXTINF:-1 tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/8/8e/Fox_Sports_2.png/revision/20160413221614",F0X SPORTS 2
+http://192.99.18.65:8000/live/marcelino/marcelino/1044.m3u8
+#EXTINF:-1 tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/8/8e/Fox_Sports_2.png/revision/20160413221614",F0X SPORTS 2
+http://tv.latintvweb.com:8000/live/carmen/carmen/23809.m3u8
+#EXTINF:0,Fox Sports 2 (Arg)
+http://tv.latintvweb.com:8000/live/carmen/carmen/23961.m3u8
+#EXTINF:0,Fox Sports 3
+http://tvpremiumhd.club/lista-gratuita/074719/tv/v/2121.ts
+#EXTINF:0,Fox Sports 3
+http://server.stablechannels.tv:25461/live/5RUTvfRf3/mD2fb0Y3z1/3596.m3u8
+#EXTINF:-0 tvg-logo="https://i.imgur.com/n62eZ1f.png" group-title="DEPORTES",FOX SPORTS 0 MX
+http://tvpremiumhd.club/lista-gratuita/japan/s986.m3u8
+#EXTINF:-0 tvg-logo="https://i.imgur.com/6PBLizD.png" group-title="DEPORTES",FOX SPORTS 2 MX
+http://tvpremiumhd.club/lista-gratuita/japan/s987.m3u8
+#EXTINF:0,Fox Sports 1 HD (Chile)
+http://server.stablechannels.tv:25461/live/5RUTvfRf3/mD2fb0Y3z1/2922.m3u8
+#EXTINF:0,Fox Sports 3 HD (Chile)
+http://server.stablechannels.tv:25461/live/5RUTvfRf3/mD2fb0Y3z1/2924.m3u8
+
+#EXTINF:0,Fox Sports (BRA)
+https://dpmia01.gcdn.co/039/myStream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg",FOX SPORTS 2 (BRA)
+https://dpmia01.gcdn.co/c009/myStream/playlist.m3u8
+
+#EXTINF:-1,Fox Sports Premiun [720]
+http://tv.latintvweb.com:8000/live/carmen/carmen/34883.m3u8
+#EXTINF:-1,ARG-FOX SPORT PREMIUM
+http://tv.latintvweb.com:8000/live/carmen/carmen/15223.m3u8
+#EXTINF:-1,ARG-FOX SPORTS PREMIUM (OPC2)
+http://tv.latintvweb.com:8000/live/carmen/carmen/21954.m3u8
+
+#EXTINF:-1,ARG-TNT SPORT. [720]
+http://tv.latintvweb.com:8000/live/carmen/carmen/40192.m3u8
+#EXTINF:-1,ARG-TNT SPORTS HD
+http://tv.latintvweb.com:8000/live/carmen/carmen/15222.m3u8
+#EXTINF:-1,ARG-TNT SPORTS (opc2)
+http://tv.latintvweb.com:8000/live/carmen/carmen/21953.m3u8
+
+#EXTINF:-1,USA:BEIN ENGLISH HD
+http://tv.latintvweb.com:8000/live/carmen/carmen/11610.m3u8
+
+#EXTINF:0 type="favorites" channelId="2743", Sky Sport Bundesliga 1
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/725/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.cbcsport.tv/upload/img/live.png" group-title="DEPORTES 2",CBC Sport
+http://s69362.cdn.ngenix.net/live/_definst_/Stream1/chunklist.m3u8
+
+#EXTINF:-1,ESPN (ENG)
+http://cshms3.airtel.tv/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221225805/01.m3u8
+#EXTINF:0,Sony ESPN
+http://144.217.64.126:8080/live/coke123/coke123/53656.m3u8
+#EXTINF:0,Sony ESPN (opc. 2)
+http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226076/index.m3u8
+
+#EXTINF:-1,ARG-TyC Sports [720]
+http://tv.latintvweb.com:8000/live/carmen/carmen/35797.m3u8
+#EXTINF:-1,TYC SPORT HD
+http://tv.latintvweb.com:8000/live/carmen/carmen/11599.m3u8
+
+#EXTINF:-1,FIFA TV – MUNDIAL RUSIA 2018
+https://www.youtube.com/watch?v=SnXqL8IXbqs
+#EXTINF:-1,FIFA TV 2 – MUNDIAL RUSIA 2018
+https://www.youtube.com/watch?v=U4_33d1uL1E
+
+#EXTINF:-1,FIBA TV
+https://www.youtube.com/watch?v=ZxAnZnmpT-Q
+
+#EXTINF:-1,RED BULL TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8?xtreamiptv.m3u8
+
+#EXTINF:-1 group-title="Sport" tvg-logo="https://onlybest.tv/images/logo/extreme-sports-channel.jpg",Extreme Sports
+https://playlist.onlybest.tv/en/channel/9e18d4d6e4f56f48723f3d0ec5cfa94e/47/index.m3u8
+
+#EXTINF:-1,NeoSports
+http://cshms4.airtel.tv/PLTV/88888888/224/3221225791/01.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV1HD.png" tvg-id="sporttv1.pt" group-title="PORTUGAL",SPORT TV 1 HD
+http://sportsbar.pw/lba/ODg5ZjMyOGE0ZGJiNzZjN2YzNDA3Nzk5ZWE1NjE4NmY=/g1/SportTV1.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV2HD.png" tvg-id="sporttv2.pt" group-title="PORTUGAL",SPORT TV 2 HD
+http://sportsbar.pw/lba/MmI5ZTcxYThjNGY2NTZmODFhZGE2MzcxYzY4ZWZiOWE=/g7/Sport2PT.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV3HD.png" tvg-id="sporttv3.pt" group-title="PORTUGAL",SPORT TV 3 HD
+http://sportsbar.pw/lba/ODg5ZjMyOGE0ZGJiNzZjN2YzNDA3Nzk5ZWE1NjE4NmY=/g3/SportTV3.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV5HD.png" tvg-id="sporttv5.pt" group-title="PORTUGAL",SPORT TV 5 HD
+http://sportsbar.pw/lba/ODg5ZjMyOGE0ZGJiNzZjN2YzNDA3Nzk5ZWE1NjE4NmY=/g9/SportTV5.m3u8
+
+#EXTINF:-1,BT Sport 1
+http://cdnv.cli.tn/iptv/ch1828?code=610116485444847
+#EXTINF:-1,BT Sport 2
+http://cdnv.cli.tn/iptv/ch1829?code=610116485444847
+#EXTINF:-1,BT Sport 3
+http://cdnv.cli.tn/iptv/ch1830?code=610116485444847
+#EXTINF:-1,BT ESPN
+http://tv.latintvweb.com:8000/live/carmen/carmen/16539.m3u8
+#EXTINF:0,BT SPORT MOSAIC
+http://144.217.64.126:8080/live/coke123/coke123/21729.m3u8
+#EXTINF:0,BT SPORT EXTRA
+http://cdnv.cli.tn/iptv/ch1830?code=610116485444847
+
+#EXTINF:-1,FS 1
+http://primestreams.tv:826/live/Rocky01/Rocky01/35465.m3u8
+#EXTINF:-1,FS 2
+http://primestreams.tv:826/live/Rocky01/Rocky01/35466.m3u8
+
+#EXTINF:-1,SK 1 HD
+http://31.220.0.134:8081/live/sk1/playlist.m3u8
+#EXTINF:-1,SK2 HD
+http://31.220.0.134:8081/live/sk2/playlist.m3u8
+#EXTINF:-1,SK3 HD
+http://31.220.0.134:8081/live/sk1/playlist.m3u8
+
+#EXTINF:-1,TSN 1
+http://primestreams.tv:826/live/Rocky01/Rocky01/1621.m3u8
+#EXTINF:-1,TSN 2
+http://primestreams.tv:826/live/Rocky01/Rocky01/1622.m3u8
+#EXTINF:-1,TSN 3
+http://primestreams.tv:826/live/Rocky01/Rocky01/1623.m3u8
+#EXTINF:-1,TSN 4
+http://primestreams.tv:826/live/Rocky01/Rocky01/1624.m3u8
+#EXTINF:-1,TSN 5
+http://primestreams.tv:826/live/Rocky01/Rocky01/1625.m3u8
+
+#EXTINF:0,USA | Tennis Channel HD
+http://server.stablechannels.tv:25461/live/5RUTvfRf3/mD2fb0Y3z1/3074.m3u8
+#EXTINF:0,USA | ESPN
+http://80.80.160.168/live/6/2500000/live.m3u8
+#EXTINF:0,USA | ESPN 2
+http://server.stablechannels.tv:25461/live/5RUTvfRf3/mD2fb0Y3z1/3118.m3u8
+#EXTINF:0,USA | ESPN News US HD
+http://server.stablechannels.tv:25461/live/5RUTvfRf3/mD2fb0Y3z1/3117.m3u8
+#EXTINF:0,USA | ESPN U HD
+http://server.stablechannels.tv:25461/live/5RUTvfRf3/mD2fb0Y3z1/3116.m3u8
+#EXTINF:0,USA | Fox Sports 1
+http://tv.latintvweb.com:8000/live/carmen/carmen/11605.m3u8
+#EXTINF:0,USA | NBA TV HD
+http://tv.latintvweb.com:8000/live/carmen/carmen/11611.m3u8
+#EXTINF:0,USA | NBC Sport Network HD
+http://server.stablechannels.tv:25461/live/5RUTvfRf3/mD2fb0Y3z1/3091.m3u8
+#EXTINF:0,USA | NHL Network
+http://server.stablechannels.tv:25461/live/5RUTvfRf3/mD2fb0Y3z1/3088.m3u8
+
+#EXTINF:-1,BBC 2
+http://31.220.0.134:8081/live/bbc2/playlist.m3u8
+
+#EXTINF:-1,DE: Sport 1 HD
+https://playlist.onlybest.tv/en/channel/9e18d4d6e4f56f48723f3d0ec5cfa94e/774/index.m3u8
+#EXTINF:-1,DE: Sport 1 HD opc. 2
+http://playlist.onlybest.tv/en/channel/3dfec4b56a6fbb4052ceb76274060617/774/index.m3u8
+#EXTINF:-1,DE: Sky Sport News
+https://playlist.onlybest.tv/ru/channel/62aa43e5b3a27ee29e6680e8ae8e9c79/460/index.m3u8
+#EXTINF:-1,DE: Sky Sport Austria HD
+https://playlist.onlybest.tv/en/channel/9e18d4d6e4f56f48723f3d0ec5cfa94e/746/index.m3u8
+#EXTINF:-1,DE: Sky Sport Austria HD opc. 2
+http://playlist.onlybest.tv/en/channel/3dfec4b56a6fbb4052ceb76274060617/746/index.m3u8
+#EXTINF:-1,DE: SKY SPORT 1
+http://playlist.onlybest.tv/en/channel/3dfec4b56a6fbb4052ceb76274060617/724/index.m3u8
+#EXTINF:-1,DE: Sky Sport Bundesliga 1
+https://playlist.onlybest.tv/en/channel/9e18d4d6e4f56f48723f3d0ec5cfa94e/725/index.m3u8
+#EXTINF:-1,DE: Sky Sport Bundesliga 1 opc. 2
+http://playlist.onlybest.tv/en/channel/3dfec4b56a6fbb4052ceb76274060617/725/index.m3u8
+#EXTINF:-1,DE: Sky Sport 2 HD
+https://playlist.onlybest.tv/en/channel/9e18d4d6e4f56f48723f3d0ec5cfa94e/733/index.m3u8
+#EXTINF:-1,DE: Sky Sport 2 HD opc. 2
+http://playlist.onlybest.tv/en/channel/3dfec4b56a6fbb4052ceb76274060617/733/index.m3u8
+
+#EXTINF:-1,TENNIS CHANNEL
+http://primestreams.tv:826/live/Rocky01/Rocky01/31209.m3u8
+
+#EXTINF:0 type="favorites" channelId="805", NBA
+http://189.216.247.113/Content/HLS/Live/Channel(NBA_TV)/index.m3u8
+#EXTINF:-1,NBA
+http://31.220.0.134:8081/live/nba/playlist.m3u8
+
+#EXTINF:-1,NFL TV
+https://svglive3-event.level3.nfl.com/nflent3/live/nfl_now/NFLNOW_1200k.m3u8
+#EXTINF:-1 tvg-logo="https://www.cunninghamtelephoneandcable.com/wp-content/uploads/2016/08/NFL-1.jpg " group-title="DEPORTES",NFL Network
+http://svglive3-event.level3.nfl.com/nflent3/live/nfl_now/NFLNOW.m3u8
+#EXTINF:0 type="favorites" channelId="-1", NFL Now
+http://tvpremiumhd.club/lista-gratuita/074719/tv/v/1416.ts
+#EXTINF:-0 tvg-logo="https://i.imgur.com/HhEOqo2.png" group-title="DEPORTES" group-title="TV USA",NFL SPORTS
+http://tvpremiumhd.club/lista-gratuita/074719/tv/in/VJzQNm.m3u8
+
+#EXTINF:-1, Red NHL
+https://live119.elrobacanales.com/budtv/nhl.network.usa/playlist.m3u8
+#EXTINF:-1, NHL Network
+https://live119.elrobacanales.com/budtv/nhl.network.usa/playlist.m3u8
+
+#EXTINF:-1,Box Nation HD (UK)
+http://primestreams.tv:826/live/Rocky01/Rocky01/1380.m3u8
+
+#EXTINF:-1,UFC
+http://tv.latintvweb.com:8000/live/carmen/carmen/6294.m3u8
+#EXTINF:-1,UFC opc. 2
+https://live97.elrobacanales.com/budtv/ufc_total_play_100/playlist.m3u8
+
+#EXTINF:-1,CBC Sport
+http://s69362.cdn.ngenix.net/live/_definst_/Stream1/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/612493747410989056/-bAKXu6G_400x400.jpg" group-title="DEPORTES",MLB Network
+http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8?
+
+#EXTINF:-1, FIGHT NETWORK
+http://righttv.ddns.net:25461/live/trial30/trial30/11261.m3u8
+#EXTINF:0 type="favorites" channelId="2808", FightBox HD
+https://playlist.onlybest.tv/en/channel/9e18d4d6e4f56f48723f3d0ec5cfa94e/900/index.m3u8
+#EXTINF:-1 tvg-logo="http://fight-time.com/wp-content/uploads/2017/03/Fight-Time-Logo-Transparente-g.png" group-title="DEPORTES" ,Fight Time
+http://109.232.71.249/stream/stream_fighttime/fighttimehd.m3u8?xtreamiptv.m3u8
+
+#EXTINF:-1  group-title="España 2",Red Bull Tv HD
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8?xtreamiptv.m3u8
+#EXTINF:0,Extreme Sports Channel opc. 1
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/47/index.m3u8
+#EXTINF:-1,Extreme Sports Channel opc 2
+http://playlist.onlybest.tv/ru/channel/45d923b700bdbb53af22c8219ae034ac/47/index.m3u8
+
+#EXTINF:-1,NeoSports
+http://cshms4.airtel.tv/PLTV/88888888/224/3221225791/01.m3u8
+
+#EXTINF:-1,SONY TEN1 HD
+http://cshms3.airtel.tv/wh7f454c46tw2224230268_1388919955/PLTV/88888888/224/3221225875/01.m3u8
+#EXTINF:-1,SONY TEN2 SD
+http://cshms3.airtel.tv/wh7f454c46tw3547367093_1434011504/PLTV/88888888/224/3221225932/01.m3u8
+#EXTINF:-1,SONY TEN3 HD
+http://cshms4.airtel.tv/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221226330/04.m3u8
+
+#EXTINF:-1,DSports HD
+http://cshms4.airtel.tv/wh7f454c46tw2959729406_596421737/PLTV/88888888/224/3221226484/04.m3u8
+ 
+#EXTINF:-1,DSports opc. 2
+http://mhms8.airtel.tv/wh7f454c46tw2201796875_990797628/PLTV/88888888/224/3221226392/06.m3u8
+ 
+#EXTINF:-1,DSports opc. 3
+http://cshms4.airtel.tv/PLTV/88888888/224/3221226392/06.m3u8
