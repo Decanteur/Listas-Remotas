@@ -22,15 +22,15 @@ http://playlist.onlybest.tv/ru/channel/6c53126176d7d597cbe6ffbb0c5fbf49/574/inde
 #EXTINF:-1,Bein LaLiga opción 5
 http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/574/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fUKODzu.png" group-title="DEPORTES", Movistar Fútbol
+#EXTINF:-1, Movistar Fútbol
 https://playlist.onlybest.tv/en/channel/9e18d4d6e4f56f48723f3d0ec5cfa94e/575/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fUKODzu.png" group-title="DEPORTES", Movistar Fútbol opc. 2
+#EXTINF:-1, Movistar Fútbol opc. 2
 http://playlist.onlybest.tv/en/channel/1cd9443da6d218d341f44c6da6ba783b/448/index.m3u8
 #EXTINF:-1,Movistar Fútbol opc. 3
 http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/575/index.m3u8
 #EXTINF:-1,Movistar Fútbol opc. 4
 http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/575/index.m3u8
-#EXTINF:-1,MOVISTAR FUTBOL HD opc. 5
+#EXTINF:-1,Movistar Fútbol HD opc. 5
 http://live.tvplayerlatino.com/usuarios/src5/MoviFutbol/Saul.Rangel/MiT.m3u8
 
 #EXTINF:-1,MOVISTAR TODO DEPORTES
