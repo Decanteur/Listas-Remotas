@@ -6,78 +6,85 @@ http://sagi.typepad.com/treding_the_vc_waters/Picture1_1.jpg
 #EXTINF:-1,***TDT***
 http://sagi.typepad.com/treding_the_vc_waters/Picture1_1.jpg
 
-#EXTINF:-1 tvg-id="LA1.es" tvg-name="LA 1" audio-track="es" tvg-logo="https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE.jpg" group-title="Nacional",La 1 Opc. 1
+#EXTINF:-1,La 1
 http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl7/la1_lv3_aosv4_gl7/la1_lv3_aosv4_gl7.isml/la1_lv3_aosv4_gl7-audio=128000-video=400000.m3u8
-#EXTINF:-1, group-title="tv" tvg-logo="https://imgfast.net/users/1114/10/46/39/album/tve2lo10.png", Rtve.es La 2
-http://iptv-area-51.tv:2095/live/Jonathan/tvaL66sB28/7248.m3u8
+#EXTINF:-1,La 1 opc. 2
+http://regnummi.mibox.live:980/live/Jesus/Jesus/5107.m3u8
+#EXTINF:-1,La 2
+http://regnummi.mibox.live:980/live/Jesus/Jesus/5.m3u8
+#EXTINF:-1,La 2 opc. 2
+http://regnummi.mibox.live:980/live/Jesus/Jesus/7491.m3u8
 #EXTINF:-1,24 HORAS
 http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl0/irtve01_lv3_aosv4_gl0/irtve01_lv3_aosv4_gl0.isml/irtve01_lv3_aosv4_gl0-audio=128000-video=400000.m3u8
 #EXTINF:-1,24 HORAS opc. 2
-http://hlsliveamdgl8-lh.akamaihd.net/i/hlsdvrlive_1@583030/master.m3u8
+http://regnummi.mibox.live:980/live/Jesus/Jesus/10.m3u8
 #EXTINF:-1, CLAN  TVE
 http://195.154.151.89:8000/live/PROFESSIONAL/PROFESSIONAL1/8013.m3u8
 
 #EXTINF:-1,ANTENA 3
-https://playlist.onlybest.tv/en/channel/9e18d4d6e4f56f48723f3d0ec5cfa94e/615/index.m3u8
+http://regnummi.mibox.live:980/live/Jesus/Jesus/6.m3u8
 #EXTINF:-1,Antena 3 [HD]
-http://playlist.onlybest.tv/ru/channel/57130b963cf73960c05f8ec9eb7db0e9/615/index.m3u8
+http://regnummi.mibox.live:980/live/Jesus/Jesus/5108.m3u8
 #EXTINF:-1,NEOX
-http://195.154.151.89:8000/live/PROFESSIONAL/PROFESSIONAL1/8595.m3u8
+http://regnummi.mibox.live:980/live/Jesus/Jesus/853.m3u8
+#EXTINF:-1,NEOX opc. 2
+http://regnummi.mibox.live:980/live/Jesus/Jesus/6609.m3u8
 #EXTINF:-1,NOVA
-https://playlist.onlybest.tv/en/channel/9e18d4d6e4f56f48723f3d0ec5cfa94e/602/index.m3u8
-#EXTINF:-1,Antena 3 Series [HD]
-http://tv.latintvweb.com:8000/live/carmen/carmen/84006.m3u8
+http://regnummi.mibox.live:980/live/Jesus/Jesus/19.m3u8
 #EXTINF:-1,Antena 3 Series
-http://tv.latintvweb.com:8000/live/carmen/carmen/85237.m3u8
+http://regnummi.mibox.live:980/live/Jesus/Jesus/974.m3u8
 #EXTINF:-1,MEGA
-http://iptv-area-51.tv:2095/live/Jonathan/tvaL66sB28/7293.m3u8
-#EXTINF:-1 group-title="",Mega ES opc. 3
-http://mypanel.tv:8080/live/berto/berto/8760.m3u8
-#EXTINF:-1 group-title="",Mega HD ES opc. 4
-http://mypanel.tv:8080/live/berto/berto/13824.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/Sexta.jpg",LA SEXTA
-https://playlist.onlybest.tv/en/channel/9e18d4d6e4f56f48723f3d0ec5cfa94e/618/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/Sexta.jpg",LA SEXTA opc. 2
-https://playlist.onlybest.tv/en/channel/9e18d4d6e4f56f48723f3d0ec5cfa94e/618/index.m3u8
+http://regnummi.mibox.live:980/live/Jesus/Jesus/1838.m3u8
+#EXTINF:-1,LA SEXTA
+http://regnummi.mibox.live:980/live/Jesus/Jesus/9.m3u8
+#EXTINF:-1,LA SEXTA opc. 2
+http://regnummi.mibox.live:980/live/Jesus/Jesus/5110.m3u8
 
 #EXTINF:-1 tvg-logo="",Cuatro
-https://playlist.onlybest.tv/en/channel/9e18d4d6e4f56f48723f3d0ec5cfa94e/616/index.m3u8
-#EXTINF:-1 tvg-logo="https://i2.wp.com/iptvsmartv.files.wordpress.com/2017/04/telecinco_circular_500.png?ssl=1&w=450",Telecinco
-https://playlist.onlybest.tv/en/channel/9e18d4d6e4f56f48723f3d0ec5cfa94e/617/index.m3u8
-#EXTINF:-1, group-title="tv" tvg-logo="http://www.formulatv.com/fotos/a/9000/9225/l47xp2wnn9sgxixifo52a8c3d3a5b26_energy.png", Energy
+http://regnummi.mibox.live:980/live/Jesus/Jesus/7.m3u8
+#EXTINF:-1 tvg-logo="",Cuatro opc. 2
+http://regnummi.mibox.live:980/live/Jesus/Jesus/4816.m3u8
+#EXTINF:-1,Telecinco
+http://regnummi.mibox.live:980/live/Jesus/Jesus/4615.m3u8
+#EXTINF:-1,Telecinco opc. 2
+http://regnummi.mibox.live:980/live/Jesus/Jesus/5109.m3u8
+#EXTINF:-1,Energy
 https://mdslivehlsb-i.akamaihd.net/hls/live/623617/energy/bitrate_1.m3u8
-#EXTINF:-1 group-title="Mediaset España" ,Energy ES opc. 2
-http://mypanel.tv:8080/live/berto/berto/8765.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/744781470946852864/nz8sp439_400x400.jpg",FDF
+#EXTINF:-1,Energy opc. 2
+http://regnummi.mibox.live:980/live/Jesus/Jesus/31.m3u8
+#EXTINF:-1,FDF
 https://mdslivehls-i.akamaihd.net/hls/live/571650/fdf/bitrate_1.m3u8
-#EXTINF:-1 group-title="Mediaset España" ,FDF ES opc. 2
+#EXTINF:-1,FDF opc. 2
 https://mdslivehls-i.akamaihd.net/hls/live/571650/fdf/bitrate_4.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.sincroguia.tv/uploads/images/b/e/-/xbe-mad-1.jpg.pagespeed.ic.rDna1IN19j.jpg",Be Mad TV
+#EXTINF:-1,FDF opc. 3
+http://regnummi.mibox.live:980/live/Jesus/Jesus/29.m3u8
+#EXTINF:-1,Be Mad TV
 https://mdslivehlsb-i.akamaihd.net/hls/live/623615/bemad/bitrate_4.m3u8
+#EXTINF:-1,Be Mad TV opc. 2
+http://regnummi.mibox.live:980/live/Jesus/Jesus/4682.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/744781228683857920/2hIDK_eo_400x400.jpg",Divinity
-https://mdslivehls-i.akamaihd.net/hls/live/571648/divinity/bitrate_1.m3u8
+http://regnummi.mibox.live:980/live/Jesus/Jesus/32.m3u8
 #EXTINF:-1 group-title="Mediaset España" ,Divinity ES opc. 2  
 https://mdslivehls-i.akamaihd.net/hls/live/571648/divinity/bitrate_4.m3u8
 #EXTINF:-1  group-title="España 2",BOING
 https://mdslivehlsb-i.akamaihd.net/hls/live/623616/boing/bitrate_1.m3u8
 
-#EXTINF:-1  group-title="España 2",PARAMOUNT NETWORK
-http://iptv-area-51.tv:2095/live/Jonathan/tvaL66sB28/7273.m3u8
+#EXTINF:-1,PARAMOUNT NETWORK
+http://regnummi.mibox.live:980/live/Jesus/Jesus/18.m3u8
 
 #EXTINF:-1  group-title="España 2",DMAX
-http://154.16.149.50:8088/stream/maxxxxxxxxxxxxf/playlist.m3u80
+http://regnummi.mibox.live:980/live/Jesus/Jesus/6316.m3u8
 
-#EXTINF:0,ES: Dkiss
-http://server.stablechannels.tv:25461/live/5RUTvfRf3/mD2fb0Y3z1/3331.m3u8
-#EXTINF:-1 group-title="Spain" ,Dkiss HD ES opc. 2
-http://mypanel.tv:8080/live/berto/berto/13533.m3u8
-#EXTINF:0,ES: TEN
-http://server.stablechannels.tv:25461/live/5RUTvfRf3/mD2fb0Y3z1/3293.m3u8
+#EXTINF:0,Dkiss
+http://regnummi.mibox.live:980/live/Jesus/Jesus/6317.m3u8
 
-#EXTINF:-1 tvg-logo="",13 TV
+#EXTINF:0,TEN
+http://regnummi.mibox.live:980/live/Jesus/Jesus/4451.m3u8
+
+#EXTINF:-1,13 TV
 http://streaming.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/mobile/playlist.m3u8
-#EXTINF:-1 tvg-logo="",13 TV opc. 2
-http://streaming.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/mobile/.m3u8
+#EXTINF:-1,13 TV opc. 2
+http://regnummi.mibox.live:980/live/Jesus/Jesus/6304.m3u8
 
 #EXTINF:-1,DISNEY CHANNEL HD
 http://iptv-area-51.tv:2095/live/Jonathan/tvaL66sB28/7306.m3u8
@@ -97,6 +104,10 @@ http://hlstv.canalextremadura.es/livetv/smil:multistream.smil/chunklist_b1596000
 
 #EXTINF:0,Canal Sur
 http://canalsur-live.hls.adaptive.level3.net/hls-live/canalsur_live-rtva/_definst_/live/stream1.m3u8
+#EXTINF:0,Canal Sur opc. 2
+http://canalsur-live.hls.adaptive.level3.net/hls-live/canalsur_live-rtva/_definst_/live/stream3.m3u8
+#EXTINF:0,Canal Sur opc. 3
+http://regnummi.mibox.live:980/live/Jesus/Jesus/45.m3u8
 #EXTINF:-1  group-title="España 2",CANAL SUR COCINA
 http://173.212.214.184:1935/cscocina/cscocina/chunklist_w320014621.m3u8
 #EXTINF:-1 tvg-logo="https://i1.wp.com/directostv.teleame.com/wp-content/uploads/2017/09/Canal-Sur-Cocina.png?resize=324%2C235",CanalSur Cocina opc. 2
@@ -113,8 +124,10 @@ http://streaming.enetres.net/16011939C62D44ED91350508FB25828B021/smil:live.smil/
 #EXTINF:0 type="favorites" channelId="-1" tvg-logo="http://www.unored.tv/wp-content/uploads/2015/08/Extrema-TV-logo.jpg", Extrema TV
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 
-#EXTINF:-1  group-title="España 2",TELEMADRID
+#EXTINF:-1,TELEMADRID
 http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/telemadrid1/bitrate_1.m3u8
+#EXTINF:-1,TELEMADRID opc. 2
+http://regnummi.mibox.live:980/live/Jesus/Jesus/7492.m3u8
 #EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/laotra.jpg",LA OTRA
 http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/laotra1/index.m3u8
 
@@ -125,106 +138,115 @@ http://rtvmurcia_01-lh.akamaihd.net/i/rtvmurcia_1_0@507973/master.m3u8
 #EXTINF:-1,***MOVISTAR+***
 http://sagi.typepad.com/treding_the_vc_waters/Picture1_1.jpg
 
-#EXTINF:-1 tvg-logo="",#0 opc. 1
-https://playlist.onlybest.tv/en/channel/9e18d4d6e4f56f48723f3d0ec5cfa94e/611/index.m3u8
-#EXTINF:-1 tvg-logo="",#0 Opc. 2
-http://playlist.onlybest.tv/ru/channel/45d923b700bdbb53af22c8219ae034ac/611/index.m3u8
-#EXTINF:-1  tvg-logo="",#0 opc. 3
-http://playlist.onlybest.tv/en/channel/d3868b0930104dfc477b435d4bf18b4f/611/index.m3u8
-#EXTINF:-1  tvg-logo="",#0 HD
-http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/611/index.m3u8
+#EXTINF:-1,#0
+http://regnummi.mibox.live:980/live/Jesus/Jesus/42.m3u8
+#EXTINF:-1,#0 Opc. 2
+http://regnummi.mibox.live:980/live/Jesus/Jesus/5103.m3u8
 
-#EXTINF:-1  group-title="España 2",MOVISTAR ESTRENOS
-http://mypanel.tv:8080/live/berto/berto/7222.m3u8
-#EXTINF:-1  group-title="España 2",MOVISTAR ESTRENOS HD
-http://10gbs.edgelink.ovh:8000/live/dosdispositivos/smartv.kodi/255.m3u8
+#EXTINF:-1,MOVISTAR ESTRENOS
+http://regnummi.mibox.live:980/live/Jesus/Jesus/5097.m3u8
+#EXTINF:-1,MOVISTAR ESTRENOS opc. 2
+http://regnummi.mibox.live:980/live/Jesus/Jesus/2110.m3u8
 
-#EXTINF:-1  group-title="España 2",MOVISTAR  ACCION
-https://playlist.onlybest.tv/en/channel/9e18d4d6e4f56f48723f3d0ec5cfa94e/605/index.m3u8
-#EXTINF:-1  group-title="España 2",MOVISTAR  ACCION opc. 2
-https://playlist.onlybest.tv/en/channel/9e18d4d6e4f56f48723f3d0ec5cfa94e/576/index.m3u8
+#EXTINF:-1,MOVISTAR  ACCION
+http://regnummi.mibox.live:980/live/Jesus/Jesus/2111.m3u8
+#EXTINF:-1,MOVISTAR  ACCION opc. 2
+http://regnummi.mibox.live:980/live/Jesus/Jesus/5127.m3u8
 
-#EXTINF:0,ES: Movistar  Cine Ñ
-http://server.stablechannels.tv:25461/live/5RUTvfRf3/mD2fb0Y3z1/3364.m3u8
+#EXTINF:0,Movistar Cine Ñ
+http://regnummi.mibox.live:980/live/Jesus/Jesus/2113.m3u8
+#EXTINF:0,Movistar Cine Ñ opc. 2
+http://regnummi.mibox.live:980/live/Jesus/Jesus/38.m3u8
+
+#EXTINF:-1,MOVISTAR Series
+http://regnummi.mibox.live:980/live/Jesus/Jesus/57.m3u8
+#EXTINF:-1,MOVISTAR Series opc. 2
+http://regnummi.mibox.live:980/live/Jesus/Jesus/6354.m3u8
 
 #EXTINF:-1,MOVISTAR Series Xtra
-https://playlist.onlybest.tv/en/channel/9e18d4d6e4f56f48723f3d0ec5cfa94e/568/index.m3u8
+http://regnummi.mibox.live:980/live/Jesus/Jesus/56.m3u8
+#EXTINF:-1,MOVISTAR Series Xtra opc. 2
+http://regnummi.mibox.live:980/live/Jesus/Jesus/6353.m3u8
 
 #EXTINF:-1,Movistar Xtra
-http://iptv-area-51.tv:2095/live/Jonathan/tvaL66sB28/7282.m3u8
+http://regnummi.mibox.live:980/live/Jesus/Jesus/1021.m3u8
 
 #EXTINF:-1,MOVISTAR COMEDIA
-https://playlist.onlybest.tv/en/channel/9e18d4d6e4f56f48723f3d0ec5cfa94e/606/index.m3u8
+http://regnummi.mibox.live:980/live/Jesus/Jesus/2112.m3u8
 #EXTINF:-1,MOVISTAR COMEDIA opc. 2
-https://playlist.onlybest.tv/en/channel/9e18d4d6e4f56f48723f3d0ec5cfa94e/580/index.m3u8
+http://regnummi.mibox.live:980/live/Jesus/Jesus/5126.m3u8
 
-#EXTINF:-1 tvg-logo="", Movistar Dcine
-https://playlist.onlybest.tv/en/channel/9e18d4d6e4f56f48723f3d0ec5cfa94e/607/index.m3u8
-#EXTINF:-1 tvg-logo="", Movistar Dcine opc. 2
+#EXTINF:-1,Movistar Dcine
+http://regnummi.mibox.live:980/live/Jesus/Jesus/5128.m3u8
+#EXTINF:-1,Movistar Dcine opc. 2
 http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/607/index.m3u8
 
 #EXTINF:-1,MOVISTAR DISNEY
 http://xxedge262.livesports.pw/live/vermdisney4fe56a2fafa38ae9670f/chunklist.m3u8?md5=1lPXYhC5_jDEV3y79mTUNw&expires=1522521527
 
-#EXTINF:-1  group-title="España 2",CALLE 13 opc. 1
-http://mypanel.tv:8080/live/berto/berto/7247.m3u8
-#EXTINF:-1  group-title="España 2",CALLE 13 HD opc. 2
-http://10gbs.edgelink.ovh:8000/live/dosdispositivos/smartv.kodi/244.m3u8
+#EXTINF:-1,CALLE 13
+http://regnummi.mibox.live:980/live/Jesus/Jesus/53.m3u8
+#EXTINF:-1,CALLE 13 Opc. 2
+http://regnummi.mibox.live:980/live/Jesus/Jesus/5106.m3u8
 
 #EXTINF:-1  group-title="España 2",SUNDANCE
 http://server.stablechannels.tv:25461/live/5RUTvfRf3/mD2fb0Y3z1/3358.m3u8
 
-#EXTINF:-1,AMC ESPAÑA opc 1
-https://playlist.onlybest.tv/en/channel/9e18d4d6e4f56f48723f3d0ec5cfa94e/614/index.m3u8
+#EXTINF:-1,AMC ESPAÑA
+http://regnummi.mibox.live:980/live/Jesus/Jesus/70.m3u8
 #EXTINF:-1,AMC ESPAÑA opc. 2
-https://playlist.onlybest.tv/en/channel/9e18d4d6e4f56f48723f3d0ec5cfa94e/214/index.m3u8
+http://regnummi.mibox.live:980/live/Jesus/Jesus/5105.m3u8
 
-#EXTINF:-1  group-title="España 2",TCM
-http://server.stablechannels.tv:25461/live/5RUTvfRf3/mD2fb0Y3z1/3357.m3u8
-#EXTINF:-1  group-title="España 2",TCM HD opc. 2
-http://mypanel.tv:8080/live/berto/berto/7180.m3u8
+#EXTINF:-1,TCM
+http://regnummi.mibox.live:980/live/Jesus/Jesus/14.m3u8
+#EXTINF:-1,TCM opc. 2
+http://regnummi.mibox.live:980/live/Jesus/Jesus/6315.m3u8
 
-#EXTINF:-1  group-title="España 2",COMEDY CENTRAL
-https://playlist.onlybest.tv/en/channel/9e18d4d6e4f56f48723f3d0ec5cfa94e/572/index.m3u8
-#EXTINF:-1  group-title="España 2",COMEDY CENTRAL opc. 2
-http://playlist.onlybest.tv/en/channel/1cd9443da6d218d341f44c6da6ba783b/450/index.m3u8
+#EXTINF:-1,COMEDY CENTRAL
+http://regnummi.mibox.live:980/live/Jesus/Jesus/41.m3u8
+#EXTINF:-1,COMEDY CENTRAL opc. 2
+http://regnummi.mibox.live:980/live/Jesus/Jesus/1028.m3u8
 
-#EXTINF:-1  group-title="España 2",AXN
-https://playlist.onlybest.tv/en/channel/9e18d4d6e4f56f48723f3d0ec5cfa94e/610/index.m3u8
-#EXTINF:-1  group-title="España 2",AXN opc. 2
-https://playlist.onlybest.tv/en/channel/9e18d4d6e4f56f48723f3d0ec5cfa94e/579/index.m3u8
+#EXTINF:-1,AXN
+http://regnummi.mibox.live:980/live/Jesus/Jesus/1827.m3u8
+#EXTINF:-1,AXN opc. 2
+http://regnummi.mibox.live:980/live/Jesus/Jesus/5136.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/AXN_White_logo_%282015%29.svg/1200px-AXN_White_logo_%282015%29.svg.png",AXN White
-https://playlist.onlybest.tv/en/channel/9e18d4d6e4f56f48723f3d0ec5cfa94e/609/index.m3u8
-#EXTINF:-1  group-title="España 2",AXN White opc. 2
-https://playlist.onlybest.tv/en/channel/9e18d4d6e4f56f48723f3d0ec5cfa94e/560/index.m3u8
+#EXTINF:-1,AXN White
+http://regnummi.mibox.live:980/live/Jesus/Jesus/69.m3u8
+#EXTINF:-1,AXN White opc. 2
+http://regnummi.mibox.live:980/live/Jesus/Jesus/5137.m3u8
 
-#EXTINF:-1 tvg-logo="http://dshm.tmsimg.com/h5/NowShowing/75423/s75423_h5_aa.png",FOX
-https://playlist.onlybest.tv/en/channel/9e18d4d6e4f56f48723f3d0ec5cfa94e/608/index.m3u8
-#EXTINF:-1 tvg-logo="http://dshm.tmsimg.com/h5/NowShowing/75423/s75423_h5_aa.png",FOX opc. 2
-https://playlist.onlybest.tv/en/channel/9e18d4d6e4f56f48723f3d0ec5cfa94e/565/index.m3u8
+#EXTINF:-1,FOX ES
+http://regnummi.mibox.live:980/live/Jesus/Jesus/4361.m3u8
+#EXTINF:-1,FOX ES opc. 2
+http://regnummi.mibox.live:980/live/Jesus/Jesus/5111.m3u8
 
-#EXTINF:-1  group-title="España 2",FOX LIFE
-https://playlist.onlybest.tv/en/channel/9e18d4d6e4f56f48723f3d0ec5cfa94e/601/index.m3u8
-#EXTINF:-1  group-title="España 2",FOX LIFE opc. 2
-https://playlist.onlybest.tv/en/channel/9e18d4d6e4f56f48723f3d0ec5cfa94e/567/index.m3u8
+#EXTINF:-1,FOX LIFE
+http://regnummi.mibox.live:980/live/Jesus/Jesus/632.m3u8
+#EXTINF:-1,FOX LIFE opc. 2
+http://regnummi.mibox.live:980/live/Jesus/Jesus/6312.m3u8
 
 #EXTINF:-1  group-title="España 2",DARK
-http://server.stablechannels.tv:25461/live/5RUTvfRf3/mD2fb0Y3z1/3367.m3u8
+http://regnummi.mibox.live:980/live/Jesus/Jesus/4362.m3u8
 
-#EXTINF:-1  group-title="España 2",HOLLYWOOD HD
-https://playlist.onlybest.tv/en/channel/9e18d4d6e4f56f48723f3d0ec5cfa94e/577/index.m3u8
+#EXTINF:-1,HOLLYWOOD
+http://regnummi.mibox.live:980/live/Jesus/Jesus/4685.m3u8
+#EXTINF:-1,HOLLYWOOD opc. 2
+http://regnummi.mibox.live:980/live/Jesus/Jesus/6352.m3u8
 
-#EXTINF:-1  group-title="España 2",TNT
-http://iptv-area-51.tv:2095/live/Jonathan/tvaL66sB28/7253.m3u8
+#EXTINF:-1,TNT
+http://regnummi.mibox.live:980/live/Jesus/Jesus/12.m3u8
+#EXTINF:-1,TNT opc. 2
+http://regnummi.mibox.live:980/live/Jesus/Jesus/5104.m3u8
 
-#EXTINF:-1  group-title="España 2",SYFY
-http://iptv-area-51.tv:2095/live/Jonathan/tvaL66sB28/7275.m3u8
-#EXTINF:-1  group-title="España 2",SYFY HD opc. 2
-http://mypanel.tv:8080/live/berto/berto/13522.m3u8
+#EXTINF:-1,SYFY
+http://regnummi.mibox.live:980/live/Jesus/Jesus/16.m3u8
+#EXTINF:-1,SYFY HD opc. 2
+http://regnummi.mibox.live:980/live/Jesus/Jesus/6355.m3u8
 
 #EXTINF:0,ES: XTRM
-http://server.stablechannels.tv:25461/live/5RUTvfRf3/mD2fb0Y3z1/3264.m3u8
+http://regnummi.mibox.live:980/live/Jesus/Jesus/4452.m3u8
 
 #EXTINF:-1  group-title="España 2",LIFE TV
 http://178.132.6.97/uzivo/lifetvesp/playlist.m3u8
@@ -237,8 +259,8 @@ http://server.stablechannels.tv:25461/live/5RUTvfRf3/mD2fb0Y3z1/3332.m3u8
 #EXTINF:-1  group-title="España 2",CANAL COCINA
 http://iptv-area-51.tv:2095/live/Jonathan/tvaL66sB28/7314.m3u8
 
-#EXTINF:-1  group-title="España 2",COSMOPOLITAN
-https://playlist.onlybest.tv/en/channel/9e18d4d6e4f56f48723f3d0ec5cfa94e/570/index.m3u8
+#EXTINF:-1,COSMOPOLITAN
+http://regnummi.mibox.live:980/live/Jesus/Jesus/40.m3u8
 
 #EXTINF:0,ES: Movistar  Disney
 http://tv.latintvweb.com:8000/live/carmen/carmen/23625.m3u8
@@ -278,8 +300,8 @@ http://mypanel.tv:8080/live/berto/berto/7235.m3u8
 #EXTINF:-1  group-title="España 2",ODISSEA HD
 http://10gbs.edgelink.ovh:8000/live/dosdispositivos/smartv.kodi/3710.m3u8
 
-#EXTINF:-1  group-title="España 2",Non Stop HD
-http://10gbs.edgelink.ovh:8000/live/dosdispositivos/smartv.kodi/3782.m3u8
+#EXTINF:-1,NONSTOPEOPLE
+http://regnummi.mibox.live:980/live/Jesus/Jesus/20.m3u8
 
 #EXTINF:-1  group-title="España 2",VIAJAR HD
 http://tv.latintvweb.com:8000/live/carmen/carmen/23672.m3u8
@@ -292,10 +314,10 @@ http://mypanel.tv:8080/live/berto/berto/7232.m3u8
 #EXTINF:-1  group-title="España 2",IBERALIA TV
 https://playlist.onlybest.tv/en/channel/9e18d4d6e4f56f48723f3d0ec5cfa94e/603/index.m3u8
 
-#EXTINF:-1  group-title="España 2",TOROS
-http://tv.latintvweb.com:8000/live/carmen/carmen/23657.m3u8
-#EXTINF:-1  group-title="España 2",TOROS TV HD
-http://tv.latintvweb.com:8000/live/carmen/carmen/20502.m3u8
+#EXTINF:-1,TOROS
+http://regnummi.mibox.live:980/live/Jesus/Jesus/55.m3u8
+#EXTINF:-1,TOROS opc. 2
+http://regnummi.mibox.live:980/live/Jesus/Jesus/4809.m3u8
 
 #EXTINF:0,CNN Español
 http://server.stablechannels.tv:25461/live/5RUTvfRf3/mD2fb0Y3z1/3527.m3u8
