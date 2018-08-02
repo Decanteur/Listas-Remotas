@@ -82,24 +82,22 @@ http://regnummi.mibox.live:980/live/Jesus/Jesus/6317.m3u8
 http://regnummi.mibox.live:980/live/Jesus/Jesus/4451.m3u8
 
 #EXTINF:-1,13 TV
-http://streaming.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/mobile/playlist.m3u8
-#EXTINF:-1,13 TV opc. 2
 http://regnummi.mibox.live:980/live/Jesus/Jesus/6304.m3u8
 
 #EXTINF:-1,DISNEY CHANNEL HD
 http://iptv-area-51.tv:2095/live/Jonathan/tvaL66sB28/7306.m3u8
 
-#EXTINF:-1  group-title="España 2",MTV ESPAÑA
+#EXTINF:-1,MTV ESPAÑA
 http://server.stablechannels.tv:25461/live/5RUTvfRf3/mD2fb0Y3z1/3345.m3u8
-#EXTINF:-1 group-title="Spain" ,MTV Espana ES opc. 2
+#EXTINF:-1,MTV Espana opc. 2
 http://mypanel.tv:8080/live/berto/berto/8759.m3u8
 
 #EXTINF:-1,Pride Channel TV
 http://178.132.6.97/PrideTV/tracks-v1a1/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://m.canalextremadura.es/sites/all/themes/canalex_2016/images/canalex/logotipo@2x.png", Canal Extremadura
+#EXTINF:-1,Canal Extremadura
 http://hlstv.canalextremadura.es/livetv/smil:multistream.smil/playlist.m3u8
-EXTINF:-1 tvg-logo="http://www.canalextremadura.es/sites/all/themes/canalex_2016/images/canalex/logotipo.png" group-title="España",CANAL EXTREMADURA Opc. 2
+EXTINF:-1,Canal Extremadura opc. 2
 http://hlstv.canalextremadura.es/livetv/smil:multistream.smil/chunklist_b1596000_DVR.m3u8
 
 #EXTINF:0,Canal Sur
@@ -115,14 +113,8 @@ http://cast.streamingconnect.com:1935/cscocina/cscocina/playlist.m3u8
 #EXTINF:-1  group-title="España 2",CANAL SUR COCINA opc. 3
 http://server.stablechannels.tv:25461/live/5RUTvfRf3/mD2fb0Y3z1/3283.m3u8
 
-#EXTINF:0,ES: Andalucia TV
-http://server.stablechannels.tv:25461/live/5RUTvfRf3/mD2fb0Y3z1/3287.m3u8
-
 #EXTINF:-1,Intereconomia TV
 http://streaming.enetres.net/16011939C62D44ED91350508FB25828B021/smil:live.smil/master.m3u8
-
-#EXTINF:0 type="favorites" channelId="-1" tvg-logo="http://www.unored.tv/wp-content/uploads/2015/08/Extrema-TV-logo.jpg", Extrema TV
-http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 
 #EXTINF:-1,TELEMADRID
 http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/telemadrid1/bitrate_1.m3u8
