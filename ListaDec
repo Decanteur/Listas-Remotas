@@ -245,19 +245,19 @@ http://regnummi.mibox.live:980/live/Jesus/Jesus/16.m3u8
 #EXTINF:-1,SYFY HD opc. 2
 http://regnummi.mibox.live:980/live/Jesus/Jesus/6355.m3u8
 
-#EXTINF:0,ES: XTRM
-http://regnummi.mibox.live:980/live/Jesus/Jesus/4452.m3u8
+#EXTINF:-1,A&E
+http://regnummi.mibox.live:980/live/Jesus/Jesus/71.m3u8
 
 #EXTINF:-1  group-title="España 2",LIFE TV
 http://178.132.6.97/uzivo/lifetvesp/playlist.m3u8
 #EXTINF:-1  group-title="España 2",LIFE TV opc. 2
 http://178.132.6.97/uzivo/lifetvesp/tracks-v1a1/index.m3u8
 
-#EXTINF:-1  group-title="España 2",CANAL DECASA
-http://server.stablechannels.tv:25461/live/5RUTvfRf3/mD2fb0Y3z1/3332.m3u8
+#EXTINF:-1,Canal DeCasa
+http://regnummi.mibox.live:980/live/Jesus/Jesus/6314.m3u8
 
-#EXTINF:-1  group-title="España 2",CANAL COCINA
-http://iptv-area-51.tv:2095/live/Jonathan/tvaL66sB28/7314.m3u8
+#EXTINF:-1,CANAL COCINA
+http://regnummi.mibox.live:980/live/Jesus/Jesus/51.m3u8
 
 #EXTINF:-1,COSMOPOLITAN
 http://regnummi.mibox.live:980/live/Jesus/Jesus/40.m3u8
@@ -272,47 +272,39 @@ http://playlist.onlybest.tv/ru/channel/6c53126176d7d597cbe6ffbb0c5fbf49/604/inde
 #EXTINF:-1,ES: NICKELODEON HD
 http://tv.latintvweb.com:8000/live/carmen/carmen/23636.m3u8
 
-#EXTINF:-1  group-title="España 2",DISCOVERY CHANNEL
-http://server.stablechannels.tv:25461/live/5RUTvfRf3/mD2fb0Y3z1/3340.m3u8
-#EXTINF:-1  group-title="España 2",DISCOVERY CHANNEL HD
-http://10gbs.edgelink.ovh:8000/live/dosdispositivos/smartv.kodi/3707.m3u8
+#EXTINF:-1,DISCOVERY CHANNEL
+http://regnummi.mibox.live:980/live/Jesus/Jesus/36.m3u8
 
-#EXTINF:-1  group-title="España 2",NATIONAL  GEOGRAPHIC
-http://mypanel.tv:8080/live/berto/berto/13528.m3u8
-#EXTINF:-1  group-title="España 2",National Geographic HD opc. 2
-http://mypanel.tv:8080/live/berto/berto/7187.m3u8
+#EXTINF:-1,NATIONAL  GEOGRAPHIC
+http://regnummi.mibox.live:980/live/Jesus/Jesus/1027.m3u8
+#EXTINF:-1,National Geographic opc. 2
+http://regnummi.mibox.live:980/live/Jesus/Jesus/6359.m3u8
 
-#EXTINF:-1  group-title="España 2",NatGeo Wild Spain
-https://playlist.onlybest.tv/en/channel/9e18d4d6e4f56f48723f3d0ec5cfa94e/151/index.m3u8
+#EXTINF:-1,NatGeo Wild Spain
+http://regnummi.mibox.live:980/live/Jesus/Jesus/4454.m3u8
+#EXTINF:-1,NatGeo Wild Spain opc. 2
+http://regnummi.mibox.live:980/live/Jesus/Jesus/5102.m3u8
 
-#EXTINF:-1  group-title="España 2",HISTORIA
-http://server.stablechannels.tv:25461/live/5RUTvfRf3/mD2fb0Y3z1/3339.m3u8
-#EXTINF:-1  group-title="España 2",HISTORIA HD opc. 2
-http://mypanel.tv:8080/live/berto/berto/7217.m3u8
+#EXTINF:-1,Historia
+http://regnummi.mibox.live:980/live/Jesus/Jesus/27.m3u8
 
-#EXTINF:-1  group-title="España 2",CRIMEN Y INVES
-http://server.stablechannels.tv:25461/live/5RUTvfRf3/mD2fb0Y3z1/3333.m3u8
-#EXTINF:-1 group-title="Spain",A&E
-http://mypanel.tv:8080/live/berto/berto/7256.m3u8
+#EXTINF:-1, Crimen e Investigación
+http://regnummi.mibox.live:980/live/Jesus/Jesus/39.m3u8
 
-#EXTINF:-1  group-title="España 2",ODISSEA
-http://mypanel.tv:8080/live/berto/berto/7235.m3u8
-#EXTINF:-1  group-title="España 2",ODISSEA HD
-http://10gbs.edgelink.ovh:8000/live/dosdispositivos/smartv.kodi/3710.m3u8
+#EXTINF:-1,ODISEA
+http://regnummi.mibox.live:980/live/Jesus/Jesus/49.m3u8
 
 #EXTINF:-1,NONSTOPEOPLE
 http://regnummi.mibox.live:980/live/Jesus/Jesus/20.m3u8
 
-#EXTINF:-1  group-title="España 2",VIAJAR HD
-http://tv.latintvweb.com:8000/live/carmen/carmen/23672.m3u8
+#EXTINF:-1, Viajar
+http://regnummi.mibox.live:980/live/Jesus/Jesus/11.m3u8
 
-#EXTINF:-1  group-title="España 2",CAZA Y PESCA
-http://pro213.com:80/live/gonzalezcarvallo332/2sq0tn/2429.m3u8
-#EXTINF:-1  group-title="España 2",CAZA Y PESCA HD
-http://mypanel.tv:8080/live/berto/berto/7232.m3u8
+#EXTINF:-1, Caza y Pesca
+http://regnummi.mibox.live:980/live/Jesus/Jesus/44.m3u8
 
-#EXTINF:-1  group-title="España 2",IBERALIA TV
-https://playlist.onlybest.tv/en/channel/9e18d4d6e4f56f48723f3d0ec5cfa94e/603/index.m3u8
+#EXTINF:-1,Iberalia TV
+http://regnummi.mibox.live:980/live/Jesus/Jesus/634.m3u8
 
 #EXTINF:-1,TOROS
 http://regnummi.mibox.live:980/live/Jesus/Jesus/55.m3u8
