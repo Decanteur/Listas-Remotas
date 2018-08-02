@@ -189,12 +189,12 @@ http://regnummi.mibox.live:980/live/Jesus/Jesus/53.m3u8
 #EXTINF:-1,CALLE 13 Opc. 2
 http://regnummi.mibox.live:980/live/Jesus/Jesus/5106.m3u8
 
-#EXTINF:-1  group-title="España 2",SUNDANCE
+#EXTINF:-1,Sundance
 http://server.stablechannels.tv:25461/live/5RUTvfRf3/mD2fb0Y3z1/3358.m3u8
 
-#EXTINF:-1,AMC ESPAÑA
+#EXTINF:-1,AMC España
 http://regnummi.mibox.live:980/live/Jesus/Jesus/70.m3u8
-#EXTINF:-1,AMC ESPAÑA opc. 2
+#EXTINF:-1,AMC España opc. 2
 http://regnummi.mibox.live:980/live/Jesus/Jesus/5105.m3u8
 
 #EXTINF:-1,TCM
@@ -202,9 +202,9 @@ http://regnummi.mibox.live:980/live/Jesus/Jesus/14.m3u8
 #EXTINF:-1,TCM opc. 2
 http://regnummi.mibox.live:980/live/Jesus/Jesus/6315.m3u8
 
-#EXTINF:-1,COMEDY CENTRAL
+#EXTINF:-1,Comedy Central
 http://regnummi.mibox.live:980/live/Jesus/Jesus/41.m3u8
-#EXTINF:-1,COMEDY CENTRAL opc. 2
+#EXTINF:-1,Comedy Central opc. 2
 http://regnummi.mibox.live:980/live/Jesus/Jesus/1028.m3u8
 
 #EXTINF:-1,AXN
@@ -248,29 +248,19 @@ http://regnummi.mibox.live:980/live/Jesus/Jesus/6355.m3u8
 #EXTINF:-1,A&E
 http://regnummi.mibox.live:980/live/Jesus/Jesus/71.m3u8
 
-#EXTINF:-1  group-title="España 2",LIFE TV
+#EXTINF:-1,LIFE TV
 http://178.132.6.97/uzivo/lifetvesp/playlist.m3u8
-#EXTINF:-1  group-title="España 2",LIFE TV opc. 2
+#EXTINF:-1,LIFE TV opc. 2
 http://178.132.6.97/uzivo/lifetvesp/tracks-v1a1/index.m3u8
 
 #EXTINF:-1,Canal DeCasa
 http://regnummi.mibox.live:980/live/Jesus/Jesus/6314.m3u8
 
-#EXTINF:-1,CANAL COCINA
+#EXTINF:-1,Canal Cocina
 http://regnummi.mibox.live:980/live/Jesus/Jesus/51.m3u8
 
-#EXTINF:-1,COSMOPOLITAN
+#EXTINF:-1,Cosmopolitan
 http://regnummi.mibox.live:980/live/Jesus/Jesus/40.m3u8
-
-#EXTINF:0,ES: Movistar  Disney
-http://tv.latintvweb.com:8000/live/carmen/carmen/23625.m3u8
-#EXTINF:-1  group-title="España 2",DISNEY XD
-http://10gbs.edgelink.ovh:8000/live/dosdispositivos/smartv.kodi/154.m3u8
-#EXTINF:-1  group-title="España 2",DISNEY JR
-http://playlist.onlybest.tv/ru/channel/6c53126176d7d597cbe6ffbb0c5fbf49/604/index.m3u8
-
-#EXTINF:-1,ES: NICKELODEON HD
-http://tv.latintvweb.com:8000/live/carmen/carmen/23636.m3u8
 
 #EXTINF:-1,DISCOVERY CHANNEL
 http://regnummi.mibox.live:980/live/Jesus/Jesus/36.m3u8
