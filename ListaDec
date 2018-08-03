@@ -145,9 +145,10 @@ http://regnummi.mibox.live:980/live/Jesus/Jesus/2111.m3u8
 #EXTINF:-1,MOVISTAR  ACCION opc. 2
 http://regnummi.mibox.live:980/live/Jesus/Jesus/5127.m3u8
 
-#EXTINF:0,Movistar Cine Ñ
+#EXTINF:0,Movistar DCine
 http://regnummi.mibox.live:980/live/Jesus/Jesus/2113.m3u8
-#EXTINF:0,Movistar Cine Ñ opc. 2
+
+#EXTINF:0,Movistar Cine Ñ
 http://regnummi.mibox.live:980/live/Jesus/Jesus/38.m3u8
 
 #EXTINF:-1,MOVISTAR Series
@@ -167,14 +168,6 @@ http://regnummi.mibox.live:980/live/Jesus/Jesus/1021.m3u8
 http://regnummi.mibox.live:980/live/Jesus/Jesus/2112.m3u8
 #EXTINF:-1,MOVISTAR COMEDIA opc. 2
 http://regnummi.mibox.live:980/live/Jesus/Jesus/5126.m3u8
-
-#EXTINF:-1,Movistar Dcine
-http://regnummi.mibox.live:980/live/Jesus/Jesus/5128.m3u8
-#EXTINF:-1,Movistar Dcine opc. 2
-http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/607/index.m3u8
-
-#EXTINF:-1,MOVISTAR DISNEY
-http://xxedge262.livesports.pw/live/vermdisney4fe56a2fafa38ae9670f/chunklist.m3u8?md5=1lPXYhC5_jDEV3y79mTUNw&expires=1522521527
 
 #EXTINF:-1,CALLE 13
 http://regnummi.mibox.live:980/live/Jesus/Jesus/53.m3u8
