@@ -18,8 +18,6 @@ http://regnummi.mibox.live:980/live/Jesus/Jesus/7491.m3u8
 http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl0/irtve01_lv3_aosv4_gl0/irtve01_lv3_aosv4_gl0.isml/irtve01_lv3_aosv4_gl0-audio=128000-video=400000.m3u8
 #EXTINF:-1,24 HORAS opc. 2
 http://regnummi.mibox.live:980/live/Jesus/Jesus/10.m3u8
-#EXTINF:-1, CLAN  TVE
-http://195.154.151.89:8000/live/PROFESSIONAL/PROFESSIONAL1/8013.m3u8
 
 #EXTINF:-1,ANTENA 3
 http://regnummi.mibox.live:980/live/Jesus/Jesus/6.m3u8
@@ -147,6 +145,8 @@ http://regnummi.mibox.live:980/live/Jesus/Jesus/5127.m3u8
 
 #EXTINF:0,Movistar DCine
 http://regnummi.mibox.live:980/live/Jesus/Jesus/2113.m3u8
+#EXTINF:0,Movistar DCine opc. 2
+http://regnummi.mibox.live:980/live/Jesus/Jesus/5128.m3u8
 
 #EXTINF:0,Movistar Cine Ñ
 http://regnummi.mibox.live:980/live/Jesus/Jesus/38.m3u8
@@ -227,7 +227,10 @@ http://regnummi.mibox.live:980/live/Jesus/Jesus/16.m3u8
 #EXTINF:-1,SYFY HD opc. 2
 http://regnummi.mibox.live:980/live/Jesus/Jesus/6355.m3u8
 
-#EXTINF:-1,A&E
+#EXTINF:-1,XTRM
+http://regnummi.mibox.live:980/live/Jesus/Jesus/4452.m3u8
+
+#EXTINF:-1,Blaze
 http://regnummi.mibox.live:980/live/Jesus/Jesus/71.m3u8
 
 #EXTINF:-1,LIFE TV
@@ -243,6 +246,8 @@ http://regnummi.mibox.live:980/live/Jesus/Jesus/51.m3u8
 
 #EXTINF:-1,Cosmopolitan
 http://regnummi.mibox.live:980/live/Jesus/Jesus/40.m3u8
+#EXTINF:-1,Cosmopolitan opc. 2
+http://regnummi.mibox.live:980/live/Jesus/Jesus/6351.m3u8
 
 #EXTINF:-1,DISCOVERY CHANNEL
 http://regnummi.mibox.live:980/live/Jesus/Jesus/36.m3u8
