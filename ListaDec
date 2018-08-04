@@ -227,6 +227,9 @@ http://regnummi.mibox.live:980/live/Jesus/Jesus/16.m3u8
 #EXTINF:-1,SYFY HD opc. 2
 http://regnummi.mibox.live:980/live/Jesus/Jesus/6355.m3u8
 
+#EXTINF:0,Sundance Channel
+http://regnummi.mibox.live:980/live/Jesus/Jesus/4759.m3u8
+
 #EXTINF:-1,XTRM
 http://regnummi.mibox.live:980/live/Jesus/Jesus/4452.m3u8
 
