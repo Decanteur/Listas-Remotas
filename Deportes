@@ -214,6 +214,9 @@ http://198.255.114.218:8000/live/ez9RrBt05e/czfUqk5epQ/4157.m3u8
 #EXTVLCOPT:network-caching=1000
 http://198.255.114.218:8000/live/ez9RrBt05e/czfUqk5epQ/4156.m3u8
 
+#EXTINF:0,SONY ESPN
+http://cshms2.airtel.tv/wh7f454c46tw1822183975_1333194908/PLTV/88888888/224/3221226076/02.m3u8
+
 #EXTINF:-1,ESPN (BRA)*
 http://landiptv.live:8080/live/vMyPYU3t0/o70Jt4jK0u/68976.m3u8
 #EXTINF:-1,ESPN+ (BRA)*
@@ -227,13 +230,13 @@ http://landiptv.live:8080/live/vMyPYU3t0/o70Jt4jK0u/97652.m3u8
 #EXTINF:-1,Fox Sports Sur*
 http://regnummi.mibox.live:980/live/Jesus/Jesus/6191.m3u8
 #EXTINF:0,Fox Sports opc. 2*
-http://landiptv.live:8080/live/vMyPYU3t0/o70Jt4jK0u/77800.m3u8
+http://mxiptv.org:7000/live/1qoZHo2jmgQLKY4HUDe8/Z4mMTNNkLAsxXHJ4dj9N/52.m3u8
 #EXTINF:0,Fox Sports 1*
 http://landiptv.live:8080/live/vMyPYU3t0/o70Jt4jK0u/77782.m3u8
 #EXTINF:-1,F0X SPORTS 2*
-http://landiptv.live:8080/live/vMyPYU3t0/o70Jt4jK0u/68764.m3u8
+http://mxiptv.org:7000/live/1qoZHo2jmgQLKY4HUDe8/Z4mMTNNkLAsxXHJ4dj9N/53.m3u8
 #EXTINF:0,Fox Sports 3*
-http://landiptv.live:8080/live/vMyPYU3t0/o70Jt4jK0u/77783.m3u8
+http://mxiptv.org:7000/live/1qoZHo2jmgQLKY4HUDe8/Z4mMTNNkLAsxXHJ4dj9N/54.m3u8
 #EXTINF:0,Fox Sports Premium*
 http://landiptv.live:8080/live/vMyPYU3t0/o70Jt4jK0u/68376.m3u8
 
@@ -256,6 +259,9 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8?xtreami
 
 #EXTINF:-1,Extreme Sports*
 http://landiptv.live:8080/live/vMyPYU3t0/o70Jt4jK0u/106457.m3u8
+
+#EXTINF:0,SONY Six
+http://cshms4.airtel.tv/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221225780/01.m3u8
 
 #EXTINF:-1,NeoSports
 http://cshms4.airtel.tv/PLTV/88888888/224/3221225791/01.m3u8
