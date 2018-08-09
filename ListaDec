@@ -704,7 +704,7 @@ http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/index_700_av-p.m3u8
 #EXTINF:-1,CBS NEWS
 http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/index_2200_av-p.m3u8
 #EXTINF:-1 tvg-name="CBS News" tvg-logo="https://i.imgur.com/HoMBdRo.png" group-title="USA",CBS News
-http://tvpremiumhd.club/lista-gratuita/215416/cbsnews.m3u8
+http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
 
 #EXTINF:-1,CNN International Europe
 http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/102/index.m3u8
@@ -722,16 +722,14 @@ http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/05.m3u8
 
 #EXTINF:0,Bloomberg TV Europe (UK)
 http://cdn-videos.akamaized.net/btv/desktop/akamai/europe/live/primary.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5Nd9z70.png" group-title="NOTICIAS",Bloomberg TV US HD
-http://tvpremiumhd.club/lista-gratuita/215416/tv/iptv.php?id=liveproduseast.global.ssl.fastly.net/btv/desktop/us_live
+#EXTINF:-1,Bloomberg TV US HD
+https://liveproduseast.global.ssl.fastly.net/btv/desktop/us_live.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Sky TG24
 http://skyianywhere2-i.akamaihd.net/hls/live/200275/tg24/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KFKktei.png" group-title="NOTICIAS",RT USA HD
-http://tvpremiumhd.club/lista-gratuita/215416/tv/iptv.php?id=secure-streams.akamaized.net/rt-usa/index
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KFKktei.png" group-title="NOTICIAS",RT UK HD
-http://tvpremiumhd.club/lista-gratuita/215416/tv/iptv.php?id=secure-streams.akamaized.net/rt-uk/index
+#EXTINF:-1,RT USA HD
+https://secure-streams.akamaized.net/rt-usa/index.m3u8
 #EXTINF:0,RT UK
 https://secure-streams.akamaized.net/rt-uk/index.m3u8
 
