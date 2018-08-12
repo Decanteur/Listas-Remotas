@@ -31,10 +31,13 @@ http://regnummi.mibox.live:980/live/Jesus/Jesus/2249.m3u8
 #EXTINF:-1,Movistar Fútbol opc. 2
 http://regnummi.mibox.live:980/live/Jesus/Jesus/4932.m3u8
 
-#EXTINF:0,ES: Movistar  Partidazo SD (Solo eventos)
+#EXTINF:0,ES: Movistar  Partidazo SD (sólo eventos)
 http://regnummi.mibox.live:980/live/Jesus/Jesus/5098.m3u8
-#EXTINF:0,Movistar Partidazo opc. 2
+#EXTINF:0,Movistar Partidazo (sólo eventos) opc. 2
 http://regnummi.mibox.live:980/live/Jesus/Jesus/613.m3u8
+
+#EXTINF:-1,MOVISTAR TODO DEPORTES
+http://190.92.0.43:1935/securelive/tdtv85jd5EKL3xWq3/chunklist_w1241310319.m3u8
 
 #EXTINF:-1,Movistar MotoGP*
 http://regnummi.mibox.live:980/live/Jesus/Jesus/2106.m3u8
@@ -113,45 +116,18 @@ http://62.210.99.158:80/live?channelId=121&uid=4486&deviceSn=12cd5a8b567fd9c1
 #EXTINF:-1,SKY Sports Arena opc. 2 (EN)
 http://31.220.0.196:8081/live/ctvs4/playlist.m3u8
 
-#EXTINF:-1,Sky Sport 1 (IT)*
-http://landiptv.live:8080/live/vMyPYU3t0/o70Jt4jK0u/62028.m3u8
-#EXTINF:-1,Sky Sport Football (IT)*
-http://landiptv.live:8080/live/vMyPYU3t0/o70Jt4jK0u/62026.m3u8
-#EXTINF:-1,Sky Sport Arena (IT)*
-http://landiptv.live:8080/live/vMyPYU3t0/o70Jt4jK0u/117212.m3u8
-#EXTINF:-1,Sky Sport Serie A (IT)*
-http://landiptv.live:8080/live/vMyPYU3t0/o70Jt4jK0u/111149.m3u8
-#EXTINF:0,Italy",SKY SPORT NBA HD (IT)*
-http://landiptv.live:8080/live/vMyPYU3t0/o70Jt4jK0u/94095.m3u8
-#EXTINF:-1,Sky Sport 24 (IT)*
-http://landiptv.live:8080/live/vMyPYU3t0/o70Jt4jK0u/63860.m3u8
-
-#EXTINF:0,SKYNET SPORTS 1 SD (SP)*
-http://landiptv.live:8080/live/vMyPYU3t0/o70Jt4jK0u/94097.m3u8
-#EXTINF:0,SKYNET SPORTS 2 SD (SP)*
-http://landiptv.live:8080/live/vMyPYU3t0/o70Jt4jK0u/94098.m3u8
-#EXTINF:0,SKYNET SPORTS 4 SD (SP)*
-http://landiptv.live:8080/live/vMyPYU3t0/o70Jt4jK0u/94100.m3u8
-#EXTINF:0,SKYNET SPORTS 5 SD (SP)*
-http://landiptv.live:8080/live/vMyPYU3t0/o70Jt4jK0u/108409.m3u8
-
 #EXTINF:0,BFM SPORT SD (FR)*
 http://landiptv.live:8080/live/vMyPYU3t0/o70Jt4jK0u/65705.m3u8
-
-#EXTINF:0,CANAL+ SPORT HD (FR)*
-http://landiptv.live:8080/live/vMyPYU3t0/o70Jt4jK0u/104465.m3u8
 
 #EXTINF:0,MOTORSPORT TV SD (FR)*
 http://landiptv.live:8080/live/vMyPYU3t0/o70Jt4jK0u/103096.m3u8
 
-#EXTINF:-1,SFRSport1*
-http://regnummi.mibox.live:980/live/Jesus/Jesus/6300.m3u8
-#EXTINF:-1,SFRSport2*
-http://regnummi.mibox.live:980/live/Jesus/Jesus/6301.m3u8
-#EXTINF:-1,SFRSport3*
-http://regnummi.mibox.live:980/live/Jesus/Jesus/6302.m3u8
-#EXTINF:-1,SFRSport5*
-http://regnummi.mibox.live:980/live/Jesus/Jesus/6303.m3u8
+#EXTINF:0,SFR SPORTS 1 HD (FR)*
+http://landiptv.live:8080/live/vMyPYU3t0/o70Jt4jK0u/62267.m3u8
+#EXTINF:0,SFR SPORTS 2 HD (FR)*
+http://landiptv.live:8080/live/vMyPYU3t0/o70Jt4jK0u/62266.m3u8
+#EXTINF:0,SFR SPORTS 3 HD (FR)*
+http://landiptv.live:8080/live/vMyPYU3t0/o70Jt4jK0u/62265.m3u8
 
 #EXTINF:0,PREMIUM SPORT 1 SD (IT)*
 http://landiptv.live:8080/live/vMyPYU3t0/o70Jt4jK0u/73953.m3u8
@@ -229,13 +205,11 @@ http://landiptv.live:8080/live/vMyPYU3t0/o70Jt4jK0u/100809.m3u8
 
 #EXTINF:-1, ESPN HD (USA)
 http://80.80.160.168/live/6/live.m3u8
-#EXTINF:-1, ESPN Network (USA)*
-http://landiptv.live:8080/live/vMyPYU3t0/o70Jt4jK0u/97652.m3u8
 
-#EXTINF:-1,Fox Sports
-http://regnummi.mibox.live:980/live/Jesus/Jesus/6191.m3u8
-#EXTINF:0,Fox Sports opc. 2*
+#EXTINF:0,Fox Sports (MEX)
 http://ligatv.net:25461/live/ligatvapk02/04082018/399.m3u8?Guap@sTv.m3u8
+#EXTINF:0,Fox Sports opc. 2*
+http://regnummi.mibox.live:980/live/Jesus/Jesus/6191.m3u8
 #EXTINF:-1,F0X SPORTS 2*
 http://ligatv.net:25461/live/ligatvapk02/04082018/398.m3u8
 #EXTINF:0,Fox Sports 3*
@@ -266,7 +240,7 @@ http://landiptv.live:8080/live/vMyPYU3t0/o70Jt4jK0u/106457.m3u8
 #EXTINF:0,SONY Six
 http://cshms4.airtel.tv/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221225780/01.m3u8
 
-#EXTINF:-1,NeoSports
+#EXTINF:-1,NeoSports (UK)
 http://cshms4.airtel.tv/PLTV/88888888/224/3221225791/01.m3u8
 
 #EXTINF:-1,TYC SPORTS
@@ -296,6 +270,15 @@ http://144.217.64.126:8080/live/coke123/coke123/21729.m3u8
 #EXTINF:0,BT SPORT EXTRA
 http://cdnv.cli.tn/iptv/ch1830?code=610116485444847
 
+#EXTINF:-1,SFRSport1*
+http://regnummi.mibox.live:980/live/Jesus/Jesus/6300.m3u8
+#EXTINF:-1,SFRSport2*
+http://regnummi.mibox.live:980/live/Jesus/Jesus/6301.m3u8
+#EXTINF:-1,SFRSport3*
+http://regnummi.mibox.live:980/live/Jesus/Jesus/6302.m3u8
+#EXTINF:-1,SFRSport5*
+http://regnummi.mibox.live:980/live/Jesus/Jesus/6303.m3u8
+
 #EXTINF:-1,SK 1 HD
 http://31.220.0.134:8081/live/sk1/playlist.m3u8
 #EXTINF:-1,SK2 HD
@@ -316,8 +299,8 @@ http://primestreams.tv:826/live/Rocky01/Rocky01/1625.m3u8
 
 #EXTINF:0,USA | Tennis Channel HD
 http://server.stablechannels.tv:25461/live/5RUTvfRf3/mD2fb0Y3z1/3074.m3u8
-#EXTINF:0,USA | ESPN
-http://80.80.160.168/live/6/2500000/live.m3u8
+#EXTINF:0,ESPN (US)
+http://80.80.160.168/live/6/live.m3u8
 #EXTINF:0,USA | ESPN 2
 http://server.stablechannels.tv:25461/live/5RUTvfRf3/mD2fb0Y3z1/3118.m3u8
 #EXTINF:0,USA | ESPN News US HD
@@ -326,25 +309,33 @@ http://server.stablechannels.tv:25461/live/5RUTvfRf3/mD2fb0Y3z1/3117.m3u8
 http://landiptv.live:8080/live/vMyPYU3t0/o70Jt4jK0u/97678.m3u8
 #EXTINF:0,USA | Fox Sports 1
 http://tv.latintvweb.com:8000/live/carmen/carmen/11605.m3u8
+#EXTINF:0,USA | NBA TV HD*
+http://regnummi.mibox.live:980/live/Jesus/Jesus/6525.m3u8
 #EXTINF:0,USA | NBC Sport Network HD
 http://server.stablechannels.tv:25461/live/5RUTvfRf3/mD2fb0Y3z1/3091.m3u8
+#EXTINF:0,USA | NHL Network
+http://server.stablechannels.tv:25461/live/5RUTvfRf3/mD2fb0Y3z1/3088.m3u8
 
-#EXTINF:0,NBA TV
-http://regnummi.mibox.live:980/live/Jesus/Jesus/6525.m3u8
+#EXTINF:-1,BBC 2
+http://31.220.0.134:8081/live/bbc2/playlist.m3u8
+
+#EXTINF:-1,TENNIS CHANNEL
+http://primestreams.tv:826/live/Rocky01/Rocky01/31209.m3u8
+
+#EXTINF:0,NBA
+http://189.216.247.113/Content/HLS/Live/Channel(NBA_TV)/index.m3u8
 #EXTINF:-1,NBA
 http://31.220.0.134:8081/live/nba/playlist.m3u8
 
 #EXTINF:-1,NFL TV
 https://svglive3-event.level3.nfl.com/nflent3/live/nfl_now/NFLNOW_1200k.m3u8
-#EXTINF:-1 tvg-logo="https://www.cunninghamtelephoneandcable.com/wp-content/uploads/2016/08/NFL-1.jpg " group-title="DEPORTES",NFL Network
-http://server.stablechannels.tv:25461/live/5RUTvfRf3/mD2fb0Y3z1/3088.m3u8
-#EXTINF:0 type="favorites" channelId="-1", NFL Now
+#EXTINF:-1,NFL Network
 http://svglive3-event.level3.nfl.com/nflent3/live/nfl_now/NFLNOW.m3u8
-#EXTINF:-0 tvg-logo="https://i.imgur.com/HhEOqo2.png" group-title="DEPORTES" group-title="TV USA",NFL SPORTS
-http://tvpremiumhd.club/lista-gratuita/074719/tv/in/VJzQNm.m3u8
 
-#EXTINF:-1,MLB Network*
+#EXTINF:-1,MLB Network
 http://landiptv.live:8080/live/vMyPYU3t0/o70Jt4jK0u/68492.m3u8
+#EXTINF:-1,MLB Network
+http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8?
 
 #EXTINF:-1, Red NHL
 https://live119.elrobacanales.com/budtv/nhl.network.usa/playlist.m3u8
@@ -364,6 +355,8 @@ http://s69362.cdn.ngenix.net/live/_definst_/Stream1/chunklist.m3u8
 http://righttv.ddns.net:25461/live/trial30/trial30/11261.m3u8
 #EXTINF:0,FightBox HD*
 http://landiptv.live:8080/live/vMyPYU3t0/o70Jt4jK0u/77775.m3u8
+#EXTINF:-1,Fight time (ufc)
+http://node01.openfutbol.es/SVoriginOperatorEdge/128761.smil/.m3u8
 
 #EXTINF:-1,SONY TEN1 HD
 http://cshms3.airtel.tv/wh7f454c46tw2224230268_1388919955/PLTV/88888888/224/3221225875/01.m3u8
@@ -377,6 +370,10 @@ http://cshms4.airtel.tv/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221
 http://cshms3.airtel.tv/wh7f454c46tw2717373403_526904823/PLTV/88888888/224/3221225933/01.m3u8
 #EXTINF:-1,SONY SIX HD
 http://cshms4.airtel.tv/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221225780/01.m3u8
+#EXTINF:-1,SONY ESPN
+http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226076/index.m3u8
+#EXTINF:-1,SONY ESPN opc. 2
+http://cshms2.airtel.tv/wh7f454c46tw1822183975_1333194908/PLTV/88888888/224/3221226076/02.m3u8
 
 #EXTINF:-1,DSports HD
 http://cshms4.airtel.tv/wh7f454c46tw2959729406_596421737/PLTV/88888888/224/3221226484/04.m3u8
