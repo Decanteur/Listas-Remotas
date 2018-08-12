@@ -505,9 +505,11 @@ http://186.33.227.198/DXTV/smil:DXTV.smil/playlist.m3u8?tecnotv.info?iptv.m3u8
 http://186.33.227.198/DXTV/smil:DXTV.smil/playlist.m3u8
 
 #EXTINF:-1,ESPN HD (MEX)*
-http://landiptv.live:8080/live/vMyPYU3t0/o70Jt4jK0u/68401.m3u8
+http://ligatv.net:25461/live/ligatvapk02/04082018/393.m3u8
+#EXTINF:-1,Espn Ex
+http://ligatv.net:25461/live/ligatvapk02/04082018/229.m3u8?Guap@sTv.m3u8
 #EXTINF:-1,ESPN 2 HD (MEX)*
-http://landiptv.live:8080/live/vMyPYU3t0/o70Jt4jK0u/68403.m3u8
+http://ligatv.net:25461/live/ligatvapk02/04082018/394.m3u8
 #EXTINF:-1,ESPN 3 HD (MEX)*
 http://landiptv.live:8080/live/vMyPYU3t0/o70Jt4jK0u/68402.m3u8
 #EXTINF:-1,ESPN+ HD (MEX)*
@@ -533,14 +535,12 @@ http://80.80.160.168/live/6/live.m3u8
 #EXTINF:-1, ESPN Network (USA)*
 http://landiptv.live:8080/live/vMyPYU3t0/o70Jt4jK0u/97652.m3u8
 
-#EXTINF:-1,Fox Sports Sur*
+#EXTINF:-1,Fox Sports
 http://regnummi.mibox.live:980/live/Jesus/Jesus/6191.m3u8
 #EXTINF:0,Fox Sports opc. 2*
-http://landiptv.live:8080/live/vMyPYU3t0/o70Jt4jK0u/77800.m3u8
-#EXTINF:0,Fox Sports 1*
-http://landiptv.live:8080/live/vMyPYU3t0/o70Jt4jK0u/77782.m3u8
+http://ligatv.net:25461/live/ligatvapk02/04082018/399.m3u8?Guap@sTv.m3u8
 #EXTINF:-1,F0X SPORTS 2*
-http://landiptv.live:8080/live/vMyPYU3t0/o70Jt4jK0u/68764.m3u8
+http://ligatv.net:25461/live/ligatvapk02/04082018/398.m3u8
 #EXTINF:0,Fox Sports 3*
 http://landiptv.live:8080/live/vMyPYU3t0/o70Jt4jK0u/77783.m3u8
 #EXTINF:0,Fox Sports Premium*
