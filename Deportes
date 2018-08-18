@@ -15,11 +15,17 @@ http://regnummi.mibox.live:980/live/Jesus/Jesus/3317.m3u8
 http://regnummi.mibox.live:980/live/Jesus/Jesus/66.m3u8
 #EXTINF:-1,Bein LaLiga opción 2*
 http://regnummi.mibox.live:980/live/Jesus/Jesus/4808.m3u8
+#EXTINF:-1,Bein LaLiga opción 3*
+http://usuarios.club/usuarios/src1/ESPN/agosto/agosto.m3u8
 
 #EXTINF:-1,LaLiga TV
 http://regnummi.mibox.live:980/live/Jesus/Jesus/25.m3u8
 #EXTINF:-1,LALiga TV opc. 2
 http://regnummi.mibox.live:980/live/Jesus/Jesus/4806.m3u8
+#EXTINF:-1,LALiga TV opc. 3
+http://usuarios.club/usuarios/src5/BeinSportsN/agosto/agosto.m3u8
+#EXTINF:-1,LALiga TV opc. 4
+http://usuarios.club/usuarios/src1/ESPN2/agosto/agosto.m3u8
 
 #EXTINF:-1,LaLiga 1|2|3
 http://regnummi.mibox.live:980/live/Jesus/Jesus/5099.m3u8
@@ -30,6 +36,8 @@ http://regnummi.mibox.live:980/live/Jesus/Jesus/5153.m3u8
 http://regnummi.mibox.live:980/live/Jesus/Jesus/2249.m3u8
 #EXTINF:-1,Movistar Fútbol opc. 2
 http://regnummi.mibox.live:980/live/Jesus/Jesus/4932.m3u8
+#EXTINF:-1,Movistar Fútbol opc. 3
+http://usuarios.club/usuarios/src5/MoviFutbol/agosto/agosto.m3u8
 
 #EXTINF:0,ES: Movistar  Partidazo SD (sólo eventos)
 http://regnummi.mibox.live:980/live/Jesus/Jesus/5098.m3u8
@@ -58,9 +66,13 @@ http://landiptv.live:8080/live/vMyPYU3t0/o70Jt4jK0u/104748.m3u8
 http://regnummi.mibox.live:980/live/Jesus/Jesus/61.m3u8
 #EXTINF:-1,Movistar Deportes 1 opc. 2
 http://regnummi.mibox.live:980/live/Jesus/Jesus/6319.m3u8
+#EXTINF:-1,Movistar Deportes 1 opc. 3
+http://usuarios.club/usuarios/src5/MoviDeportes/agosto/agosto.m3u8
 #EXTINF:-1,Movistar Deportes 2
 http://regnummi.mibox.live:980/live/Jesus/Jesus/37.m3u8
 #EXTINF:-1,Movistar Deportes 2 opc. 2
+http://usuarios.club/usuarios/src5/MoviDeportes2/agosto/agosto.m3u8
+#EXTINF:-1,Movistar Deportes 2 opc. 3
 http://regnummi.mibox.live:980/live/Jesus/Jesus/6320.m3u8
 
 #EXTINF:-1,MOVISTAR GOLF
@@ -82,7 +94,7 @@ http://regnummi.mibox.live:980/live/Jesus/Jesus/1801.m3u8
 #EXTINF:-1,Eurosport 1 (ENG)*
 http://landiptv.live:8080/live/vMyPYU3t0/o70Jt4jK0u/104534.m3u8
 #EXTINF:-1,Eurosport 2 (ENG)*
-http://landiptv.live:8080/live/vMyPYU3t0/o70Jt4jK0u/81427.m3u8
+http://161.0.157.9/PLTV/88888888/224/3221226881/index.m3u8
 
 #EXTINF:0,EUROSPORT 1 HD (FR)*
 http://landiptv.live:8080/live/vMyPYU3t0/o70Jt4jK0u/73680.m3u8
@@ -176,14 +188,29 @@ http://186.33.227.198/DXTV/smil:DXTV.smil/playlist.m3u8
 
 #EXTINF:-1,ESPN (MEX)*
 http://ligatv.net:25461/live/ligatvapk02/04082018/393.m3u8
+#EXTINF:-1,ESPN opc. 2
+http://usuarios.club/usuarios/src1/ESPN/agosto/agosto.m3u8
+#EXTINF:-1,ESPN opc. 3
+http://usuarios.club/usuarios/src1/ESPNMX/agosto/agosto.m3u8
+#EXTINF:-1,ESPN opc. 4
+http://66.70.179.201:25461/live/cake/lomioestuyo/280.m3u8?ixtlaarreola.m3u8
+#EXTINF:-1,ESPN opc. 5
+http://ligatv.net:25461/live/ligatvapk02/04082018/393.m3u8
 #EXTINF:-1,Espn Ex
 http://ligatv.net:25461/live/ligatvapk02/04082018/229.m3u8?Guap@sTv.m3u8
 #EXTINF:-1,ESPN 2 HD (MEX)*
 http://ligatv.net:25461/live/ligatvapk02/04082018/394.m3u8
+#EXTINF:-1,ESPN 2 opc. 2
+http://usuarios.club/usuarios/src1/ESPN2/agosto/agosto.m3u8
+#EXTINF:-1,ESPN 2 opc. 3
+http://ligatv.net:25461/live/ligatvapk02/04082018/394.m3u8
 #EXTINF:-1,ESPN 3 HD (MEX)*
-http://landiptv.live:8080/live/vMyPYU3t0/o70Jt4jK0u/68402.m3u8
+http://ligatv.net:25461/live/ligatvapk02/04082018/395.m3u8
 #EXTINF:-1,ESPN+ HD (MEX)*
 http://landiptv.live:8080/live/vMyPYU3t0/o70Jt4jK0u/68470.m3u8
+
+#EXTINF:-1,ESPN (ARG)
+http://ligatv.net:25461/live/ligatvapk02/04082018/229.m3u8?Guap@sTv.m3u8
 
 #EXTINF:-1,ESPN Sur*
 http://regnummi.mibox.live:980/live/Jesus/Jesus/6192.m3u8
@@ -198,44 +225,68 @@ http://198.255.114.218:8000/live/ez9RrBt05e/czfUqk5epQ/4156.m3u8
 #EXTINF:0,SONY ESPN
 http://cshms2.airtel.tv/wh7f454c46tw1822183975_1333194908/PLTV/88888888/224/3221226076/02.m3u8
 
-#EXTINF:-1,ESPN (BRA)*
-http://landiptv.live:8080/live/vMyPYU3t0/o70Jt4jK0u/68976.m3u8
-#EXTINF:-1,ESPN+ (BRA)*
-http://landiptv.live:8080/live/vMyPYU3t0/o70Jt4jK0u/100809.m3u8
-
 #EXTINF:-1, ESPN HD (USA)
 http://80.80.160.168/live/6/live.m3u8
 
 #EXTINF:0,Fox Sports (MEX)
 http://ligatv.net:25461/live/ligatvapk02/04082018/399.m3u8?Guap@sTv.m3u8
+#EXTINF:0,Fox Sports (MEX opc. 2)
+http://usuarios.club/usuarios/src1/FoxSportsMX/agosto/agosto.m3u8
+#EXTINF:0,Fox Sports (MEX opc. 3)
+http://usuarios.club/usuarios/src5/MoviFutbol/agosto/agosto.m3u8
+#EXTINF:0,Fox Sports (MEX opc. 4)
+http://usuarios.club/usuarios/src5/MoviXtra/agosto/agosto.m3u8
 #EXTINF:0,Fox Sports opc. 2*
 http://regnummi.mibox.live:980/live/Jesus/Jesus/6191.m3u8
+#EXTINF:0,Fox Sports opc. 3
+http://usuarios.club/usuarios/src1/FoxSports/agosto/agosto.m3u8
+#EXTINF:0,Fox Sports opc. 4
+http://usuarios.club/usuarios/src1/FoxSportsMX/agosto/agosto.m3u8
+#EXTINF:0,Fox Sports opc. 5
+http://66.70.179.201:25461/live/cake/lomioestuyo/61.m3u8?ixtlaarreola.m3u8
+#EXTINF:0,Fox Sports (COL)
+http://usuarios.club/usuarios/src5/MoviDeportes/agosto/agosto.m3u8
 #EXTINF:-1,F0X SPORTS 2*
 http://ligatv.net:25461/live/ligatvapk02/04082018/398.m3u8
+#EXTINF:-1,F0X SPORTS 2 opc. 2
+http://usuarios.club/usuarios/src1/FoxSports2/agosto/agosto.m3u8
+#EXTINF:-1,F0X SPORTS 2 (MEX)
+http://usuarios.club/usuarios/src1/FoxSports2MX/agosto/agosto.m3u8
+#EXTINF:0,Fox Sports 2 (COL)
+http://usuarios.club/usuarios/src5/MoviDeportes2/agosto/agosto.m3u8
 #EXTINF:0,Fox Sports 3*
 http://mxiptv.org:7000/live/1qoZHo2jmgQLKY4HUDe8/Z4mMTNNkLAsxXHJ4dj9N/54.m3u8
 #EXTINF:0,Fox Sports Premium*
 http://landiptv.live:8080/live/vMyPYU3t0/o70Jt4jK0u/68376.m3u8
 
-#EXTINF:0,Fox Sports 1 (Arg)*
-http://landiptv.live:8080/live/vMyPYU3t0/o70Jt4jK0u/68751.m3u8
-#EXTINF:0,Fox Sports 2 (Arg)*
-http://landiptv.live:8080/live/vMyPYU3t0/o70Jt4jK0u/68430.m3u8
-#EXTINF:0,Fox Sports 3 (Arg)*
-http://landiptv.live:8080/live/vMyPYU3t0/o70Jt4jK0u/104208.m3u8
+#EXTINF:-1,DirectTV Sports
+http://usuarios.club/usuarios/src5/DirectTVSports/agosto/agosto.m3u8
+#EXTINF:-1,DirectTV Sports 2
+http://usuarios.club/usuarios/src5/DirectTVSports2/agosto/agosto.m3u8
 
-#EXTINF:0,DIRECTV SPORT+ SD (MX)*
-http://landiptv.live:8080/live/vMyPYU3t0/o70Jt4jK0u/68642.m3u8
-#EXTINF:0,DIRECTV SPORT 1 SD (MX)*
-http://landiptv.live:8080/live/vMyPYU3t0/o70Jt4jK0u/68872.m3u8
-#EXTINF:0,DIRECTV SPORT 2 SD (MX)*
-http://landiptv.live:8080/live/vMyPYU3t0/o70Jt4jK0u/68644.m3u8
+#EXTINF:-1,TNT SPORTS
+http://usuarios.club/usuarios/src5/TNTSports/agosto/agosto.m3u8
+
+#EXTINF:-1,Univisión Deportes
+http://usuarios.club/usuarios/src5/UnivisionDeportes/agosto/agosto.m3u8
+#EXTINF:-1,Univisión TDN
+http://usuarios.club/usuarios/src5/UnivisionTDN/agosto/agosto.m3u8
+
+#EXTINF:-1,ClaroSport
+http://ligatv.net:25461/live/ligatvapk02/04082018/227.m3u8
+
+#EXTINF:-1,WinSport
+http://ligatv.net:25461/live/ligatvapk02/04082018/236.m3u8
+#EXTINF:-1,WinSport opc. 2
+http://usuarios.club/usuarios/src5/WinSports/agosto/agosto.m3u8
+
+#EXTINF:-1,TYC SPORTS
+http://regnummi.mibox.live:980/live/Jesus/Jesus/5169.m3u8
+#EXTINF:-1,TYC SPORTS opc. 2
+http://usuarios.club/usuarios/src5/TycSports/agosto/agosto.m3u8
 
 #EXTINF:-1,RED BULL TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8?xtreamiptv.m3u8
-
-#EXTINF:-1,Extreme Sports*
-http://landiptv.live:8080/live/vMyPYU3t0/o70Jt4jK0u/106457.m3u8
 
 #EXTINF:0,SONY Six
 http://cshms4.airtel.tv/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221225780/01.m3u8
@@ -243,15 +294,24 @@ http://cshms4.airtel.tv/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221
 #EXTINF:-1,NeoSports (UK)
 http://cshms4.airtel.tv/PLTV/88888888/224/3221225791/01.m3u8
 
-#EXTINF:-1,TYC SPORTS
-http://regnummi.mibox.live:980/live/Jesus/Jesus/5169.m3u8
-
 #EXTINF:-1,SPORT TV 1*
 http://regnummi.mibox.live:980/live/Jesus/Jesus/4460.m3u8
+#EXTINF:-1,SPORT TV 1 opc. 2
+http://usuarios.club/usuarios/src5/FoxSportsSur/agosto/agosto.m3u8
+#EXTINF:-1,SPORT TV 1 opc. 3
+http://usuarios.club/usuarios/src3/MrBean/agosto/agosto.m3u8
 #EXTINF:-1,SPORT TV 2*
 http://regnummi.mibox.live:980/live/Jesus/Jesus/4461.m3u8
+#EXTINF:-1,SPORT TV 2 opc. 2
+http://usuarios.club/usuarios/src5/FoxSportsSur2/agosto/agosto.m3u8
+#EXTINF:-1,SPORT TV 2 opc. 3
+http://usuarios.club/usuarios/src1/MTV/agosto/agosto.m3u8
 #EXTINF:-1,SPORT TV 3*
 http://regnummi.mibox.live:980/live/Jesus/Jesus/4462.m3u8
+#EXTINF:-1,SPORT TV 3 opc. 2
+http://usuarios.club/usuarios/src5/FoxSportsSur3/agosto/agosto.m3u8
+#EXTINF:-1,SPORT TV 3 opc. 3
+http://usuarios.club/usuarios/src1/MTVLive/agosto/agosto.m3u8
 #EXTINF:-1,SPORT TV 4 HD*
 http://landiptv.live:8080/live/vMyPYU3t0/o70Jt4jK0u/114850.m3u8
 #EXTINF:-1,SPORT TV 5 HD*
@@ -347,6 +407,8 @@ http://regnummi.mibox.live:980/live/Jesus/Jesus/5798.m3u8
 
 #EXTINF:-1,UFC Network
 http://regnummi.mibox.live:980/live/Jesus/Jesus/5962.m3u8
+#EXTINF:-1,UFC Network opc. 2
+http://usuarios.club/usuarios/src5/UFCNetwork/agosto/agosto.m3u8
 
 #EXTINF:-1,CBC Sport
 http://s69362.cdn.ngenix.net/live/_definst_/Stream1/chunklist.m3u8
