@@ -8,8 +8,17 @@ http://regnummi.mibox.live:980/live/Jesus/Jesus/65.m3u8
 #EXTINF:-1,beIN Sports Opción 2*
 http://regnummi.mibox.live:980/live/Jesus/Jesus/4811.m3u8
 
+#EXTINF:-1,BeIN Sports 1 HD (FR)
+http://ca.stablechannels.tv:25461/live/nxR2R4MB7/52LM7ql5ha/4054.m3u8
+#EXTINF:-1,BeIN Sports 2 HD (FR)
+http://ca.stablechannels.tv:25461/live/nxR2R4MB7/52LM7ql5ha/4053.m3u8
+#EXTINF:-1,BeIN Sports 3 HD (FR)
+http://ca.stablechannels.tv:25461/live/nxR2R4MB7/52LM7ql5ha/4052.m3u8
+
 #EXTINF:0,Bein Sports Ñ*
 http://regnummi.mibox.live:980/live/Jesus/Jesus/3317.m3u8
+#EXTINF:-1,Bein Sports Ñ opc. 2
+http://ca.stablechannels.tv:25461/live/nxR2R4MB7/52LM7ql5ha/4600.m3u8
 
 #EXTINF:-1,Bein LaLiga opción 1*
 http://regnummi.mibox.live:980/live/Jesus/Jesus/66.m3u8
@@ -66,6 +75,8 @@ http://landiptv.live:8080/live/vMyPYU3t0/o70Jt4jK0u/104748.m3u8
 http://regnummi.mibox.live:980/live/Jesus/Jesus/61.m3u8
 #EXTINF:-1,Movistar Deportes 1 opc. 2
 http://regnummi.mibox.live:980/live/Jesus/Jesus/6319.m3u8
+#EXTINF:-1,Movistar Deportes (PERU)
+http://ca.stablechannels.tv:25461/live/nxR2R4MB7/52LM7ql5ha/4562.m3u8
 #EXTINF:-1,Movistar Deportes 1 opc. 3
 http://usuarios.club/usuarios/src5/MoviDeportes/agosto/agosto.m3u8
 #EXTINF:-1,Movistar Deportes 2
@@ -114,19 +125,26 @@ http://landiptv.live:8080/live/vMyPYU3t0/o70Jt4jK0u/64774.m3u8
 http://65.254.55.10:4000/live/197/197.m3u8
 
 #EXTINF:-1,SKY Sports Main Event (EN)
-http://cdnv.cli.tn/iptv/ch914?code=610116485444847
+http://31.220.0.134:8081/live/jtvs1/playlist.m3u8
 #EXTINF:-1,SKY Sports Football (EN)
-http://cdnv.cli.tn/iptv/ch922?code=610116485444847
+http://163.172.43.30:8081/live/skfoot/playlist.m3u8
 #EXTINF:0,SKY SPORTS Action (EN)
-http://cdnv.cli.tn/iptv/ch915?code=610116485444847
+http://163.172.43.30:8081/live/skacti/playlist.m3u8
 #EXTINF:0,SKY SPORT Premier League (EN)
-http://cdnv.cli.tn/iptv/ch937?code=610116485444847
+http://163.172.43.30:8081/live/skpre/playlist.m3u8
 #EXTINF:-1,SKY Sport Golf (EN)
-http://cdnv.cli.tn/iptv/ch916?code=610116485444847
+http://163.172.43.30:8081/live/skgolf/playlist.m3u8
 #EXTINF:-1,SKY Sports Arena (EN)
-http://62.210.99.158:80/live?channelId=121&uid=4486&deviceSn=12cd5a8b567fd9c1
+http://163.172.43.30:8081/live/skaren/playlist.m3u8
 #EXTINF:-1,SKY Sports Arena opc. 2 (EN)
 http://31.220.0.196:8081/live/ctvs4/playlist.m3u8
+
+#EXTINF:-1,Sky Sport 1 HD (DE)
+http://ca.stablechannels.tv:25461/live/nxR2R4MB7/52LM7ql5ha/4075.m3u8
+#EXTINF:-1,Sky Sport 2 HD (DE)
+http://ca.stablechannels.tv:25461/live/nxR2R4MB7/52LM7ql5ha/4074.m3u8
+#EXTINF:-1,Sky Sport Bundesliga 1 HD (DE)
+http://ca.stablechannels.tv:25461/live/nxR2R4MB7/52LM7ql5ha/4072.m3u8
 
 #EXTINF:0,BFM SPORT SD (FR)*
 http://landiptv.live:8080/live/vMyPYU3t0/o70Jt4jK0u/65705.m3u8
@@ -134,49 +152,8 @@ http://landiptv.live:8080/live/vMyPYU3t0/o70Jt4jK0u/65705.m3u8
 #EXTINF:0,MOTORSPORT TV SD (FR)*
 http://landiptv.live:8080/live/vMyPYU3t0/o70Jt4jK0u/103096.m3u8
 
-#EXTINF:0,SFR SPORTS 1 HD (FR)*
-http://landiptv.live:8080/live/vMyPYU3t0/o70Jt4jK0u/62267.m3u8
-#EXTINF:0,SFR SPORTS 2 HD (FR)*
-http://landiptv.live:8080/live/vMyPYU3t0/o70Jt4jK0u/62266.m3u8
-#EXTINF:0,SFR SPORTS 3 HD (FR)*
-http://landiptv.live:8080/live/vMyPYU3t0/o70Jt4jK0u/62265.m3u8
-
-#EXTINF:0,PREMIUM SPORT 1 SD (IT)*
-http://landiptv.live:8080/live/vMyPYU3t0/o70Jt4jK0u/73953.m3u8
-#EXTINF:0,PREMIUM SPORT 2 SD (IT)*
-http://landiptv.live:8080/live/vMyPYU3t0/o70Jt4jK0u/114625.m3u8
-
-#EXTINF:0,SKY SPORT 2 HD (DE)*
-http://landiptv.live:8080/live/vMyPYU3t0/o70Jt4jK0u/62068.m3u8
-#EXTINF:0,SKY SPORT 5 HD (DE)*
-http://landiptv.live:8080/live/vMyPYU3t0/o70Jt4jK0u/64797.m3u8
-#EXTINF:0,SKY SPORT 6 HD (DE)*
-http://landiptv.live:8080/live/vMyPYU3t0/o70Jt4jK0u/64796.m3u8
-#EXTINF:0,SKY SPORT 7 HD (DE)*
-http://landiptv.live:8080/live/vMyPYU3t0/o70Jt4jK0u/64795.m3u8
-#EXTINF:0,SKY SPORT BUNDESLIGA 1 HD (DE)*
-http://landiptv.live:8080/live/vMyPYU3t0/o70Jt4jK0u/64778.m3u8
-#EXTINF:0,SKY SPORT BUNDESLIGA 2 HD (DE)*
-http://landiptv.live:8080/live/vMyPYU3t0/o70Jt4jK0u/64777.m3u8
-#EXTINF:0,SKY SPORT BUNDESLIGA 3 HD (DE)*
-http://landiptv.live:8080/live/vMyPYU3t0/o70Jt4jK0u/64776.m3u8
-#EXTINF:0,SKY SPORT BUNDESLIGA 4 HD (DE)*
-http://landiptv.live:8080/live/vMyPYU3t0/o70Jt4jK0u/64775.m3u8
-#EXTINF:0,SKY SPORT BUNDESLIGA 5 HD (DE)*
-http://landiptv.live:8080/live/vMyPYU3t0/o70Jt4jK0u/64784.m3u8
-#EXTINF:0,SKY SPORT BUNDESLIGA 6 HD (DE)*
-http://landiptv.live:8080/live/vMyPYU3t0/o70Jt4jK0u/86186.m3u8
-#EXTINF:0,SKY SPORT BUNDESLIGA 7 HD (DE)*
-http://landiptv.live:8080/live/vMyPYU3t0/o70Jt4jK0u/97832.m3u8
-#EXTINF:0,SKY SPORT 24 SD (DE)*
-http://landiptv.live:8080/live/vMyPYU3t0/o70Jt4jK0u/86174.m3u8
-
-#EXTINF:0,ELEVEN SPORTS 1 HD (POL)*
-http://landiptv.live:8080/live/vMyPYU3t0/o70Jt4jK0u/78071.m3u8
-#EXTINF:0,ELEVEN SPORTS 2 HD (POL)*
-http://landiptv.live:8080/live/vMyPYU3t0/o70Jt4jK0u/78072.m3u8
-#EXTINF:0,ELEVEN SPORTS 3 HD (POL)*
-http://landiptv.live:8080/live/vMyPYU3t0/o70Jt4jK0u/78073.m3u8
+#EXTINF:-1 ,Automoto Tv (IT)
+http://178.22.187.253:1935/streaming-tv/mp4:myStream3/playlist.m3u8
 
 #EXTINF:0,Todo Deportes TV
 http://190.92.0.43:1935/securelive/tdtv85jd5EKL3xWq3/chunklist_w1241310319.m3u8
@@ -186,14 +163,44 @@ http://186.33.227.198/DXTV/smil:DXTV.smil/playlist.m3u8?tecnotv.info?iptv.m3u8
 #EXTINF:0,DXTV DEPORTES opc. 2
 http://186.33.227.198/DXTV/smil:DXTV.smil/playlist.m3u8
 
+#EXTINF:-1,Claro Sports
+http://ca.stablechannels.tv:25461/live/nxR2R4MB7/52LM7ql5ha/4599.m3u8
+
+#EXTINF:-1,DirectTV Sports
+http://usuarios.club/usuarios/src5/DirectTVSports/agosto/agosto.m3u8
+#EXTINF:-1,Directv Sports HD
+http://ca.stablechannels.tv:25461/live/nxR2R4MB7/52LM7ql5ha/4103.m3u8
+#EXTINF:-1,DirectTV Sports 2
+http://usuarios.club/usuarios/src5/DirectTVSports2/agosto/agosto.m3u8
+#EXTINF:-1,DirecTv Sports 2 opc. 2
+http://ca.stablechannels.tv:25461/live/nxR2R4MB7/52LM7ql5ha/4597.m3u8
+
+#EXTINF:-1,TNT SPORTS
+http://usuarios.club/usuarios/src5/TNTSports/agosto/agosto.m3u8
+
+#EXTINF:-1,Univisión Deportes
+http://usuarios.club/usuarios/src5/UnivisionDeportes/agosto/agosto.m3u8
+#EXTINF:-1,Univisión TDN
+http://usuarios.club/usuarios/src5/UnivisionTDN/agosto/agosto.m3u8
+
+#EXTINF:-1,WinSport
+http://ligatv.net:25461/live/ligatvapk02/04082018/236.m3u8
+#EXTINF:-1,WinSport opc. 2
+http://usuarios.club/usuarios/src5/WinSports/agosto/agosto.m3u8
+
+#EXTINF:-1,TYC SPORTS
+http://regnummi.mibox.live:980/live/Jesus/Jesus/5169.m3u8
+#EXTINF:-1,TYC SPORTS opc. 2
+http://usuarios.club/usuarios/src5/TycSports/agosto/agosto.m3u8
+
 #EXTINF:-1,ESPN (MEX)*
-http://ligatv.net:25461/live/ligatvapk02/04082018/393.m3u8
+http://ca.stablechannels.tv:25461/live/nxR2R4MB7/52LM7ql5ha/4752.m3u8
 #EXTINF:-1,ESPN opc. 2
 http://usuarios.club/usuarios/src1/ESPN/agosto/agosto.m3u8
 #EXTINF:-1,ESPN opc. 3
 http://usuarios.club/usuarios/src1/ESPNMX/agosto/agosto.m3u8
 #EXTINF:-1,ESPN opc. 4
-http://66.70.179.201:25461/live/cake/lomioestuyo/280.m3u8?ixtlaarreola.m3u8
+http://ca.stablechannels.tv:25461/live/nxR2R4MB7/52LM7ql5ha/4094.m3u8
 #EXTINF:-1,ESPN opc. 5
 http://ligatv.net:25461/live/ligatvapk02/04082018/393.m3u8
 #EXTINF:-1,Espn Ex
@@ -203,14 +210,22 @@ http://ligatv.net:25461/live/ligatvapk02/04082018/394.m3u8
 #EXTINF:-1,ESPN 2 opc. 2
 http://usuarios.club/usuarios/src1/ESPN2/agosto/agosto.m3u8
 #EXTINF:-1,ESPN 2 opc. 3
-http://ligatv.net:25461/live/ligatvapk02/04082018/394.m3u8
+http://ca.stablechannels.tv:25461/live/nxR2R4MB7/52LM7ql5ha/4595.m3u8
 #EXTINF:-1,ESPN 3 HD (MEX)*
-http://ligatv.net:25461/live/ligatvapk02/04082018/395.m3u8
+http://ca.stablechannels.tv:25461/live/nxR2R4MB7/52LM7ql5ha/4594.m3u8
 #EXTINF:-1,ESPN+ HD (MEX)*
-http://landiptv.live:8080/live/vMyPYU3t0/o70Jt4jK0u/68470.m3u8
+http://ca.stablechannels.tv:25461/live/nxR2R4MB7/52LM7ql5ha/4751.m3u8
 
 #EXTINF:-1,ESPN (ARG)
-http://ligatv.net:25461/live/ligatvapk02/04082018/229.m3u8?Guap@sTv.m3u8
+http://ca.stablechannels.tv:25461/live/nxR2R4MB7/52LM7ql5ha/4596.m3u8
+#EXTINF:-1,ESPN 2 (ARG)
+http://ca.stablechannels.tv:25461/live/nxR2R4MB7/52LM7ql5ha/4091.m3u8
+#EXTINF:-1,ESPN 2 (ARG) opc. 2
+http://ca.stablechannels.tv:25461/live/nxR2R4MB7/52LM7ql5ha/4093.m3u8
+#EXTINF:-1,ESPN 2 (ARG) opc. 3
+http://ca.stablechannels.tv:25461/live/nxR2R4MB7/52LM7ql5ha/4591.m3u8
+#EXTINF:-1,ESPN 3 (ARG)
+http://ca.stablechannels.tv:25461/live/nxR2R4MB7/52LM7ql5ha/4092.m3u8
 
 #EXTINF:-1,ESPN Sur*
 http://regnummi.mibox.live:980/live/Jesus/Jesus/6192.m3u8
@@ -226,64 +241,58 @@ http://198.255.114.218:8000/live/ez9RrBt05e/czfUqk5epQ/4156.m3u8
 http://cshms2.airtel.tv/wh7f454c46tw1822183975_1333194908/PLTV/88888888/224/3221226076/02.m3u8
 
 #EXTINF:-1, ESPN HD (USA)
-http://80.80.160.168/live/6/live.m3u8
+http://161.0.157.9/PLTV/88888888/224/3221226881/index.m3u8
 
 #EXTINF:0,Fox Sports (MEX)
-http://ligatv.net:25461/live/ligatvapk02/04082018/399.m3u8?Guap@sTv.m3u8
+http://ca.stablechannels.tv:25461/live/nxR2R4MB7/52LM7ql5ha/4572.m3u8
 #EXTINF:0,Fox Sports (MEX opc. 2)
 http://usuarios.club/usuarios/src1/FoxSportsMX/agosto/agosto.m3u8
 #EXTINF:0,Fox Sports (MEX opc. 3)
 http://usuarios.club/usuarios/src5/MoviFutbol/agosto/agosto.m3u8
 #EXTINF:0,Fox Sports (MEX opc. 4)
 http://usuarios.club/usuarios/src5/MoviXtra/agosto/agosto.m3u8
+#EXTINF:0,Fox Sports (MEX opc. 5)
+http://ca.stablechannels.tv:25461/live/nxR2R4MB7/52LM7ql5ha/4570.m3u8
+#EXTINF:0,Fox Sports (MEX opc. 6)
+http://ca.stablechannels.tv:25461/live/nxR2R4MB7/52LM7ql5ha/4088.m3u8
+#EXTINF:-1,Fox Sports 1 HD (Chile)
+http://ca.stablechannels.tv:25461/live/nxR2R4MB7/52LM7ql5ha/4884.m3u8
+#EXTINF:-1,Fox Sports 1 HD (Chile) opc. 2
+http://ca.stablechannels.tv:25461/live/nxR2R4MB7/52LM7ql5ha/4571.m3u8
 #EXTINF:0,Fox Sports opc. 2*
 http://regnummi.mibox.live:980/live/Jesus/Jesus/6191.m3u8
 #EXTINF:0,Fox Sports opc. 3
 http://usuarios.club/usuarios/src1/FoxSports/agosto/agosto.m3u8
 #EXTINF:0,Fox Sports opc. 4
 http://usuarios.club/usuarios/src1/FoxSportsMX/agosto/agosto.m3u8
-#EXTINF:0,Fox Sports opc. 5
-http://66.70.179.201:25461/live/cake/lomioestuyo/61.m3u8?ixtlaarreola.m3u8
+#EXTINF:0,Fox Sports (ARG)
+http://ca.stablechannels.tv:25461/live/nxR2R4MB7/52LM7ql5ha/4569.m3u8
 #EXTINF:0,Fox Sports (COL)
 http://usuarios.club/usuarios/src5/MoviDeportes/agosto/agosto.m3u8
+#EXTINF:0,Fox Sports (VEN)
+http://ca.stablechannels.tv:25461/live/nxR2R4MB7/52LM7ql5ha/4564.m3u8
 #EXTINF:-1,F0X SPORTS 2*
-http://ligatv.net:25461/live/ligatvapk02/04082018/398.m3u8
+http://ca.stablechannels.tv:25461/live/nxR2R4MB7/52LM7ql5ha/4590.m3u8
 #EXTINF:-1,F0X SPORTS 2 opc. 2
 http://usuarios.club/usuarios/src1/FoxSports2/agosto/agosto.m3u8
+#EXTINF:-1,F0X SPORTS 2 opc. 3
+http://ca.stablechannels.tv:25461/live/nxR2R4MB7/52LM7ql5ha/4742.m3u8
 #EXTINF:-1,F0X SPORTS 2 (MEX)
 http://usuarios.club/usuarios/src1/FoxSports2MX/agosto/agosto.m3u8
+#EXTINF:-1,F0X SPORTS 2 (ARG)
+http://ca.stablechannels.tv:25461/live/nxR2R4MB7/52LM7ql5ha/4566.m3u8
+#EXTINF:-1,F0X SPORTS 2 (ARG) opc. 2
+http://ca.stablechannels.tv:25461/live/nxR2R4MB7/52LM7ql5ha/4589.m3u8
 #EXTINF:0,Fox Sports 2 (COL)
 http://usuarios.club/usuarios/src5/MoviDeportes2/agosto/agosto.m3u8
-#EXTINF:0,Fox Sports 3*
-http://mxiptv.org:7000/live/1qoZHo2jmgQLKY4HUDe8/Z4mMTNNkLAsxXHJ4dj9N/54.m3u8
+#EXTINF:0,Fox Sports 3 (ARG)
+http://ca.stablechannels.tv:25461/live/nxR2R4MB7/52LM7ql5ha/4741.m3u8
+#EXTINF:0,Fox Sports 3 (ARG) opc. 2
+http://ca.stablechannels.tv:25461/live/nxR2R4MB7/52LM7ql5ha/4565.m3u8
+#EXTINF:-1,Fox Sports 3 HD (Chile)
+http://ca.stablechannels.tv:25461/live/nxR2R4MB7/52LM7ql5ha/4886.m3u8
 #EXTINF:0,Fox Sports Premium*
 http://landiptv.live:8080/live/vMyPYU3t0/o70Jt4jK0u/68376.m3u8
-
-#EXTINF:-1,DirectTV Sports
-http://usuarios.club/usuarios/src5/DirectTVSports/agosto/agosto.m3u8
-#EXTINF:-1,DirectTV Sports 2
-http://usuarios.club/usuarios/src5/DirectTVSports2/agosto/agosto.m3u8
-
-#EXTINF:-1,TNT SPORTS
-http://usuarios.club/usuarios/src5/TNTSports/agosto/agosto.m3u8
-
-#EXTINF:-1,Univisión Deportes
-http://usuarios.club/usuarios/src5/UnivisionDeportes/agosto/agosto.m3u8
-#EXTINF:-1,Univisión TDN
-http://usuarios.club/usuarios/src5/UnivisionTDN/agosto/agosto.m3u8
-
-#EXTINF:-1,ClaroSport
-http://ligatv.net:25461/live/ligatvapk02/04082018/227.m3u8
-
-#EXTINF:-1,WinSport
-http://ligatv.net:25461/live/ligatvapk02/04082018/236.m3u8
-#EXTINF:-1,WinSport opc. 2
-http://usuarios.club/usuarios/src5/WinSports/agosto/agosto.m3u8
-
-#EXTINF:-1,TYC SPORTS
-http://regnummi.mibox.live:980/live/Jesus/Jesus/5169.m3u8
-#EXTINF:-1,TYC SPORTS opc. 2
-http://usuarios.club/usuarios/src5/TycSports/agosto/agosto.m3u8
 
 #EXTINF:-1,RED BULL TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8?xtreamiptv.m3u8
@@ -293,6 +302,9 @@ http://cshms4.airtel.tv/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221
 
 #EXTINF:-1,NeoSports (UK)
 http://cshms4.airtel.tv/PLTV/88888888/224/3221225791/01.m3u8
+
+#EXTINF:-1,Px Sports HD
+http://ca.stablechannels.tv:25461/live/nxR2R4MB7/52LM7ql5ha/4704.m3u8
 
 #EXTINF:-1,SPORT TV 1*
 http://regnummi.mibox.live:980/live/Jesus/Jesus/4460.m3u8
@@ -306,6 +318,8 @@ http://regnummi.mibox.live:980/live/Jesus/Jesus/4461.m3u8
 http://usuarios.club/usuarios/src5/FoxSportsSur2/agosto/agosto.m3u8
 #EXTINF:-1,SPORT TV 2 opc. 3
 http://usuarios.club/usuarios/src1/MTV/agosto/agosto.m3u8
+#EXTINF:-1,SPORT TV 2 opc. 4
+http://ca.stablechannels.tv:25461/live/nxR2R4MB7/52LM7ql5ha/4077.m3u8
 #EXTINF:-1,SPORT TV 3*
 http://regnummi.mibox.live:980/live/Jesus/Jesus/4462.m3u8
 #EXTINF:-1,SPORT TV 3 opc. 2
@@ -360,7 +374,7 @@ http://primestreams.tv:826/live/Rocky01/Rocky01/1625.m3u8
 #EXTINF:0,USA | Tennis Channel HD
 http://server.stablechannels.tv:25461/live/5RUTvfRf3/mD2fb0Y3z1/3074.m3u8
 #EXTINF:0,ESPN (US)
-http://80.80.160.168/live/6/live.m3u8
+http://ca.stablechannels.tv:25461/live/nxR2R4MB7/52LM7ql5ha/4089.m3u8
 #EXTINF:0,USA | ESPN 2
 http://server.stablechannels.tv:25461/live/5RUTvfRf3/mD2fb0Y3z1/3118.m3u8
 #EXTINF:0,USA | ESPN News US HD
@@ -415,9 +429,10 @@ http://s69362.cdn.ngenix.net/live/_definst_/Stream1/chunklist.m3u8
 
 #EXTINF:-1, FIGHT NETWORK
 http://righttv.ddns.net:25461/live/trial30/trial30/11261.m3u8
-#EXTINF:0,FightBox HD*
-http://landiptv.live:8080/live/vMyPYU3t0/o70Jt4jK0u/77775.m3u8
-#EXTINF:-1,Fight time (ufc)
+#EXTINF:-1,Fight Box HD US
+http://ca.stablechannels.tv:25461/live/nxR2R4MB7/52LM7ql5ha/4592.m3u8
+
+#EXTINF:-1,Fight time
 http://node01.openfutbol.es/SVoriginOperatorEdge/128761.smil/.m3u8
 
 #EXTINF:-1,SONY TEN1 HD
