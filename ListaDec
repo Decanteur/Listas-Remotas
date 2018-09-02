@@ -316,11 +316,19 @@ http://regnummi.mibox.live:980/live/Jesus/Jesus/65.m3u8
 http://regnummi.mibox.live:980/live/Jesus/Jesus/4811.m3u8
 
 #EXTINF:-1,BeIN Sports 1 HD (FR)
-http://ca.stablechannels.tv:25461/live/nxR2R4MB7/52LM7ql5ha/4054.m3u8
+http://212.232.29.250:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/452.m3u8
 #EXTINF:-1,BeIN Sports 2 HD (FR)
-http://ca.stablechannels.tv:25461/live/nxR2R4MB7/52LM7ql5ha/4053.m3u8
+http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/451.m3u8
+#EXTINF:0,BEIN SPORTS 2 HD (FR) opc. 2
+http://iptv.oneiptv.tv:8080/live/OLkY4zKC7c/n0aa1hCLV6/53.m3u8
 #EXTINF:-1,BeIN Sports 3 HD (FR)
-http://ca.stablechannels.tv:25461/live/nxR2R4MB7/52LM7ql5ha/4052.m3u8
+http://telexin.digitalabs.eu:8000/live/Alexuco88/fYTqwrk54jvjkbn/850.m3u8
+#EXTINF:0 group-title="(FR) France",BEIN SPORT MAX 5 | SD (FR)
+http://telexin.digitalabs.eu:8000/live/Alexuco88/fYTqwrk54jvjkbn/2662.m3u8
+#EXTINF:0 group-title="(FR) France",BEIN SPORT MAX 6 | SD (FR)
+http://telexin.digitalabs.eu:8000/live/Alexuco88/fYTqwrk54jvjkbn/2663.m3u8
+#EXTINF:0 group-title="(FR) France",BEIN SPORT MAX 8 | SD (FR)
+http://telexin.digitalabs.eu:8000/live/Alexuco88/fYTqwrk54jvjkbn/2665.m3u8
 
 #EXTINF:0,Bein Sports Ñ*
 http://regnummi.mibox.live:980/live/Jesus/Jesus/3317.m3u8
@@ -364,37 +372,73 @@ http://regnummi.mibox.live:980/live/Jesus/Jesus/613.m3u8
 http://190.92.0.43:1935/securelive/tdtv85jd5EKL3xWq3/chunklist_w1241310319.m3u8
 
 #EXTINF:-1,Movistar MotoGP*
-http://regnummi.mibox.live:980/live/Jesus/Jesus/2106.m3u8
+http://telexin.digitalabs.eu:8000/live/Alexuco88/fYTqwrk54jvjkbn/560.m3u8
 #EXTINF:-1,Movistar MotoGP opc. 2*
-http://regnummi.mibox.live:980/live/Jesus/Jesus/4810.m3u8
+http://telexin.digitalabs.eu:8000/live/Alexuco88/fYTqwrk54jvjkbn/425.m3u8
+#EXTINF:-1,Movistar Moto GP opc. 3
+http://telexin.digitalabs.eu:8000/live/Alexuco88/fYTqwrk54jvjkbn/424.m3u8
 
 #EXTINF:-1,Movistar Formula 1*
-http://regnummi.mibox.live:980/live/Jesus/Jesus/1373.m3u8
+http://telexin.digitalabs.eu:8000/live/Alexuco88/fYTqwrk54jvjkbn/427.m3u8
 #EXTINF:-1, Movistar Formula 1 opc. 2*
-http://regnummi.mibox.live:980/live/Jesus/Jesus/4807.m3u8
+http://telexin.digitalabs.eu:8000/live/Alexuco88/fYTqwrk54jvjkbn/426.m3u8
+#EXTINF:-1,Movistar F1 Multicamara
+http://telexin.digitalabs.eu:8000/live/Alexuco88/fYTqwrk54jvjkbn/1615.m3u8
+#EXTINF:-1,Movistar F1 Multicamara HD
+http://telexin.digitalabs.eu:8000/live/Alexuco88/fYTqwrk54jvjkbn/1095.m3u8
 
 #EXTINF:-1,SKY Sport F1 (ENG)*
-http://landiptv.live:8080/live/vMyPYU3t0/o70Jt4jK0u/77788.m3u8
+http://telexin.digitalabs.eu:8000/live/Alexuco88/fYTqwrk54jvjkbn/887.m3u8
 #EXTINF:-1,SKY Sport F1 (IT)*
-http://landiptv.live:8080/live/vMyPYU3t0/o70Jt4jK0u/104748.m3u8
+http://iptv.oneiptv.tv:8080/live/OLkY4zKC7c/n0aa1hCLV6/14811.m3u8
 
 #EXTINF:-1,MOVISTAR DEPORTES 1
-http://regnummi.mibox.live:980/live/Jesus/Jesus/61.m3u8
+http://telexin.digitalabs.eu:8000/live/Alexuco88/fYTqwrk54jvjkbn/2124.m3u8
 #EXTINF:-1,Movistar Deportes 1 opc. 2
-http://regnummi.mibox.live:980/live/Jesus/Jesus/6319.m3u8
-#EXTINF:-1,Movistar Deportes (PERU)
-http://ca.stablechannels.tv:25461/live/nxR2R4MB7/52LM7ql5ha/4562.m3u8
+http://telexin.digitalabs.eu:8000/live/Alexuco88/fYTqwrk54jvjkbn/562.m3u8
 #EXTINF:-1,Movistar Deportes 1 opc. 3
-http://usuarios.club/usuarios/src5/MoviDeportes/agosto/agosto.m3u8
+http://telexin.digitalabs.eu:8000/live/Alexuco88/fYTqwrk54jvjkbn/431.m3u8
 #EXTINF:-1,Movistar Deportes 2
-http://regnummi.mibox.live:980/live/Jesus/Jesus/37.m3u8
+http://telexin.digitalabs.eu:8000/live/Alexuco88/fYTqwrk54jvjkbn/2125.m3u8
 #EXTINF:-1,Movistar Deportes 2 opc. 2
-http://usuarios.club/usuarios/src5/MoviDeportes2/agosto/agosto.m3u8
+http://telexin.digitalabs.eu:8000/live/Alexuco88/fYTqwrk54jvjkbn/573.m3u8
 #EXTINF:-1,Movistar Deportes 2 opc. 3
-http://regnummi.mibox.live:980/live/Jesus/Jesus/6320.m3u8
+http://telexin.digitalabs.eu:8000/live/Alexuco88/fYTqwrk54jvjkbn/433.m3u8
 
-#EXTINF:-1,MOVISTAR GOLF
-http://regnummi.mibox.live:980/live/Jesus/Jesus/58.m3u8
+#EXTINF:-1,Movistar Golf
+http://telexin.digitalabs.eu:8000/live/Alexuco88/fYTqwrk54jvjkbn/699.m3u8
+#EXTINF:-1,Movistar Golf HD
+http://telexin.digitalabs.eu:8000/live/Alexuco88/fYTqwrk54jvjkbn/698.m3u8
+
+#EXTINF:-1,Multideporte HD
+http://telexin.digitalabs.eu:8000/live/Alexuco88/fYTqwrk54jvjkbn/768.m3u8
+#EXTINF:-1,Multideporte 1
+http://telexin.digitalabs.eu:8000/live/Alexuco88/fYTqwrk54jvjkbn/769.m3u8
+#EXTINF:-1,Multideporte 2
+http://telexin.digitalabs.eu:8000/live/Alexuco88/fYTqwrk54jvjkbn/770.m3u8
+#EXTINF:-1,Multideporte 3
+http://telexin.digitalabs.eu:8000/live/Alexuco88/fYTqwrk54jvjkbn/771.m3u8
+#EXTINF:-1,Multideporte 4
+http://telexin.digitalabs.eu:8000/live/Alexuco88/fYTqwrk54jvjkbn/772.m3u8
+#EXTINF:-1,Multideporte 5
+http://telexin.digitalabs.eu:8000/live/Alexuco88/fYTqwrk54jvjkbn/773.m3u8
+#EXTINF:-1,Multideporte 6
+http://telexin.digitalabs.eu:8000/live/Alexuco88/fYTqwrk54jvjkbn/1135.m3u8
+#EXTINF:-1,Multideporte 7
+http://telexin.digitalabs.eu:8000/live/Alexuco88/fYTqwrk54jvjkbn/1136.m3u8
+#EXTINF:-1,Multideporte 8
+http://telexin.digitalabs.eu:8000/live/Alexuco88/fYTqwrk54jvjkbn/2723.m3u8
+
+#EXTINF:0,CANAL SPORT HD (FR)
+http://telexin.digitalabs.eu:8000/live/Alexuco88/fYTqwrk54jvjkbn/866.m3u8
+
+#EXTINF:-1,Garaje Tv
+http://telexin.digitalabs.eu:8000/live/Alexuco88/fYTqwrk54jvjkbn/825.m3u8
+
+#EXTINF:-1,Movistar eSports
+http://telexin.digitalabs.eu:8000/live/Alexuco88/fYTqwrk54jvjkbn/1172.m3u8
+#EXTINF:-1,Movistar eSports HD
+http://telexin.digitalabs.eu:8000/live/Alexuco88/fYTqwrk54jvjkbn/1169.m3u8
 
 #EXTINF:-1,TELEDEPORTE HD
 http://regnummi.mibox.live:980/live/Jesus/Jesus/13.m3u8
@@ -410,14 +454,20 @@ http://regnummi.mibox.live:980/live/Jesus/Jesus/30.m3u8
 http://regnummi.mibox.live:980/live/Jesus/Jesus/1801.m3u8
 
 #EXTINF:-1,Eurosport 1 (ENG)*
-http://landiptv.live:8080/live/vMyPYU3t0/o70Jt4jK0u/104534.m3u8
+http://65.254.55.10:4000/live/197/197.m3u8
 #EXTINF:-1,Eurosport 2 (ENG)*
 http://161.0.157.9/PLTV/88888888/224/3221226881/index.m3u8
 
-#EXTINF:0,EUROSPORT 1 HD (FR)*
-http://landiptv.live:8080/live/vMyPYU3t0/o70Jt4jK0u/73680.m3u8
-#EXTINF:0,EUROSPORT 2 HD (FR)*
-http://landiptv.live:8080/live/vMyPYU3t0/o70Jt4jK0u/74650.m3u8
+#EXTINF:0,EUROSPORT 1 HD (FR)
+http://telexin.digitalabs.eu:8000/live/Alexuco88/fYTqwrk54jvjkbn/1945.m3u8
+#EXTINF:0,EUROSPORTS 1 (FR) opc. 2
+http://163.172.62.63:8000/live/fazeel/fazeel/1856.m3u8
+#EXTINF:0,EUROSPORT 2 HD (FR)
+http://telexin.digitalabs.eu:8000/live/Alexuco88/fYTqwrk54jvjkbn/1944.m3u8
+#EXTINF:0,EUROSPORT 2 (FR) opc. 2
+http://163.172.62.63:8000/live/fazeel/fazeel/1553.m3u8
+#EXTINF:0,EUROSPORT 2 (FR) opc. 3
+http://titiroq.xyz:25461/live/123412341234/123412341234/9374.m3u8
 
 #EXTINF:0,EUROSPORT 1 HD (DE)*
 http://landiptv.live:8080/live/vMyPYU3t0/o70Jt4jK0u/62104.m3u8
@@ -452,12 +502,35 @@ http://ca.stablechannels.tv:25461/live/nxR2R4MB7/52LM7ql5ha/4075.m3u8
 http://ca.stablechannels.tv:25461/live/nxR2R4MB7/52LM7ql5ha/4074.m3u8
 #EXTINF:-1,Sky Sport Bundesliga 1 HD (DE)
 http://ca.stablechannels.tv:25461/live/nxR2R4MB7/52LM7ql5ha/4072.m3u8
+#EXTINF:-1,Sky Sport Bundesliga 1 HD (DE) opc. 2
+http://telexin.digitalabs.eu:8000/live/Alexuco88/fYTqwrk54jvjkbn/788.m3u8
+
+#EXTINF:0,SKY SPORTS 2 Serie A HD (IT)
+http://telexin.digitalabs.eu:8000/live/Alexuco88/fYTqwrk54jvjkbn/858.m3u8
+#EXTINF:0,SKY SPORT 24 HD (IT)
+http://iptv.oneiptv.tv:8080/live/OLkY4zKC7c/n0aa1hCLV6/14812.m3u8
+#EXTINF:0,SKY SPORT PLUS HD (IT)
+http://iptv.oneiptv.tv:8080/live/OLkY4zKC7c/n0aa1hCLV6/14810.m3u8
+
+#EXTINF:0,SUPERTENNIS SD (IT)
+http://212.232.29.250:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/10531.m3u8
 
 #EXTINF:0,BFM SPORT SD (FR)*
 http://landiptv.live:8080/live/vMyPYU3t0/o70Jt4jK0u/65705.m3u8
 
-#EXTINF:0,MOTORSPORT TV SD (FR)*
-http://landiptv.live:8080/live/vMyPYU3t0/o70Jt4jK0u/103096.m3u8
+#EXTINF:-1,Motorsport HD
+http://telexin.digitalabs.eu:8000/live/Alexuco88/fYTqwrk54jvjkbn/2269.m3u8
+
+#EXTINF:-1,|PT| Motors TV
+http://telexin.digitalabs.eu:8000/live/Alexuco88/fYTqwrk54jvjkbn/1959.m3u8
+
+#EXTINF:-1,|DE| MOTORVISION TV
+http://telexin.digitalabs.eu:8000/live/Alexuco88/fYTqwrk54jvjkbn/790.m3u8
+
+#EXTINF:0,L Equipe 21 (FR)
+http://ec.playmedia.fr/lequipe21/live/playlist.m3u8
+#EXTINF:0,L Equipe 21 (FR) opc. 2
+http://telexin.digitalabs.eu:8000/live/Alexuco88/fYTqwrk54jvjkbn/1898.m3u8
 
 #EXTINF:-1 ,Automoto Tv (IT)
 http://178.22.187.253:1935/streaming-tv/mp4:myStream3/playlist.m3u8
@@ -549,6 +622,10 @@ http://cshms2.airtel.tv/wh7f454c46tw1822183975_1333194908/PLTV/88888888/224/3221
 
 #EXTINF:-1, ESPN HD (USA)
 http://161.0.157.9/PLTV/88888888/224/3221226881/index.m3u8
+#EXTINF:-1, ESPN HD (USA) opc. 2
+http://80.80.160.168/live/6/live.m3u8
+#EXTINF:0,ESPN 2 (USA)
+http://161.0.157.8/PLTV/88888888/224/3221226881/index.m3u8
 
 #EXTINF:0,Fox Sports (MEX)
 http://ca.stablechannels.tv:25461/live/nxR2R4MB7/52LM7ql5ha/4572.m3u8
@@ -645,20 +722,30 @@ http://cdnv.cli.tn/iptv/ch1829?code=610116485444847
 #EXTINF:-1,BT Sport 3
 http://cdnv.cli.tn/iptv/ch1830?code=610116485444847
 #EXTINF:-1,BT ESPN
-http://tv.latintvweb.com:8000/live/carmen/carmen/16539.m3u8
+http://31.220.0.196:8081/live/ctvb4/playlist.m3u8
 #EXTINF:0,BT SPORT MOSAIC
 http://144.217.64.126:8080/live/coke123/coke123/21729.m3u8
 #EXTINF:0,BT SPORT EXTRA
 http://cdnv.cli.tn/iptv/ch1830?code=610116485444847
 
 #EXTINF:-1,SFRSport1*
-http://regnummi.mibox.live:980/live/Jesus/Jesus/6300.m3u8
+http://163.172.62.63:8000/live/fazeel/fazeel/3250.m3u8
 #EXTINF:-1,SFRSport2*
-http://regnummi.mibox.live:980/live/Jesus/Jesus/6301.m3u8
+http://163.172.62.63:8000/live/fazeel/fazeel/3251.m3u8
 #EXTINF:-1,SFRSport3*
-http://regnummi.mibox.live:980/live/Jesus/Jesus/6302.m3u8
+http://163.172.62.63:8000/live/fazeel/fazeel/3252.m3u8
 #EXTINF:-1,SFRSport5*
 http://regnummi.mibox.live:980/live/Jesus/Jesus/6303.m3u8
+
+#EXTINF:0,PREMIUM SPORT 2 (IT)
+http://iptv.oneiptv.tv:8080/live/OLkY4zKC7c/n0aa1hCLV6/14823.m3u8
+
+#EXTINF:0,RAI SPORT HD (IT)
+http://212.232.29.250:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/10527.m3u8
+#EXTINF:0,RAI SPORT (IT) opc. 2
+http://212.232.29.250:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/10526.m3u8
+#EXTINF:0,RAI SPORT 1 HD (IT)
+http://163.172.62.63:8000/live/fazeel/fazeel/1551.m3u8
 
 #EXTINF:-1,SK 1 HD
 http://31.220.0.134:8081/live/sk1/playlist.m3u8
