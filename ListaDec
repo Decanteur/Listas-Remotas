@@ -859,8 +859,12 @@ http://sagi.typepad.com/treding_the_vc_waters/Picture1_1.jpg
 #EXTINF:-1,EuroNews FR
 http://playlist.onlybest.tv/en/channel/7abc2d60a8eb9f7041451a3c8ab4d75a/684/index.m3u8
 
-#EXTINF:0,ABC NEWS
+#EXTINF:0,ABC NEWS (US)
 http://abclive.abcnews.com/i/abc_live4@136330/master.m3u8
+#EXTINF:0,ABC NEWS (US) opc. 2
+https://abclive2-lh.akamaihd.net/i/abc_live11@423404/master.m3u8
+#EXTINF:-1,ABC (US)
+http://shacktv.com:8080/live/2685812908/3730491015/102.m3u8
 
 #EXTINF:-1,BBC
 https://ovh.easyview.eu/hls/bbc1.m3u8
@@ -878,9 +882,16 @@ http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
 
 #EXTINF:-1,CNN International Europe
 http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/102/index.m3u8
+#EXTINF:-1,CNN (US)
+http://161.0.157.9/PLTV/88888888/224/3221226781/index.m3u8?fluxustv.m3u8
 
-#EXTINF:-1,CNBC Europe
-http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/340/index.m3u8
+#EXTINF:0,MSNBC
+http://tvemsnbc-lh.akamaihd.net/i/nbcmsnbc_1@122532/master.m3u8
+#EXTINF:0,MSNBC opc. 2
+http://tvemsnbc-lh.akamaihd.net/i/nbcmsnbc_1@122532/index_1296_av-p.m3u8
+
+#EXTINF:-1,CNBC International
+http://161.0.157.9/PLTV/88888888/224/3221227005/03.m3u8
 
 #EXTINF:0,USA | FOX News HD
 http://server.stablechannels.tv:25461/live/5RUTvfRf3/mD2fb0Y3z1/3110.m3u8
