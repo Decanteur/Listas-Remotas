@@ -310,8 +310,8 @@ http://mexicoserver.miamitvchannel.com/miamitv/smil:miamitvmexico/chunklist_w324
 #EXTINF:-1,***DEPORTES***
 http://sagi.typepad.com/treding_the_vc_waters/Picture1_1.jpg
 
-#EXTINF:-1,BEIN SPORTS*
-http://regnummi.mibox.live:980/live/Jesus/Jesus/65.m3u8
+#EXTINF:-1,BEIN SPORTS* (ENG)
+https://tv.wlive.tv/tv/u8MZrxjJLz20180321/chunklist_w2084180967_tkaGxzZW5kdGltZT0xNTM3NjQ3NTQwJmhsc3N0YXJ0dGltZT0wJmhsc2hhc2g9eVE1OHhETENqMDBvdjdVdEdKNmdXOW1JY2tHbGlXcGJROC1UV0xDV1hVST0=.m3u8
 #EXTINF:-1,beIN Sports Opción 2*
 http://regnummi.mibox.live:980/live/Jesus/Jesus/4811.m3u8
 
@@ -388,7 +388,7 @@ http://telexin.digitalabs.eu:8000/live/Alexuco88/fYTqwrk54jvjkbn/1615.m3u8
 http://telexin.digitalabs.eu:8000/live/Alexuco88/fYTqwrk54jvjkbn/1095.m3u8
 
 #EXTINF:-1,SKY Sport F1 (ENG)*
-http://telexin.digitalabs.eu:8000/live/Alexuco88/fYTqwrk54jvjkbn/887.m3u8
+https://tv.wlive.tv/tv/fz39XuBc0s20180321/chunklist_w1266271415_tkaGxzZW5kdGltZT0xNTM3NjQ5MjIwJmhsc3N0YXJ0dGltZT0wJmhsc2hhc2g9Y2cyQWJPM0FvbXVtMExwVU1jVkNHOHJHN0JJbndPUHg1c3dqbFk5TVRFOD0=.m3u8
 #EXTINF:-1,SKY Sport F1 (IT)*
 http://iptv.oneiptv.tv:8080/live/OLkY4zKC7c/n0aa1hCLV6/14811.m3u8
 
@@ -483,18 +483,28 @@ http://65.254.55.10:4000/live/197/197.m3u8
 
 #EXTINF:-1,SKY Sports Main Event (EN)
 http://31.220.0.134:8081/live/jtvs1/playlist.m3u8
+#EXTINF:-1,SKY Sports Main Event (EN) opc. 2
+https://tv.wlive.tv/tv/MMx06H2LOL20180321/chunklist_w1904237049_tkaGxzZW5kdGltZT0xNTM3NjQ3OTYwJmhsc3N0YXJ0dGltZT0wJmhsc2hhc2g9TXVYQi1jYmtBWXJoel9LeFEwVUpTRjlXcklncWtubS0tUl9VNzc1T0xsRT0=.m3u8
 #EXTINF:-1,SKY Sports Football (EN)
 http://163.172.43.30:8081/live/skfoot/playlist.m3u8
+#EXTINF:-1,SKY Sports Football (EN) opc. 2
+https://tv.wlive.tv/tv/3ouTrsbwdQ20180321/chunklist_w1428975176_tkaGxzZW5kdGltZT0xNTM3NjQ4ODYwJmhsc3N0YXJ0dGltZT0wJmhsc2hhc2g9UEducFRPODQ3Q0FJVC1UaW44NEEwel9qVEd3Y1Y5blJ6YUtpYVNLTlItOD0=.m3u8
 #EXTINF:0,SKY SPORTS Action (EN)
 http://163.172.43.30:8081/live/skacti/playlist.m3u8
+#EXTINF:0,SKY SPORTS Action (EN) opc. 2
+https://tv.wlive.tv/tv/SZ8pgXwpIm20180321/chunklist_w184803821_tkaGxzZW5kdGltZT0xNTM3NjQ4NTAwJmhsc3N0YXJ0dGltZT0wJmhsc2hhc2g9WDNHbzVVbWd6QmpWdHkyaFBqOWY1YXA3ZV8yakExMm1zb3N3Mzdtd0RZOD0=.m3u8
 #EXTINF:0,SKY SPORT Premier League (EN)
 http://163.172.43.30:8081/live/skpre/playlist.m3u8
+#EXTINF:0,SKY SPORT Premier League (EN) opc. 2
+https://tv.wlive.tv/tv/XXi3JB0S8v20180321/chunklist_w2129148765_tkaGxzZW5kdGltZT0xNTM3NjQ4NjgwJmhsc3N0YXJ0dGltZT0wJmhsc2hhc2g9VXVIck1IbFVpSFhRQlRacHctT3pKZV9ObFRaNllGYnEtS09DTHkxM1hTMD0=.m3u8
 #EXTINF:-1,SKY Sport Golf (EN)
 http://163.172.43.30:8081/live/skgolf/playlist.m3u8
 #EXTINF:-1,SKY Sports Arena (EN)
 http://163.172.43.30:8081/live/skaren/playlist.m3u8
 #EXTINF:-1,SKY Sports Arena opc. 2 (EN)
 http://31.220.0.196:8081/live/ctvs4/playlist.m3u8
+#EXTINF:-1,SKY Sports Arena opc. 3 (EN)
+https://tv.wlive.tv/tv/IvLEUWa0Ka20180321/chunklist_w394439365_tkaGxzZW5kdGltZT0xNTM3NjQ5MDQwJmhsc3N0YXJ0dGltZT0wJmhsc2hhc2g9MW1vdTYta09vdGJLaUxUTWtBR0tvRjVjT2hWX3N1NzhtVllHMEFyZ3ZjND0=.m3u8
 
 #EXTINF:-1,Sky Sport 1 HD (DE)
 http://ca.stablechannels.tv:25461/live/nxR2R4MB7/52LM7ql5ha/4075.m3u8
